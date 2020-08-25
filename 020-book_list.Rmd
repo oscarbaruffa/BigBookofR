@@ -1,0 +1,316 @@
+
+
+
+# Career & Community
+
+## Build Your Career in Data Science
+Not R-specific but a great read! 
+
+https://www.manning.com/books/build-a-career-in-data-science
+
+
+##  Twitter for R Programmers
+[Oscar Baruffa](https://twitter.com/OscarBaruffa), [Veerle van Son](https://twitter.com/veerlevanson)
+
+A guide to help R programmers join the very active and friendly community on Twitter.
+
+https://www.t4rstats.com
+
+
+##  Twitter for Scientists
+https://t4scientists.com/
+
+# Blogdown
+## blogdown: Creating Websites with R Markdown
+https://bookdown.org/yihui/blogdown/
+
+# Bookdown
+##  bookdown: Authoring Books and Technical Documents with R Markdown
+https://bookdown.org/yihui/bookdown/
+
+##  A Minimal Book Example
+https://benmarwick.github.io/bookdown-ort/
+
+
+
+# Data Science
+## R for Data Science 
+Whickham and Grolemund
+
+A really good place to start
+
+https://r4ds.had.co.nz/
+
+## R for Data Science Solutions
+Solutions for the hadley and Grolemund R4Ds book
+
+https://jrnold.github.io/r4ds-exercise-solutions/
+
+## Introduction to Data Science 
+Rafael A Irizarry 
+
+Pay what you want, minimum $0.00
+
+https://leanpub.com/datasciencebook
+
+
+## R Programming for Data Science
+Roger Peng
+https://bookdown.org/rdpeng/rprogdatascience/
+
+## Exploratory Data Analysis… by Roger D. Peng 
+Pay what you want, minimum $0.00
+
+https://leanpub.com/exdata
+
+## edav.info/
+https://edav.info/
+
+## APS 135: Introduction to Exploratory Data Analysis with R
+https://dzchilds.github.io/eda-for-bio/
+
+
+# Data Visualization
+
+##  ggplot2: Elegant Graphics for Data Analysis
+https://ggplot2-book.org/
+
+## ggplot2 in 2 
+Lucy D'Agostino McGowan
+
+Pay what you want, minimum $4.99
+
+Really good overview of Ggplot2. Oscar Baruffa made a sped-up [screencast](https://youtu.be/_G7_J8M9588) while working through it. 
+
+https://leanpub.com/ggplot2in2
+
+
+##  Data Visualization - A practical introduction
+https://socviz.co/
+
+
+## Data Processing & Visualization
+https://m-clark.github.io/data-processing-and-visualization/
+
+## Data Visualization in R
+Brooke Anderson
+
+https://geanders.github.io/navy_public_health/index.html#prerequisites
+
+## Data Visualization with R
+Rob Kabakoff
+
+https://rkabacoff.github.io/datavis/
+
+## R Graphics Cookbook, 2nd edition
+https://r-graphics.org/
+
+
+
+## plotly Interactive web-based data visualization with R, plotly, and shiny
+https://plotly-r.com/
+
+## BBC Visual and Data Journalism cookbook for R graphics
+https://bbc.github.io/rcookbook/
+
+
+## Fundamentals of Data Visualization
+https://clauswilke.com/dataviz/
+
+# Distributed computing
+## Mastering Spark with R
+https://therinspark.com/
+
+
+# Getting & cleaning data
+##  A Beginner's Guide to Clean Data - beginners-guide-to-clean-data
+https://b-greve.gitbook.io/beginners-guide-to-clean-data/
+
+## 21 Recipes for Mining Twitter Data with rtweet
+https://rud.is/books/21-recipes/
+
+## Text Mining with R
+https://www.tidytextmining.com/
+
+## Spreadsheet Munging Strategies
+Great for dealing with messy spreadsheets
+https://nacnudus.github.io/spreadsheet-munging-strategies/
+
+
+
+# Geospatial
+
+## Geocomputation with R
+https://geocompr.robinlovelace.net/
+
+## Spatial Data Science
+https://keen-swartz-3146c4.netlify.app/
+
+## Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny
+https://www.paulamoraga.com/book-geospatial/
+
+# Machine Learning
+
+##  Hands-On Machine Learning with R
+https://bradleyboehmke.github.io/HOML/
+
+## Feature Engineering and Selection: A Practical Approach for Predictive Models
+http://www.feat.engineering/index.html
+
+
+# Network analysis
+##  Network Analysis in R Cookbook
+http://sachaepskamp.com/files/Cookbook.html
+
+# R Markdown
+
+## Getting used to R, RStudio, and R Markdown
+https://bookdown.org/chesterismay/rbasics/
+
+## Introduction to R Markdown
+https://m-clark.github.io/Introduction-to-Rmarkdown/
+
+## RMarkdown for Scientists
+https://rmd4sci.njtierney.com/
+
+## Pimp my RMD: a few tips for R Markdown
+https://holtzy.github.io/Pimp-my-rmd/
+
+
+
+# R programming
+##  Modern R with the tidyverse
+https://b-rodrigues.github.io/modern_R/
+
+##  What They Forgot to Teach You About R
+https://rstats.wtf/
+
+## Field Guide to the R Ecosystem
+https://fg2re.sellorm.com/
+
+## YaRrr! The Pirate’s Guide to R
+https://bookdown.org/ndphillips/YaRrr/
+
+## Advanced R.
+http://adv-r.had.co.nz/
+
+## R packages
+http://r-pkgs.had.co.nz/
+
+
+## Efficient R programming
+https://csgillespie.github.io/efficientR/
+
+## The Tidyverse Cookbook
+https://rstudio-education.github.io/tidyverse-cookbook/
+
+## Hands-On Programming with R
+https://rstudio-education.github.io/hopr/
+
+
+## Cookbook for R
+http://www.cookbook-r.com/
+
+
+## Tidy evaluation
+https://tidyeval.tidyverse.org/
+
+## Python to R: The Tidynomicon
+http://tidynomicon.tech/
+
+
+## What They Forgot to Teach You About R
+https://rstats.wtf/
+
+
+
+# Shiny
+## A gRadual intRoduction to Shiny
+https://laderast.github.io/gradual_shiny/
+
+##  Mastering Shiny
+https://mastering-shiny.org/
+
+
+##  Shiny Production with AWS Book
+https://business-science.github.io/shiny-production-with-aws-book/
+
+# Statistics
+
+##  Common statistical tests are linear models: a work through
+https://steverxd.github.io/Stat_tests/
+
+## Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6.1)
+https://learningstatisticswithr-bookdown.netlify.app/
+
+## Forecasting: Principles and Practice
+https://otexts.com/fpp2/
+
+
+## stats545
+https://stat545.com/
+
+
+## An Introduction to Statistical and Data Sciences via R
+https://moderndive.com/
+
+
+# Version control
+## Happy Git and GitHub for the useR
+https://happygitwithr.com/
+
+# Workflow
+##  How I Use R
+https://howiuser.com/
+
+## Agile Data Science with R
+https://edwinth.github.io/ADSwR/
+
+# Field specific
+##  Analyzing Financial and Economic Data with R
+https://www.msperlin.com/afedR/
+
+##  Data Science in Education Using R
+https://datascienceineducation.com/
+
+## The Plain Person’s Guide to Plain Text Social Science
+https://plain-text.co/index.html#introduction
+
+## Technical Foundations of Informatics
+https://info201.github.io/
+
+## Practical R for Mass Communication and Journalism
+http://www.machlis.com/R4Journalists/index.html
+
+## Computational Genomics with R
+http://compgenomr.github.io/book/
+
+## Introduction to Econometrics with R
+https://www.econometrics-with-r.org/
+
+# Other compendiums
+##  Data Science with R: A Resource Compendium
+Another big book of resources!
+https://bookdown.org/martin_monkman/DataScienceResources_book/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

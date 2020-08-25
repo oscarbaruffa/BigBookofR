@@ -1,0 +1,67 @@
+---
+title: "Big Book of R"
+author: "Oscar Baruffa"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  bookdown::gitbook:
+    includes:
+      #in_header: [google_analytics.html]
+    config:
+      toc:
+        before: |  
+          <br/><center><b><a href="./index.html">&nbsp&nbspBig Book of R</a></b></center></li>
+        after: |
+          <li><center><a href="https://bookdown.org/yihui/bookdown/">
+          Published with bookdown</a></center></li>
+          
+bookdown::gitbook: default
+site: bookdown::bookdown_site
+---
+
+# Welcome 
+
+## Your last bookmark
+Thanks for stopping by. If you're like me, you can't help but bookmark every R-related programming book you find in the hopes that one day you, or someone you know, might find it useful.
+
+I've been collecting these for about 2 years now and thought I'd share it with you :).
+
+
+Hopefully this is the only bookmark you'll need in future ;).
+
+
+## Searching
+
+If there's something specific you're looking for, use the menu or search using the magnifying glass icon at the top of the screen.
+
+
+## Contributing
+
+This book could still do with a lot of work, and is hosted on [github.](https://github.com/oscarbaruffa/BigBookofR){target="blank}
+
+The first thing I could use help with is filling out the descriptions of each book. 
+
+The format is this:
+
+**\#\# [Name of book]**
+
+**[Author] -link to twitter bio / blog**
+
+**[Brief description of content]**
+
+**(link to book)**
+
+**MAKE SURE TO INCLUDE {target="blank} INTO ALL LINKS**
+
+You can also submit any books not yet included. Sometimes it's difficult to know in which chapter to place it, but I default to using either the name of the book as a guide, the first bit of how the book describes itself or failing that, what I think it should be. 
+
+
+## Contributors
+
+If you've contributed, add your name and twitter / blog link below!
+
+[Oscar Baruffa](https://twitter.com/OscarBaruffa){target="blank}
+
+
+## Licence
+
+This website/book is free to use, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/){target="blank}.

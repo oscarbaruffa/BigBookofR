@@ -6,6 +6,7 @@ output:
   bookdown::gitbook:
     includes:
       #in_header: [google_analytics.html]
+      
     config:
       toc:
         before: |  
@@ -18,9 +19,9 @@ bookdown::gitbook: default
 site: bookdown::bookdown_site
 ---
 
+
 <!-- Open all links in new tab-->  
 <base target="_blank"/>  
-
 
 # Welcome 
 
@@ -42,7 +43,7 @@ If there's something specific you're looking for, use the menu or search using t
 
 ## Contributing
 
-This book could still do with a lot of work, and is hosted on [github.](https://github.com/oscarbaruffa/BigBookofR){target="blank}
+This book could still do with a lot of work, and is hosted on [github.](https://github.com/oscarbaruffa/BigBookofR)
 
 The first thing I could use help with is filling out the descriptions of each book. 
 
@@ -65,7 +66,7 @@ You can also submit any books not yet included. Sometimes it's difficult to know
 
 If you've contributed, add your name and twitter / blog link below!
 
-[Oscar Baruffa](https://twitter.com/OscarBaruffa){target="blank}
+[Oscar Baruffa](https://twitter.com/OscarBaruffa)
 
 
 ## Licence

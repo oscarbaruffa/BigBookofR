@@ -27,8 +27,8 @@ site: bookdown::bookdown_site
 ## Your last-ever bookmark
 Thanks for stopping by. If you're like me, you can't help but bookmark every R-related programming book you find in the hopes that one day you, or someone you know, might find it useful.
 
-I've been collecting these for about 2 years now and thought I'd share it with you :).
 
+I've been collecting these for about 2 years now, totaling about 100 books, and thought I'd share it with you :).
 
 Hopefully this is the only bookmark you'll need in future ;).
 

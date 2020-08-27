@@ -18,15 +18,21 @@ bookdown::gitbook: default
 site: bookdown::bookdown_site
 ---
 
+<!-- Open all links in new tab-->  
+<base target="_blank"/>  
+
+
 # Welcome 
 
-## Your last bookmark
+## Your last-ever bookmark
 Thanks for stopping by. If you're like me, you can't help but bookmark every R-related programming book you find in the hopes that one day you, or someone you know, might find it useful.
 
 I've been collecting these for about 2 years now and thought I'd share it with you :).
 
 
 Hopefully this is the only bookmark you'll need in future ;).
+
+Most of these are free, some are paid (most are very affordable).
 
 
 ## Searching
@@ -65,3 +71,8 @@ If you've contributed, add your name and twitter / blog link below!
 ## Licence
 
 This website/book is free to use, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/){target="blank}.
+
+
+## About me
+
+I'm Oscar. Fairly new to R and loving it. If you like this book, feel free to say "Hi!" on [Twitter](https://twitter.com/OscarBaruffa). 

@@ -122,7 +122,7 @@ https://clauswilke.com/dataviz/
 https://therinspark.com/
 
 
-# Getting & cleaning data
+# Getting, cleaning and wrangling data
 ##  A Beginner's Guide to Clean Data - beginners-guide-to-clean-data
 https://b-greve.gitbook.io/beginners-guide-to-clean-data/
 
@@ -136,6 +136,9 @@ https://www.tidytextmining.com/
 Great for dealing with messy spreadsheets
 https://nacnudus.github.io/spreadsheet-munging-strategies/
 
+## Tidyverse Cookbook
+https://rstudio-education.github.io/tidyverse-cookbook/index.html
+
 
 
 # Geospatial
@@ -148,6 +151,10 @@ https://keen-swartz-3146c4.netlify.app/
 
 ## Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny
 https://www.paulamoraga.com/book-geospatial/
+
+## Introduction to R - R Spatial
+https://rspatial.org/intr/index.html
+
 
 # Machine Learning
 
@@ -207,8 +214,24 @@ https://rstudio-education.github.io/tidyverse-cookbook/
 ## Hands-On Programming with R
 https://rstudio-education.github.io/hopr/
 
+## The R Language
+[R Core team](https://stat.ethz.ch/R-manual/R-patched/doc/AUTHORS)
+https://stat.ethz.ch/R-manual/R-patched/doc/html/
+
+## R language for programmers
+[John D Cook](https://www.johndcook.com/blog/services-2/)
+https://www.johndcook.com/blog/r_language_for_programmers/
+
+## R Cookbook - 2nd edition
+JD Long, Paul Teetor
+
+Not to be confused with Cookbook for R
+https://rc2e.com/index.html
 
 ## Cookbook for R
+Winston Chang
+
+Not to be confused with R Cookbook
 http://www.cookbook-r.com/
 
 
@@ -222,6 +245,10 @@ http://tidynomicon.tech/
 ## What They Forgot to Teach You About R
 https://rstats.wtf/
 
+
+## A sufficient Introduction to R
+Derek l. Sonderegger
+https://dereksonderegger.github.io/570L/
 
 
 # Shiny
@@ -242,6 +269,12 @@ https://steverxd.github.io/Stat_tests/
 
 ## Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6.1)
 https://learningstatisticswithr-bookdown.netlify.app/
+
+## Answering questions with data
+Matthew J. Crump
+
+Looks like a comprehensive stats resource!
+https://crumplab.github.io/statistics/
 
 ## Forecasting: Principles and Practice
 https://otexts.com/fpp2/

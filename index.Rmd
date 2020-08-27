@@ -56,7 +56,6 @@ The format is this:
 
 **(link to book)**
 
-**{target="blank} INTO ALL LINKS**
 
 You can also submit any books not yet included. Sometimes it's difficult to know in which chapter to place it, but I default to using either the name of the book as a guide, the first bit of how the book describes itself or failing that, what I think it should be. 
 

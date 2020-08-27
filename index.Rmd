@@ -6,6 +6,7 @@ output:
   bookdown::gitbook:
     includes:
       #in_header: [google_analytics.html]
+      in_header: [external-links.html]
       
     config:
       toc:
@@ -20,8 +21,6 @@ site: bookdown::bookdown_site
 ---
 
 
-<!-- Open all links in new tab-->  
-<base target="_blank"/>  
 
 # Welcome 
 
@@ -57,7 +56,7 @@ The format is this:
 
 **(link to book)**
 
-**MAKE SURE TO INCLUDE {target="blank} INTO ALL LINKS**
+**{target="blank} INTO ALL LINKS**
 
 You can also submit any books not yet included. Sometimes it's difficult to know in which chapter to place it, but I default to using either the name of the book as a guide, the first bit of how the book describes itself or failing that, what I think it should be. 
 

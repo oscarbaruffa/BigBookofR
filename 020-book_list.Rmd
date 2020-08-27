@@ -56,6 +56,7 @@ https://leanpub.com/datasciencebook
 
 ## R Programming for Data Science
 Roger Peng
+
 https://bookdown.org/rdpeng/rprogdatascience/
 
 ## Exploratory Data Analysis… by Roger D. Peng 
@@ -134,10 +135,9 @@ https://www.tidytextmining.com/
 
 ## Spreadsheet Munging Strategies
 Great for dealing with messy spreadsheets
+
 https://nacnudus.github.io/spreadsheet-munging-strategies/
 
-## Tidyverse Cookbook
-https://rstudio-education.github.io/tidyverse-cookbook/index.html
 
 
 
@@ -242,9 +242,6 @@ https://tidyeval.tidyverse.org/
 http://tidynomicon.tech/
 
 
-## What They Forgot to Teach You About R
-https://rstats.wtf/
-
 
 ## A sufficient Introduction to R
 Derek l. Sonderegger
@@ -274,6 +271,7 @@ https://learningstatisticswithr-bookdown.netlify.app/
 Matthew J. Crump
 
 Looks like a comprehensive stats resource!
+
 https://crumplab.github.io/statistics/
 
 ## Forecasting: Principles and Practice
@@ -324,6 +322,7 @@ https://www.econometrics-with-r.org/
 # Other compendiums
 ##  Data Science with R: A Resource Compendium
 Another big book of resources!
+
 https://bookdown.org/martin_monkman/DataScienceResources_book/
 
 

@@ -290,6 +290,11 @@ https://stat545.com/
 https://moderndive.com/
 
 
+## Statistical Rethinking
+A Bayesian Course with Examples in R and Stan
+https://xcelab.net/rm/statistical-rethinking/
+
+
 # Version control
 ## Happy Git and GitHub for the useR
 https://happygitwithr.com/

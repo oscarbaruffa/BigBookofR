@@ -171,6 +171,14 @@ http://www.feat.engineering/index.html
 ##  Network Analysis in R Cookbook
 http://sachaepskamp.com/files/Cookbook.html
 
+# Text analysis
+
+## Text Mining with R
+https://www.tidytextmining.com/
+
+## Supervised Machine Learning for Text Analysis in R
+https://smltar.com/
+
 # R Markdown
 
 ## Getting used to R, RStudio, and R Markdown

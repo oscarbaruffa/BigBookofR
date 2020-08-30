@@ -142,7 +142,7 @@ on the details of data analysis that sometimes fall through the cracks in
 traditional statistics classes and textbooks. It is based in part on the authors 
 blog posts, lecture materials, and tutorials.
 
-Pay what you want for theebook, minimum $0.00
+Pay what you want for the ebook, minimum $0.00
 
 https://leanpub.com/datastyle
 
@@ -158,7 +158,7 @@ Lucy D'Agostino McGowan
 
 Pay what you want, minimum $4.99
 
-Really good overview of Ggplot2. Oscar Baruffa made a sped-up [screencast](https://youtu.be/_G7_J8M9588) while working through it. 
+Really good overview of ggplot2. Oscar Baruffa made a sped-up [screencast](https://youtu.be/_G7_J8M9588) while working through it. 
 
 https://leanpub.com/ggplot2in2
 

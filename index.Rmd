@@ -5,7 +5,7 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
   bookdown::gitbook:
     includes:
-      in_header: [google-analytics.html, external-links.html]
+      in_header: [google-analytics.html]
      
       
     config:

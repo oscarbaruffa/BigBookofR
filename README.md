@@ -21,7 +21,9 @@ The format is this:
 **(link to book)**
 
 
-You can also submit any books not yet included. Sometimes it's difficult to know in which chapter to place it, but I default to using either the name of the book as a guide, the first bit of how the book describes itself or failing that, what I think it should be. 
+You can also submit any books not yet included. Sometimes it's difficult to know in which chapter to place it, but I default to using either the name of the book as a guide, the first bit of how the book describes itself or failing that, what I think it should be. It's okay to add a book to more than one section if you feel it strongly fits both. 
 
 
 Feel free to add both free and paid books - just note which books are a paid resource. 
+
+

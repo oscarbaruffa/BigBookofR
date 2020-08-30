@@ -65,7 +65,12 @@ You can also submit any books not yet included. Sometimes it's difficult to know
 If you've contributed, add your name and twitter / blog link below!
 
 [Oscar Baruffa](https://twitter.com/OscarBaruffa)
+
 Mohit Sharma
+
+[Vebash](https://twitter.com/Sciencificity)
+
+[Julia Silge](https://twitter.com/juliasilge)
 
 
 ## Licence

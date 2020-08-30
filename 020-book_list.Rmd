@@ -20,6 +20,43 @@ https://www.t4rstats.com
 ##  Twitter for Scientists
 https://t4scientists.com/
 
+
+## Conversations On Data Science
+Roger Peng and Hilary Parker
+
+This book collects many of their discussions from the podcast 
+[__Not So Standard Deviations__](https://soundcloud.com/nssd-podcast)
+and distills them into a readable format.
+
+Pay what you want for the ebook, minimum $0.00
+
+https://leanpub.com/conversationsondatascience
+
+
+## Executive Data Science
+Brian Caffo, [Roger D. Peng](https://twitter.com/rdpeng), and [Jeffrey Leek](https://twitter.com/jtleek)
+
+A Guide to Training and Managing the Best Data Scientists. Learn what you need 
+to know to begin assembling and leading a data science enterprise.
+
+Pay what you want for the PDF, minimum $0.00
+
+https://leanpub.com/eds
+
+## Essays on Data Analysis
+Roger Peng
+
+This book draws a complete picture of the data analysis process, filling out 
+many details that are missing from previous presentations. It presents a new 
+perspective on what makes for a successful data analysis and how the quality 
+of data analyses can be judged.
+
+Pay what you want for the ebook, minimum $0.00
+
+https://leanpub.com/dataanalysisessays
+
+
+
 # Blogdown
 ## blogdown: Creating Websites with R Markdown
 https://bookdown.org/yihui/blogdown/
@@ -71,6 +108,44 @@ https://edav.info/
 
 ## APS 135: Introduction to Exploratory Data Analysis with R
 https://dzchilds.github.io/eda-for-bio/
+
+## The Art of Data Science
+[Roger D. Peng](https://twitter.com/rdpeng) and Elizabeth Matsui
+
+A Guide for Anyone Who Works with Data
+
+This book describes the process of analyzing data. The authors have extensive 
+experience both managing data analysts and conducting their own data analyses, 
+and this book is a distillation of their experience in a format that is applicable 
+to both practitioners and managers in data science. Printed copies are available through [Lulu](https://www.lulu.com/content/paperback-book/the-art-of-data-science/18733039).
+
+Pay what you want for the ebook, minimum $0.00
+
+https://leanpub.com/artofdatascience
+
+## Report Writing for Data Science in R
+[Roger D. Peng](https://twitter.com/rdpeng) 
+
+This book teaches the fundamental concepts and tools behind reporting modern 
+data analyses in a reproducible manner. As data analyses become increasingly 
+complex, the need for clear and reproducible report writing is greater than ever.
+
+Pay what you want for the ebook, minimum $0.00
+
+https://leanpub.com/reportwriting
+
+## The Elements of Data Analytic Style
+[Jeffrey Leek](https://twitter.com/jtleek)
+
+Data analysis is at least as much art as it is science. This book is focused 
+on the details of data analysis that sometimes fall through the cracks in 
+traditional statistics classes and textbooks. It is based in part on the authors 
+blog posts, lecture materials, and tutorials.
+
+Pay what you want for theebook, minimum $0.00
+
+https://leanpub.com/datastyle
+
 
 
 # Data Visualization
@@ -166,6 +241,17 @@ https://bradleyboehmke.github.io/HOML/
 ## Feature Engineering and Selection: A Practical Approach for Predictive Models
 http://www.feat.engineering/index.html
 
+## Interpretable Machine Learning
+[Christoph Molnar](https://twitter.com/ChristophMolnar)
+
+A Guide for Making Black Box Models Explainable
+
+[Online book](https://christophm.github.io/interpretable-ml-book/)
+
+Pay what you want for the ebook, minimum $0.00
+
+[Leanpub PDF](https://leanpub.com/interpretable-machine-learning)
+
 
 # Network analysis
 ##  Network Analysis in R Cookbook
@@ -253,6 +339,19 @@ https://www.burns-stat.com/pages/Tutor/R_inferno.pdf
 Derek l. Sonderegger
 https://dereksonderegger.github.io/570L/
 
+## Mastering Software Development in R
+[Roger D. Peng](https://twitter.com/rdpeng), [Sean Kross](https://twitter.com/seankross), 
+and [Brooke Anderson](https://twitter.com/gbwanderson)
+
+This book covers R software development for building data science tools. 
+This book provides rigorous training in the R language and covers modern 
+software development practices for building tools that are highly reusable, 
+modular, and suitable for use in a team-based environment or a community of 
+developers.
+
+Pay what you want for the ebook, minimum $0.00
+
+https://leanpub.com/msdr
 
 # Shiny
 ## A gRadual intRoduction to Shiny
@@ -296,6 +395,34 @@ https://moderndive.com/
 A Bayesian Course with Examples in R and Stan
 https://xcelab.net/rm/statistical-rethinking/
 
+## OpenIntro Statistics
+David Diez, [Mine Cetinkaya-Rundel](https://twitter.com/minebocek), 
+Christopher Barr, and [OpenIntro](https://twitter.com/OpenIntroOrg).
+
+A complete foundation for Statistics, also serving as a foundation for Data Science.
+
+Leanpub revenue supports OpenIntro (US-based nonprofit) so we can provide free 
+desk copies to teachers interested in using OpenIntro Statistics in the classroom 
+and expand the project to support free textbooks in other subjects.
+
+More resources: [openintro.org](https://www.openintro.org/).
+
+Pay what you want for the ebook, minimum $0.00, however if you are able to, please 
+consider the cause above. Thanks!
+
+https://leanpub.com/openintro-statistics
+
+
+## Statistical inference for data science
+Brian Caffo
+
+This book gives a brief, but rigorous, treatment of statistical inference 
+intended for practicing Data Scientists.
+
+Pay what you want for the ebook, minimum $0.00
+
+https://leanpub.com/LittleInferenceBook
+
 
 # Version control
 ## Happy Git and GitHub for the useR
@@ -329,6 +456,30 @@ http://compgenomr.github.io/book/
 
 ## Introduction to Econometrics with R
 https://www.econometrics-with-r.org/
+
+## Data Analysis for the Life Sciences
+Rafael A Irizarry and Michael I Love
+
+Pay what you want for the ebook, minimum $0.00
+
+https://leanpub.com/dataanalysisforthelifesciences
+
+[Accompanying website](http://genomicsclass.github.io/book/)
+
+## How to be a modern scientist
+[Jeffrey Leek](https://twitter.com/jtleek)
+
+A book about how to be a scientist the modern, open-source way. 
+The face of academia is changing. It is no longer sufficient to just publish or perish. 
+We are now in an era where Twitter, Github, Figshare, and Alt Metrics are regular 
+parts of the scientific workflow. Here I give high level advice about which tools 
+to use, how to use them, and what to look out for. This book is appropriate for 
+scientists at all levels who want to stay on top of the current technological 
+developments affecting modern scientific careers.
+
+Pay what you want for the ebook, minimum $0.00
+
+https://leanpub.com/modernscientist
 
 # Other compendiums
 ##  Data Science with R: A Resource Compendium

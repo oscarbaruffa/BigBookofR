@@ -261,6 +261,17 @@ Modeling as a statistical practice can encompass a wide variety of activities. T
 https://smltar.com/
 
 
+## Machine Learning for Factor Investing
+
+[Guillaume Coqueret](https://twitter.com/g_coqueret) and [Tony Guida](https://twitter.com/TonyGUIDA_Quant)
+
+This book is intended to cover some advanced modelling techniques applied to equity investment strategies that are built on firm characteristics. 
+
+http://www.mlfactor.com/
+
+
+
+
 # Network analysis
 ##  Network Analysis in R Cookbook
 http://sachaepskamp.com/files/Cookbook.html
@@ -473,13 +484,22 @@ https://info201.github.io/
 ## Practical R for Mass Communication and Journalism
 http://www.machlis.com/R4Journalists/index.html
 
-An introduction to quantitative analysis of political data in R
+## An introduction to quantitative analysis of political data in R
 
 [Erik Gahner Larsen](https://twitter.com/erikgahner) & [Zoltán Fazekas](https://twitter.com/fazol)
 
 In this book, we aim to provide an easily accessible introduction to R for the collection, study and presentation of different types of political data. Specifically, the book will teach you how to get different types of political data into R and manipulate, analyze and visualize the output. In doing this, we will not only teach you how to get existing data into R, but also how to collect your own data.
 
 http://qpolr.com/
+
+
+## Machine Learning for Factor Investing
+
+[Guillaume Coqueret](https://twitter.com/g_coqueret) and [Tony Guida](https://twitter.com/TonyGUIDA_Quant)
+
+This book is intended to cover some advanced modelling techniques applied to equity investment strategies that are built on firm characteristics. 
+
+http://www.mlfactor.com/
 
 
 ## Computational Genomics with R
@@ -512,6 +532,9 @@ Pay what you want for the ebook, minimum $0.00
 
 https://leanpub.com/modernscientist
 
+
+
+
 # Other compendiums
 ##  Data Science with R: A Resource Compendium
 Another big book of resources!
@@ -520,7 +543,11 @@ https://bookdown.org/martin_monkman/DataScienceResources_book/
 
 
 
+## R on the web
 
+[Guillaume Coqueret](https://twitter.com/g_coqueret)
+
+https://github.com/shokru/rstats/blob/master/material/R_links.md
 
 
 

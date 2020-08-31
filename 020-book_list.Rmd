@@ -303,6 +303,17 @@ https://rmd4sci.njtierney.com/
 https://holtzy.github.io/Pimp-my-rmd/
 
 
+# R package development
+
+## R packages
+http://r-pkgs.had.co.nz/
+
+## rOpenSci Packages: Development, Maintenance, and Peer Review
+
+This book is a package development guide for authors, maintainers, reviewers and editors of rOpenSci.
+
+https://devguide.ropensci.org/index.html
+
 
 # R programming
 ##  Modern R with the tidyverse
@@ -320,8 +331,6 @@ https://bookdown.org/ndphillips/YaRrr/
 ## Advanced R.
 http://adv-r.had.co.nz/
 
-## R packages
-http://r-pkgs.had.co.nz/
 
 ## Efficient R programming
 https://csgillespie.github.io/efficientR/

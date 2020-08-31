@@ -329,6 +329,31 @@ https://csgillespie.github.io/efficientR/
 ## The Tidyverse Cookbook
 https://rstudio-education.github.io/tidyverse-cookbook/
 
+## The tidyverse style guide
+[Hadley Whickham](https://twitter.com/hadleywickham)
+
+Good coding style is like correct punctuation: you can manage without it, butitsuremakesthingseasiertoread. This site describes the style used throughout the tidyverse. It was derived from Google’s original R Style Guide - but Google’s current guide is derived from the tidyverse style guide.
+
+https://style.tidyverse.org/
+
+
+## Tidyverse design guide
+Tidyverse team
+
+The goal of this book is to help you write better R code. It has four main components:
+
+1. Design problems which lead to suboptimal outcomes.
+
+1. Useful patterns that help solve common problems.
+
+1. Key principles that help you balance conflicting patterns.
+
+1. Selected case studies that help you see how all the pieces fit together with real code.
+
+It is used by the tidyverse team to promote consistency across packages in the core tidyverse. 
+
+https://design.tidyverse.org/
+
 ## Hands-On Programming with R
 https://rstudio-education.github.io/hopr/
 
@@ -512,6 +537,16 @@ http://www.machlis.com/R4Journalists/index.html
 In this book, we aim to provide an easily accessible introduction to R for the collection, study and presentation of different types of political data. Specifically, the book will teach you how to get different types of political data into R and manipulate, analyze and visualize the output. In doing this, we will not only teach you how to get existing data into R, but also how to collect your own data.
 
 http://qpolr.com/
+
+
+## Orchestrating Single-Cell Analysis with Bioconductor
+
+[Aaron Lun, Robert Amezquita, Stephanie Hicks, Raphael Gottardo](https://osca.bioconductor.org/contributors.html)
+
+This is the website for “Orchestrating Single-Cell Analysis with Bioconductor”, a book that teaches users some common workflows for the analysis of single-cell RNA-seq data (scRNA-seq).
+
+https://osca.bioconductor.org/
+
 
 
 ## Machine Learning for Factor Investing

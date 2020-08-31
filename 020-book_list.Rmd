@@ -429,6 +429,9 @@ https://mastering-shiny.org/
 ##  Shiny Production with AWS Book
 https://business-science.github.io/shiny-production-with-aws-book/
 
+## Production Shiny App
+https://engineering-shiny.org/
+
 # Statistics
 
 ##  Common statistical tests are linear models: a work through

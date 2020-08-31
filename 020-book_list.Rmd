@@ -454,6 +454,27 @@ Pay what you want for the ebook, minimum $0.00
 
 https://leanpub.com/LittleInferenceBook
 
+## Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)
+[Nicole Radziwill](https://radziwill.cc)
+
+This introductory applied statistics handbook shows you how to run tests analytically,
+and then how to run exactly the same steps using R. No steps are skipped, making this
+particularly well suited for beginners or people who need a quick lookup. Used at 30+
+universities around the globe.
+
+https://amzn.to/3b9ha8s - varies between $37-43 & you can request free PDF after your order
+https://www.e-junkie.com/ecom/gb.php?&c=single&cl=147256&i=1614407 - $25 for PDF only
+
+
+## End-to-End Solved Problems With R: a catalog of 26 examples using statistical inference
+[Nicole Radziwill](https://radziwill.cc)
+
+Lots of worked problems, analytically and in R! Useful supplement for an introductory
+applied stats class.
+
+https://amzn.to/2EREAn2 - used for $4-18, new $19-20
+https://www.e-junkie.com/ecom/gb.php?c=single&cl=147256&i=1548704 - $10 for PDF only
+
 
 # Version control
 ## Happy Git and GitHub for the useR

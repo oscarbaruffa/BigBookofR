@@ -54,6 +54,8 @@ The format is this:
 
 **[Brief description of content]**
 
+**Note if its a paid product** 
+
 **(link to book)**
 
 

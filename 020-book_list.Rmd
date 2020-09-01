@@ -72,7 +72,7 @@ https://benmarwick.github.io/bookdown-ort/
 
 # Data Science
 ## R for Data Science 
-Whickham and Grolemund
+[Hadley Whickham](https://twitter.com/hadleywickham) [Garret Grolemund](https://twitter.com/StatGarrett)
 
 A really good place to start
 

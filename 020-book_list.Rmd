@@ -558,6 +558,12 @@ https://datascienceineducation.com/
 ## The Plain Person’s Guide to Plain Text Social Science
 https://plain-text.co/index.html#introduction
 
+## Exploring Baseball Data with R
+
+Paid product ~$50
+
+https://baseballwithr.wordpress.com/about/
+
 ## Technical Foundations of Informatics
 https://info201.github.io/
 
@@ -580,6 +586,14 @@ http://qpolr.com/
 This is the website for “Orchestrating Single-Cell Analysis with Bioconductor”, a book that teaches users some common workflows for the analysis of single-cell RNA-seq data (scRNA-seq).
 
 https://osca.bioconductor.org/
+
+## Modern Statistics for Modern Biology
+
+Susan Holmes, Wolfgang Huber
+
+The aim of this book is to enable scientists working in biological research to quickly learn many of the important ideas and methods that they need to make the best of their experiments and of other available data.
+
+https://www.huber.embl.de/msmb/
 
 
 

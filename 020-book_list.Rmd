@@ -640,6 +640,16 @@ https://leanpub.com/modernscientist
 
 
 # Other compendiums
+
+## Use R! Springer series
+
+This is a collection of some 70+ books. This series of inexpensive and focused books on R will publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area (e.g., epidemiology, econometrics, psychometrics) or as it relates to statistical topics (e.g., missing data, longitudinal data).
+
+All are paid products
+
+https://www.springer.com/series/6991?detailsPage=titles
+
+
 ##  Data Science with R: A Resource Compendium
 Another big book of resources!
 
@@ -653,6 +663,17 @@ https://bookdown.org/martin_monkman/DataScienceResources_book/
 
 https://github.com/shokru/rstats/blob/master/material/R_links.md
 
+
+
+## CRAN doc collections
+
+Note these projects are frozen, but they do contain a lot of resources in multiple languages. 
+
+Many of these are quite old publications, but it doesn't mean they're outdated or not useful. If you're really digging for a specific resource that you can't find anywhere else, it may be here. Good luck!
+
+https://cran.r-project.org/other-docs.html
+
+https://www.r-project.org/doc/bib/R-books.html
 
 
 

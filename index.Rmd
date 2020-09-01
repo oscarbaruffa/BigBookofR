@@ -70,7 +70,7 @@ If you've contributed, add your name and twitter / blog link below!
 
 Mohit Sharma
 
-[Vebash](https://twitter.com/Sciencificity)
+[Vebash Naidoo](https://twitter.com/Sciencificity)
 
 [Julia Silge](https://twitter.com/juliasilge)
 
@@ -85,6 +85,10 @@ Mohit Sharma
 [Jon Calder](https://twitter.com/jonmcalder)
 
 [Mike Smith](https://twitter.com/grimbough)
+
+[Ben Bolker](https://github.com/bbolker)
+
+[Maëlle Salmon](https://twitter.com/ma_salmon)
 
 
 ## Licence

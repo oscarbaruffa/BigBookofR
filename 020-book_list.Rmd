@@ -432,6 +432,12 @@ https://business-science.github.io/shiny-production-with-aws-book/
 ## Production Shiny App
 https://engineering-shiny.org/
 
+## Supplement to Shiny in Production 
+https://kellobri.github.io/shiny-prod-book/
+
+## Outstanding User Interfaces with Shiny
+https://divadnojnarg.github.io/outstanding-shiny-ui/
+
 # Statistics
 
 ##  Common statistical tests are linear models: a work through

@@ -14,7 +14,7 @@ The book is free to read at https://r4ds.had.co.nz/
 
 There's an accompanying exercise solution book at https://jrnold.github.io/r4ds-exercise-solutions/
 
-*Yet Another ‘R for Data Science’ study guide* can also be found at https://brshallo.github.io/r4ds_solutions/
+*Yet another ‘R for Data Science’ study guide* can also be found at https://brshallo.github.io/r4ds_solutions/
 
 ### Video Course: Getting started with R
 

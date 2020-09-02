@@ -55,7 +55,14 @@ Pay what you want for the ebook, minimum $0.00
 
 https://leanpub.com/dataanalysisessays
 
+## Data Science in a Box
+[Mine Çetinkaya-Rundel](https://twitter.com/minebocek)
 
+This book focuses on how to efficiently teach data science to students with little to no background in computing and statistical thinking.  The core content of the course focuses on data acquisition and wrangling, exploratory data analysis, data visualization, inference, modelling, and effective communication of results. 
+
+This book is free online.
+
+https://datasciencebox.org/
 
 # Blogdown
 ## blogdown: Creating Websites with R Markdown
@@ -164,6 +171,12 @@ https://leanpub.com/ggplot2in2
 
 
 ##  Data Visualization - A practical introduction
+[Kieran Healy](https://twitter.com/kjhealy)
+
+This book is a hands-on introduction to the principles and practice of looking at and presenting data using R and ggplot.
+
+The book is free online.
+
 https://socviz.co/
 
 
@@ -181,6 +194,11 @@ Rob Kabakoff
 https://rkabacoff.github.io/datavis/
 
 ## R Graphics Cookbook, 2nd edition
+
+The goal of the cookbook is to provide solutions to common tasks and problems in analyzing data.
+
+The book is free online.
+
 https://r-graphics.org/
 
 
@@ -193,6 +211,12 @@ https://bbc.github.io/rcookbook/
 
 
 ## Fundamentals of Data Visualization
+[Claus Wilke](https://twitter.com/ClausWilke)
+
+The book is meant as a guide to making visualizations that accurately reflect the data, tell a story, and look professional.
+
+The book is free online.
+
 https://clauswilke.com/dataviz/
 
 # Distributed computing
@@ -322,6 +346,10 @@ https://holtzy.github.io/Pimp-my-rmd/
 # R package development
 
 ## R packages
+[Hadley Whickham](https://twitter.com/hadleywickham)
+
+Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this section you’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.
+
 http://r-pkgs.had.co.nz/
 
 ## rOpenSci Packages: Development, Maintenance, and Peer Review
@@ -345,10 +373,22 @@ https://fg2re.sellorm.com/
 https://bookdown.org/ndphillips/YaRrr/
 
 ## Advanced R.
+[Hadley Whickham](https://twitter.com/hadleywickham)
+
+This is the companion website for “Advanced R”, a book in Chapman & Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.
+
+The book is free online.
+
 http://adv-r.had.co.nz/
 
 
 ## Efficient R programming
+[Colin Gillespie](http://www.mas.ncl.ac.uk/~ncsg3/) and [Robin Lovelace](https://twitter.com/robinlovelace)
+
+This book is for anyone who wants to make their R code faster to type, faster to run and more scalable. These considerations generally come after learning the very basics of R for data analysis.
+
+The book is free online. 
+
 https://csgillespie.github.io/efficientR/
 
 ## The Tidyverse Cookbook
@@ -434,6 +474,24 @@ Pay what you want for the ebook, minimum $0.00
 
 https://leanpub.com/msdr
 
+## knitr
+[Yihui Xie](https://yihui.org/)
+
+Dynamic documents with R and knitr!  
+
+The book is free online.
+
+https://yihui.org/knitr/
+
+## The caret Package
+[Max Kuhn](mxkuhn@gmail.com)
+
+The caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models. T
+
+This book is free online.
+
+https://topepo.github.io/caret/index.html
+
 # Shiny
 ## A gRadual intRoduction to Shiny
 https://laderast.github.io/gradual_shiny/
@@ -460,6 +518,12 @@ https://divadnojnarg.github.io/outstanding-shiny-ui/
 https://steverxd.github.io/Stat_tests/
 
 ## Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6.1)
+[Danielle Navarro](https://twitter.com/djnavarro)
+
+This book is a great resource to learn statistics with the R programming language.  
+
+The book is free online.
+
 https://learningstatisticswithr-bookdown.netlify.app/
 
 ## Answering questions with data
@@ -478,6 +542,12 @@ https://stat545.com/
 
 
 ## An Introduction to Statistical and Data Sciences via R
+[Chester Ismay](https://twitter.com/old_man_chester) and [Albert Kim](https://twitter.com/rudeboybert) 
+
+An incredibly beginner friendly introduction to both datascience and statistics concepts as well as R.  
+
+The book is free to read online.
+
 https://moderndive.com/
 
 

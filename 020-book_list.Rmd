@@ -90,6 +90,10 @@ Solutions for the hadley and Grolemund R4Ds book
 
 https://jrnold.github.io/r4ds-exercise-solutions/
 
+*Yet another ‘R for Data Science’ study guide*
+
+https://brshallo.github.io/r4ds_solutions/
+
 ## Introduction to Data Science 
 Rafael A Irizarry 
 

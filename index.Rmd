@@ -94,6 +94,8 @@ Mohit Sharma
 
 [Bryan Shalloway](https://twitter.com/brshallo)
 
+[Antonio Uzal](https://twitter.com/antonio_uzal)
+
 ## Licence
 
 This website/book is free to use, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/){target="blank}.

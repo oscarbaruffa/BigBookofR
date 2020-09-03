@@ -669,6 +669,14 @@ The aim of this book is to enable scientists working in biological research to q
 
 https://www.huber.embl.de/msmb/
 
+## Statistics in R for Biodiversity Conservation Paperback
+by Carl Smith , [Antonio Uzal](https://twitter.com/antonio_uzal) , Mark Warren 
+
+A practical handbook to introduce data analysis and model fitting using R to ecologists and conservation biologists. The book is aimed at undergraduate and post-graduate students and provides access to datasets and RScript.
+
+Paid product ~$10
+
+https://www.amazon.co.uk/dp/B08HBLYHQL/ref=cm_sw_r_cp_apa_i_g0luFb86PXJ9Z
 
 
 ## Machine Learning for Factor Investing

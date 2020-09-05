@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html lang="" xml:lang="">
 <head>
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>7 Data Visualization | Big Book of R</title>
   <meta name="description" content="7 Data Visualization | Big Book of R" />
-  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
 
   <meta property="og:title" content="7 Data Visualization | Big Book of R" />
   <meta property="og:type" content="book" />
@@ -39,6 +39,9 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
 
 
 
@@ -265,13 +268,15 @@ Published with bookdown</a></center></li>
 <h1><span class="header-section-number">7</span> Data Visualization</h1>
 <div id="ggplot2-elegant-graphics-for-data-analysis" class="section level2">
 <h2><span class="header-section-number">7.1</span> ggplot2: Elegant Graphics for Data Analysis</h2>
+<p>Hadley Wickham</p>
+<p>ggplot2 is an R package for producing statistical, or data, graphics. Unlike most other graphics packages, ggplot2 has an underlying grammar, based on the Grammar of Graphics (Wilkinson 2005), that allows you to compose graphs by combining independent components. This makes ggplot2 powerful. Rather than being limited to sets of pre-defined graphics, you can create novel graphics that are tailored to your specific problem.</p>
 <p><a href="https://ggplot2-book.org/" class="uri">https://ggplot2-book.org/</a></p>
 </div>
 <div id="ggplot2-in-2" class="section level2">
 <h2><span class="header-section-number">7.2</span> ggplot2 in 2</h2>
 <p>Lucy D’Agostino McGowan</p>
 <p>Pay what you want, minimum $4.99</p>
-<p>Really good overview of ggplot2. Oscar Baruffa made a sped-up <a href="https://youtu.be/_G7_J8M9588">screencast</a> while working through it.</p>
+<p>Really good overview of ggplot2. The premise is that you’ll cover the fundamentals in 2 hours. Oscar Baruffa made a sped-up <a href="https://youtu.be/_G7_J8M9588">screencast</a> while working through it. It did take 2 hours :).</p>
 <p><a href="https://leanpub.com/ggplot2in2" class="uri">https://leanpub.com/ggplot2in2</a></p>
 </div>
 <div id="data-visualization---a-practical-introduction" class="section level2">
@@ -283,16 +288,19 @@ Published with bookdown</a></center></li>
 </div>
 <div id="data-processing-visualization" class="section level2">
 <h2><span class="header-section-number">7.4</span> Data Processing &amp; Visualization</h2>
+<p>This document provides some tools, demonstrations, and more to make data processing, programming, modeling, visualization, and presentation easier.While the programming language focus is on R, where applicable (which is most of the time), Python notebooks are also available,.</p>
 <p><a href="https://m-clark.github.io/data-processing-and-visualization/" class="uri">https://m-clark.github.io/data-processing-and-visualization/</a></p>
 </div>
 <div id="data-visualization-in-r" class="section level2">
 <h2><span class="header-section-number">7.5</span> Data Visualization in R</h2>
 <p>Brooke Anderson</p>
+<p>Workshop for the 2019 Navy and Marine Corps Public Health Conference. I have based this workshop on examples for you to try yourself, because you won’t be able to learn how to program unless you try it out. I’ve picked example data that I hope will be interesting to Navy and Marine Corp public health researchers and practitioners.</p>
 <p><a href="https://geanders.github.io/navy_public_health/index.html#prerequisites" class="uri">https://geanders.github.io/navy_public_health/index.html#prerequisites</a></p>
 </div>
 <div id="data-visualization-with-r" class="section level2">
 <h2><span class="header-section-number">7.6</span> Data Visualization with R</h2>
 <p>Rob Kabakoff</p>
+<p>This book helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs. The text relies heavily on the ggplot2 package for graphics, but other approaches are covered as well.</p>
 <p><a href="https://rkabacoff.github.io/datavis/" class="uri">https://rkabacoff.github.io/datavis/</a></p>
 </div>
 <div id="r-graphics-cookbook-2nd-edition" class="section level2">
@@ -303,10 +311,13 @@ Published with bookdown</a></center></li>
 </div>
 <div id="plotly-interactive-web-based-data-visualization-with-r-plotly-and-shiny" class="section level2">
 <h2><span class="header-section-number">7.8</span> plotly Interactive web-based data visualization with R, plotly, and shiny</h2>
+<p>Carson Sievert</p>
+<p>In this book, you’ll gain insight and practical skills for creating interactive and dynamic web graphics for data analysis from R. It makes heavy use of plotly for rendering graphics, but you’ll also learn about other R packages that augment a data science workflow, such as the tidyverse and shiny. Along the way, you’ll gain insight into best practices for visualization of high-dimensional data, statistical graphics, and graphical perception.</p>
 <p><a href="https://plotly-r.com/" class="uri">https://plotly-r.com/</a></p>
 </div>
 <div id="bbc-visual-and-data-journalism-cookbook-for-r-graphics" class="section level2">
 <h2><span class="header-section-number">7.9</span> BBC Visual and Data Journalism cookbook for R graphics</h2>
+<p>At the BBC data team, we have developed an R package and an R cookbook to make the process of creating publication-ready graphics in our in-house style using R’s ggplot2 library a more reproducible process, as well as making it easier for people new to R to create graphics.</p>
 <p><a href="https://bbc.github.io/rcookbook/" class="uri">https://bbc.github.io/rcookbook/</a></p>
 </div>
 <div id="fundamentals-of-data-visualization" class="section level2">
@@ -328,11 +339,13 @@ Published with bookdown</a></center></li>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -340,12 +353,11 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -357,6 +369,10 @@ gitbook.start({
 "text": null
 },
 "history": {
+"link": null,
+"text": null
+},
+"view": {
 "link": null,
 "text": null
 },

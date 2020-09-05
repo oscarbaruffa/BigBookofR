@@ -333,24 +333,45 @@ https://nacnudus.github.io/spreadsheet-munging-strategies/
 # Geospatial
 
 ## Geocomputation with R
+Robin Lovelace, Jakub Nowosad, Jannes Muenchow
+
+This is the online home of Geocomputation with R, a book on geographic data analysis, visualization and modeling.
+
 https://geocompr.robinlovelace.net/
 
 ## Spatial Data Science
+Edzer Pebesma, Roger Bivand
+
+This book introduces and explains the concepts underlying spatial data: points, lines, polygons, rasters, coverages, geometry attributes, data cubes, reference systems, as well as higher-level concepts including how attributes relate to geometries and how this affects analysis.
+
 https://keen-swartz-3146c4.netlify.app/
 
 ## Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny
+Paula Moraga
+
+This book describes spatial and spatio-temporal statistical methods and visualization techniques to analyze georeferenced health data in R. After a detailed introduction of geospatial data, the book shows how to develop Bayesian hierarchical models for disease mapping and apply computational approaches such as the integrated nested Laplace approximation (INLA) and the stochastic partial differential equation (SPDE) to analyze areal and geostatistical data.
+
 https://www.paulamoraga.com/book-geospatial/
 
-## Introduction to R - R Spatial
-https://rspatial.org/intr/index.html
+
 
 
 # Machine Learning
 
 ##  Hands-On Machine Learning with R
+Bradley Boehmke & Brandon Greenwell
+
+This book provides hands-on modules for many of the most common machine learning methods to include:
+
+Generalized low rank models, Clustering algorithms, Autoencoders, Regularized models, Random forests, Gradient boosting machines, Deep neural networks, Stacking / super learners and more!
+
 https://bradleyboehmke.github.io/HOML/
 
 ## Feature Engineering and Selection: A Practical Approach for Predictive Models
+Max Kuhn and Kjell Johnson
+
+The goals of Feature Engineering and Selection are to provide tools for re-representing predictors, to place these tools in the context of a good predictive modeling framework, and to convey our experience of utilizing these tools in practice. 
+
 http://www.feat.engineering/index.html
 
 ## Interpretable Machine Learning
@@ -386,11 +407,17 @@ http://www.mlfactor.com/
 
 # Network analysis
 ##  Network Analysis in R Cookbook
+Sacha Epskamp
+
 http://sachaepskamp.com/files/Cookbook.html
 
 # Text analysis
 
 ## Text Mining with R
+Julia Silge and David Robinson
+
+This book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.
+
 https://www.tidytextmining.com/
 
 ## Supervised Machine Learning for Text Analysis in R
@@ -419,15 +446,32 @@ This book showcases short, practical examples of lesser-known tips and tricks to
 https://bookdown.org/yihui/rmarkdown-cookbook/
 
 ## Getting used to R, RStudio, and R Markdown
+Chester Ismay
+
+This resource is designed to provide new users to R, RStudio, and R Markdown with the introductory steps needed to begin their own reproducible research. A review of many of the common R errors encountered (and what they mean in layman’s terms) will also provided be provided.
+
 https://bookdown.org/chesterismay/rbasics/
 
 ## Introduction to R Markdown
+Michael Clark
+
+The goal is for you to be able to get quickly started with your own document, and understand the possibilities available to you. You will get a feel for the basic mechanics at play, as well as have ideas on how to customize the result to your own tastes.
+
 https://m-clark.github.io/Introduction-to-Rmarkdown/
 
 ## RMarkdown for Scientists
+Nicholas Tierney
+
+This is a book on rmarkdown, aimed for scientists. It was initially developed as a 3 hour workshop, but is now developed into a resource that will grow and change over time as a living book.
+
+
 https://rmd4sci.njtierney.com/
 
 ## Pimp my RMD: a few tips for R Markdown
+Yan Holtz 
+
+R markdown creates interactive reports from R code. This post provides a few tips I use on a daily basis to improve the appearance of output documents. 
+
 https://holtzy.github.io/Pimp-my-rmd/
 
 
@@ -561,6 +605,13 @@ developers.
 Pay what you want for the ebook, minimum $0.00
 
 https://leanpub.com/msdr
+
+## Introduction to R - R Spatial
+
+This document provides a concise introduction to R. It emphasizes what you need to know to be able to use the language in any context. There is no fancy statistical analysis here. We just present the basics of the R language itself. We do not assume that you have done any computer programming before (but we do assume that you think it is about time you did). Experienced R users obviously need not read this. But the material may be useful if you want to refresh your memory, if you have not used R much, or if you feel confused.
+
+https://rspatial.org/intr/index.html
+
 
 ## knitr
 [Yihui Xie](https://yihui.org/)

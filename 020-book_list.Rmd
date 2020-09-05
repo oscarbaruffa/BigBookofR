@@ -6,18 +6,23 @@
 ## Build Your Career in Data Science
 Not R-specific but a great read! 
 
+You are going to need more than technical knowledge to succeed as a data scientist. Build a Career in Data Science teaches you what school leaves out, from how to land your first job to the lifecycle of a data science project, and even how to become a manager.
+
 https://www.manning.com/books/build-a-career-in-data-science
 
 
 ##  Twitter for R Programmers
 [Oscar Baruffa](https://twitter.com/OscarBaruffa), [Veerle van Son](https://twitter.com/veerlevanson)
 
-A guide to help R programmers join the very active and friendly community on Twitter.
+The R community is very active on Twitter. You can learn a lot about the language, about new approaches to problems, make friends and even land a job or next contract. It’s a real-time pulse of the R community.What can you gain from becoming active on Twitter? This book will talk about the benefits and it will show you how to use Twitter.
 
 https://www.t4rstats.com
 
 
 ##  Twitter for Scientists
+
+Not R-specific, but as many R users are also Scientists this book can really help. 
+
 https://t4scientists.com/
 
 
@@ -66,13 +71,22 @@ https://datasciencebox.org/
 
 # Blogdown
 ## blogdown: Creating Websites with R Markdown
+
+We introduce an R package, blogdown, in this short book, to teach you how to create websites using R Markdown and Hugo.
+
 https://bookdown.org/yihui/blogdown/
 
 # Bookdown
 ##  bookdown: Authoring Books and Technical Documents with R Markdown
+
+This short book introduces an R package, bookdown, to change your workflow of writing books. It should be technically easy to write a book, visually pleasant to view the book, fun to interact with the book, convenient to navigate through the book, straightforward for readers to contribute or leave feedback to the book author(s), and more importantly, authors should not always be distracted by typesetting details.
+
 https://bookdown.org/yihui/bookdown/
 
 ##  A Minimal Book Example
+
+This is a sample book written in Markdown.
+
 https://benmarwick.github.io/bookdown-ort/
 
 
@@ -81,9 +95,10 @@ https://benmarwick.github.io/bookdown-ort/
 ## R for Data Science 
 [Hadley Whickham](https://twitter.com/hadleywickham) [Garret Grolemund](https://twitter.com/StatGarrett)
 
-A really good place to start
+This is the website for “R for Data Science”. This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it. In this book, you will find a practicum of skills for data science. Just as a chemist learns how to clean test tubes and stock a lab, you’ll learn how to clean data and draw plots—and many other things besides. These are the skills that allow data science to happen, and here you will find the best practices for doing each of these things with R. You’ll learn how to use the grammar of graphics, literate programming, and reproducible research to save time. You’ll also learn how to manage cognitive resources to facilitate discoveries when wrangling, visualising, and exploring data.
 
 https://r4ds.had.co.nz/
+
 
 ## R for Data Science Solutions
 Solutions for the hadley and Grolemund R4Ds book
@@ -92,10 +107,15 @@ https://jrnold.github.io/r4ds-exercise-solutions/
 
 *Yet another ‘R for Data Science’ study guide*
 
+An alternative set of solutions for R4Ds. 
+
 https://brshallo.github.io/r4ds_solutions/
 
 ## Introduction to Data Science 
 Rafael A Irizarry 
+
+The demand for skilled data science practitioners in industry, academia, and government is rapidly growing. This book introduces concepts and skills that can help you tackle real-world data analysis challenges. It covers concepts from probability, statistical inference, linear regression, and machine learning. It also helps you develop skills such as R programming, data wrangling with dplyr, data visualization with ggplot2, algorithm building with caret, file organization with UNIX/Linux shell, version control with Git and GitHub, and reproducible document preparation with knitr and R markdown. 
+
 
 https://rafalab.github.io/dsbook/
 
@@ -107,17 +127,37 @@ https://leanpub.com/datasciencebook
 ## R Programming for Data Science
 Roger Peng
 
+This book is about the fundamentals of R programming. You will get started with the basics of the language, learn how to manipulate datasets, how to write functions, and how to debug and optimize code. With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox.
+
+
 https://bookdown.org/rdpeng/rprogdatascience/
 
 ## Exploratory Data Analysis… by Roger D. Peng 
+Roger Peng
+
+This book teaches you to use R to effectively visualize and explore complex datasets. Exploratory data analysis is a key part of the data science process because it allows you to sharpen your question and refine your modeling strategies. This book is based on the industry-leading Johns Hopkins Data Science Specialization
+
 Pay what you want, minimum $0.00
 
 https://leanpub.com/exdata
 
 ## edav.info/
+Zach Bogart, Joyce Robbins
+
+With this resource, we try to give you a curated collection of tools and references that will make it easier to learn how to work with data in R.
+
+In addition, we include sections on basic chart types/tools so you can learn by doing.
+
+There are also several walkthroughs where we work with data and discuss problems as well as some tips/tricks that will help you.
+
 https://edav.info/
 
 ## APS 135: Introduction to Exploratory Data Analysis with R
+Dylan Z. Childs
+
+This is the online course book for the Introduction to Exploratory Data Analysis with R component of APS 135, a module taught by the Department and Animal and Plant Sciences at the University of Sheffield. You will be introduced to the R ecosystem.You will learn how to use R to carry out data manipulation and visualisation.This book provides a foundation for learning statistics later on.
+
+
 https://dzchilds.github.io/eda-for-bio/
 
 ## The Art of Data Science
@@ -162,6 +202,11 @@ https://leanpub.com/datastyle
 # Data Visualization
 
 ##  ggplot2: Elegant Graphics for Data Analysis
+Hadley Wickham
+
+ggplot2 is an R package for producing statistical, or data, graphics. Unlike most other graphics packages, ggplot2 has an underlying grammar, based on the Grammar of Graphics (Wilkinson 2005), that allows you to compose graphs by combining independent components. This makes ggplot2 powerful. Rather than being limited to sets of pre-defined graphics, you can create novel graphics that are tailored to your specific problem.
+
+
 https://ggplot2-book.org/
 
 ## ggplot2 in 2 
@@ -169,7 +214,7 @@ Lucy D'Agostino McGowan
 
 Pay what you want, minimum $4.99
 
-Really good overview of ggplot2. Oscar Baruffa made a sped-up [screencast](https://youtu.be/_G7_J8M9588) while working through it. 
+Really good overview of ggplot2. The premise is that you'll cover the fundamentals in 2 hours. Oscar Baruffa made a sped-up [screencast](https://youtu.be/_G7_J8M9588) while working through it. It did take 2 hours :).
 
 https://leanpub.com/ggplot2in2
 
@@ -185,15 +230,24 @@ https://socviz.co/
 
 
 ## Data Processing & Visualization
+
+This document provides some tools, demonstrations, and more to make data processing, programming, modeling, visualization, and presentation easier.While the programming language focus is on R, where applicable (which is most of the time), Python notebooks are also available,.
+
+
 https://m-clark.github.io/data-processing-and-visualization/
 
 ## Data Visualization in R
 Brooke Anderson
 
+Workshop for the 2019 Navy and Marine Corps Public Health Conference. I have based this workshop on examples for you to try yourself, because you won’t be able to learn how to program unless you try it out. I’ve picked example data that I hope will be interesting to Navy and Marine Corp public health researchers and practitioners. 
+
 https://geanders.github.io/navy_public_health/index.html#prerequisites
 
 ## Data Visualization with R
 Rob Kabakoff
+
+This book helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs. The text relies heavily on the ggplot2 package for graphics, but other approaches are covered as well.
+
 
 https://rkabacoff.github.io/datavis/
 
@@ -208,9 +262,17 @@ https://r-graphics.org/
 
 
 ## plotly Interactive web-based data visualization with R, plotly, and shiny
+Carson Sievert
+
+In this book, you’ll gain insight and practical skills for creating interactive and dynamic web graphics for data analysis from R. It makes heavy use of plotly for rendering graphics, but you’ll also learn about other R packages that augment a data science workflow, such as the tidyverse and shiny. Along the way, you’ll gain insight into best practices for visualization of high-dimensional data, statistical graphics, and graphical perception.
+
+
 https://plotly-r.com/
 
 ## BBC Visual and Data Journalism cookbook for R graphics
+
+At the BBC data team, we have developed an R package and an R cookbook to make the process of creating publication-ready graphics in our in-house style using R’s ggplot2 library a more reproducible process, as well as making it easier for people new to R to create graphics.
+
 https://bbc.github.io/rcookbook/
 
 
@@ -225,21 +287,43 @@ https://clauswilke.com/dataviz/
 
 # Distributed computing
 ## Mastering Spark with R
+Javier Luraschi, Kevin Kuo, Edgar Ruiz
+
+In this book you will learn how to use Apache Spark with R. The book intends to take someone unfamiliar with Spark or R and help you become proficient by teaching you a set of tools, skills and practices applicable to large-scale data science.
+
+PS the first chapter has a Jon Snow quote ;)
+
 https://therinspark.com/
 
 
 # Getting, cleaning and wrangling data
 ##  A Beginner's Guide to Clean Data - beginners-guide-to-clean-data
+Benjamin Greve
+
+This book will help you to become a better data scientist by showing you the things that can go wrong when working with data - particularly low-quality data. A key difference between a junior and a senior data scientist is the awareness of potential pitfalls. The experienced data scientist will expect them, navigate around them and avoid costly iteration cycles. After reading this book, you will be able to spot data quality problems and deal with them before they can break your work, saving yourself a lot of time.
+
 https://b-greve.gitbook.io/beginners-guide-to-clean-data/
 
 ## 21 Recipes for Mining Twitter Data with rtweet
+Bob Rudis
+
+The recipes contained in this book use the rtweet package by Michael W. Kearney. 
+
 https://rud.is/books/21-recipes/
 
 ## Text Mining with R
+Julia Silge and David Robinson
+
+This book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.
+
+
 https://www.tidytextmining.com/
 
 ## Spreadsheet Munging Strategies
-Great for dealing with messy spreadsheets
+Duncan Garmonsway
+
+This is a work-in-progress book about getting data out of spreadsheets, no matter how peculiar. The book is designed primarily for R users who have to extract data from spreadsheets and who are already familiar with the tidyverse. It has a cookbook structure, and can be used as a reference, but readers who begin in the middle might have to work backwards from time to time.
+
 
 https://nacnudus.github.io/spreadsheet-munging-strategies/
 

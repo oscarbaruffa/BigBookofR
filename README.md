@@ -6,11 +6,9 @@ The biggest collection of R books (and maybe later some other resources too)
 
 ## Contributing
 
-This book could still do with a lot of work, and is hosted on [github.](https://github.com/oscarbaruffa/BigBookofR)
+Please feel free to contribute paid and free books - see the  [github.](https://github.com/oscarbaruffa/BigBookofR)
 
-The first thing I could use help with is filling out the descriptions of each book. 
-
-The format is this:
+The format for adding book entries is:
 
 **\#\# [Name of book]**
 
@@ -18,10 +16,12 @@ The format is this:
 
 **[Brief description of content]**
 
+**Note if its a paid product and approximatley how much** 
+
 **(link to book)**
 
 
-You can also submit any books not yet included. Sometimes it's difficult to know in which chapter to place it, but I default to using either the name of the book as a guide, the first bit of how the book describes itself or failing that, what I think it should be. It's okay to add a book to more than one section if you feel it strongly fits both. 
+Sometimes it's difficult to know in which chapter to place it, but I default to using either the name of the book as a guide, the first bit of how the book describes itself or failing that, what I think it should be. It's okay to add a book to more than one section if you feel it strongly fits both. 
 
 
 Feel free to add both free and paid books - just note which books are a paid resource. 

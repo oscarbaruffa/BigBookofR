@@ -312,7 +312,7 @@ The recipes contained in this book use the rtweet package by Michael W. Kearney.
 https://rud.is/books/21-recipes/
 
 ## Text Mining with R
-Julia Silge and David Robinson
+[Julia Silge](https://twitter.com/juliasilge) and [David Robinson](https://twitter.com/drob)
 
 This book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.
 
@@ -422,7 +422,7 @@ http://sachaepskamp.com/files/Cookbook.html
 # Text analysis
 
 ## Text Mining with R
-Julia Silge and David Robinson
+[Julia Silge](https://twitter.com/juliasilge) and [David Robinson](https://twitter.com/drob)
 
 This book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.
 

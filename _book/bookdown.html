@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html lang="" xml:lang="">
 <head>
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>5 Bookdown | Big Book of R</title>
   <meta name="description" content="5 Bookdown | Big Book of R" />
-  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
 
   <meta property="og:title" content="5 Bookdown | Big Book of R" />
   <meta property="og:type" content="book" />
@@ -39,6 +39,9 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
 
 
 
@@ -138,7 +141,6 @@
 <li class="chapter" data-level="10.1" data-path="geospatial.html"><a href="geospatial.html#geocomputation-with-r"><i class="fa fa-check"></i><b>10.1</b> Geocomputation with R</a></li>
 <li class="chapter" data-level="10.2" data-path="geospatial.html"><a href="geospatial.html#spatial-data-science"><i class="fa fa-check"></i><b>10.2</b> Spatial Data Science</a></li>
 <li class="chapter" data-level="10.3" data-path="geospatial.html"><a href="geospatial.html#geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny"><i class="fa fa-check"></i><b>10.3</b> Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny</a></li>
-<li class="chapter" data-level="10.4" data-path="geospatial.html"><a href="geospatial.html#introduction-to-r---r-spatial"><i class="fa fa-check"></i><b>10.4</b> Introduction to R - R Spatial</a></li>
 </ul></li>
 <li class="chapter" data-level="11" data-path="machine-learning.html"><a href="machine-learning.html"><i class="fa fa-check"></i><b>11</b> Machine Learning</a><ul>
 <li class="chapter" data-level="11.1" data-path="machine-learning.html"><a href="machine-learning.html#hands-on-machine-learning-with-r"><i class="fa fa-check"></i><b>11.1</b> Hands-On Machine Learning with R</a></li>
@@ -146,6 +148,7 @@
 <li class="chapter" data-level="11.3" data-path="machine-learning.html"><a href="machine-learning.html#interpretable-machine-learning"><i class="fa fa-check"></i><b>11.3</b> Interpretable Machine Learning</a></li>
 <li class="chapter" data-level="11.4" data-path="machine-learning.html"><a href="machine-learning.html#supervised-machine-learning-for-text-analysis-in-r"><i class="fa fa-check"></i><b>11.4</b> Supervised Machine Learning for Text Analysis in R</a></li>
 <li class="chapter" data-level="11.5" data-path="machine-learning.html"><a href="machine-learning.html#machine-learning-for-factor-investing"><i class="fa fa-check"></i><b>11.5</b> Machine Learning for Factor Investing</a></li>
+<li class="chapter" data-level="11.6" data-path="machine-learning.html"><a href="machine-learning.html#the-caret-package"><i class="fa fa-check"></i><b>11.6</b> The caret Package</a></li>
 </ul></li>
 <li class="chapter" data-level="12" data-path="network-analysis.html"><a href="network-analysis.html"><i class="fa fa-check"></i><b>12</b> Network analysis</a><ul>
 <li class="chapter" data-level="12.1" data-path="network-analysis.html"><a href="network-analysis.html#network-analysis-in-r-cookbook"><i class="fa fa-check"></i><b>12.1</b> Network Analysis in R Cookbook</a></li>
@@ -154,13 +157,14 @@
 <li class="chapter" data-level="13.1" data-path="text-analysis.html"><a href="text-analysis.html#text-mining-with-r-1"><i class="fa fa-check"></i><b>13.1</b> Text Mining with R</a></li>
 <li class="chapter" data-level="13.2" data-path="text-analysis.html"><a href="text-analysis.html#supervised-machine-learning-for-text-analysis-in-r-1"><i class="fa fa-check"></i><b>13.2</b> Supervised Machine Learning for Text Analysis in R</a></li>
 </ul></li>
-<li class="chapter" data-level="14" data-path="r-markdown.html"><a href="r-markdown.html"><i class="fa fa-check"></i><b>14</b> R Markdown</a><ul>
-<li class="chapter" data-level="14.1" data-path="r-markdown.html"><a href="r-markdown.html#r-markdown-the-definitive-guide"><i class="fa fa-check"></i><b>14.1</b> R Markdown: The Definitive Guide</a></li>
-<li class="chapter" data-level="14.2" data-path="r-markdown.html"><a href="r-markdown.html#r-markdown-cookbook"><i class="fa fa-check"></i><b>14.2</b> R Markdown Cookbook</a></li>
-<li class="chapter" data-level="14.3" data-path="r-markdown.html"><a href="r-markdown.html#getting-used-to-r-rstudio-and-r-markdown"><i class="fa fa-check"></i><b>14.3</b> Getting used to R, RStudio, and R Markdown</a></li>
-<li class="chapter" data-level="14.4" data-path="r-markdown.html"><a href="r-markdown.html#introduction-to-r-markdown"><i class="fa fa-check"></i><b>14.4</b> Introduction to R Markdown</a></li>
-<li class="chapter" data-level="14.5" data-path="r-markdown.html"><a href="r-markdown.html#rmarkdown-for-scientists"><i class="fa fa-check"></i><b>14.5</b> RMarkdown for Scientists</a></li>
-<li class="chapter" data-level="14.6" data-path="r-markdown.html"><a href="r-markdown.html#pimp-my-rmd-a-few-tips-for-r-markdown"><i class="fa fa-check"></i><b>14.6</b> Pimp my RMD: a few tips for R Markdown</a></li>
+<li class="chapter" data-level="14" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html"><i class="fa fa-check"></i><b>14</b> Reports: R Markdown and knitr</a><ul>
+<li class="chapter" data-level="14.1" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#r-markdown-the-definitive-guide"><i class="fa fa-check"></i><b>14.1</b> R Markdown: The Definitive Guide</a></li>
+<li class="chapter" data-level="14.2" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#r-markdown-cookbook"><i class="fa fa-check"></i><b>14.2</b> R Markdown Cookbook</a></li>
+<li class="chapter" data-level="14.3" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#getting-used-to-r-rstudio-and-r-markdown"><i class="fa fa-check"></i><b>14.3</b> Getting used to R, RStudio, and R Markdown</a></li>
+<li class="chapter" data-level="14.4" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#introduction-to-r-markdown"><i class="fa fa-check"></i><b>14.4</b> Introduction to R Markdown</a></li>
+<li class="chapter" data-level="14.5" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#rmarkdown-for-scientists"><i class="fa fa-check"></i><b>14.5</b> RMarkdown for Scientists</a></li>
+<li class="chapter" data-level="14.6" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#pimp-my-rmd-a-few-tips-for-r-markdown"><i class="fa fa-check"></i><b>14.6</b> Pimp my RMD: a few tips for R Markdown</a></li>
+<li class="chapter" data-level="14.7" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#knitr"><i class="fa fa-check"></i><b>14.7</b> knitr</a></li>
 </ul></li>
 <li class="chapter" data-level="15" data-path="r-package-development.html"><a href="r-package-development.html"><i class="fa fa-check"></i><b>15</b> R package development</a><ul>
 <li class="chapter" data-level="15.1" data-path="r-package-development.html"><a href="r-package-development.html#r-packages"><i class="fa fa-check"></i><b>15.1</b> R packages</a></li>
@@ -168,32 +172,31 @@
 </ul></li>
 <li class="chapter" data-level="16" data-path="r-programming.html"><a href="r-programming.html"><i class="fa fa-check"></i><b>16</b> R programming</a><ul>
 <li class="chapter" data-level="16.1" data-path="r-programming.html"><a href="r-programming.html#modern-r-with-the-tidyverse"><i class="fa fa-check"></i><b>16.1</b> Modern R with the tidyverse</a></li>
-<li class="chapter" data-level="16.2" data-path="r-programming.html"><a href="r-programming.html#what-they-forgot-to-teach-you-about-r"><i class="fa fa-check"></i><b>16.2</b> What They Forgot to Teach You About R</a></li>
-<li class="chapter" data-level="16.3" data-path="r-programming.html"><a href="r-programming.html#field-guide-to-the-r-ecosystem"><i class="fa fa-check"></i><b>16.3</b> Field Guide to the R Ecosystem</a></li>
-<li class="chapter" data-level="16.4" data-path="r-programming.html"><a href="r-programming.html#yarrr-the-pirates-guide-to-r"><i class="fa fa-check"></i><b>16.4</b> YaRrr! The Pirate’s Guide to R</a></li>
-<li class="chapter" data-level="16.5" data-path="r-programming.html"><a href="r-programming.html#advanced-r."><i class="fa fa-check"></i><b>16.5</b> Advanced R.</a></li>
-<li class="chapter" data-level="16.6" data-path="r-programming.html"><a href="r-programming.html#efficient-r-programming"><i class="fa fa-check"></i><b>16.6</b> Efficient R programming</a></li>
-<li class="chapter" data-level="16.7" data-path="r-programming.html"><a href="r-programming.html#the-tidyverse-cookbook"><i class="fa fa-check"></i><b>16.7</b> The Tidyverse Cookbook</a></li>
-<li class="chapter" data-level="16.8" data-path="r-programming.html"><a href="r-programming.html#the-tidyverse-style-guide"><i class="fa fa-check"></i><b>16.8</b> The tidyverse style guide</a></li>
-<li class="chapter" data-level="16.9" data-path="r-programming.html"><a href="r-programming.html#tidyverse-design-guide"><i class="fa fa-check"></i><b>16.9</b> Tidyverse design guide</a></li>
-<li class="chapter" data-level="16.10" data-path="r-programming.html"><a href="r-programming.html#hands-on-programming-with-r"><i class="fa fa-check"></i><b>16.10</b> Hands-On Programming with R</a></li>
-<li class="chapter" data-level="16.11" data-path="r-programming.html"><a href="r-programming.html#the-r-language"><i class="fa fa-check"></i><b>16.11</b> The R Language</a></li>
-<li class="chapter" data-level="16.12" data-path="r-programming.html"><a href="r-programming.html#r-language-for-programmers"><i class="fa fa-check"></i><b>16.12</b> R language for programmers</a></li>
-<li class="chapter" data-level="16.13" data-path="r-programming.html"><a href="r-programming.html#r-cookbook---2nd-edition"><i class="fa fa-check"></i><b>16.13</b> R Cookbook - 2nd edition</a></li>
-<li class="chapter" data-level="16.14" data-path="r-programming.html"><a href="r-programming.html#cookbook-for-r"><i class="fa fa-check"></i><b>16.14</b> Cookbook for R</a></li>
-<li class="chapter" data-level="16.15" data-path="r-programming.html"><a href="r-programming.html#tidy-evaluation"><i class="fa fa-check"></i><b>16.15</b> Tidy evaluation</a></li>
-<li class="chapter" data-level="16.16" data-path="r-programming.html"><a href="r-programming.html#python-to-r-the-tidynomicon"><i class="fa fa-check"></i><b>16.16</b> Python to R: The Tidynomicon</a></li>
+<li class="chapter" data-level="16.2" data-path="r-programming.html"><a href="r-programming.html#stats545-data-wrangling-exploration-and-analysis-with-r"><i class="fa fa-check"></i><b>16.2</b> stats545 Data wrangling, exploration, and analysis with R</a></li>
+<li class="chapter" data-level="16.3" data-path="r-programming.html"><a href="r-programming.html#what-they-forgot-to-teach-you-about-r"><i class="fa fa-check"></i><b>16.3</b> What They Forgot to Teach You About R</a></li>
+<li class="chapter" data-level="16.4" data-path="r-programming.html"><a href="r-programming.html#field-guide-to-the-r-ecosystem"><i class="fa fa-check"></i><b>16.4</b> Field Guide to the R Ecosystem</a></li>
+<li class="chapter" data-level="16.5" data-path="r-programming.html"><a href="r-programming.html#yarrr-the-pirates-guide-to-r"><i class="fa fa-check"></i><b>16.5</b> YaRrr! The Pirate’s Guide to R</a></li>
+<li class="chapter" data-level="16.6" data-path="r-programming.html"><a href="r-programming.html#advanced-r."><i class="fa fa-check"></i><b>16.6</b> Advanced R.</a></li>
+<li class="chapter" data-level="16.7" data-path="r-programming.html"><a href="r-programming.html#efficient-r-programming"><i class="fa fa-check"></i><b>16.7</b> Efficient R programming</a></li>
+<li class="chapter" data-level="16.8" data-path="r-programming.html"><a href="r-programming.html#the-tidyverse-cookbook"><i class="fa fa-check"></i><b>16.8</b> The Tidyverse Cookbook</a></li>
+<li class="chapter" data-level="16.9" data-path="r-programming.html"><a href="r-programming.html#the-tidyverse-style-guide"><i class="fa fa-check"></i><b>16.9</b> The tidyverse style guide</a></li>
+<li class="chapter" data-level="16.10" data-path="r-programming.html"><a href="r-programming.html#tidyverse-design-guide"><i class="fa fa-check"></i><b>16.10</b> Tidyverse design guide</a></li>
+<li class="chapter" data-level="16.11" data-path="r-programming.html"><a href="r-programming.html#hands-on-programming-with-r"><i class="fa fa-check"></i><b>16.11</b> Hands-On Programming with R</a></li>
+<li class="chapter" data-level="16.12" data-path="r-programming.html"><a href="r-programming.html#the-r-language"><i class="fa fa-check"></i><b>16.12</b> The R Language</a></li>
+<li class="chapter" data-level="16.13" data-path="r-programming.html"><a href="r-programming.html#r-language-for-programmers"><i class="fa fa-check"></i><b>16.13</b> R language for programmers</a></li>
+<li class="chapter" data-level="16.14" data-path="r-programming.html"><a href="r-programming.html#r-cookbook---2nd-edition"><i class="fa fa-check"></i><b>16.14</b> R Cookbook - 2nd edition</a></li>
+<li class="chapter" data-level="16.15" data-path="r-programming.html"><a href="r-programming.html#cookbook-for-r"><i class="fa fa-check"></i><b>16.15</b> Cookbook for R</a></li>
+<li class="chapter" data-level="16.16" data-path="r-programming.html"><a href="r-programming.html#tidy-evaluation"><i class="fa fa-check"></i><b>16.16</b> Tidy evaluation</a></li>
 <li class="chapter" data-level="16.17" data-path="r-programming.html"><a href="r-programming.html#the-r-inferno"><i class="fa fa-check"></i><b>16.17</b> The R Inferno</a></li>
 <li class="chapter" data-level="16.18" data-path="r-programming.html"><a href="r-programming.html#a-sufficient-introduction-to-r"><i class="fa fa-check"></i><b>16.18</b> A sufficient Introduction to R</a></li>
 <li class="chapter" data-level="16.19" data-path="r-programming.html"><a href="r-programming.html#mastering-software-development-in-r"><i class="fa fa-check"></i><b>16.19</b> Mastering Software Development in R</a></li>
-<li class="chapter" data-level="16.20" data-path="r-programming.html"><a href="r-programming.html#knitr"><i class="fa fa-check"></i><b>16.20</b> knitr</a></li>
-<li class="chapter" data-level="16.21" data-path="r-programming.html"><a href="r-programming.html#the-caret-package"><i class="fa fa-check"></i><b>16.21</b> The caret Package</a></li>
+<li class="chapter" data-level="16.20" data-path="r-programming.html"><a href="r-programming.html#introduction-to-r---r-spatial"><i class="fa fa-check"></i><b>16.20</b> Introduction to R - R spatial</a></li>
 </ul></li>
 <li class="chapter" data-level="17" data-path="shiny.html"><a href="shiny.html"><i class="fa fa-check"></i><b>17</b> Shiny</a><ul>
 <li class="chapter" data-level="17.1" data-path="shiny.html"><a href="shiny.html#a-gradual-introduction-to-shiny"><i class="fa fa-check"></i><b>17.1</b> A gRadual intRoduction to Shiny</a></li>
 <li class="chapter" data-level="17.2" data-path="shiny.html"><a href="shiny.html#mastering-shiny"><i class="fa fa-check"></i><b>17.2</b> Mastering Shiny</a></li>
 <li class="chapter" data-level="17.3" data-path="shiny.html"><a href="shiny.html#shiny-production-with-aws-book"><i class="fa fa-check"></i><b>17.3</b> Shiny Production with AWS Book</a></li>
-<li class="chapter" data-level="17.4" data-path="shiny.html"><a href="shiny.html#production-shiny-app"><i class="fa fa-check"></i><b>17.4</b> Production Shiny App</a></li>
+<li class="chapter" data-level="17.4" data-path="shiny.html"><a href="shiny.html#engineering-production-grade-shiny-apps"><i class="fa fa-check"></i><b>17.4</b> Engineering Production-Grade Shiny Apps</a></li>
 <li class="chapter" data-level="17.5" data-path="shiny.html"><a href="shiny.html#supplement-to-shiny-in-production"><i class="fa fa-check"></i><b>17.5</b> Supplement to Shiny in Production</a></li>
 <li class="chapter" data-level="17.6" data-path="shiny.html"><a href="shiny.html#outstanding-user-interfaces-with-shiny"><i class="fa fa-check"></i><b>17.6</b> Outstanding User Interfaces with Shiny</a></li>
 </ul></li>
@@ -202,13 +205,12 @@
 <li class="chapter" data-level="18.2" data-path="statistics.html"><a href="statistics.html#learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners.-version-0.6.1"><i class="fa fa-check"></i><b>18.2</b> Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6.1)</a></li>
 <li class="chapter" data-level="18.3" data-path="statistics.html"><a href="statistics.html#answering-questions-with-data"><i class="fa fa-check"></i><b>18.3</b> Answering questions with data</a></li>
 <li class="chapter" data-level="18.4" data-path="statistics.html"><a href="statistics.html#forecasting-principles-and-practice"><i class="fa fa-check"></i><b>18.4</b> Forecasting: Principles and Practice</a></li>
-<li class="chapter" data-level="18.5" data-path="statistics.html"><a href="statistics.html#stats545"><i class="fa fa-check"></i><b>18.5</b> stats545</a></li>
-<li class="chapter" data-level="18.6" data-path="statistics.html"><a href="statistics.html#an-introduction-to-statistical-and-data-sciences-via-r"><i class="fa fa-check"></i><b>18.6</b> An Introduction to Statistical and Data Sciences via R</a></li>
-<li class="chapter" data-level="18.7" data-path="statistics.html"><a href="statistics.html#statistical-rethinking"><i class="fa fa-check"></i><b>18.7</b> Statistical Rethinking</a></li>
-<li class="chapter" data-level="18.8" data-path="statistics.html"><a href="statistics.html#openintro-statistics"><i class="fa fa-check"></i><b>18.8</b> OpenIntro Statistics</a></li>
-<li class="chapter" data-level="18.9" data-path="statistics.html"><a href="statistics.html#statistical-inference-for-data-science"><i class="fa fa-check"></i><b>18.9</b> Statistical inference for data science</a></li>
-<li class="chapter" data-level="18.10" data-path="statistics.html"><a href="statistics.html#statistics-the-easier-way-with-r-3rd.-ed.-tidyversion"><i class="fa fa-check"></i><b>18.10</b> Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)</a></li>
-<li class="chapter" data-level="18.11" data-path="statistics.html"><a href="statistics.html#end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inference"><i class="fa fa-check"></i><b>18.11</b> End-to-End Solved Problems With R: a catalog of 26 examples using statistical inference</a></li>
+<li class="chapter" data-level="18.5" data-path="statistics.html"><a href="statistics.html#an-introduction-to-statistical-and-data-sciences-via-r"><i class="fa fa-check"></i><b>18.5</b> An Introduction to Statistical and Data Sciences via R</a></li>
+<li class="chapter" data-level="18.6" data-path="statistics.html"><a href="statistics.html#statistical-rethinking"><i class="fa fa-check"></i><b>18.6</b> Statistical Rethinking</a></li>
+<li class="chapter" data-level="18.7" data-path="statistics.html"><a href="statistics.html#openintro-statistics"><i class="fa fa-check"></i><b>18.7</b> OpenIntro Statistics</a></li>
+<li class="chapter" data-level="18.8" data-path="statistics.html"><a href="statistics.html#statistical-inference-for-data-science"><i class="fa fa-check"></i><b>18.8</b> Statistical inference for data science</a></li>
+<li class="chapter" data-level="18.9" data-path="statistics.html"><a href="statistics.html#statistics-the-easier-way-with-r-3rd.-ed.-tidyversion"><i class="fa fa-check"></i><b>18.9</b> Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)</a></li>
+<li class="chapter" data-level="18.10" data-path="statistics.html"><a href="statistics.html#end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inference"><i class="fa fa-check"></i><b>18.10</b> End-to-End Solved Problems With R: a catalog of 26 examples using statistical inference</a></li>
 </ul></li>
 <li class="chapter" data-level="19" data-path="version-control.html"><a href="version-control.html"><i class="fa fa-check"></i><b>19</b> Version control</a><ul>
 <li class="chapter" data-level="19.1" data-path="version-control.html"><a href="version-control.html#happy-git-and-github-for-the-user"><i class="fa fa-check"></i><b>19.1</b> Happy Git and GitHub for the useR</a></li>
@@ -227,11 +229,12 @@
 <li class="chapter" data-level="21.7" data-path="field-specific.html"><a href="field-specific.html#an-introduction-to-quantitative-analysis-of-political-data-in-r"><i class="fa fa-check"></i><b>21.7</b> An introduction to quantitative analysis of political data in R</a></li>
 <li class="chapter" data-level="21.8" data-path="field-specific.html"><a href="field-specific.html#orchestrating-single-cell-analysis-with-bioconductor"><i class="fa fa-check"></i><b>21.8</b> Orchestrating Single-Cell Analysis with Bioconductor</a></li>
 <li class="chapter" data-level="21.9" data-path="field-specific.html"><a href="field-specific.html#modern-statistics-for-modern-biology"><i class="fa fa-check"></i><b>21.9</b> Modern Statistics for Modern Biology</a></li>
-<li class="chapter" data-level="21.10" data-path="field-specific.html"><a href="field-specific.html#machine-learning-for-factor-investing-1"><i class="fa fa-check"></i><b>21.10</b> Machine Learning for Factor Investing</a></li>
-<li class="chapter" data-level="21.11" data-path="field-specific.html"><a href="field-specific.html#computational-genomics-with-r"><i class="fa fa-check"></i><b>21.11</b> Computational Genomics with R</a></li>
-<li class="chapter" data-level="21.12" data-path="field-specific.html"><a href="field-specific.html#introduction-to-econometrics-with-r"><i class="fa fa-check"></i><b>21.12</b> Introduction to Econometrics with R</a></li>
-<li class="chapter" data-level="21.13" data-path="field-specific.html"><a href="field-specific.html#data-analysis-for-the-life-sciences"><i class="fa fa-check"></i><b>21.13</b> Data Analysis for the Life Sciences</a></li>
-<li class="chapter" data-level="21.14" data-path="field-specific.html"><a href="field-specific.html#how-to-be-a-modern-scientist"><i class="fa fa-check"></i><b>21.14</b> How to be a modern scientist</a></li>
+<li class="chapter" data-level="21.10" data-path="field-specific.html"><a href="field-specific.html#statistics-in-r-for-biodiversity-conservation-paperback"><i class="fa fa-check"></i><b>21.10</b> Statistics in R for Biodiversity Conservation Paperback</a></li>
+<li class="chapter" data-level="21.11" data-path="field-specific.html"><a href="field-specific.html#machine-learning-for-factor-investing-1"><i class="fa fa-check"></i><b>21.11</b> Machine Learning for Factor Investing</a></li>
+<li class="chapter" data-level="21.12" data-path="field-specific.html"><a href="field-specific.html#computational-genomics-with-r"><i class="fa fa-check"></i><b>21.12</b> Computational Genomics with R</a></li>
+<li class="chapter" data-level="21.13" data-path="field-specific.html"><a href="field-specific.html#introduction-to-econometrics-with-r"><i class="fa fa-check"></i><b>21.13</b> Introduction to Econometrics with R</a></li>
+<li class="chapter" data-level="21.14" data-path="field-specific.html"><a href="field-specific.html#data-analysis-for-the-life-sciences"><i class="fa fa-check"></i><b>21.14</b> Data Analysis for the Life Sciences</a></li>
+<li class="chapter" data-level="21.15" data-path="field-specific.html"><a href="field-specific.html#how-to-be-a-modern-scientist"><i class="fa fa-check"></i><b>21.15</b> How to be a modern scientist</a></li>
 </ul></li>
 <li class="chapter" data-level="22" data-path="other-compendiums.html"><a href="other-compendiums.html"><i class="fa fa-check"></i><b>22</b> Other compendiums</a><ul>
 <li class="chapter" data-level="22.1" data-path="other-compendiums.html"><a href="other-compendiums.html#use-r-springer-series"><i class="fa fa-check"></i><b>22.1</b> Use R! Springer series</a></li>
@@ -264,10 +267,12 @@ Published with bookdown</a></center></li>
 <h1><span class="header-section-number">5</span> Bookdown</h1>
 <div id="bookdown-authoring-books-and-technical-documents-with-r-markdown" class="section level2">
 <h2><span class="header-section-number">5.1</span> bookdown: Authoring Books and Technical Documents with R Markdown</h2>
+<p>This short book introduces an R package, bookdown, to change your workflow of writing books. It should be technically easy to write a book, visually pleasant to view the book, fun to interact with the book, convenient to navigate through the book, straightforward for readers to contribute or leave feedback to the book author(s), and more importantly, authors should not always be distracted by typesetting details.</p>
 <p><a href="https://bookdown.org/yihui/bookdown/" class="uri">https://bookdown.org/yihui/bookdown/</a></p>
 </div>
 <div id="a-minimal-book-example" class="section level2">
 <h2><span class="header-section-number">5.2</span> A Minimal Book Example</h2>
+<p>This is a sample book written in Markdown.</p>
 <p><a href="https://benmarwick.github.io/bookdown-ort/" class="uri">https://benmarwick.github.io/bookdown-ort/</a></p>
 </div>
 </div>
@@ -282,11 +287,13 @@ Published with bookdown</a></center></li>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -294,12 +301,11 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -311,6 +317,10 @@ gitbook.start({
 "text": null
 },
 "history": {
+"link": null,
+"text": null
+},
+"view": {
 "link": null,
 "text": null
 },

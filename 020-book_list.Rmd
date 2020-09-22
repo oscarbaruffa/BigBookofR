@@ -6,18 +6,23 @@
 ## Build Your Career in Data Science
 Not R-specific but a great read! 
 
+You are going to need more than technical knowledge to succeed as a data scientist. Build a Career in Data Science teaches you what school leaves out, from how to land your first job to the lifecycle of a data science project, and even how to become a manager.
+
 https://www.manning.com/books/build-a-career-in-data-science
 
 
 ##  Twitter for R Programmers
 [Oscar Baruffa](https://twitter.com/OscarBaruffa), [Veerle van Son](https://twitter.com/veerlevanson)
 
-A guide to help R programmers join the very active and friendly community on Twitter.
+The R community is very active on Twitter. You can learn a lot about the language, about new approaches to problems, make friends and even land a job or next contract. It’s a real-time pulse of the R community.What can you gain from becoming active on Twitter? This book will talk about the benefits and it will show you how to use Twitter.
 
 https://www.t4rstats.com
 
 
 ##  Twitter for Scientists
+
+Not R-specific, but as many R users are also Scientists this book can really help. 
+
 https://t4scientists.com/
 
 
@@ -66,13 +71,22 @@ https://datasciencebox.org/
 
 # Blogdown
 ## blogdown: Creating Websites with R Markdown
+
+We introduce an R package, blogdown, in this short book, to teach you how to create websites using R Markdown and Hugo.
+
 https://bookdown.org/yihui/blogdown/
 
 # Bookdown
 ##  bookdown: Authoring Books and Technical Documents with R Markdown
+
+This short book introduces an R package, bookdown, to change your workflow of writing books. It should be technically easy to write a book, visually pleasant to view the book, fun to interact with the book, convenient to navigate through the book, straightforward for readers to contribute or leave feedback to the book author(s), and more importantly, authors should not always be distracted by typesetting details.
+
 https://bookdown.org/yihui/bookdown/
 
 ##  A Minimal Book Example
+
+This is a sample book written in Markdown.
+
 https://benmarwick.github.io/bookdown-ort/
 
 
@@ -81,17 +95,27 @@ https://benmarwick.github.io/bookdown-ort/
 ## R for Data Science 
 [Hadley Whickham](https://twitter.com/hadleywickham) [Garret Grolemund](https://twitter.com/StatGarrett)
 
-A really good place to start
+This is the website for “R for Data Science”. This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it. In this book, you will find a practicum of skills for data science. Just as a chemist learns how to clean test tubes and stock a lab, you’ll learn how to clean data and draw plots—and many other things besides. These are the skills that allow data science to happen, and here you will find the best practices for doing each of these things with R. You’ll learn how to use the grammar of graphics, literate programming, and reproducible research to save time. You’ll also learn how to manage cognitive resources to facilitate discoveries when wrangling, visualising, and exploring data.
 
 https://r4ds.had.co.nz/
+
 
 ## R for Data Science Solutions
 Solutions for the hadley and Grolemund R4Ds book
 
 https://jrnold.github.io/r4ds-exercise-solutions/
 
+*Yet another ‘R for Data Science’ study guide*
+
+An alternative set of solutions for R4Ds. 
+
+https://brshallo.github.io/r4ds_solutions/
+
 ## Introduction to Data Science 
 Rafael A Irizarry 
+
+The demand for skilled data science practitioners in industry, academia, and government is rapidly growing. This book introduces concepts and skills that can help you tackle real-world data analysis challenges. It covers concepts from probability, statistical inference, linear regression, and machine learning. It also helps you develop skills such as R programming, data wrangling with dplyr, data visualization with ggplot2, algorithm building with caret, file organization with UNIX/Linux shell, version control with Git and GitHub, and reproducible document preparation with knitr and R markdown. 
+
 
 https://rafalab.github.io/dsbook/
 
@@ -103,17 +127,37 @@ https://leanpub.com/datasciencebook
 ## R Programming for Data Science
 Roger Peng
 
+This book is about the fundamentals of R programming. You will get started with the basics of the language, learn how to manipulate datasets, how to write functions, and how to debug and optimize code. With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox.
+
+
 https://bookdown.org/rdpeng/rprogdatascience/
 
 ## Exploratory Data Analysis… by Roger D. Peng 
+Roger Peng
+
+This book teaches you to use R to effectively visualize and explore complex datasets. Exploratory data analysis is a key part of the data science process because it allows you to sharpen your question and refine your modeling strategies. This book is based on the industry-leading Johns Hopkins Data Science Specialization
+
 Pay what you want, minimum $0.00
 
 https://leanpub.com/exdata
 
 ## edav.info/
+Zach Bogart, Joyce Robbins
+
+With this resource, we try to give you a curated collection of tools and references that will make it easier to learn how to work with data in R.
+
+In addition, we include sections on basic chart types/tools so you can learn by doing.
+
+There are also several walkthroughs where we work with data and discuss problems as well as some tips/tricks that will help you.
+
 https://edav.info/
 
 ## APS 135: Introduction to Exploratory Data Analysis with R
+Dylan Z. Childs
+
+This is the online course book for the Introduction to Exploratory Data Analysis with R component of APS 135, a module taught by the Department and Animal and Plant Sciences at the University of Sheffield. You will be introduced to the R ecosystem.You will learn how to use R to carry out data manipulation and visualisation.This book provides a foundation for learning statistics later on.
+
+
 https://dzchilds.github.io/eda-for-bio/
 
 ## The Art of Data Science
@@ -158,6 +202,11 @@ https://leanpub.com/datastyle
 # Data Visualization
 
 ##  ggplot2: Elegant Graphics for Data Analysis
+Hadley Wickham
+
+ggplot2 is an R package for producing statistical, or data, graphics. Unlike most other graphics packages, ggplot2 has an underlying grammar, based on the Grammar of Graphics (Wilkinson 2005), that allows you to compose graphs by combining independent components. This makes ggplot2 powerful. Rather than being limited to sets of pre-defined graphics, you can create novel graphics that are tailored to your specific problem.
+
+
 https://ggplot2-book.org/
 
 ## ggplot2 in 2 
@@ -165,7 +214,7 @@ Lucy D'Agostino McGowan
 
 Pay what you want, minimum $4.99
 
-Really good overview of ggplot2. Oscar Baruffa made a sped-up [screencast](https://youtu.be/_G7_J8M9588) while working through it. 
+Really good overview of ggplot2. The premise is that you'll cover the fundamentals in 2 hours. Oscar Baruffa made a sped-up [screencast](https://youtu.be/_G7_J8M9588) while working through it. It did take 2 hours :).
 
 https://leanpub.com/ggplot2in2
 
@@ -181,15 +230,24 @@ https://socviz.co/
 
 
 ## Data Processing & Visualization
+
+This document provides some tools, demonstrations, and more to make data processing, programming, modeling, visualization, and presentation easier.While the programming language focus is on R, where applicable (which is most of the time), Python notebooks are also available,.
+
+
 https://m-clark.github.io/data-processing-and-visualization/
 
 ## Data Visualization in R
 Brooke Anderson
 
+Workshop for the 2019 Navy and Marine Corps Public Health Conference. I have based this workshop on examples for you to try yourself, because you won’t be able to learn how to program unless you try it out. I’ve picked example data that I hope will be interesting to Navy and Marine Corp public health researchers and practitioners. 
+
 https://geanders.github.io/navy_public_health/index.html#prerequisites
 
 ## Data Visualization with R
 Rob Kabakoff
+
+This book helps you create the most popular visualizations - from quick and dirty plots to publication-ready graphs. The text relies heavily on the ggplot2 package for graphics, but other approaches are covered as well.
+
 
 https://rkabacoff.github.io/datavis/
 
@@ -204,9 +262,17 @@ https://r-graphics.org/
 
 
 ## plotly Interactive web-based data visualization with R, plotly, and shiny
+Carson Sievert
+
+In this book, you’ll gain insight and practical skills for creating interactive and dynamic web graphics for data analysis from R. It makes heavy use of plotly for rendering graphics, but you’ll also learn about other R packages that augment a data science workflow, such as the tidyverse and shiny. Along the way, you’ll gain insight into best practices for visualization of high-dimensional data, statistical graphics, and graphical perception.
+
+
 https://plotly-r.com/
 
 ## BBC Visual and Data Journalism cookbook for R graphics
+
+At the BBC data team, we have developed an R package and an R cookbook to make the process of creating publication-ready graphics in our in-house style using R’s ggplot2 library a more reproducible process, as well as making it easier for people new to R to create graphics.
+
 https://bbc.github.io/rcookbook/
 
 
@@ -221,21 +287,43 @@ https://clauswilke.com/dataviz/
 
 # Distributed computing
 ## Mastering Spark with R
+Javier Luraschi, Kevin Kuo, Edgar Ruiz
+
+In this book you will learn how to use Apache Spark with R. The book intends to take someone unfamiliar with Spark or R and help you become proficient by teaching you a set of tools, skills and practices applicable to large-scale data science.
+
+PS the first chapter has a Jon Snow quote ;)
+
 https://therinspark.com/
 
 
 # Getting, cleaning and wrangling data
 ##  A Beginner's Guide to Clean Data - beginners-guide-to-clean-data
+Benjamin Greve
+
+This book will help you to become a better data scientist by showing you the things that can go wrong when working with data - particularly low-quality data. A key difference between a junior and a senior data scientist is the awareness of potential pitfalls. The experienced data scientist will expect them, navigate around them and avoid costly iteration cycles. After reading this book, you will be able to spot data quality problems and deal with them before they can break your work, saving yourself a lot of time.
+
 https://b-greve.gitbook.io/beginners-guide-to-clean-data/
 
 ## 21 Recipes for Mining Twitter Data with rtweet
+Bob Rudis
+
+The recipes contained in this book use the rtweet package by Michael W. Kearney. 
+
 https://rud.is/books/21-recipes/
 
 ## Text Mining with R
+Julia Silge and David Robinson
+
+This book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.
+
+
 https://www.tidytextmining.com/
 
 ## Spreadsheet Munging Strategies
-Great for dealing with messy spreadsheets
+Duncan Garmonsway
+
+This is a work-in-progress book about getting data out of spreadsheets, no matter how peculiar. The book is designed primarily for R users who have to extract data from spreadsheets and who are already familiar with the tidyverse. It has a cookbook structure, and can be used as a reference, but readers who begin in the middle might have to work backwards from time to time.
+
 
 https://nacnudus.github.io/spreadsheet-munging-strategies/
 
@@ -245,24 +333,45 @@ https://nacnudus.github.io/spreadsheet-munging-strategies/
 # Geospatial
 
 ## Geocomputation with R
+Robin Lovelace, Jakub Nowosad, Jannes Muenchow
+
+This is the online home of Geocomputation with R, a book on geographic data analysis, visualization and modeling.
+
 https://geocompr.robinlovelace.net/
 
 ## Spatial Data Science
+Edzer Pebesma, Roger Bivand
+
+This book introduces and explains the concepts underlying spatial data: points, lines, polygons, rasters, coverages, geometry attributes, data cubes, reference systems, as well as higher-level concepts including how attributes relate to geometries and how this affects analysis.
+
 https://keen-swartz-3146c4.netlify.app/
 
 ## Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny
+Paula Moraga
+
+This book describes spatial and spatio-temporal statistical methods and visualization techniques to analyze georeferenced health data in R. After a detailed introduction of geospatial data, the book shows how to develop Bayesian hierarchical models for disease mapping and apply computational approaches such as the integrated nested Laplace approximation (INLA) and the stochastic partial differential equation (SPDE) to analyze areal and geostatistical data.
+
 https://www.paulamoraga.com/book-geospatial/
 
-## Introduction to R - R Spatial
-https://rspatial.org/intr/index.html
+
 
 
 # Machine Learning
 
 ##  Hands-On Machine Learning with R
+Bradley Boehmke & Brandon Greenwell
+
+This book provides hands-on modules for many of the most common machine learning methods to include:
+
+Generalized low rank models, Clustering algorithms, Autoencoders, Regularized models, Random forests, Gradient boosting machines, Deep neural networks, Stacking / super learners and more!
+
 https://bradleyboehmke.github.io/HOML/
 
 ## Feature Engineering and Selection: A Practical Approach for Predictive Models
+Max Kuhn and Kjell Johnson
+
+The goals of Feature Engineering and Selection are to provide tools for re-representing predictors, to place these tools in the context of a good predictive modeling framework, and to convey our experience of utilizing these tools in practice. 
+
 http://www.feat.engineering/index.html
 
 ## Interpretable Machine Learning
@@ -294,15 +403,29 @@ This book is intended to cover some advanced modelling techniques applied to equ
 http://www.mlfactor.com/
 
 
+## The caret Package
+[Max Kuhn](mxkuhn@gmail.com)
+
+The caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models. 
+
+This book is free online.
+
+https://topepo.github.io/caret/index.html
 
 
 # Network analysis
 ##  Network Analysis in R Cookbook
+Sacha Epskamp
+
 http://sachaepskamp.com/files/Cookbook.html
 
 # Text analysis
 
 ## Text Mining with R
+Julia Silge and David Robinson
+
+This book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.
+
 https://www.tidytextmining.com/
 
 ## Supervised Machine Learning for Text Analysis in R
@@ -312,7 +435,7 @@ Modeling as a statistical practice can encompass a wide variety of activities. T
 
 https://smltar.com/
 
-# R Markdown
+# Reports: R Markdown and knitr
 
 ## R Markdown: The Definitive Guide
 
@@ -331,16 +454,44 @@ This book showcases short, practical examples of lesser-known tips and tricks to
 https://bookdown.org/yihui/rmarkdown-cookbook/
 
 ## Getting used to R, RStudio, and R Markdown
+Chester Ismay
+
+This resource is designed to provide new users to R, RStudio, and R Markdown with the introductory steps needed to begin their own reproducible research. A review of many of the common R errors encountered (and what they mean in layman’s terms) will also provided be provided.
+
 https://bookdown.org/chesterismay/rbasics/
 
 ## Introduction to R Markdown
+Michael Clark
+
+The goal is for you to be able to get quickly started with your own document, and understand the possibilities available to you. You will get a feel for the basic mechanics at play, as well as have ideas on how to customize the result to your own tastes.
+
 https://m-clark.github.io/Introduction-to-Rmarkdown/
 
 ## RMarkdown for Scientists
+Nicholas Tierney
+
+This is a book on rmarkdown, aimed for scientists. It was initially developed as a 3 hour workshop, but is now developed into a resource that will grow and change over time as a living book.
+
+
 https://rmd4sci.njtierney.com/
 
 ## Pimp my RMD: a few tips for R Markdown
+Yan Holtz 
+
+R markdown creates interactive reports from R code. This post provides a few tips I use on a daily basis to improve the appearance of output documents. 
+
 https://holtzy.github.io/Pimp-my-rmd/
+
+## knitr
+[Yihui Xie](https://yihui.org/)
+
+Dynamic documents with R and knitr! 
+
+The knitr package was designed to be a transparent engine for dynamic report generation with R, solve some long-standing problems in Sweave, and combine features in other add-on packages into one package. 
+
+The book is free online.
+
+https://yihui.org/knitr/
 
 
 # R package development
@@ -361,15 +512,52 @@ https://devguide.ropensci.org/index.html
 
 # R programming
 ##  Modern R with the tidyverse
+Bruno Rodrigues
+
+This book can be useful to different audiences. If you have never used R in your life, and want to start, start with Chapter 1 of this book. Chapter 1 to 3 are the very basics, and should be easy to follow up to Chapter 9. Starting with Chapter 9, it gets more technical, and will be harder to follow. But I suggest you keep on going, and do not hesitate to contact me for help if you struggle! Chapter 9 is also where you can start if you are already familiar with R and the {tidyverse}, but not functional programming. If you are familiar with R but not the {tidyverse} (or have no clue what the {tidyverse} is), then you can start with Chapter 4. If you are familiar with R, the {tidyverse} and functional programming, you might still be interested in this book, especially Chapter 9 and 10, which deal with package development and further advanced topics respectively.
+
 https://b-rodrigues.github.io/modern_R/
 
+## stats545 Data wrangling, exploration, and analysis with R
+Jenny Bryan
+
+Learn how to:
+
+Explore, groom, visualize, and analyze data, make all of that reproducible, reusable, and shareable, using R.
+This site is about everything that comes up during data analysis except for statistical modelling and inference. 
+
+
+https://stat545.com/
+
+
 ##  What They Forgot to Teach You About R
+Jennifer Bryan and Jim Hester
+
+The initial impetus for creating these materials is a two-day hands-on workshop. The target learner:
+
+Has a moderate amount of R and RStudio experience.Is largely self-taught.Suspects they have drifted into some idiosyncratic habits that may slow them down or make their work products more brittle.Is interested in (re)designing their R lifestyle, to be more effective and more self-sufficient.
+
 https://rstats.wtf/
 
+
 ## Field Guide to the R Ecosystem
+Mark Sellors
+
+This field guide aims to introduce the reader to the main components of the R ecosystem that may be encountered in “the field”.Whatever the reason, whilst there is a wealth of in-depth information for people actually using the language, I could find precious little information that provided the sort of overview of the ecosystem that I know I’d have appreciated when I first came to the language. And with that thought, a field guide is born…
+
 https://fg2re.sellorm.com/
 
 ## YaRrr! The Pirate’s Guide to R
+Nathaniel D. Phillips
+
+Learn R from the ground up.
+
+Let me make something very, very clear…
+
+I did not write this book.
+
+This whole story started in the Summer of 2015. I was taking a late night swim on the Bodensee in Konstanz and saw a rusty object sticking out of the water. Upon digging it out, I realized it was an ancient usb-stick with the word YaRrr inscribed on the side. Intrigued, I brought it home and plugged it into my laptop. Inside the stick, I found a single pdf file written entirely in pirate-speak. After watching several pirate movies, I learned enough pirate-speak to begin translating the text to English. Sure enough, the book turned out to be an introduction to R called The Pirate’s Guide to R.
+
 https://bookdown.org/ndphillips/YaRrr/
 
 ## Advanced R.
@@ -392,6 +580,10 @@ The book is free online.
 https://csgillespie.github.io/efficientR/
 
 ## The Tidyverse Cookbook
+Edited by Garrett Grolemund
+
+This book collects code recipes for doing data science with R’s tidyverse. Each recipe solves a single common task, with a minimum of discussion. 
+
 https://rstudio-education.github.io/tidyverse-cookbook/
 
 ## The tidyverse style guide
@@ -420,18 +612,38 @@ It is used by the tidyverse team to promote consistency across packages in the c
 https://design.tidyverse.org/
 
 ## Hands-On Programming with R
+Garrett Grolemund
+
+This book will teach you how to program in R, with hands-on examples. I wrote it for non-programmers to provide a friendly introduction to the R language. You’ll learn how to load data, assemble and disassemble data objects, navigate R’s environment system, write your own functions, and use all of R’s programming tools. Throughout the book, you’ll use your newfound skills to solve practical data science problems.
+
+
 https://rstudio-education.github.io/hopr/
 
 ## The R Language
 [R Core team](https://stat.ethz.ch/R-manual/R-patched/doc/AUTHORS)
+
+A collection of manuals:
+1. An Introduction to R	
+1. The R Language Definition
+1. Writing R Extensions	
+1. R Installation and Administration
+1. R Data Import/Export	
+1. R Internals
+
 https://stat.ethz.ch/R-manual/R-patched/doc/html/
 
 ## R language for programmers
 [John D Cook](https://www.johndcook.com/blog/services-2/)
+
+I have written software professionally in perhaps a dozen programming languages, and the hardest language for me to learn has been R. The language is actually fairly simple, but it is unconventional. These notes are intended to make the language easier to learn for someone used to more commonly used languages such as C++, Java, Perl, etc.
+
+
 https://www.johndcook.com/blog/r_language_for_programmers/
 
 ## R Cookbook - 2nd edition
 JD Long, Paul Teetor
+
+I have written software professionally in perhaps a dozen programming languages, and the hardest language for me to learn has been R. The language is actually fairly simple, but it is unconventional. These notes are intended to make the language easier to learn for someone used to more commonly used languages such as C++, Java, Perl, etc.
 
 Not to be confused with Cookbook for R
 https://rc2e.com/index.html
@@ -439,15 +651,26 @@ https://rc2e.com/index.html
 ## Cookbook for R
 Winston Chang
 
+The goal of the cookbook is to provide solutions to common tasks and problems in analyzing data.
+
 Not to be confused with R Cookbook
 http://www.cookbook-r.com/
 
 
 ## Tidy evaluation
+Lionel Henry and Hadley Wickham
+
+This guide is now superseded by more recent efforts at documenting tidy evaluation in a user-friendly way. We now recommend reading:
+
+The new Programming with dplyr vignette.
+
+The Using ggplot2 in packages vignette.
+
+(Oscar's note: I'm keeping this in for my own reference)
+
 https://tidyeval.tidyverse.org/
 
-## Python to R: The Tidynomicon
-http://tidynomicon.tech/
+
 
 ## The R Inferno
 Patrick Burns
@@ -458,69 +681,97 @@ https://www.burns-stat.com/pages/Tutor/R_inferno.pdf
 
 ## A sufficient Introduction to R
 Derek l. Sonderegger
+
+This book is intended to guide people that are completely new to programming along a path towards a useful skill level using R. I belive that while people can get by with just copying code chunks, that doesn’t give them the background information to modify the code in non-trivial ways. Therefore we will spend more time on foundational details than a “crash-course” would.
+
+
 https://dereksonderegger.github.io/570L/
 
 ## Mastering Software Development in R
 [Roger D. Peng](https://twitter.com/rdpeng), [Sean Kross](https://twitter.com/seankross), 
 and [Brooke Anderson](https://twitter.com/gbwanderson)
 
-This book covers R software development for building data science tools. 
-This book provides rigorous training in the R language and covers modern 
-software development practices for building tools that are highly reusable, 
-modular, and suitable for use in a team-based environment or a community of 
+This book covers R software development for building data science tools. This book provides rigorous training in the R language and covers modern software development practices for building tools that are highly reusable, modular, and suitable for use in a team-based environment or a community of 
 developers.
 
 Pay what you want for the ebook, minimum $0.00
 
 https://leanpub.com/msdr
 
-## knitr
-[Yihui Xie](https://yihui.org/)
+## Introduction to R - R spatial 
+R Spatial
 
-Dynamic documents with R and knitr!  
+This document provides a concise introduction to R. It emphasizes what you need to know to be able to use the language in any context. There is no fancy statistical analysis here. We just present the basics of the R language itself. We do not assume that you have done any computer programming before (but we do assume that you think it is about time you did). Experienced R users obviously need not read this. But the material may be useful if you want to refresh your memory, if you have not used R much, or if you feel confused.
 
-The book is free online.
+https://rspatial.org/intr/index.html
 
-https://yihui.org/knitr/
 
-## The caret Package
-[Max Kuhn](mxkuhn@gmail.com)
 
-The caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models. T
-
-This book is free online.
-
-https://topepo.github.io/caret/index.html
 
 # Shiny
 ## A gRadual intRoduction to Shiny
+Ted Laderas and Jessica Minnier
+
+By the end of this workshop, you should be able to:
+
+Browse examples in the shiny gallery and understand how they work.Understand the components of a Shiny app and how they communicate.Learn three basic design patterns to the shiny apps.
+
 https://laderast.github.io/gradual_shiny/
 
 ##  Mastering Shiny
+Hadley Wickham
+
+This book complements Shiny’s online documentation and is intended to help app authors develop a deeper understanding of Shiny. After reading this book, you’ll be able to write apps that have more customized UI, more maintainable code, and better performance and scalability.
+
 https://mastering-shiny.org/
 
 
 ##  Shiny Production with AWS Book
+Business Science
+
+A big problem exists… No one teaches Data Scientists how to deploy web applications. You spend all of this time building Shiny web applications. And then… [silence].
+
+This book alongside the Shiny Developer with AWS Course (DS4B 202A-R) solves this problem - teaching Data Scientists how to deploy, host, and maintain web applications.
+
 https://business-science.github.io/shiny-production-with-aws-book/
 
-## Production Shiny App
+## Engineering Production-Grade Shiny Apps
+Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard
+
+This book will not get you started with Shiny, nor talk how to work with Shiny once it is sent to production. What we’ll see is the process of building an application that will later be sent to production.
+
 https://engineering-shiny.org/
 
 ## Supplement to Shiny in Production 
+
+This document is full of supplemental resources and content from the [Shiny in Production Workshop](https://rstudio.com/resources/rstudioconf-2019/shiny-in-production-principles-practices-and-tools/) delievered at rstudio::conf 2019.
+
 https://kellobri.github.io/shiny-prod-book/
 
 ## Outstanding User Interfaces with Shiny
+David Granjon
+
+This book will help you to:
+
+Manipulate Shiny tags from R to create custom layouts. Harness the power of CSS and JavaScript to quickly design apps standing out from the pack. Discover the steps to import and convert existing web frameworks like Bootstrap 4, framework7 and more
+Learn how Shiny internally deals with inputs. Learn more about less documented Shiny mechanisms (websockets, sessions, …)
+
 https://divadnojnarg.github.io/outstanding-shiny-ui/
+
 
 # Statistics
 
 ##  Common statistical tests are linear models: a work through
+Steve Doogue
+
+This is a reworking of the book Common statistical tests are linear models (or: how to teach stats), written by Jonas Lindeløv. The book beautifully demonstrates how many common statistical tests (such as the t-test, ANOVA and chi-squared) are special cases of the linear model. The book also demonstrates that many non-parametric tests, which are needed when certain test assumptions do not hold, can be approximated by linear models using the rank of values.
+
 https://steverxd.github.io/Stat_tests/
 
 ## Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6.1)
 [Danielle Navarro](https://twitter.com/djnavarro)
 
-This book is a great resource to learn statistics with the R programming language.  
+Learning Statistics with R covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students, focusing on the use of the R statistical software. The book discusses how to get started in R as well as giving an introduction to data manipulation and writing scripts. From a statistical perspective, the book discusses descriptive statistics and graphing ﬁrst, followed by chapters on probability theory, sampling and estimation, and null hypothesis testing. After introducing the theory, the book covers the analysis of contingency tables, t-tests, ANOVAs and regression. Bayesian statistics are covered at the end of the book.  
 
 The book is free online.
 
@@ -529,16 +780,23 @@ https://learningstatisticswithr-bookdown.netlify.app/
 ## Answering questions with data
 Matthew J. Crump
 
+This is a free textbook teaching introductory statistics for undergraduates in Psychology. This textbook is part of a larger OER course package for teaching undergraduate statistics in Psychology, including this textbook, a lab manual, and a course website.
+
 Looks like a comprehensive stats resource!
 
 https://crumplab.github.io/statistics/
 
 ## Forecasting: Principles and Practice
+Rob J Hyndman and George Athanasopoulos
+
+This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly.
+
+
+The book is written for three audiences: (1) people finding themselves doing forecasting in business when they may not have had any formal training in the area; (2) undergraduate students studying business; (3) MBA students doing a forecasting elective. 
+
 https://otexts.com/fpp2/
 
 
-## stats545
-https://stat545.com/
 
 
 ## An Introduction to Statistical and Data Sciences via R
@@ -553,6 +811,9 @@ https://moderndive.com/
 
 ## Statistical Rethinking
 A Bayesian Course with Examples in R and Stan
+
+Statistical Rethinking: A Bayesian Course with Examples in R and Stan builds your knowledge of and confidence in making inferences from data. Reflecting the need for scripting in today's model-based statistics, the book pushes you to perform step-by-step calculations that are usually automated. This unique computational approach ensures that you understand enough of the details to make reasonable choices and interpretations in your own modeling work.
+
 https://xcelab.net/rm/statistical-rethinking/
 
 ## OpenIntro Statistics
@@ -607,37 +868,92 @@ https://www.e-junkie.com/ecom/gb.php?c=single&cl=147256&i=1548704 - $10 for PDF 
 
 # Version control
 ## Happy Git and GitHub for the useR
+Jenny Bryan, the STAT 545 TAs, Jim Hester
+
+Happy Git provides opinionated instructions on how to:
+
+Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE. Develop a few key workflows that cover your most common tasks.Integrate Git and GitHub into your daily work with R and R Markdown.
+
+The target reader is someone who uses R for data analysis or who works on R packages, although some of the content may be useful to those working in adjacent areas.
+
 https://happygitwithr.com/
 
 # Workflow
 ##  How I Use R
+David Keyes // R for the Rest of Us
+
+There are many great learning resources at the beginner stage and some incredible tutorials to master complex tasks in R. But, drawing from a concept in urban planning, there are far fewer resources in the middle.
+
+Stretching the metaphor perhaps to its breaking point, new R users at the “detached single-family home” stage can’t get to the advanced “mid-rise” level without going through the middle stage. The “missing middle” in the R neighborhood is the lack of resources to that answer the types of nuts and bolts questions that new R users often have. Things like:
+
+How should I organize my file structure when creating a new project? Should I do data cleaning in an RMarkdown file or an R script file? How do I find packages? How do I know if the packages I find are high quality? 
+
+This book is my attempt to provide answers to these types of questions.
+
 https://howiuser.com/
 
 ## Agile Data Science with R
+Edwin Thoen
+
+I joined a Scrum team (frontend, backend, ux designer, product owner, second data scientist) to create a machine learning model that we brought to production using the Agile principles. It was an inspiring experience from which I learned a great deal. My colleagues patiently explained the principles of Agile software development and together we applied them to the data science context.All these experiences culminated in the workflow that we now adhere to at work and I think it is worthwhile to share it. It is heavily based on the principles of Agile software production, hence the title. We have explored which of the concepts from Agile did and did not work for data science and we got hands-on experience in working from these principles in an R project that actually got to production. 
+
 https://edwinth.github.io/ADSwR/
 
 
 
 # Field specific
 ##  Analyzing Financial and Economic Data with R
+Marcelo S. Perlin 
+
+Not surprisingly, fields with abundant access to data and practical applications, such as economics and finance, it is expected that a graduate student or a data analyst has learned at least one programming language that allows him/her to do his work efficiently. Learning how to program is becoming a requisite for the job market. 
+
 https://www.msperlin.com/afedR/
 
 ##  Data Science in Education Using R
+Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez
+
+Dear Data Scientists, Educators, and Data Scientists who are Educators:
+
+This book is a warm welcome and an invitation. If you’re a data scientist in education or an educator in data science, your role isn’t exactly straightforward. This book is our contribution to a growing movement to merge the paths of data analysis and education. We wrote this book to make your first step on that path a little clearer and a little less scary.
+
 https://datascienceineducation.com/
 
 ## The Plain Person’s Guide to Plain Text Social Science
+Kieran Healy
+
+As a beginning graduate student in the social sciences, what sort of software should you use to do your work?1 More importantly, what principles should guide your choices? I offer some general considerations and specific answers. 
+
 https://plain-text.co/index.html#introduction
 
 ## Exploring Baseball Data with R
+Max Marchi, Jim Albert, Max Marchi, Jim Albert, Benjamin S. Baumer
+
+This book introduces R to sabermetricians, baseball enthusiasts, and students interested in exploring the richness of baseball data. It equips you with the necessary skills and software tools to perform all the analysis steps, from importing the data to transforming them into an appropriate format to visualizing the data via graphs to performing a statistical analysis.
+
 
 Paid product ~$50
 
 https://baseballwithr.wordpress.com/about/
 
 ## Technical Foundations of Informatics
+Michael Freeman and Joel Ross
+
+This book covers the foundation skills necessary to start writing computer programs to work with data using modern and reproducible techniques. It requires no technical background. These materials were developed for the INFO 201: Technical Foundations of Informatics course taught at the University of Washington Information School; however they have been structured to be an online resource for anyone hoping to learn to work with information using programmatic approaches.
+
 https://info201.github.io/
 
 ## Practical R for Mass Communication and Journalism
+Sharon Machlis
+
+Welcome to this excerpt from Practical R for Mass Communication and Journalism. In these sample chapters, you’ll:
+
+learn how to find your way around R and RStudio,
+see how much you can do in just a few lines of code,
+start doing some basic data exploration, and
+get some ideas and sample code for using R in analyzing election results.
+I hope you find this excerpt useful! If you do and would like to read more, you can order the complete book from CRC Press or Amazon.
+
+Free samples. Full paid product ~ $55
 http://www.machlis.com/R4Journalists/index.html
 
 ## An introduction to quantitative analysis of political data in R
@@ -665,6 +981,14 @@ The aim of this book is to enable scientists working in biological research to q
 
 https://www.huber.embl.de/msmb/
 
+## Statistics in R for Biodiversity Conservation Paperback
+by Carl Smith , [Antonio Uzal](https://twitter.com/antonio_uzal) , Mark Warren 
+
+A practical handbook to introduce data analysis and model fitting using R to ecologists and conservation biologists. The book is aimed at undergraduate and post-graduate students and provides access to datasets and RScript.
+
+Paid product ~$10
+
+https://www.amazon.co.uk/dp/B08HBLYHQL/ref=cm_sw_r_cp_apa_i_g0luFb86PXJ9Z
 
 
 ## Machine Learning for Factor Investing
@@ -677,13 +1001,23 @@ http://www.mlfactor.com/
 
 
 ## Computational Genomics with R
+Altuna Akalin
+
+The aim of this book is to provide the fundamentals for data analysis for genomics. We developed this book based on the computational genomics courses we are giving every year. 
+
 http://compgenomr.github.io/book/
 
 ## Introduction to Econometrics with R
+Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer
+
+Instead of confronting students with pure coding exercises and complementary classic literature like the book by Venables & Smith (2010), we figured it would be better to provide interactive learning material that blends R code with the contents of the well-received textbook Introduction to Econometrics by Stock & Watson (2015) which serves as a basis for the lecture.
+
 https://www.econometrics-with-r.org/
 
 ## Data Analysis for the Life Sciences
 Rafael A Irizarry and Michael I Love
+
+Data analysis is now part of practically every research project in the life sciences. In this book we use data and computer code to teach the necessary statistical concepts and programming skills to become a data analyst. Instead of showing theory first and then applying it to toy examples, we start with actual applications.
 
 Pay what you want for the ebook, minimum $0.00
 
@@ -721,7 +1055,10 @@ https://www.springer.com/series/6991?detailsPage=titles
 
 
 ##  Data Science with R: A Resource Compendium
-Another big book of resources!
+Martin Monkman
+
+This book grew out of my evergrowing collection of reference materials that was saved as an expanding array of markdown files in a github repo. By assembling it as a book, I hope that it will be more accessible and useful to other R users.
+
 
 https://bookdown.org/martin_monkman/DataScienceResources_book/
 
@@ -730,6 +1067,9 @@ https://bookdown.org/martin_monkman/DataScienceResources_book/
 ## R on the web
 
 [Guillaume Coqueret](https://twitter.com/g_coqueret)
+
+Useful links for people interested in R.
+
 
 https://github.com/shokru/rstats/blob/master/material/R_links.md
 

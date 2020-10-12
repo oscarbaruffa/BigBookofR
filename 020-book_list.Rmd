@@ -419,31 +419,25 @@ Sacha Epskamp
 
 http://sachaepskamp.com/files/Cookbook.html
 
-# Text analysis
 
-## Text Mining with R
-[Julia Silge](https://twitter.com/juliasilge) and [David Robinson](https://twitter.com/drob)
+# Sport analytics
 
-This book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.
+## Exploring Baseball Data with R
+Max Marchi, Jim Albert, Max Marchi, Jim Albert, Benjamin S. Baumer
 
-https://www.tidytextmining.com/
+This book introduces R to sabermetricians, baseball enthusiasts, and students interested in exploring the richness of baseball data. It equips you with the necessary skills and software tools to perform all the analysis steps, from importing the data to transforming them into an appropriate format to visualizing the data via graphs to performing a statistical analysis.
 
-## Supervised Machine Learning for Text Analysis in R
-[Emil Hvitfeldt](https://twitter.com/Emil_Hvitfeldt), [Julia Silge](https://twitter.com/juliasilge)
 
-Modeling as a statistical practice can encompass a wide variety of activities. This book focuses on supervised or predictive modeling for text, using text data to make predictions about the world around us. We use the tidymodels framework for modeling, a consistent and flexible collection of R packages developed to encourage good statistical practice.
+Paid product ~$50
 
-https://smltar.com/
+https://baseballwithr.wordpress.com/about/
 
-# Reports: R Markdown and knitr
+## Coding for sports analytics: get started resources
+Given the lack of sport-focussed R books, I've added this colelction og blog posts.
 
-## R Markdown: The Definitive Guide
+https://brendankent.com/2020/09/15/coding-for-sports-analytics-resources-to-get-started/
 
-[Yihui Xie](https://yihui.org/), [J. J. Allaire](https://github.com/jjallaire), [Garrett Grolemund](https://twitter.com/StatGarrett)
 
-The first official book authored by the core R Markdown developers that provides a comprehensive and accurate reference to the R Markdown ecosystem. With R Markdown, you can easily create reproducible data analysis reports, presentations, dashboards, interactive applications, books, dissertations, websites, and journal articles, while enjoying the simplicity of Markdown and the great power of R and other languages.
-
-https://bookdown.org/yihui/rmarkdown/
 
 ## R Markdown Cookbook
 
@@ -687,6 +681,18 @@ This book is intended to guide people that are completely new to programming alo
 
 https://dereksonderegger.github.io/570L/
 
+
+## Introduction to Programming with R
+Reto Stauffer, Joanna Chimiak-Opoka, Thorsten Simon, Achim Zeileis
+
+a learning resource for programming novices who want to learn programming using the statistical programming language R. While one of the major strengths of R is the broad variety of packages for statistics and data science, this resource focuses on learning and understanding basic programming concepts using base R. Only a couple of additional packages are used and/or briefly discussed for special tasks.
+
+This online book is specifically written for participants of the course “Introduction to Programming: Programming in R” offered by the Digital Science Center at Universität Innsbruck.
+
+
+https://eeecon.uibk.ac.at/~discdown/rprogramming/index.html
+
+
 ## Mastering Software Development in R
 [Roger D. Peng](https://twitter.com/rdpeng), [Sean Kross](https://twitter.com/seankross), 
 and [Brooke Anderson](https://twitter.com/gbwanderson)
@@ -866,6 +872,49 @@ https://amzn.to/2EREAn2 - used for $4-18, new $19-20
 https://www.e-junkie.com/ecom/gb.php?c=single&cl=147256&i=1548704 - $10 for PDF only
 
 
+
+# Teaching
+
+## Teaching Tech Together
+Greg Wilson
+
+Not an R book per se, but comes highly recommended about how to teach programming. 
+
+Grassroots groups have sprung up around the world to teach programming, web design, robotics, and other skills to free-range learners. These groups exist so that people don’t have to learn these things on their own, but ironically, their founders and teachers are often teaching themselves how to teach.
+
+There’s a better way. Just as knowing a few basic facts about germs and nutrition can help you stay healthy, knowing a few things about cognitive psychology, instructional design, inclusivity, and community organization can help you be a more effective teacher. This book presents key ideas you can use right now, explains why we believe they are true, and points you at other resources that will help you go further
+
+
+http://teachtogether.tech/en/index.html
+
+
+# Text analysis
+
+## Text Mining with R
+[Julia Silge](https://twitter.com/juliasilge) and [David Robinson](https://twitter.com/drob)
+
+This book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.
+
+https://www.tidytextmining.com/
+
+## Supervised Machine Learning for Text Analysis in R
+[Emil Hvitfeldt](https://twitter.com/Emil_Hvitfeldt), [Julia Silge](https://twitter.com/juliasilge)
+
+Modeling as a statistical practice can encompass a wide variety of activities. This book focuses on supervised or predictive modeling for text, using text data to make predictions about the world around us. We use the tidymodels framework for modeling, a consistent and flexible collection of R packages developed to encourage good statistical practice.
+
+https://smltar.com/
+
+# Reports: R Markdown and knitr
+
+## R Markdown: The Definitive Guide
+
+[Yihui Xie](https://yihui.org/), [J. J. Allaire](https://github.com/jjallaire), [Garrett Grolemund](https://twitter.com/StatGarrett)
+
+The first official book authored by the core R Markdown developers that provides a comprehensive and accurate reference to the R Markdown ecosystem. With R Markdown, you can easily create reproducible data analysis reports, presentations, dashboards, interactive applications, books, dissertations, websites, and journal articles, while enjoying the simplicity of Markdown and the great power of R and other languages.
+
+https://bookdown.org/yihui/rmarkdown/
+
+
 # Version control
 ## Happy Git and GitHub for the useR
 Jenny Bryan, the STAT 545 TAs, Jim Hester
@@ -877,6 +926,23 @@ Install Git and get it working smoothly with GitHub, in the shell and in the RSt
 The target reader is someone who uses R for data analysis or who works on R packages, although some of the content may be useful to those working in adjacent areas.
 
 https://happygitwithr.com/
+
+## Github actions with R
+Chris Brown, Murray Cadzow, Paula A Martinez, Rhydwyn McGuire, David Neuzerling, David Wilkinson, Saras Windecker
+
+GitHub actions allow us to trigger automated steps after we launch GitHub interactions such as when we push, pull, submit a pull request, or write an issue.
+
+
+https://ropenscilabs.github.io/actions_sandbox/
+
+
+## Github learning lab
+Not R specific or even a book, but looks like a good resource to learn git. 
+
+https://lab.github.com/
+
+
+
 
 # Workflow
 ##  How I Use R
@@ -899,6 +965,14 @@ I joined a Scrum team (frontend, backend, ux designer, product owner, second dat
 
 https://edwinth.github.io/ADSwR/
 
+
+## Github actions with R
+Chris Brown, Murray Cadzow, Paula A Martinez, Rhydwyn McGuire, David Neuzerling, David Wilkinson, Saras Windecker
+
+GitHub actions allow us to trigger automated steps after we launch GitHub interactions such as when we push, pull, submit a pull request, or write an issue.
+
+
+https://ropenscilabs.github.io/actions_sandbox/
 
 
 # Field specific
@@ -925,15 +999,7 @@ As a beginning graduate student in the social sciences, what sort of software sh
 
 https://plain-text.co/index.html#introduction
 
-## Exploring Baseball Data with R
-Max Marchi, Jim Albert, Max Marchi, Jim Albert, Benjamin S. Baumer
 
-This book introduces R to sabermetricians, baseball enthusiasts, and students interested in exploring the richness of baseball data. It equips you with the necessary skills and software tools to perform all the analysis steps, from importing the data to transforming them into an appropriate format to visualizing the data via graphs to performing a statistical analysis.
-
-
-Paid product ~$50
-
-https://baseballwithr.wordpress.com/about/
 
 ## Technical Foundations of Informatics
 Michael Freeman and Joel Ross

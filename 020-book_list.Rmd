@@ -420,22 +420,6 @@ Sacha Epskamp
 http://sachaepskamp.com/files/Cookbook.html
 
 
-# Sport analytics
-
-## Exploring Baseball Data with R
-Max Marchi, Jim Albert, Max Marchi, Jim Albert, Benjamin S. Baumer
-
-This book introduces R to sabermetricians, baseball enthusiasts, and students interested in exploring the richness of baseball data. It equips you with the necessary skills and software tools to perform all the analysis steps, from importing the data to transforming them into an appropriate format to visualizing the data via graphs to performing a statistical analysis.
-
-
-Paid product ~$50
-
-https://baseballwithr.wordpress.com/about/
-
-## Coding for sports analytics: get started resources
-Given the lack of sport-focussed R books, I've added this colelction og blog posts.
-
-https://brendankent.com/2020/09/15/coding-for-sports-analytics-resources-to-get-started/
 
 
 
@@ -763,6 +747,24 @@ Manipulate Shiny tags from R to create custom layouts. Harness the power of CSS 
 Learn how Shiny internally deals with inputs. Learn more about less documented Shiny mechanisms (websockets, sessions, …)
 
 https://divadnojnarg.github.io/outstanding-shiny-ui/
+
+# Sport analytics
+
+## Exploring Baseball Data with R
+Max Marchi, Jim Albert, Max Marchi, Jim Albert, Benjamin S. Baumer
+
+This book introduces R to sabermetricians, baseball enthusiasts, and students interested in exploring the richness of baseball data. It equips you with the necessary skills and software tools to perform all the analysis steps, from importing the data to transforming them into an appropriate format to visualizing the data via graphs to performing a statistical analysis.
+
+
+Paid product ~$50
+
+https://baseballwithr.wordpress.com/about/
+
+## Coding for sports analytics: get started resources
+Given the lack of sport-focussed R books, I've added this colelction og blog posts.
+
+https://brendankent.com/2020/09/15/coding-for-sports-analytics-resources-to-get-started/
+
 
 
 # Statistics

@@ -285,6 +285,16 @@ The book is free online.
 
 https://clauswilke.com/dataviz/
 
+
+## Graphical Data Analysis with R
+[Antony Unwin](http://www.gradaanwr.net/author/)
+
+The main aim of the book is to show, using real datasets, what information graphical displays can reveal in data.  The target readership includes anyone carrying out data analyses who wants to understand their data using graphics.
+
+The book is published by CRC Press and [available to purchase](https://www.routledge.com/Graphical-Data-Analysis-with-R/Unwin/p/book/9781498715232), but all the examples and code are freely available on a comprehensive website accompanying the text at http://www.gradaanwr.net/
+
+
+
 # Distributed computing
 ## Mastering Spark with R
 Javier Luraschi, Kevin Kuo, Edgar Ruiz
@@ -986,7 +996,7 @@ Not surprisingly, fields with abundant access to data and practical applications
 https://www.msperlin.com/afedR/
 
 ##  Data Science in Education Using R
-Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez
+Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez
 
 Dear Data Scientists, Educators, and Data Scientists who are Educators:
 

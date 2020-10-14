@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>23 Field specific | Big Book of R</title>
   <meta name="description" content="23 Field specific | Big Book of R" />
-  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
 
   <meta property="og:title" content="23 Field specific | Big Book of R" />
   <meta property="og:type" content="book" />
@@ -39,9 +39,6 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
-
-
 
 
 
@@ -127,6 +124,7 @@
 <li class="chapter" data-level="7.8" data-path="data-visualization.html"><a href="data-visualization.html#plotly-interactive-web-based-data-visualization-with-r-plotly-and-shiny"><i class="fa fa-check"></i><b>7.8</b> plotly Interactive web-based data visualization with R, plotly, and shiny</a></li>
 <li class="chapter" data-level="7.9" data-path="data-visualization.html"><a href="data-visualization.html#bbc-visual-and-data-journalism-cookbook-for-r-graphics"><i class="fa fa-check"></i><b>7.9</b> BBC Visual and Data Journalism cookbook for R graphics</a></li>
 <li class="chapter" data-level="7.10" data-path="data-visualization.html"><a href="data-visualization.html#fundamentals-of-data-visualization"><i class="fa fa-check"></i><b>7.10</b> Fundamentals of Data Visualization</a></li>
+<li class="chapter" data-level="7.11" data-path="data-visualization.html"><a href="data-visualization.html#graphical-data-analysis-with-r"><i class="fa fa-check"></i><b>7.11</b> Graphical Data Analysis with R</a></li>
 </ul></li>
 <li class="chapter" data-level="8" data-path="distributed-computing.html"><a href="distributed-computing.html"><i class="fa fa-check"></i><b>8</b> Distributed computing</a><ul>
 <li class="chapter" data-level="8.1" data-path="distributed-computing.html"><a href="distributed-computing.html#mastering-spark-with-r"><i class="fa fa-check"></i><b>8.1</b> Mastering Spark with R</a></li>
@@ -283,7 +281,7 @@ Published with bookdown</a></center></li>
 </div>
 <div id="data-science-in-education-using-r" class="section level2">
 <h2><span class="header-section-number">23.2</span> Data Science in Education Using R</h2>
-<p>Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez</p>
+<p>Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez</p>
 <p>Dear Data Scientists, Educators, and Data Scientists who are Educators:</p>
 <p>This book is a warm welcome and an invitation. If you’re a data scientist in education or an educator in data science, your role isn’t exactly straightforward. This book is our contribution to a growing movement to merge the paths of data analysis and education. We wrote this book to make your first step on that path a little clearer and a little less scary.</p>
 <p><a href="https://datascienceineducation.com/" class="uri">https://datascienceineducation.com/</a></p>
@@ -388,13 +386,11 @@ developments affecting modern scientific careers.</p>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
-<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -402,11 +398,12 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
+"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -418,10 +415,6 @@ gitbook.start({
 "text": null
 },
 "history": {
-"link": null,
-"text": null
-},
-"view": {
 "link": null,
 "text": null
 },

@@ -883,7 +883,16 @@ applied stats class.
 https://amzn.to/2EREAn2 - used for $4-18, new $19-20
 https://www.e-junkie.com/ecom/gb.php?c=single&cl=147256&i=1548704 - $10 for PDF only
 
+## Bayes rules!
 
+- Alicia A. Johnson, [Miles Ott](twitter.com/Miles_Ott), [Mine Dogucu](https://twitter.com/MineDogucu)
+
+The primary goal of Bayes Rules! is to make modern Bayesian thinking, modeling, and computing accessible to a broad audience. Bayes Rules! empowers readers to weave Bayesian approaches into an everyday modern practice of statistics and data science.  
+The overall spirit is very applied: the book utilizes modern computing resources and a reproducible pipeline; the discussion emphasizes conceptual understanding; the material is motivated by data-driven inquiry; and the delivery blends traditional “content” with “activity”. 
+
+Free online book under construction but with 5 complete chapters on 2020/10/15
+
+https://www.bayesrulesbook.com/
 
 # Teaching
 

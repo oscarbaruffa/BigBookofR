@@ -15,6 +15,7 @@ output:
         after: |
           <li><center><a href="https://bookdown.org/yihui/bookdown/">
           Published with bookdown</a></center></li>
+    edit: https://github.com/oscarbaruffa/BigBookofR/edit/master/%s
           
 bookdown::gitbook: default
 site: bookdown::bookdown_site

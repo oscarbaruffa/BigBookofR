@@ -6,18 +6,14 @@ output:
   bookdown::gitbook:
     includes:
       in_header: [google-analytics.html]
-     
-      
     config:
+      edit: https://github.com/oscarbaruffa/BigBookofR/edit/master/%s
       toc:
         before: |  
           <br/><center><b><a href="./index.html">&nbsp&nbspBig Book of R</a></b></center></li>
         after: |
           <li><center><a href="https://bookdown.org/yihui/bookdown/">
           Published with bookdown</a></center></li>
-    edit: https://github.com/oscarbaruffa/BigBookofR/edit/master/%s
-          
-bookdown::gitbook: default
 site: bookdown::bookdown_site
 ---
 

@@ -21,6 +21,8 @@ The format for adding book entries is:
 **(link to book)**
 
 
+There's no need to render the book - just make the changes to the rmd's :)
+
 Sometimes it's difficult to know in which chapter to place it, but I default to using either the name of the book as a guide, the first bit of how the book describes itself or failing that, what I think it should be. It's okay to add a book to more than one section if you feel it strongly fits both. 
 
 

@@ -422,6 +422,15 @@ This book is free online.
 
 https://topepo.github.io/caret/index.html
 
+
+## A Minimal rTorch Book
+Alfonso R. Reyes
+
+Practically, you can do everything you could with PyTorch within the R ecosystem. 
+
+https://f0nzie.github.io/rtorch-minimal-book/
+
+
 ## Tidy Modeling with R
 [Max Kuhn](https://twitter.com/topepos) and [Julia Silge](https://twitter.com/juliasilge)
 
@@ -823,7 +832,12 @@ The book is written for three audiences: (1) people finding themselves doing for
 https://otexts.com/fpp2/
 
 
+## Mixed Models with R : Getting started with random effects
+[Michael Clark](https://m-clark.github.io/)
 
+Mixed models are an extremely useful modeling tool for situations in which there is some dependency among observations in the data, where the correlation typically arises from the observations being clustered in some way.
+
+https://m-clark.github.io/mixed-models-with-R/
 
 ## An Introduction to Statistical and Data Sciences via R
 [Chester Ismay](https://twitter.com/old_man_chester) and [Albert Kim](https://twitter.com/rudeboybert) 
@@ -1067,6 +1081,15 @@ http://qpolr.com/
 This is the website for “Orchestrating Single-Cell Analysis with Bioconductor”, a book that teaches users some common workflows for the analysis of single-cell RNA-seq data (scRNA-seq).
 
 https://osca.bioconductor.org/
+
+
+## Assigning cell types with SingleR
+[Aaron Lun]((https://osca.bioconductor.org/contributors.html)
+
+This book covers the use of SingleR, one implementation of an automated annotation method for cell type annotation.
+
+https://bioconductor.org/books/3.12/SingleRBook/
+
 
 ## Modern Statistics for Modern Biology
 

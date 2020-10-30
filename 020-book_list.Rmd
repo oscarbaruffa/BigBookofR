@@ -422,6 +422,14 @@ This book is free online.
 
 https://topepo.github.io/caret/index.html
 
+## Tidy Modeling with R
+[Max Kuhn](https://twitter.com/topepos) and [Julia Silge](https://twitter.com/juliasilge)
+
+This book provides an introduction to how to use the tidymodels suite of packages to create models using a tidyverse approach and encourages good methodology and statistical practice throughout demonstrated using series of applied examples.
+
+This book is free online (currently a work in progress).
+
+https://www.tmwr.org/
 
 # Network analysis
 ##  Network Analysis in R Cookbook

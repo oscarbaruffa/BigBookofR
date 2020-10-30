@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>17 Statistics | Big Book of R</title>
   <meta name="description" content="17 Statistics | Big Book of R" />
-  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
 
   <meta property="og:title" content="17 Statistics | Big Book of R" />
   <meta property="og:type" content="book" />
@@ -39,9 +39,6 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
-
-
 
 
 
@@ -150,6 +147,8 @@
 <li class="chapter" data-level="11.4" data-path="machine-learning.html"><a href="machine-learning.html#supervised-machine-learning-for-text-analysis-in-r"><i class="fa fa-check"></i><b>11.4</b> Supervised Machine Learning for Text Analysis in R</a></li>
 <li class="chapter" data-level="11.5" data-path="machine-learning.html"><a href="machine-learning.html#machine-learning-for-factor-investing"><i class="fa fa-check"></i><b>11.5</b> Machine Learning for Factor Investing</a></li>
 <li class="chapter" data-level="11.6" data-path="machine-learning.html"><a href="machine-learning.html#the-caret-package"><i class="fa fa-check"></i><b>11.6</b> The caret Package</a></li>
+<li class="chapter" data-level="11.7" data-path="machine-learning.html"><a href="machine-learning.html#a-minimal-rtorch-book"><i class="fa fa-check"></i><b>11.7</b> A Minimal rTorch Book</a></li>
+<li class="chapter" data-level="11.8" data-path="machine-learning.html"><a href="machine-learning.html#tidy-modeling-with-r"><i class="fa fa-check"></i><b>11.8</b> Tidy Modeling with R</a></li>
 </ul></li>
 <li class="chapter" data-level="12" data-path="network-analysis.html"><a href="network-analysis.html"><i class="fa fa-check"></i><b>12</b> Network analysis</a><ul>
 <li class="chapter" data-level="12.1" data-path="network-analysis.html"><a href="network-analysis.html#network-analysis-in-r-cookbook"><i class="fa fa-check"></i><b>12.1</b> Network Analysis in R Cookbook</a></li>
@@ -204,13 +203,14 @@
 <li class="chapter" data-level="17.2" data-path="statistics.html"><a href="statistics.html#learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners.-version-0.6.1"><i class="fa fa-check"></i><b>17.2</b> Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6.1)</a></li>
 <li class="chapter" data-level="17.3" data-path="statistics.html"><a href="statistics.html#answering-questions-with-data"><i class="fa fa-check"></i><b>17.3</b> Answering questions with data</a></li>
 <li class="chapter" data-level="17.4" data-path="statistics.html"><a href="statistics.html#forecasting-principles-and-practice"><i class="fa fa-check"></i><b>17.4</b> Forecasting: Principles and Practice</a></li>
-<li class="chapter" data-level="17.5" data-path="statistics.html"><a href="statistics.html#an-introduction-to-statistical-and-data-sciences-via-r"><i class="fa fa-check"></i><b>17.5</b> An Introduction to Statistical and Data Sciences via R</a></li>
-<li class="chapter" data-level="17.6" data-path="statistics.html"><a href="statistics.html#statistical-rethinking"><i class="fa fa-check"></i><b>17.6</b> Statistical Rethinking</a></li>
-<li class="chapter" data-level="17.7" data-path="statistics.html"><a href="statistics.html#openintro-statistics"><i class="fa fa-check"></i><b>17.7</b> OpenIntro Statistics</a></li>
-<li class="chapter" data-level="17.8" data-path="statistics.html"><a href="statistics.html#statistical-inference-for-data-science"><i class="fa fa-check"></i><b>17.8</b> Statistical inference for data science</a></li>
-<li class="chapter" data-level="17.9" data-path="statistics.html"><a href="statistics.html#statistics-the-easier-way-with-r-3rd.-ed.-tidyversion"><i class="fa fa-check"></i><b>17.9</b> Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)</a></li>
-<li class="chapter" data-level="17.10" data-path="statistics.html"><a href="statistics.html#end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inference"><i class="fa fa-check"></i><b>17.10</b> End-to-End Solved Problems With R: a catalog of 26 examples using statistical inference</a></li>
-<li class="chapter" data-level="17.11" data-path="statistics.html"><a href="statistics.html#bayes-rules"><i class="fa fa-check"></i><b>17.11</b> Bayes rules!</a></li>
+<li class="chapter" data-level="17.5" data-path="statistics.html"><a href="statistics.html#mixed-models-with-r-getting-started-with-random-effects"><i class="fa fa-check"></i><b>17.5</b> Mixed Models with R : Getting started with random effects</a></li>
+<li class="chapter" data-level="17.6" data-path="statistics.html"><a href="statistics.html#an-introduction-to-statistical-and-data-sciences-via-r"><i class="fa fa-check"></i><b>17.6</b> An Introduction to Statistical and Data Sciences via R</a></li>
+<li class="chapter" data-level="17.7" data-path="statistics.html"><a href="statistics.html#statistical-rethinking"><i class="fa fa-check"></i><b>17.7</b> Statistical Rethinking</a></li>
+<li class="chapter" data-level="17.8" data-path="statistics.html"><a href="statistics.html#openintro-statistics"><i class="fa fa-check"></i><b>17.8</b> OpenIntro Statistics</a></li>
+<li class="chapter" data-level="17.9" data-path="statistics.html"><a href="statistics.html#statistical-inference-for-data-science"><i class="fa fa-check"></i><b>17.9</b> Statistical inference for data science</a></li>
+<li class="chapter" data-level="17.10" data-path="statistics.html"><a href="statistics.html#statistics-the-easier-way-with-r-3rd.-ed.-tidyversion"><i class="fa fa-check"></i><b>17.10</b> Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)</a></li>
+<li class="chapter" data-level="17.11" data-path="statistics.html"><a href="statistics.html#end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inference"><i class="fa fa-check"></i><b>17.11</b> End-to-End Solved Problems With R: a catalog of 26 examples using statistical inference</a></li>
+<li class="chapter" data-level="17.12" data-path="statistics.html"><a href="statistics.html#bayes-rules"><i class="fa fa-check"></i><b>17.12</b> Bayes rules!</a></li>
 </ul></li>
 <li class="chapter" data-level="18" data-path="teaching.html"><a href="teaching.html"><i class="fa fa-check"></i><b>18</b> Teaching</a><ul>
 <li class="chapter" data-level="18.1" data-path="teaching.html"><a href="teaching.html#teaching-tech-together"><i class="fa fa-check"></i><b>18.1</b> Teaching Tech Together</a></li>
@@ -240,13 +240,14 @@
 <li class="chapter" data-level="23.5" data-path="field-specific.html"><a href="field-specific.html#practical-r-for-mass-communication-and-journalism"><i class="fa fa-check"></i><b>23.5</b> Practical R for Mass Communication and Journalism</a></li>
 <li class="chapter" data-level="23.6" data-path="field-specific.html"><a href="field-specific.html#an-introduction-to-quantitative-analysis-of-political-data-in-r"><i class="fa fa-check"></i><b>23.6</b> An introduction to quantitative analysis of political data in R</a></li>
 <li class="chapter" data-level="23.7" data-path="field-specific.html"><a href="field-specific.html#orchestrating-single-cell-analysis-with-bioconductor"><i class="fa fa-check"></i><b>23.7</b> Orchestrating Single-Cell Analysis with Bioconductor</a></li>
-<li class="chapter" data-level="23.8" data-path="field-specific.html"><a href="field-specific.html#modern-statistics-for-modern-biology"><i class="fa fa-check"></i><b>23.8</b> Modern Statistics for Modern Biology</a></li>
-<li class="chapter" data-level="23.9" data-path="field-specific.html"><a href="field-specific.html#statistics-in-r-for-biodiversity-conservation-paperback"><i class="fa fa-check"></i><b>23.9</b> Statistics in R for Biodiversity Conservation Paperback</a></li>
-<li class="chapter" data-level="23.10" data-path="field-specific.html"><a href="field-specific.html#machine-learning-for-factor-investing-1"><i class="fa fa-check"></i><b>23.10</b> Machine Learning for Factor Investing</a></li>
-<li class="chapter" data-level="23.11" data-path="field-specific.html"><a href="field-specific.html#computational-genomics-with-r"><i class="fa fa-check"></i><b>23.11</b> Computational Genomics with R</a></li>
-<li class="chapter" data-level="23.12" data-path="field-specific.html"><a href="field-specific.html#introduction-to-econometrics-with-r"><i class="fa fa-check"></i><b>23.12</b> Introduction to Econometrics with R</a></li>
-<li class="chapter" data-level="23.13" data-path="field-specific.html"><a href="field-specific.html#data-analysis-for-the-life-sciences"><i class="fa fa-check"></i><b>23.13</b> Data Analysis for the Life Sciences</a></li>
-<li class="chapter" data-level="23.14" data-path="field-specific.html"><a href="field-specific.html#how-to-be-a-modern-scientist"><i class="fa fa-check"></i><b>23.14</b> How to be a modern scientist</a></li>
+<li class="chapter" data-level="23.8" data-path="field-specific.html"><a href="field-specific.html#assigning-cell-types-with-singler"><i class="fa fa-check"></i><b>23.8</b> Assigning cell types with SingleR</a></li>
+<li class="chapter" data-level="23.9" data-path="field-specific.html"><a href="field-specific.html#modern-statistics-for-modern-biology"><i class="fa fa-check"></i><b>23.9</b> Modern Statistics for Modern Biology</a></li>
+<li class="chapter" data-level="23.10" data-path="field-specific.html"><a href="field-specific.html#statistics-in-r-for-biodiversity-conservation-paperback"><i class="fa fa-check"></i><b>23.10</b> Statistics in R for Biodiversity Conservation Paperback</a></li>
+<li class="chapter" data-level="23.11" data-path="field-specific.html"><a href="field-specific.html#machine-learning-for-factor-investing-1"><i class="fa fa-check"></i><b>23.11</b> Machine Learning for Factor Investing</a></li>
+<li class="chapter" data-level="23.12" data-path="field-specific.html"><a href="field-specific.html#computational-genomics-with-r"><i class="fa fa-check"></i><b>23.12</b> Computational Genomics with R</a></li>
+<li class="chapter" data-level="23.13" data-path="field-specific.html"><a href="field-specific.html#introduction-to-econometrics-with-r"><i class="fa fa-check"></i><b>23.13</b> Introduction to Econometrics with R</a></li>
+<li class="chapter" data-level="23.14" data-path="field-specific.html"><a href="field-specific.html#data-analysis-for-the-life-sciences"><i class="fa fa-check"></i><b>23.14</b> Data Analysis for the Life Sciences</a></li>
+<li class="chapter" data-level="23.15" data-path="field-specific.html"><a href="field-specific.html#how-to-be-a-modern-scientist"><i class="fa fa-check"></i><b>23.15</b> How to be a modern scientist</a></li>
 </ul></li>
 <li class="chapter" data-level="24" data-path="other-compendiums.html"><a href="other-compendiums.html"><i class="fa fa-check"></i><b>24</b> Other compendiums</a><ul>
 <li class="chapter" data-level="24.1" data-path="other-compendiums.html"><a href="other-compendiums.html#use-r-springer-series"><i class="fa fa-check"></i><b>24.1</b> Use R! Springer series</a></li>
@@ -304,21 +305,27 @@ Published with bookdown</a></center></li>
 <p>The book is written for three audiences: (1) people finding themselves doing forecasting in business when they may not have had any formal training in the area; (2) undergraduate students studying business; (3) MBA students doing a forecasting elective.</p>
 <p><a href="https://otexts.com/fpp2/" class="uri">https://otexts.com/fpp2/</a></p>
 </div>
+<div id="mixed-models-with-r-getting-started-with-random-effects" class="section level2">
+<h2><span class="header-section-number">17.5</span> Mixed Models with R : Getting started with random effects</h2>
+<p><a href="https://m-clark.github.io/">Michael Clark</a></p>
+<p>Mixed models are an extremely useful modeling tool for situations in which there is some dependency among observations in the data, where the correlation typically arises from the observations being clustered in some way.</p>
+<p><a href="https://m-clark.github.io/mixed-models-with-R/" class="uri">https://m-clark.github.io/mixed-models-with-R/</a></p>
+</div>
 <div id="an-introduction-to-statistical-and-data-sciences-via-r" class="section level2">
-<h2><span class="header-section-number">17.5</span> An Introduction to Statistical and Data Sciences via R</h2>
+<h2><span class="header-section-number">17.6</span> An Introduction to Statistical and Data Sciences via R</h2>
 <p><a href="https://twitter.com/old_man_chester">Chester Ismay</a> and <a href="https://twitter.com/rudeboybert">Albert Kim</a></p>
 <p>An incredibly beginner friendly introduction to both datascience and statistics concepts as well as R.</p>
 <p>The book is free to read online.</p>
 <p><a href="https://moderndive.com/" class="uri">https://moderndive.com/</a></p>
 </div>
 <div id="statistical-rethinking" class="section level2">
-<h2><span class="header-section-number">17.6</span> Statistical Rethinking</h2>
+<h2><span class="header-section-number">17.7</span> Statistical Rethinking</h2>
 <p>A Bayesian Course with Examples in R and Stan</p>
 <p>Statistical Rethinking: A Bayesian Course with Examples in R and Stan builds your knowledge of and confidence in making inferences from data. Reflecting the need for scripting in today’s model-based statistics, the book pushes you to perform step-by-step calculations that are usually automated. This unique computational approach ensures that you understand enough of the details to make reasonable choices and interpretations in your own modeling work.</p>
 <p><a href="https://xcelab.net/rm/statistical-rethinking/" class="uri">https://xcelab.net/rm/statistical-rethinking/</a></p>
 </div>
 <div id="openintro-statistics" class="section level2">
-<h2><span class="header-section-number">17.7</span> OpenIntro Statistics</h2>
+<h2><span class="header-section-number">17.8</span> OpenIntro Statistics</h2>
 <p>David Diez, <a href="https://twitter.com/minebocek">Mine Cetinkaya-Rundel</a>,
 Christopher Barr, and <a href="https://twitter.com/OpenIntroOrg">OpenIntro</a>.</p>
 <p>A complete foundation for Statistics, also serving as a foundation for Data Science.</p>
@@ -331,7 +338,7 @@ consider the cause above. Thanks!</p>
 <p><a href="https://leanpub.com/openintro-statistics" class="uri">https://leanpub.com/openintro-statistics</a></p>
 </div>
 <div id="statistical-inference-for-data-science" class="section level2">
-<h2><span class="header-section-number">17.8</span> Statistical inference for data science</h2>
+<h2><span class="header-section-number">17.9</span> Statistical inference for data science</h2>
 <p>Brian Caffo</p>
 <p>This book gives a brief, but rigorous, treatment of statistical inference
 intended for practicing Data Scientists.</p>
@@ -339,7 +346,7 @@ intended for practicing Data Scientists.</p>
 <p><a href="https://leanpub.com/LittleInferenceBook" class="uri">https://leanpub.com/LittleInferenceBook</a></p>
 </div>
 <div id="statistics-the-easier-way-with-r-3rd.-ed.-tidyversion" class="section level2">
-<h2><span class="header-section-number">17.9</span> Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)</h2>
+<h2><span class="header-section-number">17.10</span> Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)</h2>
 <p><a href="https://radziwill.cc">Nicole Radziwill</a></p>
 <p>This introductory applied statistics handbook shows you how to run tests analytically,
 and then how to run exactly the same steps using R. No steps are skipped, making this
@@ -349,7 +356,7 @@ universities around the globe.</p>
 <a href="https://www.e-junkie.com/ecom/gb.php?&amp;c=single&amp;cl=147256&amp;i=1614407" class="uri">https://www.e-junkie.com/ecom/gb.php?&amp;c=single&amp;cl=147256&amp;i=1614407</a> - $25 for PDF only</p>
 </div>
 <div id="end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inference" class="section level2">
-<h2><span class="header-section-number">17.10</span> End-to-End Solved Problems With R: a catalog of 26 examples using statistical inference</h2>
+<h2><span class="header-section-number">17.11</span> End-to-End Solved Problems With R: a catalog of 26 examples using statistical inference</h2>
 <p><a href="https://radziwill.cc">Nicole Radziwill</a></p>
 <p>Lots of worked problems, analytically and in R! Useful supplement for an introductory
 applied stats class.</p>
@@ -357,7 +364,7 @@ applied stats class.</p>
 <a href="https://www.e-junkie.com/ecom/gb.php?c=single&amp;cl=147256&amp;i=1548704" class="uri">https://www.e-junkie.com/ecom/gb.php?c=single&amp;cl=147256&amp;i=1548704</a> - $10 for PDF only</p>
 </div>
 <div id="bayes-rules" class="section level2">
-<h2><span class="header-section-number">17.11</span> Bayes rules!</h2>
+<h2><span class="header-section-number">17.12</span> Bayes rules!</h2>
 <ul>
 <li>Alicia A. Johnson, <a href="twitter.com/Miles_Ott">Miles Ott</a>, <a href="https://twitter.com/MineDogucu">Mine Dogucu</a></li>
 </ul>
@@ -378,13 +385,11 @@ The overall spirit is very applied: the book utilizes modern computing resources
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
-<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -392,11 +397,12 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
+"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -408,10 +414,6 @@ gitbook.start({
 "text": "Edit"
 },
 "history": {
-"link": null,
-"text": null
-},
-"view": {
 "link": null,
 "text": null
 },

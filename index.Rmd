@@ -29,7 +29,7 @@ meta() %>%
   meta_social(
     title = "Big Book of R",
     url = "https://www.bigbookofr.com/",
-    image = "https://github.com/oscarbaruffa/BigBookofR/blob/master/images/big_book_social.png",
+    image = "https://raw.githubusercontent.com/oscarbaruffa/BigBookofR/master/images/big_book_social.png",
     image_alt = "The cover of the Big Book of R book",
     og_type = "book",
     og_author = "Oscar Baruffa",

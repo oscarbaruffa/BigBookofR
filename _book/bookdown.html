@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html lang="" xml:lang="">
 <head>
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>5 Bookdown | Big Book of R</title>
   <meta name="description" content="5 Bookdown | Big Book of R" />
-  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
 
   <meta property="og:title" content="5 Bookdown | Big Book of R" />
   <meta property="og:type" content="book" />
@@ -39,6 +39,7 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
 
 
 
@@ -46,6 +47,27 @@
 
 
 
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1, orientation=auto"/>
+<meta name="description" content="100+ Free R programming books"/>
+<meta name="github-repo" content="oscarbaruffa/BigBookofR"/>
+<meta name="twitter:title" content="5 Bookdown | Big Book of R"/>
+<meta name="twitter:description" content="100+ Free R programming books"/>
+<meta name="twitter:url" content="https://www.bigbookofr.com/"/>
+<meta name="twitter:image:src" content="http://www.bigbookofr.com/images/big_book_social.png"/>
+<meta name="twitter:image:alt" content="The cover of the Big Book of R book"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:creator" content="@oscarbaruffa"/>
+<meta name="twitter:site" content="@oscarbaruffa"/>
+<meta name="og:title" content="5 Bookdown | Big Book of R"/>
+<meta name="og:description" content="100+ Free R programming books"/>
+<meta name="og:url" content="https://www.bigbookofr.com/"/>
+<meta name="og:image" content="http://www.bigbookofr.com/images/big_book_social.png"/>
+<meta name="og:image:alt" content="The cover of the Big Book of R book"/>
+<meta name="og:type" content="book"/>
+<meta name="og:locale" content="en_US"/>
+<meta name="article:author" content="Oscar Baruffa"/>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-44157871-7"></script>
 <script>
@@ -112,6 +134,7 @@
 <li class="chapter" data-level="6.8" data-path="data-science.html"><a href="data-science.html#the-art-of-data-science"><i class="fa fa-check"></i><b>6.8</b> The Art of Data Science</a></li>
 <li class="chapter" data-level="6.9" data-path="data-science.html"><a href="data-science.html#report-writing-for-data-science-in-r"><i class="fa fa-check"></i><b>6.9</b> Report Writing for Data Science in R</a></li>
 <li class="chapter" data-level="6.10" data-path="data-science.html"><a href="data-science.html#the-elements-of-data-analytic-style"><i class="fa fa-check"></i><b>6.10</b> The Elements of Data Analytic Style</a></li>
+<li class="chapter" data-level="6.11" data-path="data-science.html"><a href="data-science.html#javascript-for-r"><i class="fa fa-check"></i><b>6.11</b> JavaScript for R</a></li>
 </ul></li>
 <li class="chapter" data-level="7" data-path="data-visualization.html"><a href="data-visualization.html"><i class="fa fa-check"></i><b>7</b> Data Visualization</a><ul>
 <li class="chapter" data-level="7.1" data-path="data-visualization.html"><a href="data-visualization.html#ggplot2-elegant-graphics-for-data-analysis"><i class="fa fa-check"></i><b>7.1</b> ggplot2: Elegant Graphics for Data Analysis</a></li>
@@ -162,6 +185,7 @@
 <li class="chapter" data-level="13" data-path="r-package-development.html"><a href="r-package-development.html"><i class="fa fa-check"></i><b>13</b> R package development</a><ul>
 <li class="chapter" data-level="13.1" data-path="r-package-development.html"><a href="r-package-development.html#r-packages"><i class="fa fa-check"></i><b>13.1</b> R packages</a></li>
 <li class="chapter" data-level="13.2" data-path="r-package-development.html"><a href="r-package-development.html#ropensci-packages-development-maintenance-and-peer-review"><i class="fa fa-check"></i><b>13.2</b> rOpenSci Packages: Development, Maintenance, and Peer Review</a></li>
+<li class="chapter" data-level="13.3" data-path="r-package-development.html"><a href="r-package-development.html#http-mocking-in-r"><i class="fa fa-check"></i><b>13.3</b> HTTP mocking in R</a></li>
 </ul></li>
 <li class="chapter" data-level="14" data-path="r-programming.html"><a href="r-programming.html"><i class="fa fa-check"></i><b>14</b> R programming</a><ul>
 <li class="chapter" data-level="14.1" data-path="r-programming.html"><a href="r-programming.html#modern-r-with-the-tidyverse"><i class="fa fa-check"></i><b>14.1</b> Modern R with the tidyverse</a></li>
@@ -193,6 +217,7 @@
 <li class="chapter" data-level="15.4" data-path="shiny.html"><a href="shiny.html#engineering-production-grade-shiny-apps"><i class="fa fa-check"></i><b>15.4</b> Engineering Production-Grade Shiny Apps</a></li>
 <li class="chapter" data-level="15.5" data-path="shiny.html"><a href="shiny.html#supplement-to-shiny-in-production"><i class="fa fa-check"></i><b>15.5</b> Supplement to Shiny in Production</a></li>
 <li class="chapter" data-level="15.6" data-path="shiny.html"><a href="shiny.html#outstanding-user-interfaces-with-shiny"><i class="fa fa-check"></i><b>15.6</b> Outstanding User Interfaces with Shiny</a></li>
+<li class="chapter" data-level="15.7" data-path="shiny.html"><a href="shiny.html#javascript-for-r-1"><i class="fa fa-check"></i><b>15.7</b> JavaScript for R</a></li>
 </ul></li>
 <li class="chapter" data-level="16" data-path="sport-analytics.html"><a href="sport-analytics.html"><i class="fa fa-check"></i><b>16</b> Sport analytics</a><ul>
 <li class="chapter" data-level="16.1" data-path="sport-analytics.html"><a href="sport-analytics.html#exploring-baseball-data-with-r"><i class="fa fa-check"></i><b>16.1</b> Exploring Baseball Data with R</a></li>
@@ -250,10 +275,11 @@
 <li class="chapter" data-level="23.15" data-path="field-specific.html"><a href="field-specific.html#how-to-be-a-modern-scientist"><i class="fa fa-check"></i><b>23.15</b> How to be a modern scientist</a></li>
 </ul></li>
 <li class="chapter" data-level="24" data-path="other-compendiums.html"><a href="other-compendiums.html"><i class="fa fa-check"></i><b>24</b> Other compendiums</a><ul>
-<li class="chapter" data-level="24.1" data-path="other-compendiums.html"><a href="other-compendiums.html#use-r-springer-series"><i class="fa fa-check"></i><b>24.1</b> Use R! Springer series</a></li>
-<li class="chapter" data-level="24.2" data-path="other-compendiums.html"><a href="other-compendiums.html#data-science-with-r-a-resource-compendium"><i class="fa fa-check"></i><b>24.2</b> Data Science with R: A Resource Compendium</a></li>
-<li class="chapter" data-level="24.3" data-path="other-compendiums.html"><a href="other-compendiums.html#r-on-the-web"><i class="fa fa-check"></i><b>24.3</b> R on the web</a></li>
-<li class="chapter" data-level="24.4" data-path="other-compendiums.html"><a href="other-compendiums.html#cran-doc-collections"><i class="fa fa-check"></i><b>24.4</b> CRAN doc collections</a></li>
+<li class="chapter" data-level="24.1" data-path="other-compendiums.html"><a href="other-compendiums.html#bookdown-archive"><i class="fa fa-check"></i><b>24.1</b> Bookdown archive</a></li>
+<li class="chapter" data-level="24.2" data-path="other-compendiums.html"><a href="other-compendiums.html#use-r-springer-series"><i class="fa fa-check"></i><b>24.2</b> Use R! Springer series</a></li>
+<li class="chapter" data-level="24.3" data-path="other-compendiums.html"><a href="other-compendiums.html#data-science-with-r-a-resource-compendium"><i class="fa fa-check"></i><b>24.3</b> Data Science with R: A Resource Compendium</a></li>
+<li class="chapter" data-level="24.4" data-path="other-compendiums.html"><a href="other-compendiums.html#r-on-the-web"><i class="fa fa-check"></i><b>24.4</b> R on the web</a></li>
+<li class="chapter" data-level="24.5" data-path="other-compendiums.html"><a href="other-compendiums.html#cran-doc-collections"><i class="fa fa-check"></i><b>24.5</b> CRAN doc collections</a></li>
 </ul></li>
 <li class="divider"></li>
 <li><center><a href="https://bookdown.org/yihui/bookdown/">
@@ -300,11 +326,13 @@ Published with bookdown</a></center></li>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -312,12 +340,11 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -329,6 +356,10 @@ gitbook.start({
 "text": "Edit"
 },
 "history": {
+"link": null,
+"text": null
+},
+"view": {
 "link": null,
 "text": null
 },

@@ -33,7 +33,7 @@ meta() %>%
     image_alt = "The cover of the Big Book of R book",
     og_type = "book",
     og_author = "Oscar Baruffa",
-    twitter_card_type = "summary",
+    twitter_card_type = "summary_large_image",
     twitter_creator = "@oscarbaruffa"
   )
 ```

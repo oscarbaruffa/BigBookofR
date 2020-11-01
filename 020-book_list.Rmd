@@ -197,7 +197,16 @@ Pay what you want for the ebook, minimum $0.00
 
 https://leanpub.com/datastyle
 
+## JavaScript for R
 
+[John Coene](https://john-coene.com)
+
+Learn how to build your own data visualsiation packages, improve shiny with 
+JavaScript, and use JavaScript for computations.
+
+Freely avaiable online, paid print.
+
+https://javascript-for-r.com
 
 # Data Visualization
 

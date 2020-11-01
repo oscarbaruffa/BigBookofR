@@ -17,6 +17,26 @@ output:
 site: bookdown::bookdown_site
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(metathis)
+meta() %>%
+  meta_description(
+    "100+ Free R programming books"
+  ) %>% 
+  meta_name("github-repo" = "oscarbaruffa/BigBookofR") %>% 
+  meta_viewport() %>% 
+  meta_social(
+    title = "Big Book of R",
+    url = "https://www.bigbookofr.com/",
+    image = "http://www.bigbookofr.com/images/big_book_social.png",
+    image_alt = "The cover of the Big Book of R book",
+    og_type = "book",
+    og_author = "Oscar Baruffa",
+    twitter_card_type = "summary",
+    twitter_creator = "@oscarbaruffa"
+  )
+```
 
 
 # Welcome :)

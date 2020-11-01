@@ -524,6 +524,14 @@ This book is a package development guide for authors, maintainers, reviewers and
 https://devguide.ropensci.org/index.html
 
 
+## HTTP mocking in R
+Scott Chamberlain, Maëlle Salmon
+
+This book is meant to be a free, central reference for developers of R packages accessing web resources, to help them have a faster and more robust development. Our aim is to develop an useful guidance to go with the great recent tools that vcr, webmockr, httptest and presser are.
+
+https://books.ropensci.org/http-testing/
+
+
 # R programming
 ##  Modern R with the tidyverse
 Bruno Rodrigues
@@ -783,6 +791,18 @@ Manipulate Shiny tags from R to create custom layouts. Harness the power of CSS 
 Learn how Shiny internally deals with inputs. Learn more about less documented Shiny mechanisms (websockets, sessions, …)
 
 https://divadnojnarg.github.io/outstanding-shiny-ui/
+
+## JavaScript for R
+
+[John Coene](https://john-coene.com)
+
+Learn how to build your own data visualsiation packages, improve shiny with 
+JavaScript, and use JavaScript for computations.
+
+Freely avaiable online, paid print.
+
+https://javascript-for-r.com
+
 
 # Sport analytics
 
@@ -1172,6 +1192,14 @@ https://leanpub.com/modernscientist
 
 # Other compendiums
 
+
+## Bookdown archive
+An archive all books publsohed via bookdown.org. It's a very very big repo.
+ 
+https://bookdown.org/home/archive/
+ 
+
+
 ## Use R! Springer series
 
 This is a collection of some 70+ books. This series of inexpensive and focused books on R will publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area (e.g., epidemiology, econometrics, psychometrics) or as it relates to statistical topics (e.g., missing data, longitudinal data).
@@ -1211,7 +1239,6 @@ Many of these are quite old publications, but it doesn't mean they're outdated o
 https://cran.r-project.org/other-docs.html
 
 https://www.r-project.org/doc/bib/R-books.html
-
 
 
 

@@ -5,7 +5,7 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
   bookdown::gitbook:
     includes:
-      in_header: [google-analytics.html]
+      in_header: [google-analytics.html, social.html]
     config:
       edit: https://github.com/oscarbaruffa/BigBookofR/edit/master/%s
       toc:
@@ -18,24 +18,24 @@ site: bookdown::bookdown_site
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-library(metathis)
-meta() %>%
-  meta_description(
-    "100+ Free R programming books"
-  ) %>% 
-  meta_name("github-repo" = "oscarbaruffa/BigBookofR") %>% 
-  meta_viewport() %>% 
-  meta_social(
-    title = "Big Book of R",
-    url = "https://www.bigbookofr.com/",
-    image = "https://www.bigbookofr.com/images/big_book_social.png",
-    image_alt = "The cover of the Big Book of R book",
-    og_type = "book",
-    og_author = "Oscar Baruffa",
-    twitter_card_type = "summary_large_image",
-    twitter_creator = "@oscarbaruffa"
-  )
+# knitr::opts_chunk$set(echo = FALSE)
+# library(metathis)
+# meta() %>%
+#   meta_description(
+#     "100+ Free R programming books"
+#   ) %>% 
+#   meta_name("github-repo" = "oscarbaruffa/BigBookofR") %>% 
+#   meta_viewport() %>% 
+#   meta_social(
+#     title = "Big Book of R",
+#     url = "https://www.bigbookofr.com/",
+#     image = "https://www.bigbookofr.com/images/big_book_social.png",
+#     image_alt = "The cover of the Big Book of R book",
+#     og_type = "book",
+#     og_author = "Oscar Baruffa",
+#     twitter_card_type = "summary_large_image",
+#     twitter_creator = "@oscarbaruffa"
+#   )
 ```
 
 

@@ -102,6 +102,8 @@ Mohit Sharma
 
 [Brendan Cullen](https://twitter.com/_bcullen)
 
+[Rami Krispin](https://twitter.com/Rami_Krispin)
+
 ## Licence
 
 This website/book is free to use, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/){target="blank}.

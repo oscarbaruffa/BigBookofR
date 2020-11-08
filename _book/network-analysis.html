@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html lang="" xml:lang="">
 <head>
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>12 Network analysis | Big Book of R</title>
   <meta name="description" content="12 Network analysis | Big Book of R" />
-  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
 
   <meta property="og:title" content="12 Network analysis | Big Book of R" />
   <meta property="og:type" content="book" />
@@ -39,6 +39,9 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
 
 
 
@@ -217,59 +220,65 @@
 <li class="chapter" data-level="17.1" data-path="statistics.html"><a href="statistics.html#common-statistical-tests-are-linear-models-a-work-through"><i class="fa fa-check"></i><b>17.1</b> Common statistical tests are linear models: a work through</a></li>
 <li class="chapter" data-level="17.2" data-path="statistics.html"><a href="statistics.html#learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners.-version-0.6.1"><i class="fa fa-check"></i><b>17.2</b> Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6.1)</a></li>
 <li class="chapter" data-level="17.3" data-path="statistics.html"><a href="statistics.html#answering-questions-with-data"><i class="fa fa-check"></i><b>17.3</b> Answering questions with data</a></li>
-<li class="chapter" data-level="17.4" data-path="statistics.html"><a href="statistics.html#forecasting-principles-and-practice"><i class="fa fa-check"></i><b>17.4</b> Forecasting: Principles and Practice</a></li>
-<li class="chapter" data-level="17.5" data-path="statistics.html"><a href="statistics.html#mixed-models-with-r-getting-started-with-random-effects"><i class="fa fa-check"></i><b>17.5</b> Mixed Models with R : Getting started with random effects</a></li>
-<li class="chapter" data-level="17.6" data-path="statistics.html"><a href="statistics.html#an-introduction-to-statistical-and-data-sciences-via-r"><i class="fa fa-check"></i><b>17.6</b> An Introduction to Statistical and Data Sciences via R</a></li>
-<li class="chapter" data-level="17.7" data-path="statistics.html"><a href="statistics.html#statistical-rethinking"><i class="fa fa-check"></i><b>17.7</b> Statistical Rethinking</a></li>
-<li class="chapter" data-level="17.8" data-path="statistics.html"><a href="statistics.html#openintro-statistics"><i class="fa fa-check"></i><b>17.8</b> OpenIntro Statistics</a></li>
-<li class="chapter" data-level="17.9" data-path="statistics.html"><a href="statistics.html#statistical-inference-for-data-science"><i class="fa fa-check"></i><b>17.9</b> Statistical inference for data science</a></li>
-<li class="chapter" data-level="17.10" data-path="statistics.html"><a href="statistics.html#statistics-the-easier-way-with-r-3rd.-ed.-tidyversion"><i class="fa fa-check"></i><b>17.10</b> Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)</a></li>
-<li class="chapter" data-level="17.11" data-path="statistics.html"><a href="statistics.html#end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inference"><i class="fa fa-check"></i><b>17.11</b> End-to-End Solved Problems With R: a catalog of 26 examples using statistical inference</a></li>
-<li class="chapter" data-level="17.12" data-path="statistics.html"><a href="statistics.html#bayes-rules"><i class="fa fa-check"></i><b>17.12</b> Bayes rules!</a></li>
+<li class="chapter" data-level="17.4" data-path="statistics.html"><a href="statistics.html#mixed-models-with-r-getting-started-with-random-effects"><i class="fa fa-check"></i><b>17.4</b> Mixed Models with R : Getting started with random effects</a></li>
+<li class="chapter" data-level="17.5" data-path="statistics.html"><a href="statistics.html#an-introduction-to-statistical-and-data-sciences-via-r"><i class="fa fa-check"></i><b>17.5</b> An Introduction to Statistical and Data Sciences via R</a></li>
+<li class="chapter" data-level="17.6" data-path="statistics.html"><a href="statistics.html#statistical-rethinking"><i class="fa fa-check"></i><b>17.6</b> Statistical Rethinking</a></li>
+<li class="chapter" data-level="17.7" data-path="statistics.html"><a href="statistics.html#openintro-statistics"><i class="fa fa-check"></i><b>17.7</b> OpenIntro Statistics</a></li>
+<li class="chapter" data-level="17.8" data-path="statistics.html"><a href="statistics.html#statistical-inference-for-data-science"><i class="fa fa-check"></i><b>17.8</b> Statistical inference for data science</a></li>
+<li class="chapter" data-level="17.9" data-path="statistics.html"><a href="statistics.html#statistics-the-easier-way-with-r-3rd.-ed.-tidyversion"><i class="fa fa-check"></i><b>17.9</b> Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)</a></li>
+<li class="chapter" data-level="17.10" data-path="statistics.html"><a href="statistics.html#end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inference"><i class="fa fa-check"></i><b>17.10</b> End-to-End Solved Problems With R: a catalog of 26 examples using statistical inference</a></li>
+<li class="chapter" data-level="17.11" data-path="statistics.html"><a href="statistics.html#bayes-rules"><i class="fa fa-check"></i><b>17.11</b> Bayes rules!</a></li>
 </ul></li>
-<li class="chapter" data-level="18" data-path="teaching.html"><a href="teaching.html"><i class="fa fa-check"></i><b>18</b> Teaching</a><ul>
-<li class="chapter" data-level="18.1" data-path="teaching.html"><a href="teaching.html#teaching-tech-together"><i class="fa fa-check"></i><b>18.1</b> Teaching Tech Together</a></li>
+<li class="chapter" data-level="18" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html"><i class="fa fa-check"></i><b>18</b> Time Series Analysis and Forecasting</a><ul>
+<li class="chapter" data-level="18.1" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#forecasting-principles-and-practice"><i class="fa fa-check"></i><b>18.1</b> Forecasting: Principles and Practice</a></li>
+<li class="chapter" data-level="18.2" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#time-series-analysis-and-its-applications"><i class="fa fa-check"></i><b>18.2</b> Time Series Analysis and Its Applications</a></li>
+<li class="chapter" data-level="18.3" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#hands-on-time-series-analysis-with-r"><i class="fa fa-check"></i><b>18.3</b> Hands-On Time Series Analysis with R</a></li>
+<li class="chapter" data-level="18.4" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#practical-time-series-forecasting-with-r-a-hands-on-guide"><i class="fa fa-check"></i><b>18.4</b> Practical Time Series Forecasting with R: A Hands-On Guide</a></li>
+<li class="chapter" data-level="18.5" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#time-series---a-data-analysis-approach-using-r"><i class="fa fa-check"></i><b>18.5</b> Time Series - A Data Analysis Approach Using R</a></li>
 </ul></li>
-<li class="chapter" data-level="19" data-path="text-analysis.html"><a href="text-analysis.html"><i class="fa fa-check"></i><b>19</b> Text analysis</a><ul>
-<li class="chapter" data-level="19.1" data-path="text-analysis.html"><a href="text-analysis.html#text-mining-with-r-1"><i class="fa fa-check"></i><b>19.1</b> Text Mining with R</a></li>
-<li class="chapter" data-level="19.2" data-path="text-analysis.html"><a href="text-analysis.html#supervised-machine-learning-for-text-analysis-in-r-1"><i class="fa fa-check"></i><b>19.2</b> Supervised Machine Learning for Text Analysis in R</a></li>
+<li class="chapter" data-level="19" data-path="teaching.html"><a href="teaching.html"><i class="fa fa-check"></i><b>19</b> Teaching</a><ul>
+<li class="chapter" data-level="19.1" data-path="teaching.html"><a href="teaching.html#teaching-tech-together"><i class="fa fa-check"></i><b>19.1</b> Teaching Tech Together</a></li>
 </ul></li>
-<li class="chapter" data-level="20" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html"><i class="fa fa-check"></i><b>20</b> Reports: R Markdown and knitr</a><ul>
-<li class="chapter" data-level="20.1" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#r-markdown-the-definitive-guide"><i class="fa fa-check"></i><b>20.1</b> R Markdown: The Definitive Guide</a></li>
+<li class="chapter" data-level="20" data-path="text-analysis.html"><a href="text-analysis.html"><i class="fa fa-check"></i><b>20</b> Text analysis</a><ul>
+<li class="chapter" data-level="20.1" data-path="text-analysis.html"><a href="text-analysis.html#text-mining-with-r-1"><i class="fa fa-check"></i><b>20.1</b> Text Mining with R</a></li>
+<li class="chapter" data-level="20.2" data-path="text-analysis.html"><a href="text-analysis.html#supervised-machine-learning-for-text-analysis-in-r-1"><i class="fa fa-check"></i><b>20.2</b> Supervised Machine Learning for Text Analysis in R</a></li>
 </ul></li>
-<li class="chapter" data-level="21" data-path="version-control.html"><a href="version-control.html"><i class="fa fa-check"></i><b>21</b> Version control</a><ul>
-<li class="chapter" data-level="21.1" data-path="version-control.html"><a href="version-control.html#happy-git-and-github-for-the-user"><i class="fa fa-check"></i><b>21.1</b> Happy Git and GitHub for the useR</a></li>
-<li class="chapter" data-level="21.2" data-path="version-control.html"><a href="version-control.html#github-actions-with-r"><i class="fa fa-check"></i><b>21.2</b> Github actions with R</a></li>
-<li class="chapter" data-level="21.3" data-path="version-control.html"><a href="version-control.html#github-learning-lab"><i class="fa fa-check"></i><b>21.3</b> Github learning lab</a></li>
+<li class="chapter" data-level="21" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html"><i class="fa fa-check"></i><b>21</b> Reports: R Markdown and knitr</a><ul>
+<li class="chapter" data-level="21.1" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#r-markdown-the-definitive-guide"><i class="fa fa-check"></i><b>21.1</b> R Markdown: The Definitive Guide</a></li>
 </ul></li>
-<li class="chapter" data-level="22" data-path="workflow.html"><a href="workflow.html"><i class="fa fa-check"></i><b>22</b> Workflow</a><ul>
-<li class="chapter" data-level="22.1" data-path="workflow.html"><a href="workflow.html#how-i-use-r"><i class="fa fa-check"></i><b>22.1</b> How I Use R</a></li>
-<li class="chapter" data-level="22.2" data-path="workflow.html"><a href="workflow.html#agile-data-science-with-r"><i class="fa fa-check"></i><b>22.2</b> Agile Data Science with R</a></li>
-<li class="chapter" data-level="22.3" data-path="workflow.html"><a href="workflow.html#github-actions-with-r-1"><i class="fa fa-check"></i><b>22.3</b> Github actions with R</a></li>
+<li class="chapter" data-level="22" data-path="version-control.html"><a href="version-control.html"><i class="fa fa-check"></i><b>22</b> Version control</a><ul>
+<li class="chapter" data-level="22.1" data-path="version-control.html"><a href="version-control.html#happy-git-and-github-for-the-user"><i class="fa fa-check"></i><b>22.1</b> Happy Git and GitHub for the useR</a></li>
+<li class="chapter" data-level="22.2" data-path="version-control.html"><a href="version-control.html#github-actions-with-r"><i class="fa fa-check"></i><b>22.2</b> Github actions with R</a></li>
+<li class="chapter" data-level="22.3" data-path="version-control.html"><a href="version-control.html#github-learning-lab"><i class="fa fa-check"></i><b>22.3</b> Github learning lab</a></li>
 </ul></li>
-<li class="chapter" data-level="23" data-path="field-specific.html"><a href="field-specific.html"><i class="fa fa-check"></i><b>23</b> Field specific</a><ul>
-<li class="chapter" data-level="23.1" data-path="field-specific.html"><a href="field-specific.html#analyzing-financial-and-economic-data-with-r"><i class="fa fa-check"></i><b>23.1</b> Analyzing Financial and Economic Data with R</a></li>
-<li class="chapter" data-level="23.2" data-path="field-specific.html"><a href="field-specific.html#data-science-in-education-using-r"><i class="fa fa-check"></i><b>23.2</b> Data Science in Education Using R</a></li>
-<li class="chapter" data-level="23.3" data-path="field-specific.html"><a href="field-specific.html#the-plain-persons-guide-to-plain-text-social-science"><i class="fa fa-check"></i><b>23.3</b> The Plain Person’s Guide to Plain Text Social Science</a></li>
-<li class="chapter" data-level="23.4" data-path="field-specific.html"><a href="field-specific.html#technical-foundations-of-informatics"><i class="fa fa-check"></i><b>23.4</b> Technical Foundations of Informatics</a></li>
-<li class="chapter" data-level="23.5" data-path="field-specific.html"><a href="field-specific.html#practical-r-for-mass-communication-and-journalism"><i class="fa fa-check"></i><b>23.5</b> Practical R for Mass Communication and Journalism</a></li>
-<li class="chapter" data-level="23.6" data-path="field-specific.html"><a href="field-specific.html#an-introduction-to-quantitative-analysis-of-political-data-in-r"><i class="fa fa-check"></i><b>23.6</b> An introduction to quantitative analysis of political data in R</a></li>
-<li class="chapter" data-level="23.7" data-path="field-specific.html"><a href="field-specific.html#orchestrating-single-cell-analysis-with-bioconductor"><i class="fa fa-check"></i><b>23.7</b> Orchestrating Single-Cell Analysis with Bioconductor</a></li>
-<li class="chapter" data-level="23.8" data-path="field-specific.html"><a href="field-specific.html#assigning-cell-types-with-singler"><i class="fa fa-check"></i><b>23.8</b> Assigning cell types with SingleR</a></li>
-<li class="chapter" data-level="23.9" data-path="field-specific.html"><a href="field-specific.html#modern-statistics-for-modern-biology"><i class="fa fa-check"></i><b>23.9</b> Modern Statistics for Modern Biology</a></li>
-<li class="chapter" data-level="23.10" data-path="field-specific.html"><a href="field-specific.html#statistics-in-r-for-biodiversity-conservation-paperback"><i class="fa fa-check"></i><b>23.10</b> Statistics in R for Biodiversity Conservation Paperback</a></li>
-<li class="chapter" data-level="23.11" data-path="field-specific.html"><a href="field-specific.html#machine-learning-for-factor-investing-1"><i class="fa fa-check"></i><b>23.11</b> Machine Learning for Factor Investing</a></li>
-<li class="chapter" data-level="23.12" data-path="field-specific.html"><a href="field-specific.html#computational-genomics-with-r"><i class="fa fa-check"></i><b>23.12</b> Computational Genomics with R</a></li>
-<li class="chapter" data-level="23.13" data-path="field-specific.html"><a href="field-specific.html#introduction-to-econometrics-with-r"><i class="fa fa-check"></i><b>23.13</b> Introduction to Econometrics with R</a></li>
-<li class="chapter" data-level="23.14" data-path="field-specific.html"><a href="field-specific.html#data-analysis-for-the-life-sciences"><i class="fa fa-check"></i><b>23.14</b> Data Analysis for the Life Sciences</a></li>
-<li class="chapter" data-level="23.15" data-path="field-specific.html"><a href="field-specific.html#how-to-be-a-modern-scientist"><i class="fa fa-check"></i><b>23.15</b> How to be a modern scientist</a></li>
+<li class="chapter" data-level="23" data-path="workflow.html"><a href="workflow.html"><i class="fa fa-check"></i><b>23</b> Workflow</a><ul>
+<li class="chapter" data-level="23.1" data-path="workflow.html"><a href="workflow.html#how-i-use-r"><i class="fa fa-check"></i><b>23.1</b> How I Use R</a></li>
+<li class="chapter" data-level="23.2" data-path="workflow.html"><a href="workflow.html#agile-data-science-with-r"><i class="fa fa-check"></i><b>23.2</b> Agile Data Science with R</a></li>
+<li class="chapter" data-level="23.3" data-path="workflow.html"><a href="workflow.html#github-actions-with-r-1"><i class="fa fa-check"></i><b>23.3</b> Github actions with R</a></li>
 </ul></li>
-<li class="chapter" data-level="24" data-path="other-compendiums.html"><a href="other-compendiums.html"><i class="fa fa-check"></i><b>24</b> Other compendiums</a><ul>
-<li class="chapter" data-level="24.1" data-path="other-compendiums.html"><a href="other-compendiums.html#bookdown-archive"><i class="fa fa-check"></i><b>24.1</b> Bookdown archive</a></li>
-<li class="chapter" data-level="24.2" data-path="other-compendiums.html"><a href="other-compendiums.html#use-r-springer-series"><i class="fa fa-check"></i><b>24.2</b> Use R! Springer series</a></li>
-<li class="chapter" data-level="24.3" data-path="other-compendiums.html"><a href="other-compendiums.html#data-science-with-r-a-resource-compendium"><i class="fa fa-check"></i><b>24.3</b> Data Science with R: A Resource Compendium</a></li>
-<li class="chapter" data-level="24.4" data-path="other-compendiums.html"><a href="other-compendiums.html#r-on-the-web"><i class="fa fa-check"></i><b>24.4</b> R on the web</a></li>
-<li class="chapter" data-level="24.5" data-path="other-compendiums.html"><a href="other-compendiums.html#cran-doc-collections"><i class="fa fa-check"></i><b>24.5</b> CRAN doc collections</a></li>
+<li class="chapter" data-level="24" data-path="field-specific.html"><a href="field-specific.html"><i class="fa fa-check"></i><b>24</b> Field specific</a><ul>
+<li class="chapter" data-level="24.1" data-path="field-specific.html"><a href="field-specific.html#analyzing-financial-and-economic-data-with-r"><i class="fa fa-check"></i><b>24.1</b> Analyzing Financial and Economic Data with R</a></li>
+<li class="chapter" data-level="24.2" data-path="field-specific.html"><a href="field-specific.html#data-science-in-education-using-r"><i class="fa fa-check"></i><b>24.2</b> Data Science in Education Using R</a></li>
+<li class="chapter" data-level="24.3" data-path="field-specific.html"><a href="field-specific.html#the-plain-persons-guide-to-plain-text-social-science"><i class="fa fa-check"></i><b>24.3</b> The Plain Person’s Guide to Plain Text Social Science</a></li>
+<li class="chapter" data-level="24.4" data-path="field-specific.html"><a href="field-specific.html#technical-foundations-of-informatics"><i class="fa fa-check"></i><b>24.4</b> Technical Foundations of Informatics</a></li>
+<li class="chapter" data-level="24.5" data-path="field-specific.html"><a href="field-specific.html#practical-r-for-mass-communication-and-journalism"><i class="fa fa-check"></i><b>24.5</b> Practical R for Mass Communication and Journalism</a></li>
+<li class="chapter" data-level="24.6" data-path="field-specific.html"><a href="field-specific.html#an-introduction-to-quantitative-analysis-of-political-data-in-r"><i class="fa fa-check"></i><b>24.6</b> An introduction to quantitative analysis of political data in R</a></li>
+<li class="chapter" data-level="24.7" data-path="field-specific.html"><a href="field-specific.html#orchestrating-single-cell-analysis-with-bioconductor"><i class="fa fa-check"></i><b>24.7</b> Orchestrating Single-Cell Analysis with Bioconductor</a></li>
+<li class="chapter" data-level="24.8" data-path="field-specific.html"><a href="field-specific.html#assigning-cell-types-with-singler"><i class="fa fa-check"></i><b>24.8</b> Assigning cell types with SingleR</a></li>
+<li class="chapter" data-level="24.9" data-path="field-specific.html"><a href="field-specific.html#modern-statistics-for-modern-biology"><i class="fa fa-check"></i><b>24.9</b> Modern Statistics for Modern Biology</a></li>
+<li class="chapter" data-level="24.10" data-path="field-specific.html"><a href="field-specific.html#statistics-in-r-for-biodiversity-conservation-paperback"><i class="fa fa-check"></i><b>24.10</b> Statistics in R for Biodiversity Conservation Paperback</a></li>
+<li class="chapter" data-level="24.11" data-path="field-specific.html"><a href="field-specific.html#machine-learning-for-factor-investing-1"><i class="fa fa-check"></i><b>24.11</b> Machine Learning for Factor Investing</a></li>
+<li class="chapter" data-level="24.12" data-path="field-specific.html"><a href="field-specific.html#computational-genomics-with-r"><i class="fa fa-check"></i><b>24.12</b> Computational Genomics with R</a></li>
+<li class="chapter" data-level="24.13" data-path="field-specific.html"><a href="field-specific.html#introduction-to-econometrics-with-r"><i class="fa fa-check"></i><b>24.13</b> Introduction to Econometrics with R</a></li>
+<li class="chapter" data-level="24.14" data-path="field-specific.html"><a href="field-specific.html#data-analysis-for-the-life-sciences"><i class="fa fa-check"></i><b>24.14</b> Data Analysis for the Life Sciences</a></li>
+<li class="chapter" data-level="24.15" data-path="field-specific.html"><a href="field-specific.html#how-to-be-a-modern-scientist"><i class="fa fa-check"></i><b>24.15</b> How to be a modern scientist</a></li>
+</ul></li>
+<li class="chapter" data-level="25" data-path="other-compendiums.html"><a href="other-compendiums.html"><i class="fa fa-check"></i><b>25</b> Other compendiums</a><ul>
+<li class="chapter" data-level="25.1" data-path="other-compendiums.html"><a href="other-compendiums.html#bookdown-archive"><i class="fa fa-check"></i><b>25.1</b> Bookdown archive</a></li>
+<li class="chapter" data-level="25.2" data-path="other-compendiums.html"><a href="other-compendiums.html#use-r-springer-series"><i class="fa fa-check"></i><b>25.2</b> Use R! Springer series</a></li>
+<li class="chapter" data-level="25.3" data-path="other-compendiums.html"><a href="other-compendiums.html#data-science-with-r-a-resource-compendium"><i class="fa fa-check"></i><b>25.3</b> Data Science with R: A Resource Compendium</a></li>
+<li class="chapter" data-level="25.4" data-path="other-compendiums.html"><a href="other-compendiums.html#r-on-the-web"><i class="fa fa-check"></i><b>25.4</b> R on the web</a></li>
+<li class="chapter" data-level="25.5" data-path="other-compendiums.html"><a href="other-compendiums.html#cran-doc-collections"><i class="fa fa-check"></i><b>25.5</b> CRAN doc collections</a></li>
 </ul></li>
 <li class="divider"></li>
 <li><center><a href="https://bookdown.org/yihui/bookdown/">
@@ -349,11 +358,13 @@ Published with bookdown</a></center></li>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -361,12 +372,11 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
-"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -378,6 +388,10 @@ gitbook.start({
 "text": "Edit"
 },
 "history": {
+"link": null,
+"text": null
+},
+"view": {
 "link": null,
 "text": null
 },

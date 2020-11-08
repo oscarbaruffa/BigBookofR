@@ -850,15 +850,6 @@ Looks like a comprehensive stats resource!
 
 https://crumplab.github.io/statistics/
 
-## Forecasting: Principles and Practice
-Rob J Hyndman and George Athanasopoulos
-
-This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly.
-
-
-The book is written for three audiences: (1) people finding themselves doing forecasting in business when they may not have had any formal training in the area; (2) undergraduate students studying business; (3) MBA students doing a forecasting elective. 
-
-https://otexts.com/fpp2/
 
 
 ## Mixed Models with R : Getting started with random effects
@@ -944,6 +935,56 @@ The overall spirit is very applied: the book utilizes modern computing resources
 Free online book under construction but with 5 complete chapters on 2020/10/15
 
 https://www.bayesrulesbook.com/
+
+# Time Series Analysis and Forecasting
+
+## Forecasting: Principles and Practice
+Rob J Hyndman and George Athanasopoulos
+
+This textbook is intended to provide a comprehensive introduction to forecasting methods and to present enough information about each method for readers to be able to use them sensibly.
+
+
+The book is written for three audiences: (1) people finding themselves doing forecasting in business when they may not have had any formal training in the area; (2) undergraduate students studying business; (3) MBA students doing a forecasting elective. 
+
+Second edition supporting the [forecast](https://pkg.robjhyndman.com/forecast/) package:
+https://otexts.com/fpp2/
+
+Third edition supporting the [fable](https://fable.tidyverts.org/) package:
+https://otexts.com/fpp3/
+
+## Time Series Analysis and Its Applications
+
+Robert H. Shumway and David S. Stoffer
+
+The book is designed as a textbook for graduate level students in the physical, biological, and social sciences and as a graduate level text in statistics. Some parts may also serve as an undergraduate introductory course. Theory and methodology are separated to allow presentations on different levels. In addition to coverage of classical methods of time series regression, ARIMA models, spectral analysis and state-space models, the text includes modern developments including categorical time series analysis, multivariate spectral methods, long memory series, nonlinear models, resampling techniques, GARCH models, ARMAX models, stochastic volatility, wavelets, and Markov chain Monte Carlo integration methods.
+
+https://www.stat.pitt.edu/stoffer/tsa4/index.html
+
+## Hands-On Time Series Analysis with R
+
+Rami Krispin
+
+The book provides an introduction for time series analysis with R. It covers the general workflow of time series analysis - working and handling time series data, descriptive analysis, predictive analysis, modeling strategies, etc.
+
+This book is designed for data scientists who wish to learn time series analysis and forecasting or data analysts who use Excel-based forecasting methods and wish to use more robust methods.
+
+https://www.packtpub.com/product/hands-on-time-series-analysis-with-r/9781788629157
+
+## Practical Time Series Forecasting with R: A Hands-On Guide
+
+Practical Time Series Forecasting with R provides an applied approach to time-series forecasting. Forecasting is an essential component of predictive analytics. 
+
+Balancing theory and practice, the books introduce popular forecasting methods and approaches used in a variety of business applications, and are ideal for Business Analytics, MBA, Executive MBA, and Data Analytics programs in business schools. 
+
+http://www.forecastingbook.com/
+
+## Time Series - A Data Analysis Approach Using R
+
+Robert H. Shumway and David S. Stoffer
+
+The goals of this text are to develop the skills and an appreciation for the richness and versatility of modern time series analysis as a tool for analyzing dependent data. A useful feature of the presentation is the inclusion of nontrivial data sets illustrating the richness of potential applications to problems in the biological, physical, and social sciences as well as medicine. The text presents a balanced and comprehensive treatment of both time and frequency domain methods with an emphasis on data analysis.
+
+https://www.routledge.com/Time-Series-A-Data-Analysis-Approach-Using-R/Shumway-Stoffer/p/book/9780367221096
 
 # Teaching
 

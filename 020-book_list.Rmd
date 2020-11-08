@@ -740,6 +740,14 @@ This document provides a concise introduction to R. It emphasizes what you need 
 https://rspatial.org/intr/index.html
 
 
+## Another Book on Data Science : Learn R and Python in Parallel
+Nailong Zhang
+
+There has been considerable debate over choosing R vs. Python for Data Science. Based on my limited knowledge/experience, both R and Python are great languages and are worth learning; so why not learn them together?
+
+Besides the side-by-side comparison of the two popular languages used in Data Science, this book also focuses on the translation from mathematical models to codes. In the book, the audience could find the applications/implementations of some important algorithms from scratch, such as maximum likelihood estimation, inversion sampling, copula simulation, simulated annealing, bootstrapping, linear regression (lasso/ridge regression), logistic regression, gradient boosting trees, etc.
+
+https://www.anotherbookondatascience.com/
 
 
 # Shiny
@@ -1142,6 +1150,7 @@ http://www.machlis.com/R4Journalists/index.html
 In this book, we aim to provide an easily accessible introduction to R for the collection, study and presentation of different types of political data. Specifically, the book will teach you how to get different types of political data into R and manipulate, analyze and visualize the output. In doing this, we will not only teach you how to get existing data into R, but also how to collect your own data.
 
 http://qpolr.com/
+
 
 
 ## Orchestrating Single-Cell Analysis with Bioconductor

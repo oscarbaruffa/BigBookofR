@@ -372,8 +372,11 @@ This book describes spatial and spatio-temporal statistical methods and visualiz
 
 https://www.paulamoraga.com/book-geospatial/
 
+## Introduction to Spatial Data Programming with R
 
+This book introduces processing and analysis methods for working with spatial data in R. The book is composed of two parts. The *first* part gives an overview of the basic syntax and usage of the R language, required before we can start working with spatial data. The *second* part then covers spatial data workflows, including how to process rasters, vector layers, and both of them together, as well as two selected advanced topics: spatio-temporal data and spatial interpolation.
 
+https://geobgu.xyz/r/
 
 # Machine Learning
 

@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>16 Sport analytics | Big Book of R</title>
   <meta name="description" content="16 Sport analytics | Big Book of R" />
-  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
 
   <meta property="og:title" content="16 Sport analytics | Big Book of R" />
   <meta property="og:type" content="book" />
@@ -39,9 +39,6 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
-
-
 
 
 
@@ -236,6 +233,8 @@
 <li class="chapter" data-level="18.3" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#hands-on-time-series-analysis-with-r"><i class="fa fa-check"></i><b>18.3</b> Hands-On Time Series Analysis with R</a></li>
 <li class="chapter" data-level="18.4" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#practical-time-series-forecasting-with-r-a-hands-on-guide"><i class="fa fa-check"></i><b>18.4</b> Practical Time Series Forecasting with R: A Hands-On Guide</a></li>
 <li class="chapter" data-level="18.5" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#time-series---a-data-analysis-approach-using-r"><i class="fa fa-check"></i><b>18.5</b> Time Series - A Data Analysis Approach Using R</a></li>
+<li class="chapter" data-level="18.6" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#applied-time-series-analysis-for-fisheries-and-environmental-sciences"><i class="fa fa-check"></i><b>18.6</b> Applied Time Series Analysis for Fisheries and Environmental Sciences</a></li>
+<li class="chapter" data-level="18.7" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#fisheries-catch-forecasting"><i class="fa fa-check"></i><b>18.7</b> Fisheries Catch Forecasting</a></li>
 </ul></li>
 <li class="chapter" data-level="19" data-path="teaching.html"><a href="teaching.html"><i class="fa fa-check"></i><b>19</b> Teaching</a><ul>
 <li class="chapter" data-level="19.1" data-path="teaching.html"><a href="teaching.html#teaching-tech-together"><i class="fa fa-check"></i><b>19.1</b> Teaching Tech Together</a></li>
@@ -328,13 +327,11 @@ Published with bookdown</a></center></li>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
-<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -342,11 +339,12 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
+"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -358,10 +356,6 @@ gitbook.start({
 "text": "Edit"
 },
 "history": {
-"link": null,
-"text": null
-},
-"view": {
 "link": null,
 "text": null
 },

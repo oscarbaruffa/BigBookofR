@@ -972,6 +972,8 @@ https://www.packtpub.com/product/hands-on-time-series-analysis-with-r/9781788629
 
 ## Practical Time Series Forecasting with R: A Hands-On Guide
 
+Galit Shmueli and  Kenneth C. Lichtendahl, Jr
+
 Practical Time Series Forecasting with R provides an applied approach to time-series forecasting. Forecasting is an essential component of predictive analytics. 
 
 Balancing theory and practice, the books introduce popular forecasting methods and approaches used in a variety of business applications, and are ideal for Business Analytics, MBA, Executive MBA, and Data Analytics programs in business schools. 
@@ -985,6 +987,21 @@ Robert H. Shumway and David S. Stoffer
 The goals of this text are to develop the skills and an appreciation for the richness and versatility of modern time series analysis as a tool for analyzing dependent data. A useful feature of the presentation is the inclusion of nontrivial data sets illustrating the richness of potential applications to problems in the biological, physical, and social sciences as well as medicine. The text presents a balanced and comprehensive treatment of both time and frequency domain methods with an emphasis on data analysis.
 
 https://www.routledge.com/Time-Series-A-Data-Analysis-Approach-Using-R/Shumway-Stoffer/p/book/9780367221096
+
+
+## Applied Time Series Analysis for Fisheries and Environmental Sciences
+
+E. E. Holmes, M. D. Scheuerell, and E. J. Ward
+
+This is material that was developed as part of a course we teach at the University of Washington on applied time series analysis for fisheries and environmental data.
+
+https://nwfsc-timeseries.github.io/atsa-labs/
+
+## Fisheries Catch Forecasting
+
+The focus of this book is on analysis of univariate time series. However multivariate regression with autocorrelated errors and multivariate autoregressive models (MAR) will be covered more briefly. For an indepth discussion of multivariate autoregressive models and multivariate autoregressive state-space models, see Holmes, Ward and Scheuerell (2018).
+
+https://fish-forecast.github.io/Fish-Forecast-Bookdown/index.html
 
 # Teaching
 

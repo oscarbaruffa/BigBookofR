@@ -379,6 +379,67 @@ This book introduces processing and analysis methods for working with spatial da
 
 https://geobgu.xyz/r
 
+# Life Sciences
+
+## Data Analysis for the Life Sciences
+Rafael A Irizarry and Michael I Love
+
+Data analysis is now part of practically every research project in the life sciences. In this book we use data and computer code to teach the necessary statistical concepts and programming skills to become a data analyst. Instead of showing theory first and then applying it to toy examples, we start with actual applications.
+
+Pay what you want for the ebook, minimum $0.00
+
+https://leanpub.com/dataanalysisforthelifesciences
+
+[Accompanying website](http://genomicsclass.github.io/book/)
+
+
+## Modern Statistics for Modern Biology
+
+Susan Holmes, Wolfgang Huber
+
+The aim of this book is to enable scientists working in biological research to quickly learn many of the important ideas and methods that they need to make the best of their experiments and of other available data.
+
+https://www.huber.embl.de/msmb/
+
+
+
+## Orchestrating Single-Cell Analysis with Bioconductor
+
+[Aaron Lun, Robert Amezquita, Stephanie Hicks, Raphael Gottardo](https://osca.bioconductor.org/contributors.html)
+
+This is the website for “Orchestrating Single-Cell Analysis with Bioconductor”, a book that teaches users some common workflows for the analysis of single-cell RNA-seq data (scRNA-seq).
+
+https://osca.bioconductor.org/
+
+
+## Assigning cell types with SingleR
+[Aaron Lun]((https://osca.bioconductor.org/contributors.html)
+
+This book covers the use of SingleR, one implementation of an automated annotation method for cell type annotation.
+
+https://bioconductor.org/books/3.12/SingleRBook/
+
+
+
+
+## Statistics in R for Biodiversity Conservation Paperback
+by Carl Smith , [Antonio Uzal](https://twitter.com/antonio_uzal) , Mark Warren 
+
+A practical handbook to introduce data analysis and model fitting using R to ecologists and conservation biologists. The book is aimed at undergraduate and post-graduate students and provides access to datasets and RScript.
+
+Paid product ~$10
+
+https://www.amazon.co.uk/dp/B08HBLYHQL/ref=cm_sw_r_cp_apa_i_g0luFb86PXJ9Z
+
+
+
+## Computational Genomics with R
+Altuna Akalin
+
+The aim of this book is to provide the fundamentals for data analysis for genomics. We developed this book based on the computational genomics courses we are giving every year. 
+
+http://compgenomr.github.io/book/
+
 
 # Machine Learning
 
@@ -1183,39 +1244,7 @@ http://qpolr.com/
 
 
 
-## Orchestrating Single-Cell Analysis with Bioconductor
 
-[Aaron Lun, Robert Amezquita, Stephanie Hicks, Raphael Gottardo](https://osca.bioconductor.org/contributors.html)
-
-This is the website for “Orchestrating Single-Cell Analysis with Bioconductor”, a book that teaches users some common workflows for the analysis of single-cell RNA-seq data (scRNA-seq).
-
-https://osca.bioconductor.org/
-
-
-## Assigning cell types with SingleR
-[Aaron Lun]((https://osca.bioconductor.org/contributors.html)
-
-This book covers the use of SingleR, one implementation of an automated annotation method for cell type annotation.
-
-https://bioconductor.org/books/3.12/SingleRBook/
-
-
-## Modern Statistics for Modern Biology
-
-Susan Holmes, Wolfgang Huber
-
-The aim of this book is to enable scientists working in biological research to quickly learn many of the important ideas and methods that they need to make the best of their experiments and of other available data.
-
-https://www.huber.embl.de/msmb/
-
-## Statistics in R for Biodiversity Conservation Paperback
-by Carl Smith , [Antonio Uzal](https://twitter.com/antonio_uzal) , Mark Warren 
-
-A practical handbook to introduce data analysis and model fitting using R to ecologists and conservation biologists. The book is aimed at undergraduate and post-graduate students and provides access to datasets and RScript.
-
-Paid product ~$10
-
-https://www.amazon.co.uk/dp/B08HBLYHQL/ref=cm_sw_r_cp_apa_i_g0luFb86PXJ9Z
 
 
 ## Machine Learning for Factor Investing
@@ -1227,12 +1256,7 @@ This book is intended to cover some advanced modelling techniques applied to equ
 http://www.mlfactor.com/
 
 
-## Computational Genomics with R
-Altuna Akalin
 
-The aim of this book is to provide the fundamentals for data analysis for genomics. We developed this book based on the computational genomics courses we are giving every year. 
-
-http://compgenomr.github.io/book/
 
 ## Introduction to Econometrics with R
 Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer
@@ -1241,16 +1265,7 @@ Instead of confronting students with pure coding exercises and complementary cla
 
 https://www.econometrics-with-r.org/
 
-## Data Analysis for the Life Sciences
-Rafael A Irizarry and Michael I Love
 
-Data analysis is now part of practically every research project in the life sciences. In this book we use data and computer code to teach the necessary statistical concepts and programming skills to become a data analyst. Instead of showing theory first and then applying it to toy examples, we start with actual applications.
-
-Pay what you want for the ebook, minimum $0.00
-
-https://leanpub.com/dataanalysisforthelifesciences
-
-[Accompanying website](http://genomicsclass.github.io/book/)
 
 ## How to be a modern scientist
 [Jeffrey Leek](https://twitter.com/jtleek)

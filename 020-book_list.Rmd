@@ -1021,6 +1021,15 @@ Free online book under construction but with 5 complete chapters on 2020/10/15
 
 https://www.bayesrulesbook.com/
 
+## A Business Analyst's Introduction to Business Analytics: Intro to Bayesian Business Analytics in the R Ecosystem
+
+[Adam Fleischhacker](https://twitter.com/preposterior)
+
+This textbook goes farther than just showing you how to make computational models using software or mathematical models using statistics. It guides your thinking so you can align computational and mathematical models with real-world scenarios. As you journey through the material, you will feel empowered to effectively collaborate with business stakeholders as you use modern software stacks and modern statistical workflows to discover insight. R, RStudio, dplyr for data manipulation, ggplot for data visualization,  causact for graphical models, and Bayesian data analysis feature prominently.
+
+The full-color book ($68) is available via Amazon: https://www.amazon.com/dp/B08DBYPRD2 
+and online (free) at: http://causact.com.  Video supplements for all chapters [available on YouTube.](https://www.youtube.com/playlist?list=PLassxuIVwGLPy-mtohX-NXrjD8fc9FBOc)
+
 # Time Series Analysis and Forecasting
 
 ## Forecasting: Principles and Practice

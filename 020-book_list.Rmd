@@ -470,6 +470,16 @@ Pay what you want for the ebook, minimum $0.00
 
 [Leanpub PDF](https://leanpub.com/interpretable-machine-learning)
 
+## Explanatory Model Analysis
+
+Responsible, Fair and Explainable Predictive Modeling
+with examples in R and Python
+
+[Przemyslaw Biecek](https://github.com/pbiecek), Tomasz Burzykowski
+
+Free online: https://pbiecek.github.io/ema/
+
+Or paid printed: https://www.routledge.com/Explanatory-Model-Analysis-Explore-Explain-and-Examine-Predictive-Models/Biecek-Burzykowski/p/book/9780367135591
 
 ## Supervised Machine Learning for Text Analysis in R
 [Emil Hvitfeldt](https://twitter.com/Emil_Hvitfeldt), [Julia Silge](https://twitter.com/juliasilge)

@@ -21,3 +21,13 @@ For a different take on the soltuions, check out *Yet another ‘R for Data Scie
 If you prefer video instruction with progress tracking, check out this course from "R for the Rest of Us" called Getting Started with R.
 
 https://rfortherestofus.com/courses/getting-started/
+
+
+### YaRrr! The Pirate’s Guide to R
+
+[Nathaniel D. Phillips](https://twitter.com/YaRrrBook)
+
+This book is meant to introduce you to the basic analytical tools in R, from basic coding and analyses, to data wrangling, plotting, and statistical inference.
+
+
+The book is free to read at <https://bookdown.org/ndphillips/YaRrr> 

@@ -1040,6 +1040,20 @@ This textbook goes farther than just showing you how to make computational model
 The full-color book ($68) is available via Amazon: https://www.amazon.com/dp/B08DBYPRD2 
 and online (free) at: http://causact.com.  Video supplements for all chapters [available on YouTube.](https://www.youtube.com/playlist?list=PLassxuIVwGLPy-mtohX-NXrjD8fc9FBOc)
 
+## Statistics and Data with R: An Applied Approach Through Examples
+
+Yosef Cohen and Jeremiah Y. Cohen
+
+R, an Open Source software, has become the de facto statistical computing environment. It has an excellent collection of data manipulation and graphics capabilities. It is extensible and comes with a large number of packages that allow statistical analysis at all levels – from simple to advanced – and in numerous fields including Medicine, Genetics, Biology, Environmental Sciences, Geology, Social Sciences and much more. The software is maintained and developed by academicians and professionals and as such, is continuously evolving and up to date. Statistics and Data with R presents an accessible guide to data manipulations, statistical analysis and graphics using R.
+
+The E-Book costs $97.00 while the print version costs $121.75
+
+https://www.wiley.com/en-us/Statistics+and+Data+with+R%3A+An+Applied+Approach+Through+Examples-p-9780470758052
+
+
+
+
+
 # Time Series Analysis and Forecasting
 
 ## Forecasting: Principles and Practice

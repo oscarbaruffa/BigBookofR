@@ -1,3 +1,62 @@
+---
+title: "Big Book of R"
+author: "Oscar Baruffa"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  bookdown::gitbook:
+    includes:
+      in_header: [google-analytics.html, social.html]
+    config:
+      edit: https://github.com/oscarbaruffa/BigBookofR/edit/master/%s
+      toc:
+        before: |  
+          <br/><center><b><a href="./index.html">&nbsp&nbspBig Book of R</a></b></center></li>
+        after: |
+          <li><center><a href="https://bookdown.org/yihui/bookdown/">
+          Published with bookdown</a></center></li>
+site: bookdown::bookdown_site
+---
+
+# Welcome :)
+
+Placeholder
+
+
+## Your last-ever bookmark
+## Searching
+## Contributing
+## Contributors
+## Licence
+## About me
+
+<!--chapter:end:index.Rmd-->
+
+# New to R? Start here
+
+If you're new to R and want to learn how to use it, this library might be a little daunting.
+
+> There's so much choice! 
+
+If you aren't sure where  to start, then try one these two options:
+
+### Book: R for Data Science
+
+This book is an excellent introduction to R programming and gets you started with visualizing data so you see some exciting stuff, and the power of R, right away. 
+
+The book is free to read at https://r4ds.had.co.nz/
+
+There's an accompanying exercise solution book at https://jrnold.github.io/r4ds-exercise-solutions/
+
+For a different take on the soltuions, check out *Yet another ‘R for Data Science’ study guide* which can also be found at https://brshallo.github.io/r4ds_solutions/
+
+### Video Course: Getting started with R
+
+If you prefer video instruction with progress tracking, check out this course from "R for the Rest of Us" called Getting Started with R.
+
+https://rfortherestofus.com/courses/getting-started/
+
+<!--chapter:end:010-start_here.Rmd-->
+
 
 
 
@@ -528,10 +587,20 @@ https://www.tmwr.org/
 ## mlr3 book
 [Michel Lang](https://twitter.com/michellangts?lang=en)
 
-The `r mlr_pkg("mlr3")` package and [ecosystem](https://github.com/mlr-org/mlr3/wiki/Extension-Packages) provide a generic, object-oriented, and extensible framework for [classification](#tasks), [regression](#tasks), [survival analysis](#survival), and other machine learning tasks for the R language. They do not implement any [learners](#learners), but provide a unified interface to many existing learners in R.
+The `r mlr_pkg("mlr3")` [@mlr3] package and [ecosystem](https://github.com/mlr-org/mlr3/wiki/Extension-Packages) provide a generic, object-oriented, and extensible framework for [classification](#tasks), [regression](#tasks), [survival analysis](#survival), and other machine learning tasks for the R language [@R].
+We do not implement any [learners](#learners) ourselves, but provide a unified interface to many existing learners in R.
+This unified interface provides functionality to extend and combine existing [learners](#learners), intelligently select and tune the most appropriate technique for a [task](#tasks), and perform large-scale comparisons that enable meta-learning.
+Examples of this advanced functionality include [hyperparameter tuning](#tuning), [feature selection](#fs), and [ensemble construction](#fs-ensemble). [Parallelization](#parallelization) of many operations is natively supported.
 
-The book is free and work in progress.
-https://mlr3book.mlr-org.com/
+**Target Audience**
+
+`r mlr_pkg("mlr3")` provides a domain-specific language for machine learning in R.
+We target both **practitioners** who want to quickly apply machine learning algorithms and **researchers** who want to implement, benchmark, and compare their new methods in a structured environment.
+The package is a complete rewrite of an earlier version of `r mlr_pkg("mlr")` that leverages many years of experience to provide a state-of-the-art system that is easy to use and extend.
+It is intended for users who have basic knowledge of machine learning and R and who are interested in complex projects that use advanced functionality as well as one-liners to quickly prototype specific tasks.
+
+
+https://mlr3.mlr-org.com/
 
 # Network analysis
 ##  Network Analysis in R Cookbook
@@ -1378,4 +1447,7 @@ https://www.r-project.org/doc/bib/R-books.html
 
 
 
+
+
+<!--chapter:end:020-book_list.Rmd-->
 

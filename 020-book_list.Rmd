@@ -208,6 +208,22 @@ Freely avaiable online, paid print.
 
 https://javascript-for-r.com
 
+## Beginning Data Science in R
+[Thomas Mailund](https://twitter.com/ThomasMailund)
+
+https://amzn.to/2Ns1HHi
+
+## Beginning Data Science in R
+[Thomas Mailund](https://twitter.com/ThomasMailund)
+
+https://amzn.to/2Ns1HHi
+
+## R Data Science Quick Reference
+[Thomas Mailund](https://twitter.com/ThomasMailund)
+
+https://amzn.to/2WN1mQy
+
+
 # Data Visualization
 
 ##  ggplot2: Elegant Graphics for Data Analysis
@@ -844,6 +860,48 @@ Besides the side-by-side comparison of the two popular languages used in Data Sc
 
 https://www.anotherbookondatascience.com/
 
+## Functional Programming in R
+[Thomas Mailund](https://twitter.com/ThomasMailund)
+
+Master functions and discover how to write functional programs in R. In this concise book, you’ll make your functions pure by avoiding side-effects; you’ll write functions that manipulate other functions, and you’ll construct complex functions using simpler functions as building blocks.
+
+https://amzn.to/2wY4m11
+
+
+## Advanced Object-Oriented Programming in R
+[Thomas Mailund](https://twitter.com/ThomasMailund)
+
+
+Learn how to write object-oriented programs in R and how to construct classes and class hierarchies in the three object-oriented systems available in R. This book gives an introduction to object-oriented programming in the R programming language and shows you how to use and apply R in an object-oriented manner. You will then be able to use this powerful programming style in your own statistical programming projects to write flexible and extendable software.
+
+https://amzn.to/2wZnBbp
+
+## Metaprogramming in R
+[Thomas Mailund](https://twitter.com/ThomasMailund)
+
+Learn how to manipulate functions and expressions to modify how the R language interprets itself. This book is an introduction to metaprogramming in the R language, so you will write programs to manipulate other programs. Metaprogramming in R shows you how to treat code as data that you can generate, analyze, or modify.
+
+https://amzn.to/2x1cYUR
+
+
+## Functional Data Structures in R
+[Thomas Mailund](https://twitter.com/ThomasMailund)
+
+Get an introduction to functional data structures using R and write more effective code and gain performance for your programs. This book teaches you workarounds because data in functional languages is not mutable: for example you’ll learn how to change variable-value bindings by modifying environments, which can be exploited to emulate pointers and implement traditional data structures. You’ll also see how, by abandoning traditional data structures, you can manipulate structures by building new versions rather than modifying them. You’ll discover how these so-called functional data structures are different from the traditional data structures you might know, but are worth understanding to do serious algorithmic programming in a functional language such as R.
+
+https://amzn.to/2oUG2cP
+
+## Domain-Specific Languages in R
+[Thomas Mailund](https://twitter.com/ThomasMailund)
+
+
+Gain an accelerated introduction to domain-specific languages in R, including coverage of regular expressions. This compact, in-depth book shows you how DSLs are programming languages specialized for a particular purpose, as opposed to general purpose programming languages. Along the way, you’ll learn to specify tasks you want to do in a precise way and achieve programming goals within a domain-specific context.
+
+Domain-Specific Languages in R includes examples of DSLs including large data sets or matrix multiplication; pattern matching DSLs for application in computer vision; and DSLs for continuous time Markov chains and their applications in data science. After reading and using this book, you’ll understand how to write DSLs in R and have skills you can extrapolate to other programming languages.
+
+https://amzn.to/2CDqhAU
+
+
 
 # Shiny
 ## A gRadual intRoduction to Shiny
@@ -1197,6 +1255,12 @@ Not R specific or even a book, but looks like a good resource to learn git.
 https://lab.github.com/
 
 
+## The Beginner's Guide to Git and GitHub
+Thomas Mailund
+
+A quick beginner's guide to using Git and GitHub.
+
+https://amzn.to/2Nt0rDY
 
 
 # Workflow

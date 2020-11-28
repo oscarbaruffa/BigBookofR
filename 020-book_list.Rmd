@@ -528,7 +528,7 @@ https://www.tmwr.org/
 ## mlr3 book
 [Michel Lang](https://twitter.com/michellangts?lang=en)
 
-The `r mlr_pkg("mlr3")` package and [ecosystem](https://github.com/mlr-org/mlr3/wiki/Extension-Packages) provide a generic, object-oriented, and extensible framework for [classification](#tasks), [regression](#tasks), [survival analysis](#survival), and other machine learning tasks for the R language. They do not implement any [learners](#learners), but provide a unified interface to many existing learners in R.
+The mlr3 package and [ecosystem](https://github.com/mlr-org/mlr3/wiki/Extension-Packages) provide a generic, object-oriented, and extensible framework for classification, regression, survival analysis, and other machine learning tasks for the R language. They do not implement any learners, but provide a unified interface to many existing learners in R.
 
 The book is free and work in progress.
 https://mlr3book.mlr-org.com/

@@ -174,16 +174,7 @@ Pay what you want for the ebook, minimum $0.00
 
 https://leanpub.com/artofdatascience
 
-## Report Writing for Data Science in R
-[Roger D. Peng](https://twitter.com/rdpeng) 
 
-This book teaches the fundamental concepts and tools behind reporting modern 
-data analyses in a reproducible manner. As data analyses become increasingly 
-complex, the need for clear and reproducible report writing is greater than ever.
-
-Pay what you want for the ebook, minimum $0.00
-
-https://leanpub.com/reportwriting
 
 ## The Elements of Data Analytic Style
 [Jeffrey Leek](https://twitter.com/jtleek)
@@ -197,25 +188,25 @@ Pay what you want for the ebook, minimum $0.00
 
 https://leanpub.com/datastyle
 
-## JavaScript for R
 
-[John Coene](https://john-coene.com)
-
-Learn how to build your own data visualsiation packages, improve shiny with 
-JavaScript, and use JavaScript for computations.
-
-Freely avaiable online, paid print.
-
-https://javascript-for-r.com
 
 
 ## Beginning Data Science in R
 [Thomas Mailund](https://twitter.com/ThomasMailund)
 
+Beginning Data Science in R details how data science is a combination of statistics, computational science, and machine learning. You’ll see how to efficiently structure and mine data to extract useful patterns and build mathematical models. Those with some data science or analytics background, but not necessarily experience with the R programming language
+
+Paid, ~$40
+
 https://amzn.to/2Ns1HHi
+
 
 ## R Data Science Quick Reference
 [Thomas Mailund](https://twitter.com/ThomasMailund)
+
+In this book, you’ll learn about the following APIs and packages that deal specifically with data science applications: readr, dibble, forecasts, lubridate, stringr, tidyr, magnittr, dplyr, purrr, ggplot2, modelr, and more.
+
+Paid, ~$30
 
 https://amzn.to/2WN1mQy
 
@@ -315,6 +306,16 @@ The main aim of the book is to show, using real datasets, what information graph
 The book is published by CRC Press and [available to purchase](https://www.routledge.com/Graphical-Data-Analysis-with-R/Unwin/p/book/9781498715232), but all the examples and code are freely available on a comprehensive website accompanying the text at http://www.gradaanwr.net/
 
 
+## JavaScript for R
+
+[John Coene](https://john-coene.com)
+
+Learn how to build your own data visualsiation packages, improve shiny with 
+JavaScript, and use JavaScript for computations.
+
+Freely avaiable online, paid print.
+
+https://javascript-for-r.com
 
 # Distributed computing
 ## Mastering Spark with R
@@ -580,6 +581,18 @@ Chester Ismay
 This resource is designed to provide new users to R, RStudio, and R Markdown with the introductory steps needed to begin their own reproducible research. A review of many of the common R errors encountered (and what they mean in layman’s terms) will also provided be provided.
 
 https://bookdown.org/chesterismay/rbasics/
+
+## Report Writing for Data Science in R
+[Roger D. Peng](https://twitter.com/rdpeng) 
+
+This book teaches the fundamental concepts and tools behind reporting modern 
+data analyses in a reproducible manner. As data analyses become increasingly 
+complex, the need for clear and reproducible report writing is greater than ever.
+
+Pay what you want for the ebook, minimum $0.00
+
+https://leanpub.com/reportwriting
+
 
 ## Introduction to R Markdown
 Michael Clark
@@ -884,12 +897,16 @@ https://amzn.to/2wY4m11
 
 Learn how to write object-oriented programs in R and how to construct classes and class hierarchies in the three object-oriented systems available in R. This book gives an introduction to object-oriented programming in the R programming language and shows you how to use and apply R in an object-oriented manner. You will then be able to use this powerful programming style in your own statistical programming projects to write flexible and extendable software.
 
+Paid ~$20
+
 https://amzn.to/2wZnBbp
 
 ## Metaprogramming in R
 [Thomas Mailund](https://twitter.com/ThomasMailund)
 
 Learn how to manipulate functions and expressions to modify how the R language interprets itself. This book is an introduction to metaprogramming in the R language, so you will write programs to manipulate other programs. Metaprogramming in R shows you how to treat code as data that you can generate, analyze, or modify.
+
+Paid ~$20
 
 https://amzn.to/2x1cYUR
 
@@ -898,6 +915,9 @@ https://amzn.to/2x1cYUR
 [Thomas Mailund](https://twitter.com/ThomasMailund)
 
 Get an introduction to functional data structures using R and write more effective code and gain performance for your programs. This book teaches you workarounds because data in functional languages is not mutable: for example you’ll learn how to change variable-value bindings by modifying environments, which can be exploited to emulate pointers and implement traditional data structures. You’ll also see how, by abandoning traditional data structures, you can manipulate structures by building new versions rather than modifying them. You’ll discover how these so-called functional data structures are different from the traditional data structures you might know, but are worth understanding to do serious algorithmic programming in a functional language such as R.
+
+
+Paid~ $20
 
 https://amzn.to/2oUG2cP
 
@@ -908,6 +928,8 @@ https://amzn.to/2oUG2cP
 Gain an accelerated introduction to domain-specific languages in R, including coverage of regular expressions. This compact, in-depth book shows you how DSLs are programming languages specialized for a particular purpose, as opposed to general purpose programming languages. Along the way, you’ll learn to specify tasks you want to do in a precise way and achieve programming goals within a domain-specific context.
 
 Domain-Specific Languages in R includes examples of DSLs including large data sets or matrix multiplication; pattern matching DSLs for application in computer vision; and DSLs for continuous time Markov chains and their applications in data science. After reading and using this book, you’ll understand how to write DSLs in R and have skills you can extrapolate to other programming languages.
+
+Paid ~$25
 
 https://amzn.to/2CDqhAU
 
@@ -1268,7 +1290,9 @@ https://lab.github.com/
 ## The Beginner's Guide to Git and GitHub
 Thomas Mailund
 
-A quick beginner's guide to using Git and GitHub.
+A quick beginner's guide to using Git and GitHub.You have heard about git and GitHub and want to know what the buzz is about. That is what I am here to tell you. Or, at least, I am here to give you a quick overview of what you can do with git and GitHub. I won’t be able, in the space here, to give you an exhaustive list of features—in all honesty, I don’t know enough myself to be able to claim expertise with these tools. I am only a frequent user, but I can get you started and give you some pointers for where to learn more. That is what this booklet is for.
+
+Paid ~$5
 
 https://amzn.to/2Nt0rDY
 

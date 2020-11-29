@@ -208,6 +208,7 @@ Freely avaiable online, paid print.
 
 https://javascript-for-r.com
 
+
 # Data Visualization
 
 ##  ggplot2: Elegant Graphics for Data Analysis
@@ -601,6 +602,20 @@ The knitr package was designed to be a transparent engine for dynamic report gen
 The book is free online.
 
 https://yihui.org/knitr/
+
+## Reproducible Research with R and RStudio
+By Christopher Gandrud
+
+
+This book present all the Tools for Gathering and Analyzing Data and Presenting Results Reproducible Research with R and RStudio through practical examples.
+
+The book can be reproduced by using the R package bookdown
+
+https://github.com/christophergandrud/Rep-Res-Book
+
+Also, you can buy the copy.
+
+https://www.routledge.com/Reproducible-Research-with-R-and-RStudio/Gandrud/p/book/9780367143985
 
 
 # R package development

@@ -399,6 +399,19 @@ Predictive Soil Mapping (PSM) with R explains how to import, process and analyze
 
 https://soilmapper.org
 
+## Using R for Digital Soil Mapping
+Malone, Brendan P., Minasny, Budiman, McBratney, Alex B.
+
+Describes in detail, with ample exercises, how digital soil mapping is done
+This work includes a number of work-flows that direct users how to create digital soil maps for their own projects
+This work includes tutorials for users to learn the fundamentals of R, but with a focus on how to use it for digital soil mapping
+
+Paid ~$90
+
+https://www.springer.com/gp/book/9783319443256
+
+
+
 # Life Sciences
 
 ## Data Analysis for the Life Sciences

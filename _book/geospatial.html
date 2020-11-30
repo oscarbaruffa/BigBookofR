@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>10 Geospatial | Big Book of R</title>
   <meta name="description" content="10 Geospatial | Big Book of R" />
-  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
 
   <meta property="og:title" content="10 Geospatial | Big Book of R" />
   <meta property="og:type" content="book" />
@@ -39,9 +39,6 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
-
-
 
 
 
@@ -157,6 +154,8 @@
 <li class="chapter" data-level="10.2" data-path="geospatial.html"><a href="geospatial.html#spatial-data-science"><i class="fa fa-check"></i><b>10.2</b> Spatial Data Science</a></li>
 <li class="chapter" data-level="10.3" data-path="geospatial.html"><a href="geospatial.html#geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny"><i class="fa fa-check"></i><b>10.3</b> Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny</a></li>
 <li class="chapter" data-level="10.4" data-path="geospatial.html"><a href="geospatial.html#introduction-to-spatial-data-programming-with-r"><i class="fa fa-check"></i><b>10.4</b> Introduction to Spatial Data Programming with R</a></li>
+<li class="chapter" data-level="10.5" data-path="geospatial.html"><a href="geospatial.html#predictive-soil-mapping-with-r"><i class="fa fa-check"></i><b>10.5</b> Predictive Soil Mapping with R</a></li>
+<li class="chapter" data-level="10.6" data-path="geospatial.html"><a href="geospatial.html#using-r-for-digital-soil-mapping"><i class="fa fa-check"></i><b>10.6</b> Using R for Digital Soil Mapping</a></li>
 </ul></li>
 <li class="chapter" data-level="11" data-path="life-sciences.html"><a href="life-sciences.html"><i class="fa fa-check"></i><b>11</b> Life Sciences</a><ul>
 <li class="chapter" data-level="11.1" data-path="life-sciences.html"><a href="life-sciences.html#data-analysis-for-the-life-sciences"><i class="fa fa-check"></i><b>11.1</b> Data Analysis for the Life Sciences</a></li>
@@ -346,6 +345,21 @@ Published with bookdown</a></center></li>
 <p>This book introduces processing and analysis methods for working with spatial data in R. The book is composed of two parts. The <em>first</em> part gives an overview of the basic syntax and usage of the R language, required before we can start working with spatial data. The <em>second</em> part then covers spatial data workflows, including how to process rasters, vector layers, and both of them together, as well as two selected advanced topics: spatio-temporal data and spatial interpolation.</p>
 <p><a href="https://geobgu.xyz/r" class="uri">https://geobgu.xyz/r</a></p>
 </div>
+<div id="predictive-soil-mapping-with-r" class="section level2">
+<h2><span class="header-section-number">10.5</span> Predictive Soil Mapping with R</h2>
+<p><a href="https://opengeohub.org/people/tom-hengl">Tom Hengl</a> and <a href="https://opengeohub.org/people/bob-macmillan">Robert A. MacMillan</a></p>
+<p>Predictive Soil Mapping (PSM) with R explains how to import, process and analyze soil data in R using the state-of-the-art soil and Machine Learning packages with ultimate objective to produce most objective spatial predictions of soil numeric and factor-type variables. Especial focus has been put on using R in combination with the Open Source GIS such as GDAL, SAGA GIS and similar, and on using Machine Learning packages ranger, xgboost, SuperLearner and similar. This book is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Contributions of new chapters are welcome.</p>
+<p><a href="https://soilmapper.org" class="uri">https://soilmapper.org</a></p>
+</div>
+<div id="using-r-for-digital-soil-mapping" class="section level2">
+<h2><span class="header-section-number">10.6</span> Using R for Digital Soil Mapping</h2>
+<p>Malone, Brendan P., Minasny, Budiman, McBratney, Alex B.</p>
+<p>Describes in detail, with ample exercises, how digital soil mapping is done
+This work includes a number of work-flows that direct users how to create digital soil maps for their own projects
+This work includes tutorials for users to learn the fundamentals of R, but with a focus on how to use it for digital soil mapping</p>
+<p>Paid ~$90</p>
+<p><a href="https://www.springer.com/gp/book/9783319443256" class="uri">https://www.springer.com/gp/book/9783319443256</a></p>
+</div>
 </div>
             </section>
 
@@ -358,13 +372,11 @@ Published with bookdown</a></center></li>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
-<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -372,11 +384,12 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
+"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -388,10 +401,6 @@ gitbook.start({
 "text": "Edit"
 },
 "history": {
-"link": null,
-"text": null
-},
-"view": {
 "link": null,
 "text": null
 },

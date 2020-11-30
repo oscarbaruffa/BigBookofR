@@ -392,6 +392,13 @@ This book introduces processing and analysis methods for working with spatial da
 
 https://geobgu.xyz/r
 
+## Predictive Soil Mapping with R
+[Tom Hengl](https://opengeohub.org/people/tom-hengl) and [Robert A. MacMillan](https://opengeohub.org/people/bob-macmillan)
+
+Predictive Soil Mapping (PSM) with R explains how to import, process and analyze soil data in R using the state-of-the-art soil and Machine Learning packages with ultimate objective to produce most objective spatial predictions of soil numeric and factor-type variables. Especial focus has been put on using R in combination with the Open Source GIS such as GDAL, SAGA GIS and similar, and on using Machine Learning packages ranger, xgboost, SuperLearner and similar. This book is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Contributions of new chapters are welcome.
+
+https://soilmapper.org
+
 # Life Sciences
 
 ## Data Analysis for the Life Sciences

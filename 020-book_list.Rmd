@@ -1055,7 +1055,7 @@ https://javascript-for-r.com
 
 # Sport analytics
 
-## Basketball Data Science with Applcations in R
+## Basketball Data Science with Applications in R
 By Paola Zuccolotto, Marica Manisera
 
 Using data from one season of NBA games, Basketball Data Science: With Applications in R is the perfect book for anyone interested in learning and applying data analytics in basketball. Whether assessing the spatial performance of an NBA player’s shots or doing an analysis of the impact of high pressure game situations on the probability of scoring, this book discusses a variety of case studies and hands-on examples using a custom R package. The codes are supplied so readers can reproduce the analyses themselves or create their own. Assuming a basic statistical knowledge, Basketball Data Science with R is suitable for students, technicians, coaches, data analysts and applied researchers.

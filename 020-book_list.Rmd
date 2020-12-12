@@ -16,6 +16,8 @@ https://www.manning.com/books/build-a-career-in-data-science
 
 This book is for anyone intersted in Data Science, but is unsure where to start. Cut through the noise and learn my best tips for understanding Machine Learning with insight from my 4 years of industry experience. Learn the math as it applies to real-life data projects and get an understanding of fairness, ethics, and accounability in AI.
 
+(Not R focussed but looks good so I'm adding it - Oscar :) )
+
 Paid ~$30
 
 https://gumroad.com/l/getting-started-in-data-science

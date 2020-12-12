@@ -11,6 +11,15 @@ You are going to need more than technical knowledge to succeed as a data scienti
 https://www.manning.com/books/build-a-career-in-data-science
 
 
+## Getting Started in Data Science
+[Ayodele Odubela](https://twitter.com/DataSciBae)
+
+This book is for anyone intersted in Data Science, but is unsure where to start. Cut through the noise and learn my best tips for understanding Machine Learning with insight from my 4 years of industry experience. Learn the math as it applies to real-life data projects and get an understanding of fairness, ethics, and accounability in AI.
+
+Paid ~$30
+
+https://gumroad.com/l/getting-started-in-data-science
+
 ##  Twitter for R Programmers
 [Oscar Baruffa](https://twitter.com/OscarBaruffa), [Veerle van Son](https://twitter.com/veerlevanson)
 
@@ -1038,12 +1047,55 @@ https://brendankent.com/2020/09/15/coding-for-sports-analytics-resources-to-get-
 
 # Statistics
 
+
+
+## Answering questions with data
+Matthew J. Crump
+
+This is a free textbook teaching introductory statistics for undergraduates in Psychology. This textbook is part of a larger OER course package for teaching undergraduate statistics in Psychology, including this textbook, a lab manual, and a course website.
+
+Looks like a comprehensive stats resource!
+
+https://crumplab.github.io/statistics/
+
+
+## Bayes rules!
+
+- Alicia A. Johnson, [Miles Ott](twitter.com/Miles_Ott), [Mine Dogucu](https://twitter.com/MineDogucu)
+
+The primary goal of Bayes Rules! is to make modern Bayesian thinking, modeling, and computing accessible to a broad audience. Bayes Rules! empowers readers to weave Bayesian approaches into an everyday modern practice of statistics and data science.  
+The overall spirit is very applied: the book utilizes modern computing resources and a reproducible pipeline; the discussion emphasizes conceptual understanding; the material is motivated by data-driven inquiry; and the delivery blends traditional “content” with “activity”. 
+
+Free online book under construction but with 5 complete chapters on 2020/10/15
+
+https://www.bayesrulesbook.com/
+
+## A Business Analyst's Introduction to Business Analytics: Intro to Bayesian Business Analytics in the R Ecosystem
+
+[Adam Fleischhacker](https://twitter.com/preposterior)
+
+This textbook goes farther than just showing you how to make computational models using software or mathematical models using statistics. It guides your thinking so you can align computational and mathematical models with real-world scenarios. As you journey through the material, you will feel empowered to effectively collaborate with business stakeholders as you use modern software stacks and modern statistical workflows to discover insight. R, RStudio, dplyr for data manipulation, ggplot for data visualization,  causact for graphical models, and Bayesian data analysis feature prominently.
+
+The full-color book ($68) is available via Amazon: https://www.amazon.com/dp/B08DBYPRD2 
+and online (free) at: http://causact.com.  Video supplements for all chapters [available on YouTube.](https://www.youtube.com/playlist?list=PLassxuIVwGLPy-mtohX-NXrjD8fc9FBOc)
+
+
 ##  Common statistical tests are linear models: a work through
 Steve Doogue
 
 This is a reworking of the book Common statistical tests are linear models (or: how to teach stats), written by Jonas Lindeløv. The book beautifully demonstrates how many common statistical tests (such as the t-test, ANOVA and chi-squared) are special cases of the linear model. The book also demonstrates that many non-parametric tests, which are needed when certain test assumptions do not hold, can be approximated by linear models using the rank of values.
 
 https://steverxd.github.io/Stat_tests/
+
+## Handbook of Regression Modeling in People Analytics
+[Keith McNulty](https://twitter.com/dr_keithmcnulty)
+
+It is the author's firm belief that all people analytics professionals should have a strong understanding of regression models and how to implement and interpret them in practice, and the aim with this book is to provide those who need it with help in getting there.
+
+http://peopleanalytics-regression-book.org/index.html
+
+
+
 
 ## Learning statistics with R: A tutorial for psychology students and other beginners. (Version 0.6.1)
 [Danielle Navarro](https://twitter.com/djnavarro)
@@ -1054,14 +1106,6 @@ The book is free online.
 
 https://learningstatisticswithr-bookdown.netlify.app/
 
-## Answering questions with data
-Matthew J. Crump
-
-This is a free textbook teaching introductory statistics for undergraduates in Psychology. This textbook is part of a larger OER course package for teaching undergraduate statistics in Psychology, including this textbook, a lab manual, and a course website.
-
-Looks like a comprehensive stats resource!
-
-https://crumplab.github.io/statistics/
 
 
 
@@ -1138,25 +1182,7 @@ applied stats class.
 https://amzn.to/2EREAn2 - used for $4-18, new $19-20
 https://www.e-junkie.com/ecom/gb.php?c=single&cl=147256&i=1548704 - $10 for PDF only
 
-## Bayes rules!
 
-- Alicia A. Johnson, [Miles Ott](twitter.com/Miles_Ott), [Mine Dogucu](https://twitter.com/MineDogucu)
-
-The primary goal of Bayes Rules! is to make modern Bayesian thinking, modeling, and computing accessible to a broad audience. Bayes Rules! empowers readers to weave Bayesian approaches into an everyday modern practice of statistics and data science.  
-The overall spirit is very applied: the book utilizes modern computing resources and a reproducible pipeline; the discussion emphasizes conceptual understanding; the material is motivated by data-driven inquiry; and the delivery blends traditional “content” with “activity”. 
-
-Free online book under construction but with 5 complete chapters on 2020/10/15
-
-https://www.bayesrulesbook.com/
-
-## A Business Analyst's Introduction to Business Analytics: Intro to Bayesian Business Analytics in the R Ecosystem
-
-[Adam Fleischhacker](https://twitter.com/preposterior)
-
-This textbook goes farther than just showing you how to make computational models using software or mathematical models using statistics. It guides your thinking so you can align computational and mathematical models with real-world scenarios. As you journey through the material, you will feel empowered to effectively collaborate with business stakeholders as you use modern software stacks and modern statistical workflows to discover insight. R, RStudio, dplyr for data manipulation, ggplot for data visualization,  causact for graphical models, and Bayesian data analysis feature prominently.
-
-The full-color book ($68) is available via Amazon: https://www.amazon.com/dp/B08DBYPRD2 
-and online (free) at: http://causact.com.  Video supplements for all chapters [available on YouTube.](https://www.youtube.com/playlist?list=PLassxuIVwGLPy-mtohX-NXrjD8fc9FBOc)
 
 ## Statistics and Data with R: An Applied Approach Through Examples
 
@@ -1169,8 +1195,13 @@ The E-Book costs $97.00 while the print version costs $121.75
 https://www.wiley.com/en-us/Statistics+and+Data+with+R%3A+An+Applied+Approach+Through+Examples-p-9780470758052
 
 
+## TEACUPS, GIRAFFES, & STATISTICS
+HASSE WALUM, [DESIRÉE DE LEON](https://twitter.com/dcossyle) 
+
+A delightful series of beautifully illustrated modules to learn statistics and R coding for students, scientists, and stats-enthusiasts. 
 
 
+https://tinystats.github.io/teacups-giraffes-and-statistics/index.html
 
 # Time Series Analysis and Forecasting
 
@@ -1376,6 +1407,14 @@ Dear Data Scientists, Educators, and Data Scientists who are Educators:
 This book is a warm welcome and an invitation. If you’re a data scientist in education or an educator in data science, your role isn’t exactly straightforward. This book is our contribution to a growing movement to merge the paths of data analysis and education. We wrote this book to make your first step on that path a little clearer and a little less scary.
 
 https://datascienceineducation.com/
+
+## Handbook of Regression Modeling in People Analytics
+[Keith McNulty](https://twitter.com/dr_keithmcnulty)
+
+It is the author's firm belief that all people analytics professionals should have a strong understanding of regression models and how to implement and interpret them in practice, and the aim with this book is to provide those who need it with help in getting there.
+
+http://peopleanalytics-regression-book.org/index.html
+
 
 ## The Plain Person’s Guide to Plain Text Social Science
 Kieran Healy

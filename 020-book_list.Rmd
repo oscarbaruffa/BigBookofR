@@ -329,12 +329,34 @@ The book is published by CRC Press and [available to purchase](https://www.routl
 
 [John Coene](https://john-coene.com)
 
-Learn how to build your own data visualsiation packages, improve shiny with 
+Learn how to build your own data visualisation packages, improve shiny with 
 JavaScript, and use JavaScript for computations.
 
-Freely avaiable online, paid print.
+Freely available online, paid print.
 
 https://javascript-for-r.com
+
+
+## Cryptocurrency Research: Open Source R Tutorial
+
+Riccardo (Ricky) Esclapon – [LinkedIn]( https://www.linkedin.com/in/esclaponriccardo/), [Personal Website]( https://resclapon.com/)
+
+John Chandler Johnson – [LinkedIn](https://www.linkedin.com/in/john-chandler-johnson-361a666/)
+
+Kai R. Larsen – [LinkedIn](https://www.linkedin.com/in/kai-r-larsen-4413a01/), [ResearchGate](https://www.researchgate.net/profile/Kai_Larsen)
+
+**What you will learn:** 
+
+R: The tutorial is in R. For those without experience programming in R we have a [high-level version](https://cryptocurrencyresearch.org/high-level) to help you learn before attempting the full version. Scroll down for a [breakdown of the individual sections](https://cryptocurrencyresearch.org/index.html#sections) for an overview of what you will learn throughout.
+
+Tidyverse: You will get more familiar with tools from the tidyverse, including [dplyr](https://dplyr.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), [tibble](https://tibble.tidyverse.org/), and [purrr](https://purrr.tidyverse.org/). These tools provide an excellent complete ecosystem to do data science in R.
+
+Machine Learning: You will learn to [create machine learning models](https://cryptocurrencyresearch.org/predictive-modeling.html) and how to fairly [assess their performance](https://cryptocurrencyresearch.org/model-validation-plan.html).
+
+Cryptocurrency Data: You will learn these tools analyzing the latest cryptocurrency data. The tutorial automatically refreshes every 12 hours and the data is publicly available and refreshed hourly.
+
+This tutorial is free and you can access it via <https://cryptocurrencyresearch.org/>.
+
 
 # Distributed computing
 ## Mastering Spark with R
@@ -377,6 +399,27 @@ This is a work-in-progress book about getting data out of spreadsheets, no matte
 
 
 https://nacnudus.github.io/spreadsheet-munging-strategies/
+
+
+## Cryptocurrency Research: Open Source R Tutorial
+
+Riccardo (Ricky) Esclapon – [LinkedIn]( https://www.linkedin.com/in/esclaponriccardo/), [Personal Website]( https://resclapon.com/)
+
+John Chandler Johnson – [LinkedIn](https://www.linkedin.com/in/john-chandler-johnson-361a666/)
+
+Kai R. Larsen – [LinkedIn](https://www.linkedin.com/in/kai-r-larsen-4413a01/), [ResearchGate](https://www.researchgate.net/profile/Kai_Larsen)
+
+**What you will learn:** 
+
+R: The tutorial is in R. For those without experience programming in R we have a [high-level version](https://cryptocurrencyresearch.org/high-level) to help you learn before attempting the full version. Scroll down for a [breakdown of the individual sections](https://cryptocurrencyresearch.org/index.html#sections) for an overview of what you will learn throughout.
+
+Tidyverse: You will get more familiar with tools from the tidyverse, including [dplyr](https://dplyr.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), [tibble](https://tibble.tidyverse.org/), and [purrr](https://purrr.tidyverse.org/). These tools provide an excellent complete ecosystem to do data science in R.
+
+Machine Learning: You will learn to [create machine learning models](https://cryptocurrencyresearch.org/predictive-modeling.html) and how to fairly [assess their performance](https://cryptocurrencyresearch.org/model-validation-plan.html).
+
+Cryptocurrency Data: You will learn these tools analyzing the latest cryptocurrency data. The tutorial automatically refreshes every 12 hours and the data is publicly available and refreshed hourly.
+
+This tutorial is free and you can access it via <https://cryptocurrencyresearch.org/>.
 
 
 
@@ -584,6 +627,29 @@ The mlr3 package and [ecosystem](https://github.com/mlr-org/mlr3/wiki/Extension-
 
 The book is free and work in progress.
 https://mlr3book.mlr-org.com/
+
+## Cryptocurrency Research: Open Source R Tutorial
+
+Riccardo (Ricky) Esclapon – [LinkedIn]( https://www.linkedin.com/in/esclaponriccardo/), [Personal Website]( https://resclapon.com/)
+
+John Chandler Johnson – [LinkedIn](https://www.linkedin.com/in/john-chandler-johnson-361a666/)
+
+Kai R. Larsen – [LinkedIn](https://www.linkedin.com/in/kai-r-larsen-4413a01/), [ResearchGate](https://www.researchgate.net/profile/Kai_Larsen)
+
+**What you will learn:** 
+
+R: The tutorial is in R. For those without experience programming in R we have a [high-level version](https://cryptocurrencyresearch.org/high-level) to help you learn before attempting the full version. Scroll down for a [breakdown of the individual sections](https://cryptocurrencyresearch.org/index.html#sections) for an overview of what you will learn throughout.
+
+Tidyverse: You will get more familiar with tools from the tidyverse, including [dplyr](https://dplyr.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), [tibble](https://tibble.tidyverse.org/), and [purrr](https://purrr.tidyverse.org/). These tools provide an excellent complete ecosystem to do data science in R.
+
+Machine Learning: You will learn to [create machine learning models](https://cryptocurrencyresearch.org/predictive-modeling.html) and how to fairly [assess their performance](https://cryptocurrencyresearch.org/model-validation-plan.html).
+
+Cryptocurrency Data: You will learn these tools analyzing the latest cryptocurrency data. The tutorial automatically refreshes every 12 hours and the data is publicly available and refreshed hourly.
+
+This tutorial is free and you can access it via <https://cryptocurrencyresearch.org/>.
+
+
+
 
 # Network analysis
 ##  Network Analysis in R Cookbook
@@ -989,7 +1055,25 @@ Paid ~$25
 
 https://amzn.to/2CDqhAU
 
+## Cryptocurrency Research: Open Source R Tutorial
 
+Riccardo (Ricky) Esclapon – [LinkedIn]( https://www.linkedin.com/in/esclaponriccardo/), [Personal Website]( https://resclapon.com/)
+
+John Chandler Johnson – [LinkedIn](https://www.linkedin.com/in/john-chandler-johnson-361a666/)
+
+Kai R. Larsen – [LinkedIn](https://www.linkedin.com/in/kai-r-larsen-4413a01/), [ResearchGate](https://www.researchgate.net/profile/Kai_Larsen)
+
+**What you will learn:** 
+
+R: The tutorial is in R. For those without experience programming in R we have a [high-level version](https://cryptocurrencyresearch.org/high-level) to help you learn before attempting the full version. Scroll down for a [breakdown of the individual sections](https://cryptocurrencyresearch.org/index.html#sections) for an overview of what you will learn throughout.
+
+Tidyverse: You will get more familiar with tools from the tidyverse, including [dplyr](https://dplyr.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), [tibble](https://tibble.tidyverse.org/), and [purrr](https://purrr.tidyverse.org/). These tools provide an excellent complete ecosystem to do data science in R.
+
+Machine Learning: You will learn to [create machine learning models](https://cryptocurrencyresearch.org/predictive-modeling.html) and how to fairly [assess their performance](https://cryptocurrencyresearch.org/model-validation-plan.html).
+
+Cryptocurrency Data: You will learn these tools analyzing the latest cryptocurrency data. The tutorial automatically refreshes every 12 hours and the data is publicly available and refreshed hourly.
+
+This tutorial is free and you can access it via <https://cryptocurrencyresearch.org/>.
 
 # Shiny
 ## A gRadual intRoduction to Shiny
@@ -1313,6 +1397,31 @@ Elizabeth Holmes
 The focus of this book is on analysis of univariate time series. However multivariate regression with autocorrelated errors and multivariate autoregressive models (MAR) will be covered more briefly. For an indepth discussion of multivariate autoregressive models and multivariate autoregressive state-space models, see Holmes, Ward and Scheuerell (2018).
 
 https://fish-forecast.github.io/Fish-Forecast-Bookdown/index.html
+
+
+## Cryptocurrency Research: Open Source R Tutorial
+
+Riccardo (Ricky) Esclapon – [LinkedIn]( https://www.linkedin.com/in/esclaponriccardo/), [Personal Website]( https://resclapon.com/)
+
+John Chandler Johnson – [LinkedIn](https://www.linkedin.com/in/john-chandler-johnson-361a666/)
+
+Kai R. Larsen – [LinkedIn](https://www.linkedin.com/in/kai-r-larsen-4413a01/), [ResearchGate](https://www.researchgate.net/profile/Kai_Larsen)
+
+**What you will learn:** 
+
+R: The tutorial is in R. For those without experience programming in R we have a [high-level version](https://cryptocurrencyresearch.org/high-level) to help you learn before attempting the full version. Scroll down for a [breakdown of the individual sections](https://cryptocurrencyresearch.org/index.html#sections) for an overview of what you will learn throughout.
+
+Tidyverse: You will get more familiar with tools from the tidyverse, including [dplyr](https://dplyr.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), [tibble](https://tibble.tidyverse.org/), and [purrr](https://purrr.tidyverse.org/). These tools provide an excellent complete ecosystem to do data science in R.
+
+Machine Learning: You will learn to [create machine learning models](https://cryptocurrencyresearch.org/predictive-modeling.html) and how to fairly [assess their performance](https://cryptocurrencyresearch.org/model-validation-plan.html).
+
+Cryptocurrency Data: You will learn these tools analyzing the latest cryptocurrency data. The tutorial automatically refreshes every 12 hours and the data is publicly available and refreshed hourly.
+
+This tutorial is free and you can access it via <https://cryptocurrencyresearch.org/>.
+
+
+
+
 
 # Teaching
 

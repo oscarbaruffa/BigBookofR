@@ -1318,6 +1318,25 @@ https://amzn.to/2Nt0rDY
 
 
 # Workflow
+
+## Agile Data Science with R
+Edwin Thoen
+
+I joined a Scrum team (frontend, backend, ux designer, product owner, second data scientist) to create a machine learning model that we brought to production using the Agile principles. It was an inspiring experience from which I learned a great deal. My colleagues patiently explained the principles of Agile software development and together we applied them to the data science context.All these experiences culminated in the workflow that we now adhere to at work and I think it is worthwhile to share it. It is heavily based on the principles of Agile software production, hence the title. We have explored which of the concepts from Agile did and did not work for data science and we got hands-on experience in working from these principles in an R project that actually got to production. 
+
+https://edwinth.github.io/ADSwR/
+
+
+
+## The Data Validation Cookbook
+[Mark P.J. van der Loo](https://twitter.com/markvdLoo)
+
+The purposes of this book include demonstrating the main tools and workflows of the validate package, giving examples of common data validation tasks, and showing how to analyze data validation results.
+
+https://data-cleaning.github.io/validate/
+
+
+
 ##  How I Use R
 David Keyes // R for the Rest of Us
 
@@ -1330,13 +1349,6 @@ How should I organize my file structure when creating a new project? Should I do
 This book is my attempt to provide answers to these types of questions.
 
 https://howiuser.com/
-
-## Agile Data Science with R
-Edwin Thoen
-
-I joined a Scrum team (frontend, backend, ux designer, product owner, second data scientist) to create a machine learning model that we brought to production using the Agile principles. It was an inspiring experience from which I learned a great deal. My colleagues patiently explained the principles of Agile software development and together we applied them to the data science context.All these experiences culminated in the workflow that we now adhere to at work and I think it is worthwhile to share it. It is heavily based on the principles of Agile software production, hence the title. We have explored which of the concepts from Agile did and did not work for data science and we got hands-on experience in working from these principles in an R project that actually got to production. 
-
-https://edwinth.github.io/ADSwR/
 
 
 ## Github actions with R

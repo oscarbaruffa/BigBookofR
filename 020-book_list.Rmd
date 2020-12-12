@@ -133,6 +133,14 @@ Pay what you want for PDF, minimum $0.00
 https://leanpub.com/datasciencebook
 
 
+## Practical Data Science with R, Second Edition
+Nina Zumel and John Mount
+
+Practical Data Science with R, Second Edition takes a practice-oriented approach to explaining basic principles in the ever expanding field of data science. You’ll jump right to real-world use cases as you apply the R programming language and statistical analysis techniques to carefully explained examples based in marketing, business intelligence, and decision support.
+
+https://www.manning.com/books/practical-data-science-with-r-second-edition#toc
+
+
 ## R Programming for Data Science
 Roger Peng
 
@@ -751,6 +759,7 @@ https://bookdown.org/ndphillips/YaRrr/
 This is the companion website for “Advanced R”, a book in Chapman & Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.
 
 The book is free online.
+(Ignore the message redirecting you to the 2nd edition, this is the latest edition)
 
 http://adv-r.had.co.nz/
 
@@ -795,6 +804,22 @@ The goal of this book is to help you write better R code. It has four main compo
 It is used by the tidyverse team to promote consistency across packages in the core tidyverse. 
 
 https://design.tidyverse.org/
+
+
+## Tidyverse Skills for Data Science
+Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks and Roger D. Peng
+
+Book and Course formats
+
+This course introduces a powerful set of data science tools known as the Tidyverse. The Tidyverse has revolutionized the way in which data scientists do almost every aspect of their job. We will cover the simple idea of “tidy data” and how this idea serves to organize data for analysis and modeling. We will also cover how non-tidy data can be transformed to tidy data, the data science project life cycle, and the ecosystem of Tidyverse R packages that can be used to execute a data science project.
+
+Book format
+https://jhudatascience.org/tidyversecourse/
+
+Course format
+https://www.coursera.org/specializations/tidyverse-data-science-r
+
+
 
 ## Hands-On Programming with R
 Garrett Grolemund
@@ -1027,6 +1052,15 @@ https://javascript-for-r.com
 
 
 # Sport analytics
+
+## Basketball Data Science with Applcations in R
+By Paola Zuccolotto, Marica Manisera
+
+Using data from one season of NBA games, Basketball Data Science: With Applications in R is the perfect book for anyone interested in learning and applying data analytics in basketball. Whether assessing the spatial performance of an NBA player’s shots or doing an analysis of the impact of high pressure game situations on the probability of scoring, this book discusses a variety of case studies and hands-on examples using a custom R package. The codes are supplied so readers can reproduce the analyses themselves or create their own. Assuming a basic statistical knowledge, Basketball Data Science with R is suitable for students, technicians, coaches, data analysts and applied researchers.
+
+paid ~$35
+
+https://www.routledge.com/Basketball-Data-Science-With-Applications-in-R/Zuccolotto-Manisera/p/book/9781138600799
 
 ## Exploring Baseball Data with R
 Max Marchi, Jim Albert, Max Marchi, Jim Albert, Benjamin S. Baumer
@@ -1389,6 +1423,15 @@ GitHub actions allow us to trigger automated steps after we launch GitHub intera
 
 
 https://ropenscilabs.github.io/actions_sandbox/
+
+## The targets R Package User Manual
+Will Landau
+
+The targets package is a Make-like pipeline toolkit for Statistics and data science in R. With targets, you can maintain a reproducible workflow without repeating yourself. targets learns how your pipeline fits together, skips costly runtime for tasks that are already up to date, runs only the necessary computation, supports implicit parallel computing, abstracts files as R objects, and shows tangible evidence that the results match the underlying code and data.
+
+This manual is a step-by-step written guide to targets
+
+https://wlandau.github.io/targets-manual/index.html
 
 
 # Field specific

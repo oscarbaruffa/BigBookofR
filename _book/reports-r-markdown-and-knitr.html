@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>14 Reports: R Markdown and knitr | Big Book of R</title>
   <meta name="description" content="14 Reports: R Markdown and knitr | Big Book of R" />
-  <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.13 and GitBook 2.6.7" />
 
   <meta property="og:title" content="14 Reports: R Markdown and knitr | Big Book of R" />
   <meta property="og:type" content="book" />
@@ -39,9 +39,6 @@
 <link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
-<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
-
-
 
 
 
@@ -302,6 +299,7 @@
 <li class="chapter" data-level="25.8" data-path="field-specific.html"><a href="field-specific.html#machine-learning-for-factor-investing-1"><i class="fa fa-check"></i><b>25.8</b> Machine Learning for Factor Investing</a></li>
 <li class="chapter" data-level="25.9" data-path="field-specific.html"><a href="field-specific.html#introduction-to-econometrics-with-r"><i class="fa fa-check"></i><b>25.9</b> Introduction to Econometrics with R</a></li>
 <li class="chapter" data-level="25.10" data-path="field-specific.html"><a href="field-specific.html#how-to-be-a-modern-scientist"><i class="fa fa-check"></i><b>25.10</b> How to be a modern scientist</a></li>
+<li class="chapter" data-level="25.11" data-path="field-specific.html"><a href="field-specific.html#cryptocurrency-research-open-source-r-tutorial"><i class="fa fa-check"></i><b>25.11</b> Cryptocurrency Research: Open Source R Tutorial</a></li>
 </ul></li>
 <li class="chapter" data-level="26" data-path="other-compendiums.html"><a href="other-compendiums.html"><i class="fa fa-check"></i><b>26</b> Other compendiums</a><ul>
 <li class="chapter" data-level="26.1" data-path="other-compendiums.html"><a href="other-compendiums.html#bookdown-archive"><i class="fa fa-check"></i><b>26.1</b> Bookdown archive</a></li>
@@ -407,13 +405,11 @@ complex, the need for clear and reproducible report writing is greater than ever
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/lunr.js"></script>
-<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
 <script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
-<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
 <script>
 gitbook.require(["gitbook"], function(gitbook) {
 gitbook.start({
@@ -421,11 +417,12 @@ gitbook.start({
 "github": false,
 "facebook": true,
 "twitter": true,
+"google": false,
 "linkedin": false,
 "weibo": false,
 "instapaper": false,
 "vk": false,
-"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
 "theme": "white",
@@ -437,10 +434,6 @@ gitbook.start({
 "text": "Edit"
 },
 "history": {
-"link": null,
-"text": null
-},
-"view": {
 "link": null,
 "text": null
 },

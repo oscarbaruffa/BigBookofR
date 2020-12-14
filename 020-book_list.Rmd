@@ -227,6 +227,13 @@ Paid, ~$30
 
 https://amzn.to/2WN1mQy
 
+## Modern Statistics with R
+[Måns Thulin](https://twitter.com/mansthulin)
+
+This book covers the fundamentals of data science and statistics. The first half deals with the basics of R and R coding, data wrangling, exploratory data analysis and more advandced programming. The second half deals with modern statistics (favouring permutation tests, the bootstrap and Bayesian methods over traditional asymptotic methods), regression models and predictive modelling. It also contains information about debugging and explanations of 25 commonly encountered error messages in R. In addition, there are 170 or so exercises with fully worked solutions.
+
+http://www.modernstatisticswithr.com/
+
 
 # Data Visualization
 
@@ -1227,6 +1234,14 @@ A delightful series of beautifully illustrated modules to learn statistics and R
 
 
 https://tinystats.github.io/teacups-giraffes-and-statistics/index.html
+
+## Modern Statistics with R
+[Måns Thulin](https://twitter.com/mansthulin)
+
+This book covers the fundamentals of data science and statistics. The first half deals with the basics of R and R coding, data wrangling, exploratory data analysis and more advandced programming. The second half deals with modern statistics (favouring permutation tests, the bootstrap and Bayesian methods over traditional asymptotic methods), regression models and predictive modelling. It also contains information about debugging and explanations of 25 commonly encountered error messages in R. In addition, there are 170 or so exercises with fully worked solutions.
+
+http://www.modernstatisticswithr.com/
+
 
 # Time Series Analysis and Forecasting
 

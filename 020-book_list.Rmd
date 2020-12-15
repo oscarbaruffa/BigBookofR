@@ -890,7 +890,7 @@ https://tidyeval.tidyverse.org/
 ## The R Inferno
 Patrick Burns
 
-If R's behaviour has ever suprised you, then this book is a guide for many more surprises, written in the style of Dante. It's a concise report on number of common-errors and unexpected behaviours in R. This book would make more sense, if you have been programming and are familiar with such behaviours (not all though), as there is little time spent on explaining why part of behaviour. As mentioned, it's a concise book, 126 books only.
+If R's behaviour has ever suprised you, then this book is a guide for many more surprises, written in the style of Dante. It's a concise report on number of common-errors and unexpected behaviours in R. This book would make more sense, if you have been programming and are familiar with such behaviours (not all though), as there is little time spent on explaining why part of behaviour. As mentioned, it's a concise book, 126 pages only.
 
 https://www.burns-stat.com/pages/Tutor/R_inferno.pdf
 

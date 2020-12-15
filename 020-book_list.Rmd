@@ -102,7 +102,7 @@ https://benmarwick.github.io/bookdown-ort/
 
 # Data Science
 ## R for Data Science 
-[Hadley Whickham](https://twitter.com/hadleywickham) [Garret Grolemund](https://twitter.com/StatGarrett)
+[Hadley Wickham](https://twitter.com/hadleywickham) [Garret Grolemund](https://twitter.com/StatGarrett)
 
 This is the website for “R for Data Science”. This book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it. In this book, you will find a practicum of skills for data science. Just as a chemist learns how to clean test tubes and stock a lab, you’ll learn how to clean data and draw plots—and many other things besides. These are the skills that allow data science to happen, and here you will find the best practices for doing each of these things with R. You’ll learn how to use the grammar of graphics, literate programming, and reproducible research to save time. You’ll also learn how to manage cognitive resources to facilitate discoveries when wrangling, visualising, and exploring data.
 
@@ -687,21 +687,22 @@ https://www.routledge.com/Reproducible-Research-with-R-and-RStudio/Gandrud/p/boo
 # R package development
 
 ## R packages
-[Hadley Whickham](https://twitter.com/hadleywickham)
+[Hadley Wickham](https://twitter.com/hadleywickham), [Jenny Bryan](https://twitter.com/JennyBryan)
 
 Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this section you’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.
 
-http://r-pkgs.had.co.nz/
+https://r-pkgs.org/
 
 ## rOpenSci Packages: Development, Maintenance, and Peer Review
+[rOpenSci](https://twitter.com/ropensci) software review editorial team
 
 This book is a package development guide for authors, maintainers, reviewers and editors of rOpenSci.
 
 https://devguide.ropensci.org/index.html
 
 
-## HTTP mocking in R
-Scott Chamberlain, Maëlle Salmon
+## HTTP testing in R
+[Scott Chamberlain](https://twitter.com/sckottie), [Maëlle Salmon](https://twitter.com/ma_salmon)
 
 This book is meant to be a free, central reference for developers of R packages accessing web resources, to help them have a faster and more robust development. Our aim is to develop an useful guidance to go with the great recent tools that vcr, webmockr, httptest and presser are.
 

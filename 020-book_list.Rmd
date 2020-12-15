@@ -700,7 +700,7 @@ This book is a package development guide for authors, maintainers, reviewers and
 https://devguide.ropensci.org/index.html
 
 
-## HTTP mocking in R
+## HTTP testing in R
 Scott Chamberlain, Maëlle Salmon
 
 This book is meant to be a free, central reference for developers of R packages accessing web resources, to help them have a faster and more robust development. Our aim is to develop an useful guidance to go with the great recent tools that vcr, webmockr, httptest and presser are.

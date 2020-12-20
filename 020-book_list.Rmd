@@ -1333,6 +1333,24 @@ There’s a better way. Just as knowing a few basic facts about germs and nutrit
 
 http://teachtogether.tech/en/index.html
 
+## rstudio4edu
+
+[Desirée De Leon](https://desiree.rbind.io/) and
+[Alison Hill](https://alison.rbind.io/)
+
+> A Handbook for Teaching and Learning with R and RStudio
+
+A book for educators in the data science space who wish to create educational materials that are engaging for students and inspiring to other educators. This book is a cookbook for generating materials for
+
+- R Markdown lessons
+- R packages
+- R Markdown websites
+- Distill sites
+- Bookdown books
+- Blogdown sites
+
+https://rstudio4edu.github.io/rstudio4edu-book/
+
 
 # Text analysis
 

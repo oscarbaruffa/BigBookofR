@@ -45,7 +45,7 @@ Please feel free to contribute paid and free books - see the  [GitHub.](https://
 
 ## Contributors
 
-If you've contributed, add your name and twitter / blog link below!
+If you've contributed, add your name and Twitter / blog link below!
 
 [Oscar Baruffa](https://twitter.com/OscarBaruffa)
 
@@ -90,6 +90,8 @@ Mohit Sharma
 [Ezekiel Adebayo Ogundepo](https://twitter.com/gbganalyst)
 
 [Shamsuddeen Hassan Muhammad](https://twitter.com/Shmuhammadd)
+
+[Eric Leung](https://twitter.com/erictleung)
 
 
 ## Licence

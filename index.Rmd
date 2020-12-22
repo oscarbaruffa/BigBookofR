@@ -102,3 +102,5 @@ This website/book is free to use, and is licensed under the [Creative Commons At
 ## About me
 
 I'm Oscar. Fairly new to R and loving it. If you like this book, feel free to say "Hi!" on [Twitter](https://twitter.com/OscarBaruffa). 
+
+If you want to stay in the loop on other data-related products I create, sign up to my [newsletter](https://oscarbaruffa.com/newsletter/).

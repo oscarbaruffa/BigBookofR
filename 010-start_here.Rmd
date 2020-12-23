@@ -14,7 +14,7 @@ The book is free to read at https://r4ds.had.co.nz/
 
 There's an accompanying exercise solution book at https://jrnold.github.io/r4ds-exercise-solutions/
 
-For a different take on the soltuions, check out *Yet another ‘R for Data Science’ study guide* which can also be found at https://brshallo.github.io/r4ds_solutions/
+For a different take on the solutions, check out *Yet another ‘R for Data Science’ study guide* which can also be found at https://brshallo.github.io/r4ds_solutions/
 
 If you'd like more of a roadmap which incorporates this book, have a look at my blogpost:
 

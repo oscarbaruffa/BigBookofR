@@ -234,6 +234,14 @@ This book covers the fundamentals of data science and statistics. The first half
 
 http://www.modernstatisticswithr.com/
 
+## Data Science: A First Introduction
+[Tiffany-Anne Timbers](https://twitter.com/TiffanyTimbers)
+Trevor Campbell
+Melissa Lee
+
+This is an open source textbook aimed at introducing undergraduate students to data science. It was originally written for the University of British Columbia’s DSCI 100 - Introduction to Data Science course. In this book, we define data science as the study and development of reproducible, auditable processes to obtain value (i.e., insight) from data.
+
+https://ubc-dsci.github.io/introduction-to-datascience/
 
 # Data Visualization
 

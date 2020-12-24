@@ -69,14 +69,7 @@ Pay what you want for the ebook, minimum $0.00
 
 https://leanpub.com/dataanalysisessays
 
-## Data Science in a Box
-[Mine Çetinkaya-Rundel](https://twitter.com/minebocek)
 
-This book focuses on how to efficiently teach data science to students with little to no background in computing and statistical thinking.  The core content of the course focuses on data acquisition and wrangling, exploratory data analysis, data visualization, inference, modelling, and effective communication of results. 
-
-This book is free online.
-
-https://datasciencebox.org/
 
 # Blogdown
 ## blogdown: Creating Websites with R Markdown
@@ -1329,17 +1322,15 @@ https://fish-forecast.github.io/Fish-Forecast-Bookdown/index.html
 
 # Teaching
 
-## Teaching Tech Together
-Greg Wilson
 
-Not an R book per se, but comes highly recommended about how to teach programming. 
+## Data Science in a Box
+[Mine Çetinkaya-Rundel](https://twitter.com/minebocek)
 
-Grassroots groups have sprung up around the world to teach programming, web design, robotics, and other skills to free-range learners. These groups exist so that people don’t have to learn these things on their own, but ironically, their founders and teachers are often teaching themselves how to teach.
+This book focuses on how to efficiently teach data science to students with little to no background in computing and statistical thinking.  The core content of the course focuses on data acquisition and wrangling, exploratory data analysis, data visualization, inference, modelling, and effective communication of results. 
 
-There’s a better way. Just as knowing a few basic facts about germs and nutrition can help you stay healthy, knowing a few things about cognitive psychology, instructional design, inclusivity, and community organization can help you be a more effective teacher. This book presents key ideas you can use right now, explains why we believe they are true, and points you at other resources that will help you go further
+This book is free online.
 
-
-http://teachtogether.tech/en/index.html
+https://datasciencebox.org/
 
 ## rstudio4edu
 
@@ -1358,6 +1349,21 @@ A book for educators in the data science space who wish to create educational ma
 - Blogdown sites
 
 https://rstudio4edu.github.io/rstudio4edu-book/
+
+
+## Teaching Tech Together
+Greg Wilson
+
+Not an R book per se, but comes highly recommended about how to teach programming. 
+
+Grassroots groups have sprung up around the world to teach programming, web design, robotics, and other skills to free-range learners. These groups exist so that people don’t have to learn these things on their own, but ironically, their founders and teachers are often teaching themselves how to teach.
+
+There’s a better way. Just as knowing a few basic facts about germs and nutrition can help you stay healthy, knowing a few things about cognitive psychology, instructional design, inclusivity, and community organization can help you be a more effective teacher. This book presents key ideas you can use right now, explains why we believe they are true, and points you at other resources that will help you go further
+
+
+http://teachtogether.tech/en/index.html
+
+
 
 
 # Text analysis

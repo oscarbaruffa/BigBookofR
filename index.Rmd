@@ -25,12 +25,12 @@ site: bookdown::bookdown_site
 ## Your last-ever bookmark
 Thanks for stopping by. If you're like me, you can't help but bookmark every R-related programming book you find in the hopes that one day you, or someone you know, might find it useful.
 
-
-I've been collecting these for about 2 years now, totaling about 150 books, and thought I'd share it with you :).
-
 Hopefully this is the only bookmark you'll need in future ;).
 
-Most of these are free, some are paid (most are very affordable).
+When I initially released this collection in late August 2020, it contained about 100 books that I'd been collecting over the previous two years. Since then I've found a few more and there have been contributions from many people. The collection now stands at about 150 books. 
+
+
+Most of these are free. Some are paid but usually quite affordable.
 
 
 ## Searching
@@ -47,52 +47,8 @@ Please feel free to contribute paid and free books - see the  [GitHub.](https://
 
 If you've contributed, add your name and Twitter / blog link below!
 
-[Oscar Baruffa](https://twitter.com/OscarBaruffa)
-
-Mohit Sharma
-
-[Vebash Naidoo](https://twitter.com/Sciencificity)
-
-[Julia Silge](https://twitter.com/juliasilge)
-
-[Erik Gahner Larsen](https://twitter.com/erikgahner)
-
-[Nicole Radziwill](https://radziwill.cc)
-
-[Nistara Randhawa](https://twitter.com/nistara_r)
-
-[Antoine Fabri](https://twitter.com/antoine_fabri)
-
-[Jon Calder](https://twitter.com/jonmcalder)
-
-[Mike Smith](https://twitter.com/grimbough)
-
-[Ben Bolker](https://github.com/bbolker)
-
-[Maëlle Salmon](https://twitter.com/ma_salmon)
-
-[Laura Ellis](https://twitter.com/LittleMissData)
-
-[Bryan Shalloway](https://twitter.com/brshallo)
-
-[Antonio Uzal](https://twitter.com/antonio_uzal)
-
-[Louis Aslett](http://www.louisaslett.com/)
-
-[Lluís Revilla Sancho](https://llrs.dev)
-
-[Brendan Cullen](https://twitter.com/_bcullen)
-
-[Rami Krispin](https://twitter.com/Rami_Krispin)
-
-[Michael Dorman](https://twitter.com/MichaelDorman84)
-
-[Ezekiel Adebayo Ogundepo](https://twitter.com/gbganalyst)
-
-[Shamsuddeen Hassan Muhammad](https://twitter.com/Shmuhammadd)
-
-[Eric Leung](https://twitter.com/erictleung)
-
+[Oscar Baruffa](https://twitter.com/OscarBaruffa), Mohit Sharma, [Vebash Naidoo](https://twitter.com/Sciencificity), [Julia Silge](https://twitter.com/juliasilge), [Erik Gahner Larsen](https://twitter.com/erikgahner), [Nicole Radziwill](https://radziwill.cc), [Nistara Randhawa](https://twitter.com/nistara_r), [Antoine Fabri](https://twitter.com/antoine_fabri), [Jon Calder](https://twitter.com/jonmcalder), [Mike Smith](https://twitter.com/grimbough), [Ben Bolker](https://github.com/bbolker), [Maëlle Salmon](https://twitter.com/ma_salmon), [Laura Ellis](https://twitter.com/LittleMissData), [Bryan Shalloway](https://twitter.com/brshallo), [Antonio Uzal](https://twitter.com/antonio_uzal), [Louis Aslett](http://www.louisaslett.com/), [Lluís Revilla Sancho](https://llrs.dev), [Brendan Cullen](https://twitter.com/_bcullen), [Rami Krispin](https://twitter.com/Rami_Krispin), [Michael Dorman](https://twitter.com/MichaelDorman84), [Ezekiel Adebayo Ogundepo](https://twitter.com/gbganalyst), 
+[Shamsuddeen Hassan Muhammad](https://twitter.com/Shmuhammadd), [Eric Leung](https://twitter.com/erictleung), 
 
 ## Licence
 
@@ -103,4 +59,4 @@ This website/book is free to use, and is licensed under the [Creative Commons At
 
 I'm Oscar. Fairly new to R and loving it. If you like this book, feel free to say "Hi!" on [Twitter](https://twitter.com/OscarBaruffa). 
 
-If you want to stay in the loop on other data-related products I create, sign up to my [newsletter](https://oscarbaruffa.com/newsletter/).
+If you want to stay in the loop on other data-related products I create, or major updates to this book, sign up to my [newsletter](https://oscarbaruffa.com/newsletter/).

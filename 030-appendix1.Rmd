@@ -1,0 +1,21 @@
+
+
+# APPENDIX : Publicly available site analytics  {-} 
+
+
+Who says you can't have privacy AND transparency??
+
+I'm guessing that if you're interested in R then you also like data ;).
+
+I initally used Google Analytics for this site between August 2020 and December 2020, but as I am keen to enhance user privacy I switched to [Plausible Analytics](https://plausible.io/bigbookofr.com) from 30 December 2020 onwards.
+
+You can view the Google Analytics [summary report PDF here](https://www.bigbookofr.com/files/Analytics All Web Site Data Audience Overview 20200825-20201229.pdf). TLDR 22k unique visitors and 33k sessions :D!!
+
+Note that "unique" visits will be higher than you would find on Google Analytics. This is because Plausible is GDPR compliant and privacy focussed, each user is identifed for only 1 day. So if someone visits the site 2 days in a row, that's counted as 2 "uniques" whereas in Google Analytics it would only be counted as 1 unique vistor because ofthe presence of persistent cookies and such that allows for tracking of users. 
+
+From now on, you can view the LIVE site stats [right here](https://plausible.io/bigbookofr.com).
+
+
+
+
+

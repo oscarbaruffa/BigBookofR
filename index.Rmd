@@ -67,7 +67,7 @@ You can view the old Google Analytics [summary report PDF here](https://www.bigb
 
 Note that "unique" visits will be higher in Plausible than you'd find with Google Analytics. Because Plausible is GDPR compliant and privacy focussed, each user is identified for only 1 day. If someone visits the site 2 days in a row, that's counted as 2 "uniques" whereas in Google Analytics it would only be counted as 1 unique visitor because of the presence of persistent cookies and such that allows for tracking of users. 
 
-From now on, you can view the **[LIVE site stats right here](https://plausible.io/bigbookofr.com)**.
+From now on, you can view the **[LIVE site stats right here](https://plausible.io/bigbookofr.com?ref=BigBoofofR)**.
 
 
 ## About me

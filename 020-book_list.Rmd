@@ -126,6 +126,17 @@ Pay what you want for PDF, minimum $0.00
 https://leanpub.com/datasciencebook
 
 
+## Data Science: A First Introduction
+[Tiffany-Anne Timbers](https://twitter.com/TiffanyTimbers)
+Trevor Campbell
+Melissa Lee
+
+This is an open source textbook aimed at introducing undergraduate students to data science. It was originally written for the University of British Columbia’s DSCI 100 - Introduction to Data Science course. In this book, we define data science as the study and development of reproducible, auditable processes to obtain value (i.e., insight) from data.
+
+https://ubc-dsci.github.io/introduction-to-datascience/
+
+
+
 ## Practical Data Science with R, Second Edition
 Nina Zumel and John Mount
 
@@ -211,6 +222,19 @@ Paid, ~$40
 https://amzn.to/2Ns1HHi
 
 
+## Business Intelligence with R
+[Dwight Barry](https://twitter.com/healthstatsdude)
+
+A desktop reference for busy professionals, giving you fingertip access to a variety of BI analytic methods done in R as simply as possible.
+
+All proceeds will support mitochondrial disorder research at Seattle Children's Hospital.
+
+Free or up to $20 for a good cause!
+
+https://leanpub.com/businessintelligencewithr
+
+
+
 ## R Data Science Quick Reference
 [Thomas Mailund](https://twitter.com/ThomasMailund)
 
@@ -227,14 +251,7 @@ This book covers the fundamentals of data science and statistics. The first half
 
 http://www.modernstatisticswithr.com/
 
-## Data Science: A First Introduction
-[Tiffany-Anne Timbers](https://twitter.com/TiffanyTimbers)
-Trevor Campbell
-Melissa Lee
 
-This is an open source textbook aimed at introducing undergraduate students to data science. It was originally written for the University of British Columbia’s DSCI 100 - Introduction to Data Science course. In this book, we define data science as the study and development of reproducible, auditable processes to obtain value (i.e., insight) from data.
-
-https://ubc-dsci.github.io/introduction-to-datascience/
 
 # Data Visualization
 
@@ -245,6 +262,17 @@ ggplot2 is an R package for producing statistical, or data, graphics. Unlike mos
 
 
 https://ggplot2-book.org/
+
+
+## A ggplot2 Tutorial for Beautiful Plotting in R
+[Cédric Sherer](https://twitter.com/CedScherer)
+
+(Oscar: Not a book per se, but it should be, so I'm adding !)
+
+A mega tutorial of creating great ggplot2 visuals. 
+
+https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/
+
 
 ## ggplot2 in 2 
 Lucy D'Agostino McGowan
@@ -305,6 +333,18 @@ In this book, you’ll gain insight and practical skills for creating interactiv
 
 
 https://plotly-r.com/
+
+## Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code
+Jack Dougherty, Ilya Ilyankou
+
+
+(Oscar: looks like am amazing resource and includes code templates!)
+
+In this book, you’ll learn how to create true and meaningful data visualizations through chapters that blend design principles and step-by-step tutorials, in order to make your information-based analysis and arguments more insightful and compelling. Just as sentences become more persuasive with supporting evidence and source notes, your data-driven writing becomes more powerful when paired with appropriate tables, charts, or maps. Words tell us stories, but visualizations show us data stories by transforming quantitative, relational, or spatial patterns into images. When visualizations are well-designed, they draw our attention to what is most important in the data in ways that would be difficult to communicate through text alone.
+
+
+https://handsondataviz.org/
+
 
 ## BBC Visual and Data Journalism cookbook for R graphics
 
@@ -1167,6 +1207,22 @@ Statistical Rethinking: A Bayesian Course with Examples in R and Stan builds you
 
 https://xcelab.net/rm/statistical-rethinking/
 
+
+## Statistical Rethinking with brms, ggplot2, and the tidyverse
+A Solomon Kurz
+
+This is a love letter
+I love McElreath’s Statistical Rethinking text. It’s the entry-level textbook for applied researchers I spent years looking for. McElreath’s freely-available lectures on the book are really great, too.
+
+However, I prefer using Bürkner’s brms package when doing Bayeian regression in R. It’s just spectacular. I also prefer plotting with Wickham’s ggplot2, and coding with functions and principles from the tidyverse
+
+So, this project is an attempt to reexpress the code in McElreath’s textbook. His models are re-fit with brms, the figures are reproduced or reimagined with ggplot2, and the general data wrangling code now predominantly follows the tidyverse style.
+
+
+https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/
+
+
+
 ## OpenIntro Statistics
 David Diez, [Mine Cetinkaya-Rundel](https://twitter.com/minebocek), 
 Christopher Barr, and [OpenIntro](https://twitter.com/OpenIntroOrg).
@@ -1183,6 +1239,18 @@ Pay what you want for the ebook, minimum $0.00, however if you are able to, plea
 consider the cause above. Thanks!
 
 https://leanpub.com/openintro-statistics
+
+
+## Introduction to Modern Statistics
+[Mine Çetinkaya-Rundel](https://twitter.com/minebocek), [Johanna Hardin](@jo_hardin47)
+
+We hope readers will take away three ideas from this book in addition to forming a foundation of statistical thinking and methods.
+
+1. Statistics is an applied field with a wide range of practical applications.
+1. You don’t have to be a math guru to learn from interesting, real data.
+1. Data are messy, and statistical tools are imperfect. However, when you understand the strengths and weaknesses of these tools, you can use them to learn interesting things about the~world.
+
+https://openintro-ims.netlify.app/
 
 
 ## Statistical inference for data science
@@ -1496,6 +1564,28 @@ https://datascienceineducation.com/
 It is the author's firm belief that all people analytics professionals should have a strong understanding of regression models and how to implement and interpret them in practice, and the aim with this book is to provide those who need it with help in getting there.
 
 http://peopleanalytics-regression-book.org/index.html
+
+For accompanying solutions to some of the questions
+
+https://keithmcnulty.github.io/peopleanalytics-regression-book/solutions/
+
+
+## R Programming with Minecraft
+Brooke Anderson, Karl Broman, Gergely Daróczi, Mario Inchiosa, David Smith, and Ali Zaidi
+
+Minecraft is awesome fun, especially in creative mode, where you can build all sorts of crazy stuff. But ambitious building projects can be really tedious to create by hand. With the miner R package, you can write R code to manipulate your Minecraft world and create even more awesome stuff.
+
+Here's an introduction Rstats NYC conference talk on it: https://www.youtube.com/watch?v=r_JgPF8MJpY
+
+https://kbroman.org/miner_book/?s=09
+
+
+## Social Data Science with R
+Daniel Anderson, Brendan Cullen, Ouafaa Hmaddi
+
+Here’s an intro about why R is great and the cool things you can do with it and new problems you can address.
+
+https://www.sds.pub/index.html
 
 
 ## The Plain Person’s Guide to Plain Text Social Science

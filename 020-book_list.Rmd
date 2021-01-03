@@ -537,6 +537,16 @@ The aim of this book is to provide the fundamentals for data analysis for genomi
 http://compgenomr.github.io/book/
 
 
+## Numerical Ecology with R
+by Daniel Borcard, François Gillet, [Pierre Legendre](http://adn.biol.umontreal.ca/~numericalecology/indexEn.html) 
+
+This new edition of Numerical Ecology with R guides readers through an applied exploration of the major methods of multivariate data analysis, as seen through the eyes of three ecologists. It provides a bridge between a textbook of numerical ecology and the implementation of this discipline in the R language. The book begins by examining some exploratory approaches.
+
+eBook ~$60
+
+https://www.springer.com/us/book/9783319714035
+
+
 # Machine Learning
 
 ##  Hands-On Machine Learning with R

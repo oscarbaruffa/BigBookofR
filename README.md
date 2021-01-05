@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/447ff7dc-241f-482d-a76f-552602cf5574/deploy-status)](https://app.netlify.com/sites/bigbookofr/deploys)
+
 
 # BigBookofR
 The biggest collection of R books (and maybe later some other resources too)
@@ -6,13 +6,13 @@ The biggest collection of R books (and maybe later some other resources too)
 
 ## Contributing
 
-Please feel free to contribute paid and free books - see the  [github.](https://github.com/oscarbaruffa/BigBookofR)
+Please feel free to contribute paid and free books - see the [GitHub.](https://github.com/oscarbaruffa/BigBookofR)
 
 The format for adding book entries is:
 
 **\#\# [Name of book]**
 
-**[Author] -link to twitter bio / blog**
+**[Author] - link to Twitter bio / blog**
 
 **[Brief description of content]**
 
@@ -20,6 +20,8 @@ The format for adding book entries is:
 
 **(link to book)**
 
+
+There's no need to render the book - just make the changes to the rmd's :)
 
 Sometimes it's difficult to know in which chapter to place it, but I default to using either the name of the book as a guide, the first bit of how the book describes itself or failing that, what I think it should be. It's okay to add a book to more than one section if you feel it strongly fits both. 
 

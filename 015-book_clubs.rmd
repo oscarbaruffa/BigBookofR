@@ -1,0 +1,34 @@
+# Book Clubs
+
+Just like the book clubs you know and love, except that people actually talk about the book they're busy reading!
+
+R book clubs are usually a group of people who follow along together in working though the same book, with some sort of periodic check-in (often weekly, often via video) discussing the text, exercises and solutions. 
+
+Below is a list of book clubs. These usually have a specific start and end date, so it may happen that a book club has already ended even though it's listed here.
+
+If you are running a book club, feel free to add it. 
+
+## NHS-R community
+
+If you're one of the estimated 10 000 data analysts working in the NHS, here's a [blog post](https://nhsrcommunity.com/blog/nhs-r-book-club/) introducing the R book club in what is I assume is their slack channel. 
+
+
+## R4DS Slack Community
+
+The [R4Ds slack Community](http://r4ds.io/join) has a number of running book clubs. Once you've joined the slack group, you can search for channels. 
+
+They also have a channel specifically for book club facilitators!
+
+They've [recorded the sessions](https://www.youtube.com/c/R4DSOnlineLearningCommunity/playlists) of cohorts so you can pick your way through one, or catch up on the current one! 
+
+## R-ladies Netherlands - Advanced R by Hadley Wickham
+
+A collaboration of multiple Netherlands-based R-ladies groups ran a club on Hadley Wickham's Advanced R book. 
+
+The [github repo](https://github.com/rladiesnl/book_club) contains all the slides from the sessions.
+
+
+
+
+
+

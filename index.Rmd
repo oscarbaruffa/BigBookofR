@@ -5,20 +5,18 @@ date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
   bookdown::gitbook:
     includes:
-      in_header: [google-analytics.html]
-     
-      
+      in_header: [plausible-analytics.html, social.html]
     config:
+      edit: https://github.com/oscarbaruffa/BigBookofR/edit/master/%s
       toc:
         before: |  
           <br/><center><b><a href="./index.html">&nbsp&nbspBig Book of R</a></b></center></li>
         after: |
           <li><center><a href="https://bookdown.org/yihui/bookdown/">
           Published with bookdown</a></center></li>
-          
-bookdown::gitbook: default
 site: bookdown::bookdown_site
 ---
+
 
 
 
@@ -27,12 +25,12 @@ site: bookdown::bookdown_site
 ## Your last-ever bookmark
 Thanks for stopping by. If you're like me, you can't help but bookmark every R-related programming book you find in the hopes that one day you, or someone you know, might find it useful.
 
-
-I've been collecting these for about 2 years now, totaling about 100 books, and thought I'd share it with you :).
-
 Hopefully this is the only bookmark you'll need in future ;).
 
-Most of these are free, some are paid (most are very affordable).
+When I initially released this collection in late August 2020, it contained about 100 books that I'd been collecting over the previous two years. Since then I've found a few more and there have been contributions from many people. The collection now stands at about 150 books. 
+
+
+Most of these are free. Some are paid but usually quite affordable.
 
 
 ## Searching
@@ -42,63 +40,44 @@ If there's something specific you're looking for, use the menu or search using t
 
 ## Contributing
 
-Please feel free to contribute paid and free books - see the  [github.](https://github.com/oscarbaruffa/BigBookofR)
-
-The format for adding book entries is:
-
-**\#\# [Name of book]**
-
-**[Author] -link to twitter bio / blog**
-
-**[Brief description of content]**
-
-**Note if its a paid product and approximatley how much** 
-
-**(link to book)**
-
-
-Sometimes it's difficult to know in which chapter to place it, but I default to using either the name of the book as a guide, the first bit of how the book describes itself or failing that, what I think it should be. It's okay to add a book to more than one section if you feel it strongly fits both. 
+Please feel free to contribute paid and free books - see the  [GitHub.](https://github.com/oscarbaruffa/BigBookofR)
 
 
 ## Contributors
 
-If you've contributed, add your name and twitter / blog link below!
+If you've contributed, add your name and Twitter / blog link below!
 
-[Oscar Baruffa](https://twitter.com/OscarBaruffa)
-
-Mohit Sharma
-
-[Vebash Naidoo](https://twitter.com/Sciencificity)
-
-[Julia Silge](https://twitter.com/juliasilge)
-
-[Erik Gahner Larsen](https://twitter.com/erikgahner)
-
-[Nicole Radziwill](https://radziwill.cc)
-
-[Nistara Randhawa](https://twitter.com/nistara_r)
-
-[Antoine Fabri](https://twitter.com/antoine_fabri)
-
-[Jon Calder](https://twitter.com/jonmcalder)
-
-[Mike Smith](https://twitter.com/grimbough)
-
-[Ben Bolker](https://github.com/bbolker)
-
-[Maëlle Salmon](https://twitter.com/ma_salmon)
-
-[Laura Ellis](https://twitter.com/LittleMissData)
-
-[Bryan Shalloway](https://twitter.com/brshallo)
-
-[Antonio Uzal](https://twitter.com/antonio_uzal)
+[Oscar Baruffa](https://twitter.com/OscarBaruffa), Mohit Sharma, [Vebash Naidoo](https://twitter.com/Sciencificity), [Julia Silge](https://twitter.com/juliasilge), [Erik Gahner Larsen](https://twitter.com/erikgahner), [Nicole Radziwill](https://radziwill.cc), [Nistara Randhawa](https://twitter.com/nistara_r), [Antoine Fabri](https://twitter.com/antoine_fabri), [Jon Calder](https://twitter.com/jonmcalder), [Mike Smith](https://twitter.com/grimbough), [Ben Bolker](https://github.com/bbolker), [Maëlle Salmon](https://twitter.com/ma_salmon), [Laura Ellis](https://twitter.com/LittleMissData), [Bryan Shalloway](https://twitter.com/brshallo), [Antonio Uzal](https://twitter.com/antonio_uzal), [Louis Aslett](http://www.louisaslett.com/), [Lluís Revilla Sancho](https://llrs.dev), [Brendan Cullen](https://twitter.com/_bcullen), [Rami Krispin](https://twitter.com/Rami_Krispin), [Michael Dorman](https://twitter.com/MichaelDorman84), [Ezekiel Adebayo Ogundepo](https://twitter.com/gbganalyst), 
+[Shamsuddeen Hassan Muhammad](https://twitter.com/Shmuhammadd), [Eric Leung](https://twitter.com/erictleung), 
 
 ## Licence
 
 This website/book is free to use, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/){target="blank}.
 
 
+## Live stats
+
+Who says you can't have privacy AND transparency??
+
+I'm guessing that if you're interested in R then you also like data ;).
+
+I initially used Google Analytics for this site but as I'm keen to enhance user privacy I switched to [Plausible Analytics](https://plausible.io/bigbookofr.com) from 30 December 2020 onwards.
+
+You can view the old Google Analytics [summary report PDF here](https://www.bigbookofr.com/files/Analytics All Web Site Data Audience Overview 20200825-20201229.pdf). TLDR 22k unique visitors and 33k sessions between August 2020 and December 2020 :D!!
+
+Note that "unique" visits will be higher in Plausible than you'd find with Google Analytics. Because Plausible is GDPR compliant and privacy focussed, each user is identified for only 1 day. If someone visits the site 2 days in a row, that's counted as 2 "uniques" whereas in Google Analytics it would only be counted as 1 unique visitor because of the presence of persistent cookies and such that allows for tracking of users. 
+
+From now on, you can view the **[LIVE site stats right here](https://plausible.io/bigbookofr.com?ref=BigBoofofR)**.
+
+
 ## About me
 
 I'm Oscar. Fairly new to R and loving it. If you like this book, feel free to say "Hi!" on [Twitter](https://twitter.com/OscarBaruffa). 
+
+If you want to stay in the loop on other data-related products I create, or major updates to this book, sign up to my [newsletter](https://oscarbaruffa.com/newsletter/).
+
+
+
+
+
+

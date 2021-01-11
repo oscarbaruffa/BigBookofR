@@ -486,6 +486,31 @@ Paid ~$90
 
 https://www.springer.com/gp/book/9783319443256
 
+# Journalism
+
+## Practical R for Mass Communication and Journalism
+Sharon Machlis
+
+Welcome to this excerpt from Practical R for Mass Communication and Journalism. In these sample chapters, you’ll:
+
+learn how to find your way around R and RStudio,
+see how much you can do in just a few lines of code,
+start doing some basic data exploration, and
+get some ideas and sample code for using R in analyzing election results.
+I hope you find this excerpt useful! If you do and would like to read more, you can order the complete book from CRC Press or Amazon.
+
+Free samples. Full paid product ~ $55
+
+http://www.machlis.com/R4Journalists/index.html
+
+## Using R for Data Journalism
+Andrew Ba Tran
+
+This site will help you learn how to use the statistical computing and graphics language R to enhance your data analysis and reporting process.
+
+It was originally part of a free MOOC offered by the Knight Center at the University of Texas
+
+https://learn.r-journalism.com/en/
 
 
 # Life Sciences
@@ -1625,19 +1650,7 @@ This book covers the foundation skills necessary to start writing computer progr
 
 https://info201.github.io/
 
-## Practical R for Mass Communication and Journalism
-Sharon Machlis
 
-Welcome to this excerpt from Practical R for Mass Communication and Journalism. In these sample chapters, you’ll:
-
-learn how to find your way around R and RStudio,
-see how much you can do in just a few lines of code,
-start doing some basic data exploration, and
-get some ideas and sample code for using R in analyzing election results.
-I hope you find this excerpt useful! If you do and would like to read more, you can order the complete book from CRC Press or Amazon.
-
-Free samples. Full paid product ~ $55
-http://www.machlis.com/R4Journalists/index.html
 
 ## An introduction to quantitative analysis of political data in R
 

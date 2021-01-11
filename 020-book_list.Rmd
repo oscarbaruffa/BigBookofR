@@ -70,6 +70,28 @@ Pay what you want for the ebook, minimum $0.00
 https://leanpub.com/dataanalysisessays
 
 
+# Big Data
+
+## Exploring, Visualizing, and Modeling Big Data with R
+
+[Okan Bulut](https://twitter.com/drokanbulut), [Christopher Desjardins](https://github.com/cddesja)
+
+Working with BIG DATA requires a particular suite of data analytics tools and advanced techniques, such as machine learning (ML). Many of these tools are readily and freely available in R. This full-day session will provide participants with a hands-on training on how to use data analytics tools and machine learning methods available in R to explore, visualize, and model big data.
+
+https://okanbulut.github.io/bigdata/
+
+
+## Mastering Spark with R
+Javier Luraschi, Kevin Kuo, Edgar Ruiz
+
+In this book you will learn how to use Apache Spark with R. The book intends to take someone unfamiliar with Spark or R and help you become proficient by teaching you a set of tools, skills and practices applicable to large-scale data science.
+
+PS the first chapter has a Jon Snow quote ;)
+
+https://therinspark.com/
+
+
+
 
 # Blogdown
 ## blogdown: Creating Websites with R Markdown
@@ -382,15 +404,6 @@ Freely available online, paid print.
 
 https://javascript-for-r.com
 
-# Distributed computing
-## Mastering Spark with R
-Javier Luraschi, Kevin Kuo, Edgar Ruiz
-
-In this book you will learn how to use Apache Spark with R. The book intends to take someone unfamiliar with Spark or R and help you become proficient by teaching you a set of tools, skills and practices applicable to large-scale data science.
-
-PS the first chapter has a Jon Snow quote ;)
-
-https://therinspark.com/
 
 
 # Getting, cleaning and wrangling data

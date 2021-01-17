@@ -135,6 +135,9 @@ An alternative set of solutions for R4Ds.
 
 https://brshallo.github.io/r4ds_solutions/
 
+
+
+
 ## Introduction to Data Science 
 Rafael A Irizarry 
 
@@ -404,7 +407,148 @@ Freely available online, paid print.
 
 https://javascript-for-r.com
 
+# Field specific
+##  Analyzing Financial and Economic Data with R
+Marcelo S. Perlin 
 
+Not surprisingly, fields with abundant access to data and practical applications, such as economics and finance, it is expected that a graduate student or a data analyst has learned at least one programming language that allows him/her to do his work efficiently. Learning how to program is becoming a requisite for the job market. 
+
+https://www.msperlin.com/afedR/
+
+##  Data Science in Education Using R
+Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez
+
+Dear Data Scientists, Educators, and Data Scientists who are Educators:
+
+This book is a warm welcome and an invitation. If you’re a data scientist in education or an educator in data science, your role isn’t exactly straightforward. This book is our contribution to a growing movement to merge the paths of data analysis and education. We wrote this book to make your first step on that path a little clearer and a little less scary.
+
+https://datascienceineducation.com/
+
+## Data Skills for Reproducible Science
+[PsyTeachR team, University of Glasgow](https://psyteachr.github.io/)
+
+This course provides an overview of skills needed for reproducible research and open science using the statistical programming language R. Students will learn about data visualisation, data tidying and wrangling, archiving, iteration and functions, probability and data simulations, general linear models, and reproducible workflows. Learning is reinforced through weekly assignments that involve working with different types of data.
+
+https://psyteachr.github.io/msc-data-skills/
+
+
+## Learning Microeconometrics with R
+Christopher P. Adams
+
+This book provides an introduction to the field of microeconometrics through the use of R. The focus is on applying current learning from the field to real world problems. It uses R to both teach the concepts of the field and show the reader how the techniques can be used. It is aimed at the general reader with the equivalent of a bachelor’s degree in economics, statistics or some more technical field. It covers the standard tools of microeconometrics, OLS, instrumental variables, Heckman selection and difference in difference. In addition, it introduces bounds, factor models, mixture models and empirical Bayesian analysis.
+
+Paid ~$100
+https://www.routledge.com/Learning-Microeconometrics-with-R/Adams/p/book/9780367255381
+
+
+
+## Handbook of Regression Modeling in People Analytics
+[Keith McNulty](https://twitter.com/dr_keithmcnulty)
+
+It is the author's firm belief that all people analytics professionals should have a strong understanding of regression models and how to implement and interpret them in practice, and the aim with this book is to provide those who need it with help in getting there.
+
+http://peopleanalytics-regression-book.org/index.html
+
+For accompanying solutions to some of the questions
+
+https://keithmcnulty.github.io/peopleanalytics-regression-book/solutions/
+
+
+## R Programming with Minecraft
+Brooke Anderson, Karl Broman, Gergely Daróczi, Mario Inchiosa, David Smith, and Ali Zaidi
+
+Minecraft is awesome fun, especially in creative mode, where you can build all sorts of crazy stuff. But ambitious building projects can be really tedious to create by hand. With the miner R package, you can write R code to manipulate your Minecraft world and create even more awesome stuff.
+
+Here's an introduction Rstats NYC conference talk on it: https://www.youtube.com/watch?v=r_JgPF8MJpY
+
+https://kbroman.org/miner_book/?s=09
+
+
+## Social Data Science with R
+Daniel Anderson, Brendan Cullen, Ouafaa Hmaddi
+
+Here’s an intro about why R is great and the cool things you can do with it and new problems you can address.
+
+https://www.sds.pub/index.html
+
+
+## The Plain Person’s Guide to Plain Text Social Science
+Kieran Healy
+
+As a beginning graduate student in the social sciences, what sort of software should you use to do your work?1 More importantly, what principles should guide your choices? I offer some general considerations and specific answers. 
+
+https://plain-text.co/index.html#introduction
+
+## Technical Foundations of Informatics
+Michael Freeman and Joel Ross
+
+This book covers the foundation skills necessary to start writing computer programs to work with data using modern and reproducible techniques. It requires no technical background. These materials were developed for the INFO 201: Technical Foundations of Informatics course taught at the University of Washington Information School; however they have been structured to be an online resource for anyone hoping to learn to work with information using programmatic approaches.
+
+https://info201.github.io/
+
+
+
+## An introduction to quantitative analysis of political data in R
+
+[Erik Gahner Larsen](https://twitter.com/erikgahner) & [Zoltán Fazekas](https://twitter.com/fazol)
+
+In this book, we aim to provide an easily accessible introduction to R for the collection, study and presentation of different types of political data. Specifically, the book will teach you how to get different types of political data into R and manipulate, analyze and visualize the output. In doing this, we will not only teach you how to get existing data into R, but also how to collect your own data.
+
+http://qpolr.com/
+
+
+## Machine Learning for Factor Investing
+
+[Guillaume Coqueret](https://twitter.com/g_coqueret) and [Tony Guida](https://twitter.com/TonyGUIDA_Quant)
+
+This book is intended to cover some advanced modelling techniques applied to equity investment strategies that are built on firm characteristics. 
+
+http://www.mlfactor.com/
+
+
+## Introduction to Econometrics with R
+Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer
+
+Instead of confronting students with pure coding exercises and complementary classic literature like the book by Venables & Smith (2010), we figured it would be better to provide interactive learning material that blends R code with the contents of the well-received textbook Introduction to Econometrics by Stock & Watson (2015) which serves as a basis for the lecture.
+
+https://www.econometrics-with-r.org/
+
+
+
+## How to be a modern scientist
+[Jeffrey Leek](https://twitter.com/jtleek)
+
+A book about how to be a scientist the modern, open-source way. 
+The face of academia is changing. It is no longer sufficient to just publish or perish. 
+We are now in an era where Twitter, Github, Figshare, and Alt Metrics are regular 
+parts of the scientific workflow. Here I give high level advice about which tools 
+to use, how to use them, and what to look out for. This book is appropriate for 
+scientists at all levels who want to stay on top of the current technological 
+developments affecting modern scientific careers.
+
+Pay what you want for the ebook, minimum $0.00
+
+https://leanpub.com/modernscientist
+
+## Cryptocurrency Research: Open Source R Tutorial
+
+Riccardo (Ricky) Esclapon – [LinkedIn](https://www.linkedin.com/in/esclaponriccardo/), [Personal Website](https://resclapon.com/)
+
+John Chandler Johnson – [LinkedIn](https://www.linkedin.com/in/john-chandler-johnson-361a666/)
+
+Kai R. Larsen – [LinkedIn](https://www.linkedin.com/in/kai-r-larsen-4413a01/), [ResearchGate](https://www.researchgate.net/profile/Kai_Larsen)
+
+**What you will learn**: 
+
+R: The tutorial is in R. For those without experience programming in R we have a [high-level version](https://cryptocurrencyresearch.org/high-level) to help you learn before attempting the full version. Scroll down for a [breakdown of the individual sections](https://cryptocurrencyresearch.org/index.html#sections) for an overview of what you will learn throughout.
+
+Tidyverse: You will get more familiar with tools from the tidyverse, including [dplyr](https://dplyr.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), [tibble](https://tibble.tidyverse.org/), and [purrr](https://purrr.tidyverse.org/). These tools provide an excellent complete ecosystem to do data science in R.
+
+Machine Learning: You will learn to [create machine learning models](https://cryptocurrencyresearch.org/predictive-modeling.html) and how to fairly [assess their performance](https://cryptocurrencyresearch.org/model-validation-plan.html).
+
+Cryptocurrency Data: You will learn these tools analyzing the latest cryptocurrency data. The tutorial automatically refreshes every 12 hours and the data is publicly available and refreshed hourly.
+
+This tutorial is free and you can access it via <https://cryptocurrencyresearch.org/>.
 
 # Getting, cleaning and wrangling data
 ##  A Beginner's Guide to Clean Data - beginners-guide-to-clean-data
@@ -568,7 +712,7 @@ https://www.amazon.co.uk/dp/B08HBLYHQL/ref=cm_sw_r_cp_apa_i_g0luFb86PXJ9Z
 
 
 ## Computational Genomics with R
-Altuna Akalin
+[Altuna Akalin](https://twitter.com/AltunaAkalin)
 
 The aim of this book is to provide the fundamentals for data analysis for genomics. We developed this book based on the computational genomics courses we are giving every year. 
 
@@ -640,6 +784,17 @@ https://smltar.com/
 This book is intended to cover some advanced modelling techniques applied to equity investment strategies that are built on firm characteristics. 
 
 http://www.mlfactor.com/
+
+
+## Mathematics and Programming for Machine Learning with R: From the Ground Up 1st Edition, Kindle
+[William B. Claster](https://twitter.com/BillOita?s=09)
+
+Based on the author’s experience in teaching data science for more than 10 years, Mathematics and Programming for Machine Learning with R: From the Ground Up reveals how machine learning algorithms do their magic and explains how these algorithms can be implemented in code. It is designed to provide readers with an understanding of the reasoning behind machine learning algorithms as well as how to program them. Written for novice programmers, the book progresses step-by-step, providing the coding skills needed to implement machine learning algorithms in R.
+
+Paid ~$40
+https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y/ref=mt_other?_encoding=UTF8&me=&qid=1610095251
+
+
 
 
 ## The caret Package
@@ -848,7 +1003,7 @@ This whole story started in the Summer of 2015. I was taking a late night swim o
 
 https://bookdown.org/ndphillips/YaRrr/
 
-## Advanced R.
+## Advanced R
 [Hadley Whickham](https://twitter.com/hadleywickham)
 
 This is the companion website for “Advanced R”, a book in Chapman & Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.
@@ -857,6 +1012,16 @@ The book is free online.
 (Ignore the message redirecting you to the 2nd edition, this is the latest edition)
 
 http://adv-r.had.co.nz/
+
+and the solutions can be foudn here: https://advanced-r-solutions.rbind.io/
+
+## Advanced R Solutions
+Malte Grosser, Henning Bumann & Hadley Wickham
+
+This book offers solutions to the exercises from Hadley Wickham’s book Advanced R (Edition 2). It is work in progress and under active development. The 2nd edition of Advanced R has been published and we are currently working towards completion.
+
+https://advanced-r-solutions.rbind.io/
+
 
 
 ## Efficient R programming
@@ -1589,130 +1754,7 @@ This manual is a step-by-step written guide to targets
 https://wlandau.github.io/targets-manual/index.html
 
 
-# Field specific
-##  Analyzing Financial and Economic Data with R
-Marcelo S. Perlin 
 
-Not surprisingly, fields with abundant access to data and practical applications, such as economics and finance, it is expected that a graduate student or a data analyst has learned at least one programming language that allows him/her to do his work efficiently. Learning how to program is becoming a requisite for the job market. 
-
-https://www.msperlin.com/afedR/
-
-##  Data Science in Education Using R
-Ryan A. Estrellado, Emily A. Bovee, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez
-
-Dear Data Scientists, Educators, and Data Scientists who are Educators:
-
-This book is a warm welcome and an invitation. If you’re a data scientist in education or an educator in data science, your role isn’t exactly straightforward. This book is our contribution to a growing movement to merge the paths of data analysis and education. We wrote this book to make your first step on that path a little clearer and a little less scary.
-
-https://datascienceineducation.com/
-
-## Handbook of Regression Modeling in People Analytics
-[Keith McNulty](https://twitter.com/dr_keithmcnulty)
-
-It is the author's firm belief that all people analytics professionals should have a strong understanding of regression models and how to implement and interpret them in practice, and the aim with this book is to provide those who need it with help in getting there.
-
-http://peopleanalytics-regression-book.org/index.html
-
-For accompanying solutions to some of the questions
-
-https://keithmcnulty.github.io/peopleanalytics-regression-book/solutions/
-
-
-## R Programming with Minecraft
-Brooke Anderson, Karl Broman, Gergely Daróczi, Mario Inchiosa, David Smith, and Ali Zaidi
-
-Minecraft is awesome fun, especially in creative mode, where you can build all sorts of crazy stuff. But ambitious building projects can be really tedious to create by hand. With the miner R package, you can write R code to manipulate your Minecraft world and create even more awesome stuff.
-
-Here's an introduction Rstats NYC conference talk on it: https://www.youtube.com/watch?v=r_JgPF8MJpY
-
-https://kbroman.org/miner_book/?s=09
-
-
-## Social Data Science with R
-Daniel Anderson, Brendan Cullen, Ouafaa Hmaddi
-
-Here’s an intro about why R is great and the cool things you can do with it and new problems you can address.
-
-https://www.sds.pub/index.html
-
-
-## The Plain Person’s Guide to Plain Text Social Science
-Kieran Healy
-
-As a beginning graduate student in the social sciences, what sort of software should you use to do your work?1 More importantly, what principles should guide your choices? I offer some general considerations and specific answers. 
-
-https://plain-text.co/index.html#introduction
-
-## Technical Foundations of Informatics
-Michael Freeman and Joel Ross
-
-This book covers the foundation skills necessary to start writing computer programs to work with data using modern and reproducible techniques. It requires no technical background. These materials were developed for the INFO 201: Technical Foundations of Informatics course taught at the University of Washington Information School; however they have been structured to be an online resource for anyone hoping to learn to work with information using programmatic approaches.
-
-https://info201.github.io/
-
-
-
-## An introduction to quantitative analysis of political data in R
-
-[Erik Gahner Larsen](https://twitter.com/erikgahner) & [Zoltán Fazekas](https://twitter.com/fazol)
-
-In this book, we aim to provide an easily accessible introduction to R for the collection, study and presentation of different types of political data. Specifically, the book will teach you how to get different types of political data into R and manipulate, analyze and visualize the output. In doing this, we will not only teach you how to get existing data into R, but also how to collect your own data.
-
-http://qpolr.com/
-
-
-## Machine Learning for Factor Investing
-
-[Guillaume Coqueret](https://twitter.com/g_coqueret) and [Tony Guida](https://twitter.com/TonyGUIDA_Quant)
-
-This book is intended to cover some advanced modelling techniques applied to equity investment strategies that are built on firm characteristics. 
-
-http://www.mlfactor.com/
-
-
-## Introduction to Econometrics with R
-Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer
-
-Instead of confronting students with pure coding exercises and complementary classic literature like the book by Venables & Smith (2010), we figured it would be better to provide interactive learning material that blends R code with the contents of the well-received textbook Introduction to Econometrics by Stock & Watson (2015) which serves as a basis for the lecture.
-
-https://www.econometrics-with-r.org/
-
-
-
-## How to be a modern scientist
-[Jeffrey Leek](https://twitter.com/jtleek)
-
-A book about how to be a scientist the modern, open-source way. 
-The face of academia is changing. It is no longer sufficient to just publish or perish. 
-We are now in an era where Twitter, Github, Figshare, and Alt Metrics are regular 
-parts of the scientific workflow. Here I give high level advice about which tools 
-to use, how to use them, and what to look out for. This book is appropriate for 
-scientists at all levels who want to stay on top of the current technological 
-developments affecting modern scientific careers.
-
-Pay what you want for the ebook, minimum $0.00
-
-https://leanpub.com/modernscientist
-
-## Cryptocurrency Research: Open Source R Tutorial
-
-Riccardo (Ricky) Esclapon – [LinkedIn](https://www.linkedin.com/in/esclaponriccardo/), [Personal Website](https://resclapon.com/)
-
-John Chandler Johnson – [LinkedIn](https://www.linkedin.com/in/john-chandler-johnson-361a666/)
-
-Kai R. Larsen – [LinkedIn](https://www.linkedin.com/in/kai-r-larsen-4413a01/), [ResearchGate](https://www.researchgate.net/profile/Kai_Larsen)
-
-**What you will learn**: 
-
-R: The tutorial is in R. For those without experience programming in R we have a [high-level version](https://cryptocurrencyresearch.org/high-level) to help you learn before attempting the full version. Scroll down for a [breakdown of the individual sections](https://cryptocurrencyresearch.org/index.html#sections) for an overview of what you will learn throughout.
-
-Tidyverse: You will get more familiar with tools from the tidyverse, including [dplyr](https://dplyr.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), [tibble](https://tibble.tidyverse.org/), and [purrr](https://purrr.tidyverse.org/). These tools provide an excellent complete ecosystem to do data science in R.
-
-Machine Learning: You will learn to [create machine learning models](https://cryptocurrencyresearch.org/predictive-modeling.html) and how to fairly [assess their performance](https://cryptocurrencyresearch.org/model-validation-plan.html).
-
-Cryptocurrency Data: You will learn these tools analyzing the latest cryptocurrency data. The tutorial automatically refreshes every 12 hours and the data is publicly available and refreshed hourly.
-
-This tutorial is free and you can access it via <https://cryptocurrencyresearch.org/>.
 
 # Other compendiums
 

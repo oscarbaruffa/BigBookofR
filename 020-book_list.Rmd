@@ -1663,7 +1663,12 @@ Modeling as a statistical practice can encompass a wide variety of activities. T
 
 https://smltar.com/
 
+## Text Mining With Tidy Data Principles
+[Julia Silge](https://twitter.com/juliasilge)
 
+Text data sets are diverse and ubiquitous, and tidy data principles provide an approach to make text mining easier, more effective, and consistent with tools already in wide use. In this tutorial, you will develop your text mining skills using the tidytext package in R, along with other tidyverse tools.
+
+https://juliasilge.shinyapps.io/learntidytext/
 
 # Version control
 ## Happy Git and GitHub for the useR

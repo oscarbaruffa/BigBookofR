@@ -4,7 +4,7 @@ If you're new to R and want to learn how to use it, this library might be a litt
 
 > There's so much choice! 
 
-If you aren't sure where  to start, then try one these two options:
+If you aren't sure where  to start, then try one  of these two options:
 
 ### Book: R for Data Science
 

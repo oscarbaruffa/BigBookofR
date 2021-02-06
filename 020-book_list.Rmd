@@ -1247,6 +1247,17 @@ Paid ~$25
 
 https://amzn.to/2CDqhAU
 
+## An Introduction to R
+[Alex Douglas](https://twitter.com/Scedacity),
+[Deon Roos](https://twitter.com/DeonRoos88),
+[Ana Couto](https://twitter.com/AnaSofiaCouto),
+[Francesca Mancini](https://twitter.com/frances_mancini) and
+[David Lusseau](https://twitter.com/lusseau)
+
+The aim of this book is to introduce you to using R, a powerful and flexible interactive environment for statistical computing and research. R in itself is not difficult to learn, but as with learning any new language (spoken or computer) the initial learning curve can be a little steep and somewhat daunting. We have tried to simplify the content of this book as much as possible and have based it on our own personal experience of teaching (and learning) R over the last 15 years. It is not intended to cover everything there is to know about R - that would be an impossible task. Neither is it intended to be an introductory statistics course, although you will be using some simple statistics to highlight some of R’s capabilities. The main aim of this book is to help you climb the initial learning curve and provide you with the basic skills and experience (and confidence!) to enable you to further your experience in using R.
+
+https://intro2r.com/
+
 # Shiny
 ## A gRadual intRoduction to Shiny
 Ted Laderas and Jessica Minnier

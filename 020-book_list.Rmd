@@ -2558,7 +2558,7 @@ Paid \~\$5
 
 <https://amzn.to/2Nt0rDY>
 
-## **Git and Github for Advanced Ecological Data Analysis**
+## Git and Github for Advanced Ecological Data Analysis
 
 Alexa Fredston
 

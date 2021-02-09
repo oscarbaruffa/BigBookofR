@@ -372,6 +372,17 @@ worked solutions.
 
 <http://www.modernstatisticswithr.com/>
 
+## Model-Based Clustering and Classification for Data Science
+
+[Charles Bouveyron](https://twitter.com/cbouveyron), 
+[Gilles Celeux](https://www.imo.universite-paris-saclay.fr/~celeux/),
+[T. Brendan Murphy](https://twitter.com/tbmurphy), and 
+[Adrian E. Raftery](https://twitter.com/AdrianRaftery1)
+
+Among the broad field of statistical and machine learning, model-based techniques for clustering and classification have a central position for anyone interested in exploiting those data. This text book focuses on the recent developments in model-based clustering and classification while providing a comprehensive introduction to the field. It is aimed at advanced undergraduates, graduates or first year PhD students in data science, as well as researchers and practitioners.
+
+<https://math.unice.fr/~cbouveyr/MBCbook/>
+
 # Data Visualization
 
 ## ggplot2: Elegant Graphics for Data Analysis
@@ -1832,6 +1843,14 @@ skills and experience (and confidence!) to enable you to further your
 experience in using R.
 
 <https://intro2r.com/>
+
+## An Introduction to Data Analysis
+
+[Michael Franke](https://twitter.com/meanwhileina)
+
+This book provides basic reading material for an introduction to data analysis. It uses R to handle, plot and analyze data. After covering the use of R for data wrangling and plotting, the book introduces key concepts of data analysis from a Bayesian and a frequentist tradition. This text is intended for use as a first introduction to statistics for an audience with some affinity towards programming, but no prior exposition to R.
+
+<https://michael-franke.github.io/intro-data-analysis/index.html>
 
 # Shiny
 

@@ -1184,6 +1184,18 @@ ecosystem.
 
 <https://f0nzie.github.io/rtorch-minimal-book/>
 
+## Model-Based Clustering and Classification for Data Science
+
+[Charles Bouveyron](https://twitter.com/cbouveyron), 
+[Gilles Celeux](https://www.imo.universite-paris-saclay.fr/~celeux/),
+[T. Brendan Murphy](https://twitter.com/tbmurphy), and 
+[Adrian E. Raftery](https://twitter.com/AdrianRaftery1)
+
+Among the broad field of statistical and machine learning, model-based techniques for clustering and classification have a central position for anyone interested in exploiting those data. This text book focuses on the recent developments in model-based clustering and classification while providing a comprehensive introduction to the field. It is aimed at advanced undergraduates, graduates or first year PhD students in data science, as well as researchers and practitioners.
+
+<https://math.unice.fr/~cbouveyr/MBCbook/>
+
+
 ## Tidy Modeling with R
 
 [Max Kuhn](https://twitter.com/topepos) and [Julia

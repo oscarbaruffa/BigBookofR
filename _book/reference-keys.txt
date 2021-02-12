@@ -45,6 +45,7 @@ beginning-data-science-in-r
 business-intelligence-with-r
 r-data-science-quick-reference
 modern-statistics-with-r
+model-based-clustering-and-classification-for-data-science
 data-visualization
 ggplot2-elegant-graphics-for-data-analysis
 a-ggplot2-tutorial-for-beautiful-plotting-in-r
@@ -88,6 +89,7 @@ geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny
 introduction-to-spatial-data-programming-with-r
 predictive-soil-mapping-with-r
 using-r-for-digital-soil-mapping
+spatial-modelling-for-data-scientists
 journalism
 practical-r-for-mass-communication-and-journalism
 using-r-for-data-journalism
@@ -110,6 +112,7 @@ machine-learning-for-factor-investing-1
 mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle
 the-caret-package
 a-minimal-rtorch-book
+model-based-clustering-and-classification-for-data-science-1
 tidy-modeling-with-r
 mlr3-book
 network-analysis
@@ -160,6 +163,7 @@ metaprogramming-in-r
 functional-data-structures-in-r
 domain-specific-languages-in-r
 an-introduction-to-r
+an-introduction-to-data-analysis
 shiny
 a-gradual-introduction-to-shiny
 mastering-shiny

@@ -921,6 +921,16 @@ Paid \~\$90
 
 <https://www.springer.com/gp/book/9783319443256>
 
+## Spatial Modelling for Data Scientists
+
+Francisco Rowe and Dani Arribas-Bel
+
+This book will teach you how to analyse and model different types of spatial data as well as gaining an understanding of the various challenges arising from manipulating such data.
+
+Available by bookdown.
+
+https://gdsl-ul.github.io/san/
+
 # Journalism
 
 ## Practical R for Mass Communication and Journalism

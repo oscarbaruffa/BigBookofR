@@ -16,7 +16,7 @@ The format for adding book entries is:
 
 **[Brief description of content]**
 
-**Note if its a paid product and approximatley how much** 
+**Note if its a paid product and approximately how much** 
 
 **(link to book)**
 

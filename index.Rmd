@@ -48,7 +48,7 @@ Please feel free to contribute paid and free books - see the  [GitHub.](https://
 If you've contributed, add your name and Twitter / blog link below!
 
 [Oscar Baruffa](https://twitter.com/OscarBaruffa), Mohit Sharma, [Vebash Naidoo](https://twitter.com/Sciencificity), [Julia Silge](https://twitter.com/juliasilge), [Erik Gahner Larsen](https://twitter.com/erikgahner), [Nicole Radziwill](https://radziwill.cc), [Nistara Randhawa](https://twitter.com/nistara_r), [Antoine Fabri](https://twitter.com/antoine_fabri), [Jon Calder](https://twitter.com/jonmcalder), [Mike Smith](https://twitter.com/grimbough), [Ben Bolker](https://github.com/bbolker), [Maëlle Salmon](https://twitter.com/ma_salmon), [Laura Ellis](https://twitter.com/LittleMissData), [Bryan Shalloway](https://twitter.com/brshallo), [Antonio Uzal](https://twitter.com/antonio_uzal), [Louis Aslett](http://www.louisaslett.com/), [Lluís Revilla Sancho](https://llrs.dev), [Brendan Cullen](https://twitter.com/_bcullen), [Rami Krispin](https://twitter.com/Rami_Krispin), [Michael Dorman](https://twitter.com/MichaelDorman84), [Ezekiel Adebayo Ogundepo](https://twitter.com/gbganalyst), 
-[Shamsuddeen Hassan Muhammad](https://twitter.com/Shmuhammadd), [Eric Leung](https://twitter.com/erictleung), 
+[Shamsuddeen Hassan Muhammad](https://twitter.com/Shmuhammadd), [Eric Leung](https://twitter.com/erictleung), [Isabella Velásquez](https://twitter.com/ivelasq3)
 
 ## Licence
 
@@ -61,11 +61,11 @@ Who says you can't have privacy AND transparency??
 
 I'm guessing that if you're interested in R then you also like data ;).
 
-I initially used Google Analytics for this site but as I'm keen to enhance user privacy I switched to [Plausible Analytics](https://plausible.io/bigbookofr.com) from 30 December 2020 onwards.
+I initially used Google Analytics for this site but as I'm keen to enhance user privacy I switched to [Plausible Analytics](https://plausible.io/bigbookofr.com) from 30 December 2020 onward.
 
 You can view the old Google Analytics [summary report PDF here](https://www.bigbookofr.com/files/Analytics All Web Site Data Audience Overview 20200825-20201229.pdf). TLDR 22k unique visitors and 33k sessions between August 2020 and December 2020 :D!!
 
-Note that "unique" visits will be higher in Plausible than you'd find with Google Analytics. Because Plausible is GDPR compliant and privacy focussed, each user is identified for only 1 day. If someone visits the site 2 days in a row, that's counted as 2 "uniques" whereas in Google Analytics it would only be counted as 1 unique visitor because of the presence of persistent cookies and such that allows for tracking of users. 
+Note that "unique" visits will be higher in Plausible than you'd find with Google Analytics. Because Plausible is GDPR compliant and privacy focused, each user is identified for only 1 day. If someone visits the site 2 days in a row, that's counted as 2 "uniques" whereas in Google Analytics it would only be counted as 1 unique visitor because of the presence of persistent cookies and such that allows for tracking of users. 
 
 From now on, you can view the **[LIVE site stats right here](https://plausible.io/bigbookofr.com?ref=BigBoofofR)**.
 

@@ -1008,7 +1008,7 @@ Pay what you want for the ebook, minimum \$0.00
 
 [Accompanying website](http://genomicsclass.github.io/book/)
 
-## **Git and Github for Advanced Ecological Data Analysis**
+## Git and Github for Advanced Ecological Data Analysis
 
 Alexa Fredston
 

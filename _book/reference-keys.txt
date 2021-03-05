@@ -102,6 +102,7 @@ modern-statistics-for-modern-biology
 orchestrating-single-cell-analysis-with-bioconductor
 statistics-in-r-for-biodiversity-conservation-paperback
 numerical-ecology-with-r
+introduction-to-data-analysis-with-r
 machine-learning
 hands-on-machine-learning-with-r
 feature-engineering-and-selection-a-practical-approach-for-predictive-models

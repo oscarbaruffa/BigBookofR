@@ -1072,6 +1072,17 @@ eBook \~\$60
 
 <https://www.springer.com/us/book/9783319714035>
 
+## Introduction to Data Analysis with R
+
+by [Jannik Buhr](https://jmbuhr.de/)
+
+This is a video lecture series with accompanying lecture script that is designed to read much like a book.
+The lecture is held in English for biochemists at Heidelberg University, Germany, but the examples covered are no specific to life sciences in order to enable a focus on learning the techniques with R.
+
+free
+
+<https://jmbuhr.de/dataIntro20/>
+
 # Machine Learning
 
 ## Hands-On Machine Learning with R

@@ -6,7 +6,11 @@ The biggest collection of R books (and maybe later some other resources too)
 
 ## Contributing
 
-Please feel free to contribute paid and free books - see the [GitHub.](https://github.com/oscarbaruffa/BigBookofR)
+Please feel free to contribute paid and free books.
+
+For a list of books still to be added, see the [Issues](https://github.com/oscarbaruffa/BigBookofR/issues). 
+
+The collection is quite large, so first check whether its already been included before submitting. 
 
 The format for adding book entries is:
 

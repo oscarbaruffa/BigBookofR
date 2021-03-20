@@ -1294,7 +1294,7 @@ This book is free online.
 
 [Thomas Mock](https://twitter.com/thomas_mock)
 
-his cookbook attempts to walk through many of the example usecases for gt, and provide useful commentary around the use of the various gt functions. The full gt documentation has other more succinct examples and full function arguments.
+This cookbook attempts to walk through many of the example usecases for gt, and provide useful commentary around the use of the various gt functions. The full gt documentation has other more succinct examples and full function arguments.
 
 For advanced use cases, make sure to check out the Advanced Cookbook
 

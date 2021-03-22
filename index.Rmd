@@ -7,7 +7,7 @@ output:
     includes:
       in_header: [plausible-analytics.html, social.html]
     config:
-      edit: https://github.com/oscarbaruffa/BigBookofR/edit/master/%s
+      edit: https://github.com/oscarbaruffa/BigBookofR/edit/main/%s
       toc:
         before: |  
           <br/><center><b><a href="./index.html">&nbsp&nbspBig Book of R</a></b></center></li>

@@ -2500,6 +2500,23 @@ well.
 
 <https://mathstat.slu.edu/~speegle/_book/preface.html>
 
+## Statistical Thinking in the 21st Century
+
+[Russell Poldrack](https://github.com/poldrack)
+
+This textbook aims to cover modern methods that take advantage of today's
+increased computing power, while also balancing the accessibility of the
+material for students not wanting to wade through a lot of story to get to the
+statistical knowledge while reading Andy Field's graphic novel statistics
+books, "An Adventure in Statistics".
+
+The main site below has companion sites in R and Python:
+
+- R companion <https://statsthinking21.github.io/statsthinking21-R-site/>
+- Python companion <https://statsthinking21.github.io/statsthinking21-python/>
+
+<https://statsthinking21.github.io/statsthinking21-core-site/>
+
 # Time Series Analysis and Forecasting
 
 ## Forecasting: Principles and Practice

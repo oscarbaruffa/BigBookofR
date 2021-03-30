@@ -2101,6 +2101,7 @@ more maintainable code, and better performance and scalability.
 
 <https://mastering-shiny.org/>
 
+
 ## Mastering Shiny Solutions
 
 [Maya Gans](http://maya.rbind.io/) and [Marly Gotti](https://www.marlygotti.com/)

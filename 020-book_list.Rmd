@@ -183,24 +183,40 @@ An alternative set of solutions for R4Ds.
 
 <https://brshallo.github.io/r4ds_solutions/>
 
-
 ## Everyday Data Science
+
 Andrew Carr
 
-Everyday data science is a collection of tools and techniques you can use to master data science in your day-to-day life. There are case studies, tutorials, code snippets, pictures, math, and jokes. All designed as a fun introduction to the world of data science. Some example chapters include, A/B testing to make perfect lemonade, word vectors to improve your resume, differential equations for weight loss, and how a man used statistics to qualify for the Olympics. Life is full of decisions. We, as people, have the remarkable ability to make decisions in the face of uncertainty. We, as humans, have only recently developed the ability to use computers to process vast amounts of data to improve our decision making. This innovation has led to the development of the field of Data Science. This book is written to give tools and inspiration to aspiring decision makers. You make decisions daily and the methodology of data science can help.
+Everyday data science is a collection of tools and techniques you can
+use to master data science in your day-to-day life. There are case
+studies, tutorials, code snippets, pictures, math, and jokes. All
+designed as a fun introduction to the world of data science. Some
+example chapters include, A/B testing to make perfect lemonade, word
+vectors to improve your resume, differential equations for weight loss,
+and how a man used statistics to qualify for the Olympics. Life is full
+of decisions. We, as people, have the remarkable ability to make
+decisions in the face of uncertainty. We, as humans, have only recently
+developed the ability to use computers to process vast amounts of data
+to improve our decision making. This innovation has led to the
+development of the field of Data Science. This book is written to give
+tools and inspiration to aspiring decision makers. You make decisions
+daily and the methodology of data science can help.
 
-
-Paid ~$8
-https://gumroad.com/l/everydaydata
-
+Paid \~\$8 <https://gumroad.com/l/everydaydata>
 
 ## An Introduction to Data Analysis
+
 Michael Franke
 
-his book provides basic reading material for an introduction to data analysis. It uses R to handle, plot and analyze data. After covering the use of R for data wrangling and plotting, the book introduces key concepts of data analysis from a Bayesian and a frequentist tradition. This text is intended for use as a first introduction to statistics for an audience with some affinity towards programming, but no prior exposition to R.
+his book provides basic reading material for an introduction to data
+analysis. It uses R to handle, plot and analyze data. After covering the
+use of R for data wrangling and plotting, the book introduces key
+concepts of data analysis from a Bayesian and a frequentist tradition.
+This text is intended for use as a first introduction to statistics for
+an audience with some affinity towards programming, but no prior
+exposition to R.
 
-https://michael-franke.github.io/intro-data-analysis/index.html
-
+<https://michael-franke.github.io/intro-data-analysis/index.html>
 
 ## Introduction to Data Science
 
@@ -375,19 +391,32 @@ Paid, \~\$30
 
 <https://amzn.to/2WN1mQy>
 
-
 ## Modern Data Science with R
+
 Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton
 
-This book is intended for readers who want to develop the appropriate skills to tackle complex data science projects and “think with data” (as coined by Diane Lambert of Google). The desire to solve problems using data is at the heart of our approach.
+This book is intended for readers who want to develop the appropriate
+skills to tackle complex data science projects and "think with data" (as
+coined by Diane Lambert of Google). The desire to solve problems using
+data is at the heart of our approach.
 
-We acknowledge that it is impossible to cover all these topics in any level of detail within a single book: Many of the chapters could productively form the basis for a course or series of courses. Instead, our goal is to lay a foundation for analysis of real-world data and to ensure that analysts see the power of statistics and data analysis. After reading this book, readers will have greatly expanded their skill set for working with these data, and should have a newfound confidence about their ability to learn new technologies on-the-fly.
+We acknowledge that it is impossible to cover all these topics in any
+level of detail within a single book: Many of the chapters could
+productively form the basis for a course or series of courses. Instead,
+our goal is to lay a foundation for analysis of real-world data and to
+ensure that analysts see the power of statistics and data analysis.
+After reading this book, readers will have greatly expanded their skill
+set for working with these data, and should have a newfound confidence
+about their ability to learn new technologies on-the-fly.
 
-This book was originally conceived to support a one-semester, 13-week undergraduate course in data science. We have found that the book will be useful for more advanced students in related disciplines, or analysts who want to bolster their data science skills. At the same time, Part I of the book is accessible to a general audience with no programming or statistics experience.
+This book was originally conceived to support a one-semester, 13-week
+undergraduate course in data science. We have found that the book will
+be useful for more advanced students in related disciplines, or analysts
+who want to bolster their data science skills. At the same time, Part I
+of the book is accessible to a general audience with no programming or
+statistics experience.
 
-https://mdsr-book.github.io/mdsr2e/
-
-
+<https://mdsr-book.github.io/mdsr2e/>
 
 ## Modern Statistics with R
 
@@ -665,11 +694,17 @@ Paid \~\$100
 <https://www.routledge.com/Learning-Microeconometrics-with-R/Adams/p/book/9780367255381>
 
 ## Public Policy Analytics: Code & Context for Data Science in Government
+
 Ken Steif, Ph.D
 
-The goal of this book is to make data science accessible to social scientists and City Planners, in particular. I hope to convince readers that one with strong domain expertise plus intermediate data skills can have a greater impact in government than the sharpest computer scientist who has never studied economics, sociology, public health, political science, criminology etc.
+The goal of this book is to make data science accessible to social
+scientists and City Planners, in particular. I hope to convince readers
+that one with strong domain expertise plus intermediate data skills can
+have a greater impact in government than the sharpest computer scientist
+who has never studied economics, sociology, public health, political
+science, criminology etc.
 
-https://urbanspatial.github.io/PublicPolicyAnalytics/
+<https://urbanspatial.github.io/PublicPolicyAnalytics/>
 
 ## Handbook of Regression Modeling in People Analytics
 
@@ -701,9 +736,6 @@ Here's an introduction Rstats NYC conference talk on it:
 <https://www.youtube.com/watch?v=r_JgPF8MJpY>
 
 <https://kbroman.org/miner_book/?s=09>
-
-
-
 
 ## Technical Foundations of Informatics
 
@@ -908,7 +940,6 @@ interpolation.
 
 <https://geobgu.xyz/r>
 
-
 ## Spatial Data Science
 
 Edzer Pebesma, Roger Bivand
@@ -921,14 +952,17 @@ attributes relate to geometries and how this affects analysis.
 <https://keen-swartz-3146c4.netlify.app/>
 
 ## Spatial Modelling for Data Scientists
+
 Francisco Rowe and Dani Arribas-Bel
 
-This is the website for “Spatial Modeling for Data Scientists”. This is a course taught by Dr. Francisco Rowe and Dr. Dani Arribas-Bel in the Second Semester of 2020/21 at the University of Liverpool, United Kingdom. You will learn how to analyse and model different types of spatial data as well as gaining an understanding of the various challenges arising from manipulating such data.
+This is the website for "Spatial Modeling for Data Scientists". This is
+a course taught by Dr. Francisco Rowe and Dr. Dani Arribas-Bel in the
+Second Semester of 2020/21 at the University of Liverpool, United
+Kingdom. You will learn how to analyse and model different types of
+spatial data as well as gaining an understanding of the various
+challenges arising from manipulating such data.
 
-https://gdsl-ul.github.io/san/
-
-
-
+<https://gdsl-ul.github.io/san/>
 
 ## Predictive Soil Mapping with R
 
@@ -960,7 +994,6 @@ how to use it for digital soil mapping
 Paid \~\$90
 
 <https://www.springer.com/gp/book/9783319443256>
-
 
 # Journalism
 
@@ -1099,8 +1132,11 @@ eBook \~\$60
 
 by [Jannik Buhr](https://jmbuhr.de/)
 
-This is a video lecture series with accompanying lecture script that is designed to read much like a book.
-The lecture is held in English for biochemists at Heidelberg University, Germany, but the examples covered are no specific to life sciences in order to enable a focus on learning the techniques with R.
+This is a video lecture series with accompanying lecture script that is
+designed to read much like a book. The lecture is held in English for
+biochemists at Heidelberg University, Germany, but the examples covered
+are no specific to life sciences in order to enable a focus on learning
+the techniques with R.
 
 free
 
@@ -1171,13 +1207,15 @@ practice.
 <https://smltar.com/>
 
 ## Lightweight Machine Learning Classics with R
+
 Marek Gagolewski
 
-In this book we will take an unpretentious glance at the most fundamental algorithms that have stood the test of time and which form the basis for state-of-the-art solutions of modern AI, which is principally (big) data-driven.
+In this book we will take an unpretentious glance at the most
+fundamental algorithms that have stood the test of time and which form
+the basis for state-of-the-art solutions of modern AI, which is
+principally (big) data-driven.
 
-https://lmlcr.gagolewski.com/
-
-
+<https://lmlcr.gagolewski.com/>
 
 ## Machine Learning for Factor Investing
 
@@ -1229,15 +1267,20 @@ ecosystem.
 
 ## Model-Based Clustering and Classification for Data Science
 
-[Charles Bouveyron](https://twitter.com/cbouveyron), 
-[Gilles Celeux](https://www.imo.universite-paris-saclay.fr/~celeux/),
-[T. Brendan Murphy](https://twitter.com/tbmurphy), and 
-[Adrian E. Raftery](https://twitter.com/AdrianRaftery1)
+[Charles Bouveyron](https://twitter.com/cbouveyron), [Gilles
+Celeux](https://www.imo.universite-paris-saclay.fr/~celeux/), [T.
+Brendan Murphy](https://twitter.com/tbmurphy), and [Adrian E.
+Raftery](https://twitter.com/AdrianRaftery1)
 
-Among the broad field of statistical and machine learning, model-based techniques for clustering and classification have a central position for anyone interested in exploiting those data. This text book focuses on the recent developments in model-based clustering and classification while providing a comprehensive introduction to the field. It is aimed at advanced undergraduates, graduates or first year PhD students in data science, as well as researchers and practitioners.
+Among the broad field of statistical and machine learning, model-based
+techniques for clustering and classification have a central position for
+anyone interested in exploiting those data. This text book focuses on
+the recent developments in model-based clustering and classification
+while providing a comprehensive introduction to the field. It is aimed
+at advanced undergraduates, graduates or first year PhD students in data
+science, as well as researchers and practitioners.
 
 <https://math.unice.fr/~cbouveyr/MBCbook/>
-
 
 ## Tidy Modeling with R
 
@@ -1274,7 +1317,6 @@ Sacha Epskamp
 
 <http://sachaepskamp.com/files/Cookbook.html>
 
-
 # Packages
 
 ## The caret Package
@@ -1289,17 +1331,18 @@ This book is free online.
 
 <https://topepo.github.io/caret/index.html>
 
-
 ## GT Cookbook
 
 [Thomas Mock](https://twitter.com/thomas_mock)
 
-This cookbook attempts to walk through many of the example usecases for gt, and provide useful commentary around the use of the various gt functions. The full gt documentation has other more succinct examples and full function arguments.
+This cookbook attempts to walk through many of the example usecases for
+gt, and provide useful commentary around the use of the various gt
+functions. The full gt documentation has other more succinct examples
+and full function arguments.
 
 For advanced use cases, make sure to check out the Advanced Cookbook
 
-
-https://themockup.blog/static/gt-cookbook.html
+<https://themockup.blog/static/gt-cookbook.html>
 
 ## A Minimal rTorch Book
 
@@ -1320,15 +1363,19 @@ discussion.
 
 <https://rstudio-education.github.io/tidyverse-cookbook/>
 
-
 ## The targets R Package User Manual
+
 Will Landau
 
-The targets package is a Make-like pipeline toolkit for Statistics and data science in R. With targets, you can maintain a reproducible workflow without repeating yourself. targets learns how your pipeline fits together, skips costly runtime for tasks that are already up to date, runs only the necessary computation, supports implicit parallel computing, abstracts files as R objects, and shows tangible evidence that the results match the underlying code and data.
+The targets package is a Make-like pipeline toolkit for Statistics and
+data science in R. With targets, you can maintain a reproducible
+workflow without repeating yourself. targets learns how your pipeline
+fits together, skips costly runtime for tasks that are already up to
+date, runs only the necessary computation, supports implicit parallel
+computing, abstracts files as R objects, and shows tangible evidence
+that the results match the underlying code and data.
 
-https://books.ropensci.org/targets/
-
-
+<https://books.ropensci.org/targets/>
 
 # Reports: R Markdown and knitr
 
@@ -1494,13 +1541,15 @@ the great recent tools that vcr, webmockr, httptest and presser are.
 
 [Vikram Singh Rawat](https://twitter.com/Guru_GyanKhoji)
 
-R is a huge language and I would like to share the little knowledge I have in the subject. I don’t claim to be an expert but this book will guide you in the right path wherever possible.
+R is a huge language and I would like to share the little knowledge I
+have in the subject. I don't claim to be an expert but this book will
+guide you in the right path wherever possible.
 
-Most of the books about R programming language will tell you what are the possible ways to do one thing in R. This book will only tell you one way to do that thing correctly.
+Most of the books about R programming language will tell you what are
+the possible ways to do one thing in R. This book will only tell you one
+way to do that thing correctly.
 
-
-https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/
-
+<https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/>
 
 ## Modern R with the tidyverse
 
@@ -1717,18 +1766,33 @@ Definition 1. Writing R Extensions 1. R Installation and Administration
 
 <https://stat.ethz.ch/R-manual/R-patched/doc/html/>
 
-
 ## R for Graduate Students
+
 Y. Wendy Huynh
 
-Hello! My name is Wendy Huynh and I am a current PhD student working in the behavioral neurosciences. I began my R journey at the end of my first year of graduate school, slowly and painfully piecing together code. Although programming was never really part of my program, I now see it as an integral part of my work.
+Hello! My name is Wendy Huynh and I am a current PhD student working in
+the behavioral neurosciences. I began my R journey at the end of my
+first year of graduate school, slowly and painfully piecing together
+code. Although programming was never really part of my program, I now
+see it as an integral part of my work.
 
-Many fellow graduate students expressed interest in learning R, but didn’t know where to begin. Programming with R is still relatively niche among my cohort and there are very few formal classes teaching this subject.
+Many fellow graduate students expressed interest in learning R, but
+didn't know where to begin. Programming with R is still relatively niche
+among my cohort and there are very few formal classes teaching this
+subject.
 
-Although there are many amazing guides/textbooks for R out there, very few of them featured examples relevant for my specific needs and were user-friendly enough for a true beginner. In the Fall of my second year, I began teaching a new graduate student in my lab everything I knew about R. However, I quickly found that teaching R – even just to one person – was very time consuming. I decided to write up assignments as a “short” guide to R. After writing a short 11 page “first assignment” and receiving positive feedback, I began writing up a second assignment. Then a third. Soon enough, I had written enough pages that I couldn’t deny that this “short guide” had turned into a book.
+Although there are many amazing guides/textbooks for R out there, very
+few of them featured examples relevant for my specific needs and were
+user-friendly enough for a true beginner. In the Fall of my second year,
+I began teaching a new graduate student in my lab everything I knew
+about R. However, I quickly found that teaching R -- even just to one
+person -- was very time consuming. I decided to write up assignments as
+a "short" guide to R. After writing a short 11 page "first assignment"
+and receiving positive feedback, I began writing up a second assignment.
+Then a third. Soon enough, I had written enough pages that I couldn't
+deny that this "short guide" had turned into a book.
 
-https://bookdown.org/yih_huynh/Guide-to-R-Book/
-
+<https://bookdown.org/yih_huynh/Guide-to-R-Book/>
 
 ## R language for programmers
 
@@ -2037,6 +2101,17 @@ more maintainable code, and better performance and scalability.
 
 <https://mastering-shiny.org/>
 
+## Mastering Shiny Solutions
+
+[Maya Gans](http://maya.rbind.io/) and [Marly Gotti](https://www.marlygotti.com/)
+
+This book offers solutions to the exercises from Hadley Wickham's book
+[Mastering Shiny](https://mastering-shiny.org/). It is a work in
+progress and under active development.
+
+<https://mastering-shiny-solutions.org>
+
+
 ## Shiny Production with AWS Book
 
 Business Science
@@ -2098,22 +2173,33 @@ Freely avaiable online, paid print.
 
 # Social Science
 
-
 ## Introduction to R for Social Scientists:A Tidy Programming Approach
+
 Ryan Kennedy, Philip Waggoner
 
-Introduction to R for Social Scientists: A Tidy Programming Approach introduces the Tidy approach to programming in R for social science research to help quantitative researchers develop a modern technical toolbox. The Tidy approach is built around consistent syntax, common grammar, and stacked code, which contribute to clear, efficient programming. The authors include hundreds of lines of code to demonstrate a suite of techniques for developing and debugging an efficient social science research workflow. 
+Introduction to R for Social Scientists: A Tidy Programming Approach
+introduces the Tidy approach to programming in R for social science
+research to help quantitative researchers develop a modern technical
+toolbox. The Tidy approach is built around consistent syntax, common
+grammar, and stacked code, which contribute to clear, efficient
+programming. The authors include hundreds of lines of code to
+demonstrate a suite of techniques for developing and debugging an
+efficient social science research workflow.
 
-https://i2rss.weebly.com/#
-
+<https://i2rss.weebly.com/#>
 
 ## Public Policy Analytics: Code & Context for Data Science in Government
+
 Ken Steif, Ph.D
 
-The goal of this book is to make data science accessible to social scientists and City Planners, in particular. I hope to convince readers that one with strong domain expertise plus intermediate data skills can have a greater impact in government than the sharpest computer scientist who has never studied economics, sociology, public health, political science, criminology etc.
+The goal of this book is to make data science accessible to social
+scientists and City Planners, in particular. I hope to convince readers
+that one with strong domain expertise plus intermediate data skills can
+have a greater impact in government than the sharpest computer scientist
+who has never studied economics, sociology, public health, political
+science, criminology etc.
 
-https://urbanspatial.github.io/PublicPolicyAnalytics/
-
+<https://urbanspatial.github.io/PublicPolicyAnalytics/>
 
 ## Social Data Science with R
 
@@ -2136,14 +2222,30 @@ considerations and specific answers.
 <https://plain-text.co/index.html#introduction>
 
 ## Using R for Data Analysis in Social Sciences: A Research Project-Oriented Approach
+
 Quan Li
 
-This book seeks to teach undergraduate and graduate students in social sciences how to use R to manage, visualize, and analyze data in order to answer substantive questions and replicate published findings. This book distinguishes itself from other introductory R or statistics books in three ways. First, targeting an audience rarely exposed to statistical programming, it adopts a minimalist approach and covers only the most important functions and skills in R that one will need for conducting reproducible research projects. Second, it emphasizes meeting the practical needs of students using R in research projects. Specifically, it teaches students how to import, inspect, and manage data; understand the logic of statistical inference; visualize data and findings via histograms, boxplots, scatterplots, and diagnostic plots; and analyze data using one-sample t-test, difference-of-means test, covariance, correlation, ordinary least squares (OLS) regression, and model assumption diagnostics. Third, it teaches students how to replicate the findings in published journal articles and diagnose model assumption violations. 
+This book seeks to teach undergraduate and graduate students in social
+sciences how to use R to manage, visualize, and analyze data in order to
+answer substantive questions and replicate published findings. This book
+distinguishes itself from other introductory R or statistics books in
+three ways. First, targeting an audience rarely exposed to statistical
+programming, it adopts a minimalist approach and covers only the most
+important functions and skills in R that one will need for conducting
+reproducible research projects. Second, it emphasizes meeting the
+practical needs of students using R in research projects. Specifically,
+it teaches students how to import, inspect, and manage data; understand
+the logic of statistical inference; visualize data and findings via
+histograms, boxplots, scatterplots, and diagnostic plots; and analyze
+data using one-sample t-test, difference-of-means test, covariance,
+correlation, ordinary least squares (OLS) regression, and model
+assumption diagnostics. Third, it teaches students how to replicate the
+findings in published journal articles and diagnose model assumption
+violations.
 
-Paid ~$40 and listing of library availability
+Paid \~\$40 and listing of library availability
 
-https://www.worldcat.org/title/using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach/oclc/1048009316
-
+<https://www.worldcat.org/title/using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach/oclc/1048009316>
 
 # Sport analytics
 
@@ -2893,8 +2995,7 @@ repo.
 
 A searchable archive of 180+ books.
 
-https://www.r-project.org/doc/bib/R-jabref.html
-
+<https://www.r-project.org/doc/bib/R-jabref.html>
 
 ## Use R! Springer series
 

@@ -179,6 +179,7 @@ an-introduction-to-data-analysis-1
 shiny
 a-gradual-introduction-to-shiny
 mastering-shiny
+mastering-shiny-solutions
 shiny-production-with-aws-book
 engineering-production-grade-shiny-apps
 supplement-to-shiny-in-production

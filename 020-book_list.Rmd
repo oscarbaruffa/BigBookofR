@@ -2037,6 +2037,18 @@ more maintainable code, and better performance and scalability.
 
 <https://mastering-shiny.org/>
 
+
+## Mastering Shiny Solutions
+
+[Maya Gans](http://maya.rbind.io/) and [Marly Gotti](https://www.marlygotti.com/)
+
+This book offers solutions to the exercises from Hadley Wickham's book
+[Mastering Shiny](https://mastering-shiny.org/). It is a work in
+progress and under active development.
+
+<https://mastering-shiny-solutions.org>
+
+
 ## Shiny Production with AWS Book
 
 Business Science

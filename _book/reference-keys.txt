@@ -215,6 +215,7 @@ end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inf
 statistics-and-data-with-r-an-applied-approach-through-examples
 teacups-giraffes-statistics
 modern-statistics-with-r-1
+statistical-thinking-in-the-21st-century
 time-series-analysis-and-forecasting
 forecasting-principles-and-practice
 time-series-analysis-and-its-applications

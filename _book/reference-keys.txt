@@ -21,6 +21,7 @@ twitter-for-scientists
 conversations-on-data-science
 executive-data-science
 essays-on-data-analysis
+the-programmers-brain-what-every-programmer-needs-to-know-about-cognition
 big-data
 exploring-visualizing-and-modeling-big-data-with-r
 mastering-spark-with-r
@@ -123,7 +124,9 @@ network-analysis
 network-analysis-in-r-cookbook
 packages
 the-caret-package-1
+data.table-in-r-the-complete-beginners-guide
 gt-cookbook
+highcharter-cookbook
 a-minimal-rtorch-book-1
 the-tidyverse-cookbook
 the-targets-r-package-user-manual
@@ -206,7 +209,7 @@ learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginner
 mixed-models-with-r-getting-started-with-random-effects
 an-introduction-to-statistical-and-data-sciences-via-r
 statistical-rethinking
-statistical-rethinking-with-brms-ggplot2-and-the-tidyverse
+statistical-rethinking-with-brms-ggplot2-and-the-tidyverse-second-edition
 openintro-statistics
 introduction-to-modern-statistics
 statistical-inference-for-data-science

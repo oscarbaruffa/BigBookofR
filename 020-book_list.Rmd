@@ -2515,7 +2515,7 @@ worked solutions.
 
 <http://www.modernstatisticswithr.com/>
 
-\#\#Foundations of Statistics with R [Darrin
+## Foundations of Statistics with R [Darrin
 Speegle](https://twitter.com/speegled)
 
 This book represents a fundamental rethinking of a calculus based first

@@ -2377,6 +2377,19 @@ predominantly follows the tidyverse style.
 
 <https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/>
 
+## Statistical Rethinking with brms, ggplot2, and the tidyverse: Second edition
+
+A Solomon Kurz
+
+This ebook is based on the second edition of Richard McElreath’s (2020) 
+text, Statistical rethinking: A Bayesian course with examples in R and Stan. 
+My contributions show how to fit the models he covered with Paul Bürkner’s brms 
+package, which makes it easy to fit Bayesian regression models in R using 
+Hamiltonian Monte Carlo. I also prefer plotting and data wrangling with the packages 
+from the tidyverse. So we’ll be using those methods, too.
+
+<https://bookdown.org/content/4857/>
+
 ## OpenIntro Statistics
 
 David Diez, [Mine Cetinkaya-Rundel](https://twitter.com/minebocek),

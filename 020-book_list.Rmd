@@ -91,6 +91,16 @@ Pay what you want for the ebook, minimum \$0.00
 
 <https://leanpub.com/dataanalysisessays>
 
+## The Programmer's Brain : What every programmer needs to know about cognition
+[Felienne Hermans](https://twitter.com/Felienne)
+
+Explores the way your brain works when it’s thinking about code. In it, you’ll master practical ways to apply these cognitive principles to your daily programming life. You’ll improve your code comprehension by turning confusion into a learning tool, and pick up awesome techniques for reading code and quickly memorizing syntax. This practical guide includes tips for creating your own flashcards and study resources that can be applied to any new language you want to master. By the time you’re done, you’ll not only be better at teaching yourself—you’ll be an expert at bringing new colleagues and junior programmers up to speed.
+
+
+Free & Paid ~$30
+
+[Manning publications link](https://www.manning.com/books/the-programmers-brain?utm_source=felienne&utm_medium=affiliate&utm_campaign=book_hermans2_programmers_12_8_20&a_aid=felienne&a_bid=d7c7c538)
+
 # Big Data
 
 ## Exploring, Visualizing, and Modeling Big Data with R
@@ -1289,6 +1299,13 @@ This book is free online.
 
 <https://topepo.github.io/caret/index.html>
 
+## data.table in R – The Complete Beginners Guide
+Selva Prabhakaran 
+
+data.table is a package is used for working with tabular data in R. It provides the efficient data.table object which is a much improved version of the default data.frame. It is super fast and has intuitive and terse syntax. If you know R language and haven’t picked up the data.table package yet, then this tutorial guide is a great place to start.
+
+https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/
+
 
 ## GT Cookbook
 
@@ -1300,6 +1317,15 @@ For advanced use cases, make sure to check out the Advanced Cookbook
 
 
 https://themockup.blog/static/gt-cookbook.html
+
+
+## Highcharter Cookbook
+Tom Bishop
+
+Highcharter is an R implementation of the highcharts javascript library, enabled by R’s htmlwidgets package. Most of the highcharts functionality is implemented through highcharter however the documentation is a little light. This guide will provide examples on how to create and customise various graphs whilst providing some tips on how to think about the package that will help you build and debug your more ambitious charts. 
+
+https://www.tmbish.me/lab/highcharter-cookbook/
+
 
 ## A Minimal rTorch Book
 
@@ -2356,26 +2382,6 @@ interpretations in your own modeling work.
 
 <https://xcelab.net/rm/statistical-rethinking/>
 
-## Statistical Rethinking with brms, ggplot2, and the tidyverse
-
-A Solomon Kurz
-
-This is a love letter I love McElreath's Statistical Rethinking text.
-It's the entry-level textbook for applied researchers I spent years
-looking for. McElreath's freely-available lectures on the book are
-really great, too.
-
-However, I prefer using Bürkner's brms package when doing Bayeian
-regression in R. It's just spectacular. I also prefer plotting with
-Wickham's ggplot2, and coding with functions and principles from the
-tidyverse
-
-So, this project is an attempt to reexpress the code in McElreath's
-textbook. His models are re-fit with brms, the figures are reproduced or
-reimagined with ggplot2, and the general data wrangling code now
-predominantly follows the tidyverse style.
-
-<https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/>
 
 ## Statistical Rethinking with brms, ggplot2, and the tidyverse: Second edition
 

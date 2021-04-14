@@ -1299,6 +1299,24 @@ This book is free online.
 
 <https://topepo.github.io/caret/index.html>
 
+
+## ComplexHeatmap Complete Reference
+
+[Zuguang Gu](https://github.com/jokergoo)
+
+The ComplexHeatmap package is used to generate heatmap visualizations. It is a
+highly flexible tool to arrange multiple heatmaps and supports various
+annotation graphics for high-dimensional data. These visualizations are
+efficient to visualize visualizations between different sources of data sets
+and reveal potential patterns.
+
+This book here contains the full documentation to using the ComplexHeatmap
+package effectively with plenty of small and complex examples to help you
+create your own complex heatmap data vizualization.
+
+<https://jokergoo.github.io/ComplexHeatmap-reference/book/>
+
+
 ## data.table in R – The Complete Beginners Guide
 Selva Prabhakaran 
 

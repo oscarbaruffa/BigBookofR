@@ -124,6 +124,7 @@ network-analysis
 network-analysis-in-r-cookbook
 packages
 the-caret-package-1
+complexheatmap-complete-reference
 data.table-in-r-the-complete-beginners-guide
 gt-cookbook
 highcharter-cookbook

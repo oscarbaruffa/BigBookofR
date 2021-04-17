@@ -22,6 +22,9 @@ conversations-on-data-science
 executive-data-science
 essays-on-data-analysis
 the-programmers-brain-what-every-programmer-needs-to-know-about-cognition
+archeology
+how-to-do-archaeological-science-using-r
+quantitative-methods-in-archaeology-using-r
 big-data
 exploring-visualizing-and-modeling-big-data-with-r
 mastering-spark-with-r
@@ -37,6 +40,7 @@ everyday-data-science
 an-introduction-to-data-analysis
 introduction-to-data-science
 data-science-a-first-introduction
+data-science-at-the-command-line-2e
 practical-data-science-with-r-second-edition
 r-programming-for-data-science
 exploratory-data-analysis-by-roger-d.-peng
@@ -70,10 +74,13 @@ analyzing-financial-and-economic-data-with-r
 computer-age-calculus-with-r
 data-science-in-education-using-r
 data-skills-for-reproducible-science
+discrete-data-analysis-with-r-visualization-and-modeling-techniques-for-categorical-and-count-data
 learning-microeconometrics-with-r
 public-policy-analytics-code-context-for-data-science-in-government
 handbook-of-regression-modeling-in-people-analytics
+r-for-excl-users
 r-programming-with-minecraft
+r-for-seo
 technical-foundations-of-informatics
 an-introduction-to-quantitative-analysis-of-political-data-in-r
 machine-learning-for-factor-investing
@@ -122,6 +129,8 @@ tidy-modeling-with-r
 mlr3-book
 network-analysis
 network-analysis-in-r-cookbook
+statistical-analysis-of-network-data-with-r
+awesome-network-analysis
 packages
 the-caret-package-1
 complexheatmap-complete-reference
@@ -151,6 +160,7 @@ modern-r-with-the-tidyverse
 stats545-data-wrangling-exploration-and-analysis-with-r
 what-they-forgot-to-teach-you-about-r
 field-guide-to-the-r-ecosystem
+functional-programming
 yarrr-the-pirates-guide-to-r
 advanced-r
 advanced-r-solutions
@@ -160,6 +170,7 @@ the-tidyverse-style-guide
 tidyverse-design-guide
 tidyverse-skills-for-data-science
 hands-on-programming-with-r
+r-for-excl-users-1
 the-r-language
 r-for-graduate-students
 r-language-for-programmers
@@ -251,6 +262,7 @@ how-i-use-r
 github-actions-with-r-1
 the-targets-r-package-user-manual-1
 other-compendiums
+awesome-network-analysis-1
 bookdown-archive
 r-project-book-compendium
 use-r-springer-series

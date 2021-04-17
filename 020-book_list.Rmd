@@ -101,6 +101,24 @@ Free & Paid ~$30
 
 [Manning publications link](https://www.manning.com/books/the-programmers-brain?utm_source=felienne&utm_medium=affiliate&utm_campaign=book_hermans2_programmers_12_8_20&a_aid=felienne&a_bid=d7c7c538)
 
+
+# Archeology
+## How To Do Archaeological Science Using R
+Ben Marwick (editor)
+
+Archaeological science is becoming increasingly complex, and progress in this area is slowed by critical limitation of journal articles lacking the space to communicate new methods in enough detail to allow others to reproduce and reuse new research. One solution to this is to use a programming language such as R to analyse archaeological data, with authors sharing their R code with their publications to communicate our methods. This practice is becoming widespread in many other disciplines, but few archaeologists currently know how to use R or have an opportunity to learn during their training. In this forum we tackle this problem by discussing ubiquitous research methods of immediate relevance to most archaeologists, by using interactive, live-coded demonstrations of R code by archaeologists who program with R. Topics include getting data into R, working with C14 dates, spatial analysis and map-making, conducting simulations, and exploratory data visualizations.
+
+https://benmarwick.github.io/How-To-Do-Archaeological-Science-Using-R/
+
+## Quantitative Methods in Archaeology Using R
+
+
+The first hands-on guide to using the R statistical computing system written specifically for archaeologists. It shows how to use the system to analyze many types of archaeological data. Part I includes tutorials on R, with applications to real archaeological data showing how to compute descriptive statistics, create tables, and produce a wide variety of charts and graphs. Part II addresses the major multivariate approaches used by archaeologists, including multiple regression (and the generalized linear model); multiple analysis of variance and discriminant analysis; principal components analysis; correspondence analysis; distances and scaling; and cluster analysis. Part III covers specialized topics in archaeology, including intra-site spatial analysis, seriation, and assemblage diversity.
+
+
+Loan or buy ~$100
+[Cambridge COre site](https://www.cambridge.org/core/books/quantitative-methods-in-archaeology-using-r/DEAE593FA2418EA3B8ECD538C34ED2D5?fbclid=IwAR0guclfEtttfDkVKNUJWfhQ1wgUlXSKAIA3f_6D3hS_9EkUKivSY9AyFD8)
+
 # Big Data
 
 ## Exploring, Visualizing, and Modeling Big Data with R
@@ -245,6 +263,13 @@ reproducible, auditable processes to obtain value (i.e., insight) from
 data.
 
 <https://ubc-dsci.github.io/introduction-to-datascience/>
+
+## Data Science at the Command Line, 2e
+Jeroen Janssens
+
+This book is about doing data science at the command line. Our aim is to make you a more efficient and productive data scientist by teaching you how to leverage the power of the command line.
+
+https://www.datascienceatthecommandline.com/2e/
 
 ## Practical Data Science with R, Second Edition
 
@@ -656,6 +681,19 @@ different types of data.
 
 <https://psyteachr.github.io/msc-data-skills/>
 
+
+## Discrete Data Analysis with R: Visualization and Modeling Techniques for Categorical and Count Data
+Michael Friendly, David Meyer
+
+Presents an applied treatment of modern methods for the analysis of categorical data, both discrete response data and frequency data.
+
+It explains how to use graphical methods for exploring data, spotting unusual features, visualizing fitted models, and presenting results.
+
+Paid ~$80
+http://ddar.datavis.ca/
+
+
+
 ## Learning Microeconometrics with R
 
 Christopher P. Adams
@@ -696,6 +734,14 @@ For accompanying solutions to some of the questions
 
 <https://keithmcnulty.github.io/peopleanalytics-regression-book/solutions/>
 
+## R for Excl users
+Julie Lowndes & Allison Horst
+
+This course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.
+
+https://rstudio-conf-2020.github.io/r-for-excel/
+
+
 ## R Programming with Minecraft
 
 Brooke Anderson, Karl Broman, Gergely Daróczi, Mario Inchiosa, David
@@ -713,6 +759,13 @@ Here's an introduction Rstats NYC conference talk on it:
 <https://kbroman.org/miner_book/?s=09>
 
 
+## R for SEO
+[François Joly](https://twitter.com/tuf)
+
+Even though R'  is a terrific option for SEO, there are simply not enough resources out there. 
+This guide is not here to deliver a course about R, there are plenty already. This guide is meant to be as practical as possible. How things should be done in an "R-ish way" is not the purpose of this guide. Grab what you want to grab and feel free to submit your own solution.
+
+https://www.rforseo.com/
 
 
 ## Technical Foundations of Informatics
@@ -1285,6 +1338,21 @@ Sacha Epskamp
 <http://sachaepskamp.com/files/Cookbook.html>
 
 
+## Statistical Analysis of Network Data with R
+Kolaczyk, Eric D., Csárdi, Gábor
+
+This book is the first of its kind in network research. It can be used as a stand-alone resource in which multiple R packages are used to illustrate how to conduct a wide range of network analyses, from basic manipulation and visualization, to summary and characterization, to modeling of network data. The central package is igraph, which provides extensive capabilities for studying network graphs in R. 
+ 
+Paid ~$65
+https://www.springer.com/us/book/9781493909834#otherversion=9781493909827
+
+## Awesome network analysis
+
+Not a book, but a compendium of resources that look really valuable. 
+
+https://github.com/briatte/awesome-network-analysis
+
+
 # Packages
 
 ## The caret Package
@@ -1608,6 +1676,14 @@ field guide is born...
 
 <https://fg2re.sellorm.com/>
 
+## Functional Programming
+Sara Altman, Bill Behrman, Hadley Wickham
+
+This book is a practical introduction to functional programming using the tidyverse.
+
+https://dcl-prog.stanford.edu/
+
+
 ## YaRrr! The Pirate's Guide to R
 
 Nathaniel D. Phillips
@@ -1750,6 +1826,14 @@ use all of R's programming tools. Throughout the book, you'll use your
 newfound skills to solve practical data science problems.
 
 <https://rstudio-education.github.io/hopr/>
+
+## R for Excl users
+Julie Lowndes & Allison Horst
+
+This course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.
+
+https://rstudio-conf-2020.github.io/r-for-excel/
+
 
 ## The R Language
 
@@ -2947,6 +3031,13 @@ This manual is a step-by-step written guide to targets
 <https://wlandau.github.io/targets-manual/index.html>
 
 # Other compendiums
+
+## Awesome network analysis
+
+A compendium of resources that look really valuable. 
+
+https://github.com/briatte/awesome-network-analysis
+
 
 ## Bookdown archive
 

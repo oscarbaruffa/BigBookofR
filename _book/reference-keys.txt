@@ -78,7 +78,7 @@ discrete-data-analysis-with-r-visualization-and-modeling-techniques-for-categori
 learning-microeconometrics-with-r
 public-policy-analytics-code-context-for-data-science-in-government
 handbook-of-regression-modeling-in-people-analytics
-r-for-excl-users
+r-for-excel-users
 r-programming-with-minecraft
 r-for-seo
 technical-foundations-of-informatics
@@ -170,7 +170,7 @@ the-tidyverse-style-guide
 tidyverse-design-guide
 tidyverse-skills-for-data-science
 hands-on-programming-with-r
-r-for-excl-users-1
+r-for-excel-users-1
 the-r-language
 r-for-graduate-students
 r-language-for-programmers

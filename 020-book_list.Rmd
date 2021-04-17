@@ -734,7 +734,7 @@ For accompanying solutions to some of the questions
 
 <https://keithmcnulty.github.io/peopleanalytics-regression-book/solutions/>
 
-## R for Excl users
+## R for Excel users
 Julie Lowndes & Allison Horst
 
 This course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.
@@ -1827,7 +1827,7 @@ newfound skills to solve practical data science problems.
 
 <https://rstudio-education.github.io/hopr/>
 
-## R for Excl users
+## R for Excel users
 Julie Lowndes & Allison Horst
 
 This course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.

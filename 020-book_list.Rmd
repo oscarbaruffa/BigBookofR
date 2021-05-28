@@ -1169,6 +1169,18 @@ free
 
 <https://jmbuhr.de/dataIntro20/>
 
+## WEHI Intro to Tidy R Course
+
+by [Brendan Ansell](https://brendanansell.net)
+
+A complete beginner's introduction to tidy R for data transformation, visualization and analysis automation — with applications in experimental biology.  
+This book is based on a short course developed for biomedical scientists at the WEHI Medical Research Institute. The content is designed to make learners comfortable with using R for exploratory analysis of large data sets, but does not cover statistics. The material and teaching examples draw on popular (non-biological) data sets, as well as gene expression and drug screening data types. 
+
+Free
+
+<https://bookdown.org/ansellbr/WEHI_tidyR_course_book/>
+
+
 # Machine Learning
 
 ## Hands-On Machine Learning with R

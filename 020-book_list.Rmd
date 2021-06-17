@@ -6,6 +6,9 @@ editor_options:
 
 # Career & Community
 
+These books aren't all strictly R focussed, but they do have a lot of relevance for many R programmers.
+
+
 ## Build Your Career in Data Science
 
 Not R-specific but a great read!
@@ -16,42 +19,6 @@ out, from how to land your first job to the lifecycle of a data science
 project, and even how to become a manager.
 
 <https://www.manning.com/books/build-a-career-in-data-science>
-
-## Getting Started in Data Science
-
-[Ayodele Odubela](https://twitter.com/DataSciBae)
-
-This book is for anyone intersted in Data Science, but is unsure where
-to start. Cut through the noise and learn my best tips for understanding
-Machine Learning with insight from my 4 years of industry experience.
-Learn the math as it applies to real-life data projects and get an
-understanding of fairness, ethics, and accounability in AI.
-
-(Not R focussed but looks good so I'm adding it - Oscar :) )
-
-Paid \~\$30
-
-<https://gumroad.com/l/getting-started-in-data-science>
-
-## Twitter for R Programmers
-
-[Oscar Baruffa](https://twitter.com/OscarBaruffa), [Veerle van
-Son](https://twitter.com/veerlevanson)
-
-The R community is very active on Twitter. You can learn a lot about the
-language, about new approaches to problems, make friends and even land a
-job or next contract. It's a real-time pulse of the R community.What can
-you gain from becoming active on Twitter? This book will talk about the
-benefits and it will show you how to use Twitter.
-
-<https://www.t4rstats.com>
-
-## Twitter for Scientists
-
-Not R-specific, but as many R users are also Scientists this book can
-really help.
-
-<https://t4scientists.com/>
 
 ## Conversations On Data Science
 
@@ -64,6 +31,7 @@ them into a readable format.
 Pay what you want for the ebook, minimum \$0.00
 
 <https://leanpub.com/conversationsondatascience>
+
 
 ## Executive Data Science
 
@@ -91,6 +59,56 @@ Pay what you want for the ebook, minimum \$0.00
 
 <https://leanpub.com/dataanalysisessays>
 
+
+## Getting Started in Data Science
+
+[Ayodele Odubela](https://twitter.com/DataSciBae)
+
+This book is for anyone intersted in Data Science, but is unsure where
+to start. Cut through the noise and learn my best tips for understanding
+Machine Learning with insight from my 4 years of industry experience.
+Learn the math as it applies to real-life data projects and get an
+understanding of fairness, ethics, and accounability in AI.
+
+(Not R focussed but looks good so I'm adding it - Oscar :) )
+
+Paid \~\$30
+
+<https://gumroad.com/l/getting-started-in-data-science>
+
+## Telling Stories With Data
+[Rohan Alexander](https://twitter.com/RohanAlexander)
+
+This aim of this book is to help you learn how to tell stories with data. It establishes a foundation on which you can build and share knowledge, based on data, about an aspect of the world of interest to you.
+
+In this book we explore, prod, push, manipulate, knead, and ultimately, try to understand the implications of, data. The motto of the university from which I took my PhD is ‘Naturam primum cognoscere rerum’ or roughly ‘first to learn the nature of things,’ and we will indeed attempt to do that. But the original quote continues ‘temporis aeterni quoniam,’ or roughly ‘for eternal time,’ and it is tools, approaches, and workflows that enable you to establish lasting knowledge that I focus on in this book.
+
+https://www.tellingstorieswithdata.com/
+
+## Twitter for R Programmers
+
+[Oscar Baruffa](https://twitter.com/OscarBaruffa), [Veerle van
+Son](https://twitter.com/veerlevanson)
+
+The R community is very active on Twitter. You can learn a lot about the
+language, about new approaches to problems, make friends and even land a
+job or next contract. It's a real-time pulse of the R community.What can
+you gain from becoming active on Twitter? This book will talk about the
+benefits and it will show you how to use Twitter.
+
+<https://www.t4rstats.com>
+
+## Twitter for Scientists
+
+Not R-specific, but as many R users are also Scientists this book can
+really help.
+
+<https://t4scientists.com/>
+
+
+
+
+
 ## The Programmer's Brain : What every programmer needs to know about cognition
 [Felienne Hermans](https://twitter.com/Felienne)
 
@@ -100,6 +118,17 @@ Explores the way your brain works when it’s thinking about code. In it, you’
 Free & Paid ~$30
 
 [Manning publications link](https://www.manning.com/books/the-programmers-brain?utm_source=felienne&utm_medium=affiliate&utm_campaign=book_hermans2_programmers_12_8_20&a_aid=felienne&a_bid=d7c7c538)
+
+
+## Project Management Fundamentals for Data Analysts
+[Oscar Baruffa](https://twitter.com/OscarBaruffa)
+
+In Project Management Fundamentals for Data Analysts, I’ve boiled the concepts down to the bare essentials which can be read in under 15 minutes – you can certainly fit that into your crazy schedule (and it will help your future schedule not be so chaotic!).
+
+These concepts can be used to great effect on their own if you wish to never read another word on the topic. It’ll also provide a solid foundation if you want to dive deeper into more formal courses or sophisticated theory.
+
+Paid $TBC
+https://oscarbaruffa.com/pm/
 
 
 # Archeology
@@ -156,6 +185,15 @@ We introduce an R package, blogdown, in this short book, to teach you
 how to create websites using R Markdown and Hugo.
 
 <https://bookdown.org/yihui/blogdown/>
+
+## Create, Publish, and Analyze Personal Websites Using R and RStudio
+[Danny Morris](https://r4sites-book.netlify.app/get-help.html#connect-with-me)
+
+A free, digital handbook with step-by-step instructions for launching your own personal website using R, RStudio, and other freely available technologies including GitHub, Hugo, Netlify, and Google Analytics.
+
+https://r4sites-book.netlify.app/
+
+
 
 # Bookdown
 
@@ -1070,6 +1108,14 @@ annotation method for cell type annotation.
 
 [\<https://bioconductor.org/books/3.12/SingleRBook/\>](https://bioconductor.org/books/3.12/SingleRBook/){.uri}
 
+## Using R for Bayesian Spatial and Spatio-Temporal Health Modeling
+By Andrew B. Lawson
+
+Progressively more and more attention has been paid to how location affects health outcomes. The area of disease mapping focusses on these problems, and the Bayesian paradigm has a major role to play in the understanding of the complex interplay of context and individual predisposition in such studies of disease. Using R for Bayesian Spatial and Spatio-Temporal Health Modeling provides a major resource for those interested in applying Bayesian methodology in small area health data studies.
+
+Paid ~$100
+https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126
+
 ## Computational Genomics with R
 
 [Altuna Akalin](https://twitter.com/AltunaAkalin)
@@ -1095,6 +1141,28 @@ Pay what you want for the ebook, minimum \$0.00
 <https://leanpub.com/dataanalysisforthelifesciences>
 
 [Accompanying website](http://genomicsclass.github.io/book/)
+
+## Data Analysis and Visualization in R for Ecologists
+François Michonneau & Auriel Fournier 
+
+Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. The lessons below were designed for those interested in working with ecology data in R.
+
+This is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. The last lesson demonstrates how to work with databases directly from R.
+
+This lesson assumes no prior knowledge of R or RStudio and no programming experience.
+
+https://datacarpentry.org/R-ecology-lesson/
+
+## R for applied epidemiology and public health
+[EpiR authors](https://twitter.com/epiRhandbook)
+
+This handbook is produced by a collaboration of epidemiologists from around the world drawing upon experience with organizations including local, state, provincial, and national health agencies, the World Health Organization (WHO), Médecins Sans Frontières / Doctors without Borders (MSF), hospital systems, and academic institutions.
+
+Written by epidemiologists, for epidemiologists.
+
+https://epirhandbook.com/
+
+
 
 ## Git and Github for Advanced Ecological Data Analysis
 
@@ -1444,6 +1512,13 @@ Tom Bishop
 Highcharter is an R implementation of the highcharts javascript library, enabled by R’s htmlwidgets package. Most of the highcharts functionality is implemented through highcharter however the documentation is a little light. This guide will provide examples on how to create and customise various graphs whilst providing some tips on how to think about the package that will help you build and debug your more ambitious charts. 
 
 https://www.tmbish.me/lab/highcharter-cookbook/
+
+## The lidR package
+Jean-Romain Roussel, Tristan R.H. Goodbody, Piotr Tompalski
+
+lidR is an R package for manipulating and visualizating airborne laser scanning (ALS) data with an emphasis on forestry applications. The package is entirely open source and is integrated within the geospatial R ecosytem (i.e. raster, sp, sf, rgdal etc.). This guide has been written to help both the ALS novice, as well as seasoned point cloud processing veterans.
+
+https://jean-romain.github.io/lidRbook/
 
 
 ## A Minimal rTorch Book
@@ -2395,6 +2470,16 @@ Free online book under construction but with 5 complete chapters on
 
 <https://www.bayesrulesbook.com/>
 
+## Using R for Bayesian Spatial and Spatio-Temporal Health Modeling
+By Andrew B. Lawson
+
+Progressively more and more attention has been paid to how location affects health outcomes. The area of disease mapping focusses on these problems, and the Bayesian paradigm has a major role to play in the understanding of the complex interplay of context and individual predisposition in such studies of disease. Using R for Bayesian Spatial and Spatio-Temporal Health Modeling provides a major resource for those interested in applying Bayesian methodology in small area health data studies.
+
+Paid ~$100
+https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126
+
+
+
 ## A Business Analyst's Introduction to Business Analytics: Intro to Bayesian Business Analytics in the R Ecosystem
 
 [Adam Fleischhacker](https://twitter.com/preposterior)
@@ -2427,6 +2512,14 @@ needed when certain test assumptions do not hold, can be approximated by
 linear models using the rank of values.
 
 <https://steverxd.github.io/Stat_tests/>
+
+## The Effect: An Introduction to Research Design and Causality
+[Nick Huntington-Klein](https://twitter.com/nickchk)
+
+The Effect is a book intended to introduce students (and non-students) to the concepts of research design and causality in the context of observational data. The book is written in an intuitive and approachable way and doesn’t overload on technical detail. Why teach regression and research design at the same time when they are fundamentally different things? First learn why you want to structure a design in a certain way, and what it is you want to do to the data, and then afterwards learn the technical details of how to run the appropriate model.
+
+https://theeffectbook.net/
+
 
 ## Foundations of Statistics with R
 
@@ -2502,6 +2595,16 @@ statistics concepts as well as R.
 The book is free to read online.
 
 <https://moderndive.com/>
+
+## ISLR tidymodels Labs
+[Emil Hvitfeldt](https://twitter.com/Emil_Hvitfeldt)
+
+This book aims to be a complement to the 1st version An Introduction to Statistical Learning book with translations of the labs into using the tidymodels set of packages.
+
+The labs will be mirrored quite closely to stay true to the original material.
+
+https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html
+
 
 ## Statistical Rethinking
 

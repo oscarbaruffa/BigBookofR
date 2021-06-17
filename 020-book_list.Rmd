@@ -211,23 +211,7 @@ An alternative set of solutions for R4Ds.
 
 <https://brshallo.github.io/r4ds_solutions/>
 
-## R for Health Data Science
 
-by [Ewan Harrison](https://twitter.com/ewan_harrison) and [Riinu Pius](https://twitter.com/_Riinu_)
-
-In this age of information, the manipulation, analysis and interpretation of data have become a fundamental part of professional life. Nowhere more so than in the delivery of healthcare. From the understanding of disease and the development of new treatments, to the diagnosis and management of individual patients, the use of data and technology are now an integral part of the business of healthcare.
-
-Those working in healthcare interact daily with data, often without realising it. The conversion of this avalanche of information to useful knowledge is essential for high-quality patient care. An important part of this information revolution is the opportunity for everybody to become involved in data analysis. This democratisation is driven in part by the open source software movement – no longer do we require expensive specialised software to do this.
-
-The statistical programming language, R, is firmly at the heart of this.
-
-This book will take an individual with little or no experience in data science all the way through to the execution of sophisticated analyses. We emphasise the importance of truly understanding the underlying data with liberal use of plotting, rather than relying on opaque and possibly poorly understood statistical tests. There are numerous examples included that can be adapted for your own data, together with our own R packages with easy-to-use functions.
-
-We have a lot of fun teaching this course and focus on making the material as accessible as possible. We limit equations to a minimum in favour of code, and use examples rather than lengthy explanations. We are grateful to the many individuals and students who have helped refine this book and welcome suggestions and bug reports via https://github.com/SurgicalInformatics.
-
-This is the free electronic [Bookdown](https://bookdown.org/) version of the HealthyR book published by [Chapman & Hall/CRC](https://www.routledge.com/R-for-Health-Data-Science/Harrison-Pius/p/book/9780367428198.
-
-https://argoshare.is.ed.ac.uk/healthyr_book/
 
 
 ## Everyday Data Science
@@ -1123,6 +1107,25 @@ Winfree. (However, the only course-specific material is Section 4; the
 rest should be applicable to any reader.)
 
 <https://afredston.github.io/learn-git/learn-git.html>
+
+## R for Health Data Science
+
+by [Ewan Harrison](https://twitter.com/ewan_harrison) and [Riinu Pius](https://twitter.com/_Riinu_)
+
+In this age of information, the manipulation, analysis and interpretation of data have become a fundamental part of professional life. Nowhere more so than in the delivery of healthcare. From the understanding of disease and the development of new treatments, to the diagnosis and management of individual patients, the use of data and technology are now an integral part of the business of healthcare.
+
+Those working in healthcare interact daily with data, often without realising it. The conversion of this avalanche of information to useful knowledge is essential for high-quality patient care. An important part of this information revolution is the opportunity for everybody to become involved in data analysis. This democratisation is driven in part by the open source software movement – no longer do we require expensive specialised software to do this.
+
+The statistical programming language, R, is firmly at the heart of this.
+
+This book will take an individual with little or no experience in data science all the way through to the execution of sophisticated analyses. We emphasise the importance of truly understanding the underlying data with liberal use of plotting, rather than relying on opaque and possibly poorly understood statistical tests. There are numerous examples included that can be adapted for your own data, together with our own R packages with easy-to-use functions.
+
+We have a lot of fun teaching this course and focus on making the material as accessible as possible. We limit equations to a minimum in favour of code, and use examples rather than lengthy explanations. We are grateful to the many individuals and students who have helped refine this book and welcome suggestions and bug reports via https://github.com/SurgicalInformatics.
+
+This is the free electronic [Bookdown](https://bookdown.org/) version of the HealthyR book published by [Chapman & Hall/CRC](https://www.routledge.com/R-for-Health-Data-Science/Harrison-Pius/p/book/9780367428198.
+
+https://argoshare.is.ed.ac.uk/healthyr_book/
+
 
 ## Modern Statistics for Modern Biology
 

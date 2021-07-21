@@ -10,13 +10,14 @@ These books aren't all strictly R focussed, but they do have a lot of relevance 
 
 
 ## Build Your Career in Data Science
-
-Not R-specific but a great read!
+[Emily Robinson](https://twitter.com/robinson_es) and [Jacqueline Nolis](https://twitter.com/skyetetra)
 
 You are going to need more than technical knowledge to succeed as a data
 scientist. Build a Career in Data Science teaches you what school leaves
 out, from how to land your first job to the lifecycle of a data science
 project, and even how to become a manager.
+
+A lot of free preview, Paid $20
 
 <https://www.manning.com/books/build-a-career-in-data-science>
 
@@ -28,7 +29,7 @@ This book collects many of their discussions from the podcast [**Not So
 Standard Deviations**](https://soundcloud.com/nssd-podcast) and distills
 them into a readable format.
 
-Pay what you want for the ebook, minimum \$0.00
+Pay what you want for the ebook, minimum $0.00
 
 <https://leanpub.com/conversationsondatascience>
 
@@ -42,7 +43,7 @@ A Guide to Training and Managing the Best Data Scientists. Learn what
 you need to know to begin assembling and leading a data science
 enterprise.
 
-Pay what you want for the PDF, minimum \$0.00
+Pay what you want for the PDF, minimum $0.00
 
 <https://leanpub.com/eds>
 
@@ -55,7 +56,7 @@ out many details that are missing from previous presentations. It
 presents a new perspective on what makes for a successful data analysis
 and how the quality of data analyses can be judged.
 
-Pay what you want for the ebook, minimum \$0.00
+Pay what you want for the ebook, minimum $0.00
 
 <https://leanpub.com/dataanalysisessays>
 
@@ -75,6 +76,30 @@ understanding of fairness, ethics, and accounability in AI.
 Paid \~\$30
 
 <https://gumroad.com/l/getting-started-in-data-science>
+
+## Hiring Data Scientists and Machine Learning Engineers
+[Roy Keyes](https://twitter.com/roycoding)
+
+It's quite possible that the only thing more confusing than defining data science is actually hiring data scientists. Hiring Data Scientists and Machine Learning Engineers is a concise, practical guide to cut through the confusion. Whether you're the founder of a brand new startup, the senior vice president in charge of "digital transformation" at a global industrial company, the leader of a new analytics effort at a non-profit, or a junior manager of a machine learning team at a tech giant, this book will help walk you through the important questions you need to answer to determine what role and which skills you should hire for, how to source applicants, how to assess those applicants' skills, and how to set your new hires up for success. Special emphasis is placed on in-office vs remote hiring situations.
+
+Paid, varies ~$34
+https://leanpub.com/dshiring
+
+
+## Introduction to Machine Learning Interviews Book
+[Chip Huyen](https://huyenchip.com/)
+
+This book is the result of the collective wisdom of many people who have sat on both sides of the table and who have spent a lot of time thinking about the hiring process. It was written with candidates in mind, but hiring managers who saw the early drafts told me that they found it helpful to learn how other companies are hiring, and to rethink their own process.
+
+The book consists of two parts. The first part provides an overview of the machine learning interview process, what types of machine learning roles are available, what skills each role requires, what kinds of questions are often asked, and how to prepare for them. This part also explains the interviewers’ mindset and what kind of signals they look for.
+
+The second part consists of over 200 knowledge questions, each noted with its level of difficulty -- interviews for more senior roles should expect harder questions -- that cover important concepts and common misconceptions in machine learning.
+
+https://huyenchip.com/ml-interviews-book/
+
+
+
+
 
 ## Telling Stories With Data
 [Rohan Alexander](https://twitter.com/RohanAlexander)
@@ -127,7 +152,7 @@ In Project Management Fundamentals for Data Analysts, I’ve boiled the concepts
 
 These concepts can be used to great effect on their own if you wish to never read another word on the topic. It’ll also provide a solid foundation if you want to dive deeper into more formal courses or sophisticated theory.
 
-Paid $TBC
+Paid $15
 https://oscarbaruffa.com/pm/
 
 
@@ -578,6 +603,14 @@ well.
 
 <https://rkabacoff.github.io/datavis/>
 
+## Data visualisation using R, for researchers who don’t use R
+[Emily Nordmann](https://twitter.com/emilynordmann), [Phil McAleer](https://twitter.com/McAleerP), [Wilhelmiina Toivo](https://twitter.com/wtoivo1), [Helena Paterson](https://twitter.com/PatersonHelena), [Lisa DeBruine](https://twitter.com/LisaDeBruine)
+
+In this tutorial, we aim to provide a practical introduction to data visualisation using R, specifically aimed at researchers who have little to no prior experience of using R. First we detail the rationale for using R for data visualisation and introduce the “grammar of graphics” that underlies data visualisation using the ggplot package. The tutorial then walks the reader through how to replicate plots that are commonly available in point-and-click software such as histograms and boxplots, as well as showing how the code for these “basic” plots can be easily extended to less commonly available options such as violin-boxplots.
+
+https://psyteachr.github.io/introdataviz/
+
+
 ## R Graphics Cookbook, 2nd edition
 
 The goal of the cookbook is to provide solutions to common tasks and
@@ -807,6 +840,21 @@ This guide is not here to deliver a course about R, there are plenty already. Th
 
 https://www.rforseo.com/
 
+## R for Water Resources Data Science
+[Ryan Peek](https://ryanpeek.org/) and [Rich Pauloo](https://www.richpauloo.com/)
+
+Consists of 2 courses
+
+Introductory: 
+This course is most relevant and targeted at folks who work with data, from analysts and program staff to engineers and scientists. This course provides an introduction to the power and possibility of a reproducible programming language (R) by demonstrating how to import, explore, visualize, analyze, and communicate different types of data. Using water resources based examples, this course guides participants through basic data science skills and strategies for continued learning and use of R.
+
+Intermediate:
+In this course, we will move more quickly, assume familiarity with basic R skills, and also assume that the participant has working experience with more complex workflows, operations, and code-bases. Each module in this course functions as a “stand-alone” lesson, and can be read linearly, or out of order according to your needs and interests. Each module doesn’t necessarily require familiarity with the previous module.
+
+This course emphasizes intermediate scripting skills like iteration, functional programming, writing functions, and controlling project workflows for better reproducibility and efficiency. Approaches to working with more complex data structures like lists and timeseries data, the fundamentals of building Shiny Apps, pulling water resources data from APIs, intermediate mapmaking and spatial data processing, integrating version control in projects with git.
+
+https://www.r4wrds.com/
+
 
 ## Technical Foundations of Informatics
 
@@ -1031,6 +1079,14 @@ This is the website for “Spatial Modeling for Data Scientists”. This is a co
 https://gdsl-ul.github.io/san/
 
 
+## Spatial Microsimulation with R
+[Robin Lovelace](https://www.robinlovelace.net/) and [Morgane Dumont](https://directory.unamur.be/staff/modumont)
+
+Imagine a world in which data on companies, households and governments were widely available. Imagine, further, that researchers and decision-makers acting in the public interest had tools enabling them to test and model such data to explore different scenarios of the future. People would be able to make more informed decisions, based on the best available evidence. In this technocratic dreamland pressing problems such as climate change, inequality and poor human health could be solved.
+
+These are the types of real-world issues that we hope the methods in this book will help to address. Spatial microsimulation can provide new insights into complex problems and, ultimately, lead to better decision-making. By shedding new light on existing information, the methods can help shift decision-making processes away from ideological bias and towards evidence-based policy.
+
+https://spatial-microsim-book.robinlovelace.net/index.html
 
 
 ## Predictive Soil Mapping with R
@@ -1097,6 +1153,20 @@ the University of Texas
 <https://learn.r-journalism.com/en/>
 
 # Life Sciences
+
+## An Open Compendium of Soil Datasets
+Tomislav Hengl 
+
+(Not R specific but looks really relevant)
+
+This is a public compendium of global, regional, national and sub-national soil samples and/or soil profile datasets (points with Observations and Measurements of soil properties and characteristics). Datasets listed here, assuming compatible open license, are afterwards imported into the Global compilation of soil chemical and physical properties and soil classes and eventually used to create a better open soil information across countries. The specific objectives of this initiative are:
+
+To enable data digitization, import and binding + harmonization,
+To accelerate research collaboration and networking,
+To enable development of more accurate / more usable global and regional soil property and class maps (typically published via https://OpenLandMap.org),
+
+https://opengeohub.github.io/SoilSamples/
+
 
 ## Assigning cell types with SingleR
 
@@ -1188,11 +1258,48 @@ The statistical programming language, R, is firmly at the heart of this.
 
 This book will take an individual with little or no experience in data science all the way through to the execution of sophisticated analyses. We emphasise the importance of truly understanding the underlying data with liberal use of plotting, rather than relying on opaque and possibly poorly understood statistical tests. There are numerous examples included that can be adapted for your own data, together with our own R packages with easy-to-use functions.
 
-We have a lot of fun teaching this course and focus on making the material as accessible as possible. We limit equations to a minimum in favour of code, and use examples rather than lengthy explanations. We are grateful to the many individuals and students who have helped refine this book and welcome suggestions and bug reports via https://github.com/SurgicalInformatics.
-
-This is the free electronic [Bookdown](https://bookdown.org/) version of the HealthyR book published by [Chapman & Hall/CRC](https://www.routledge.com/R-for-Health-Data-Science/Harrison-Pius/p/book/9780367428198.
-
 https://argoshare.is.ed.ac.uk/healthyr_book/
+
+## R for Conservation and Development Projects: A Primer for Practitioners
+Nathan Whitmore
+
+This book is aimed at conservation and development practitioners who need to learn and use R in a part-time professional context. It gives people with a non-technical background a set of skills to graph, map, and model in R. It also provides background on data integration in project management and covers fundamental statistical concepts. The book aims to demystify R and give practitioners the confidence to use it.
+
+Key Features:
+
+• Viewing data science as part of a greater knowledge and decision making system
+• Foundation sections on inference, evidence, and data integration
+• Plain English explanations of R functions
+• Relatable examples which are typical of activities undertaken by conservation and development organisations in the developing world
+• Worked examples showing how data analysis can be incorporated into project reports
+
+Paid ~$60
+https://www.routledge.com/R-for-Conservation-and-Development-Projects-A-Primer-for-Practitioners/Whitmore/p/book/9780367205485
+
+## R for Water Resources Data Science
+[Ryan Peek](https://ryanpeek.org/) and [Rich Pauloo](https://www.richpauloo.com/)
+
+Consists of 2 courses
+
+Introductory: 
+This course is most relevant and targeted at folks who work with data, from analysts and program staff to engineers and scientists. This course provides an introduction to the power and possibility of a reproducible programming language (R) by demonstrating how to import, explore, visualize, analyze, and communicate different types of data. Using water resources based examples, this course guides participants through basic data science skills and strategies for continued learning and use of R.
+
+Intermediate:
+In this course, we will move more quickly, assume familiarity with basic R skills, and also assume that the participant has working experience with more complex workflows, operations, and code-bases. Each module in this course functions as a “stand-alone” lesson, and can be read linearly, or out of order according to your needs and interests. Each module doesn’t necessarily require familiarity with the previous module.
+
+This course emphasizes intermediate scripting skills like iteration, functional programming, writing functions, and controlling project workflows for better reproducibility and efficiency. Approaches to working with more complex data structures like lists and timeseries data, the fundamentals of building Shiny Apps, pulling water resources data from APIs, intermediate mapmaking and spatial data processing, integrating version control in projects with git.
+
+https://www.r4wrds.com/
+
+
+## Reproducible Medical Research with R
+Peter D.R. Higgins, MD, PhD, MSc
+
+This is a book for anyone in the medical field interested in analyzing the data available to them to better understand health, disease, or the delivery of care. This could include nurses, dieticians, psychologists, and PhDs in related fields, as well as medical students, residents, fellows, or doctors in practice.
+I expect that most learners will be using this book in their spare time at night and on weekends, as the health training curricula are already packed full of information, and there is no room to add skills in reproducible research to the standard curriculum. This book is designed for self-teaching, and many hints and solutions will be provided to avoid roadblocks and frustration. Many learners find themselves wanting to develop reproducible research skills after they have finished their training, and after they have become comfortable with their clinical role. This is the time when they identify and want to address problems faced by patients in their practice with the data they have before them. This book is for you.
+
+https://bookdown.org/pdr_higgins/rmrwr/
+
 
 
 ## Modern Statistics for Modern Biology
@@ -1720,6 +1827,16 @@ Most of the books about R programming language will tell you what are the possib
 
 
 https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/
+
+## Book of R: A First Course in Programming and Statistics
+Tilman M. Davies
+
+The Book of R is a comprehensive, beginner-friendly guide to R, the world’s most popular programming language for statistical analysis. Even if you have no programming experience and little more than a grounding in the basics of mathematics, you’ll find everything you need to begin using R effectively for statistical analysis.
+
+You’ll start with the basics, like how to handle data and write simple programs, before moving on to more advanced topics, like producing statistical summaries of your data and performing statistical tests and modeling. You’ll even learn how to create impressive data visualizations with R’s basic graphics tools and contributed packages, like ggplot2 and ggvis, as well as interactive 3D visualizations using the rgl package.
+
+Paid ~$40
+https://nostarch.com/bookofr
 
 
 ## Modern R with the tidyverse
@@ -2653,6 +2770,18 @@ Pay what you want for the ebook, minimum \$0.00, however if you are able
 to, please consider the cause above. Thanks!
 
 <https://leanpub.com/openintro-statistics>
+
+## One Way ANOVA with R: Completely Randomized Design - Between Groups
+Bruce Dudek
+
+This document can be a standalone “how-to” document for R users. However, it
+is primarily intended for students in the APSY510/511 statistics sequence at the
+University at Albany. It is a fairly thorough treatment of graphical and inferential evaluation of one-factor designs. It presumes prior background coverage
+of the ANOVA logic from standard textbooks such as Howell or Maxwell, Delaney and Kelley (2017). The analyses are intended to parallel and exhaust the
+methods already covered with SPSS, and to extend them to additional topics.
+
+https://bcdudek.net/anova/oneway_anova_basics.pdf
+
 
 ## Introduction to Modern Statistics
 

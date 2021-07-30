@@ -2509,7 +2509,7 @@ Paid ~$40 and listing of library availability
 
 https://www.worldcat.org/title/using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach/oclc/1048009316
 
-## Computing for the Social Science
+## Computing for the Social Sciences
 
 By [Dr. Benjamin Soltoff](https://bensoltoff.com/)
 

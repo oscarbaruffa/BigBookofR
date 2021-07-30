@@ -2509,6 +2509,31 @@ Paid ~$40 and listing of library availability
 
 https://www.worldcat.org/title/using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach/oclc/1048009316
 
+## Computing for the Social Science
+
+By [Dr. Benjamin Soltoff](https://bensoltoff.com/)
+
+The goal of this course is to teach you basic computational skills and provide
+you with the means to learn what you need to know for your own research. I
+start from the perspective that you want to analyze data, and programming is a
+means to that end. You will not become an expert programmer - that is a given.
+But you will learn the basic skills and techniques necessary to conduct
+computational social science, and gain the confidence necessary to learn new
+techniques as you encounter them in your research.
+
+We will cover many different topics in this course, including:
+
+- Elementary programming techniques (e.g. loops, conditional statements,
+  functions)
+- Writing reusable, interpretable code
+- Problem-solving - debugging programs for errors
+- Obtaining, importing, and munging data from a variety of sources
+- Performing statistical analysis
+- Visualizing information
+- Creating interactive reports
+- Generating reproducible research
+
+<https://cfss.uchicago.edu/notes/intro-to-course/>
 
 # Sport analytics
 

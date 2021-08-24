@@ -1377,6 +1377,17 @@ Free
 <https://bookdown.org/ansellbr/WEHI_tidyR_course_book/>
 
 
+## Experimental Design for Laboratory Biologists: Maximising Information and Improving Reproducibility
+
+[Stanley E. Lazic](https://stanlazic.github.io/)
+
+This practical guide shows biologists how to design reproducible experiments that have low bias, high precision, and results that are widely applicable. With specific examples using both cell cultures and model organisms, it shows how to plan a successful experiment. It demonstrates how to control biological and technical factors that can introduce bias or add noise, and covers rarely discussed topics such as graphical data exploration, choosing outcome variables, data quality control checks, and data pre-processing. It also shows how to use R for analysis, and is designed for those with no prior experience. This is an ideal guide for anyone conducting lab-based biological research.
+
+~$52 USD
+
+<https://stanlazic.github.io/EDLB.html>
+
+
 # Machine Learning
 
 ## Hands-On Machine Learning with R

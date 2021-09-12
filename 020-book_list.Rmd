@@ -448,6 +448,15 @@ Paid, \~\$40
 
 <https://amzn.to/2Ns1HHi>
 
+
+## A Business Analyst’s Introduction to Business Analytics
+[Adam Fleischhacker](https://twitter.com/preposterior)
+
+This textbook goes farther than just teaching you to make computational models using software or mathematical models using statistics. It teaches you how to align computational and mathematical models with real-world scenarios; empowering you to communicate with and leverage the expertise of business stakeholders while using modern software stacks and statistical workflows. In this book, you do not learn business analytics to make models; you learn business analytics to add tangible value in the real-world.
+
+https://www.causact.com/
+
+
 ## Business Intelligence with R
 
 [Dwight Barry](https://twitter.com/healthstatsdude)
@@ -723,6 +732,15 @@ out that R is an excellent language for doing calculus.
 This book shows how to do common calculus calculations using R.
 
 <https://dtkaplan.github.io/RforCalculus/>
+
+
+## Crime by the Numbers: A Criminologist’s Guide to R
+[Jacob Kaplan](https://twitter.com/JacobKaplanCrim)
+
+This book introduces the programming language R and is meant for undergrads or graduate students studying criminology. R is a programming language that is well-suited to the type of work frequently done in criminology - taking messy data and turning it into useful information. While R is a useful tool for many fields of study, this book focuses on the skills criminologists should know and uses crime data for the example data sets.
+
+https://crimebythenumbers.com/
+
 
 ## Data Science in Education Using R
 
@@ -1178,6 +1196,15 @@ annotation method for cell type annotation.
 
 [\<https://bioconductor.org/books/3.12/SingleRBook/\>](https://bioconductor.org/books/3.12/SingleRBook/){.uri}
 
+## Data Science for the Biomedical Sciences
+Daniel Chen, Anne Brown
+
+We hope this book provides a gentle introduction to data science. The main goal is to understand how to work with spreadsheet data and how data can be manipulated for multiple purposes. If nothing else, the book hopes to help you plan how to structure your own datasets for your own analysis. Even if you never go on to program on your own, understanding the way data can be manipulated and having a plan for your own dataset in the processing pipeline, will go a long ways when leaning and doing the analysis on your own, and/or working with collegues and collaborators on a project.
+
+https://ds4biomed.tech/
+
+
+
 ## Using R for Bayesian Spatial and Spatio-Temporal Health Modeling
 By Andrew B. Lawson
 
@@ -1259,6 +1286,14 @@ The statistical programming language, R, is firmly at the heart of this.
 This book will take an individual with little or no experience in data science all the way through to the execution of sophisticated analyses. We emphasise the importance of truly understanding the underlying data with liberal use of plotting, rather than relying on opaque and possibly poorly understood statistical tests. There are numerous examples included that can be adapted for your own data, together with our own R packages with easy-to-use functions.
 
 https://argoshare.is.ed.ac.uk/healthyr_book/
+
+## Hydroinformatics at VT
+[JP Gannon](https://twitter.com/jp_gannon)
+
+This bookdown contains the notes and most exercises for a course on data analysis techniques in hydrology using the programming language R. The material will be updated each time the course is taught. If new topics are added, the topics they replace will be left, in case they are useful to others.
+
+https://vt-hydroinformatics.github.io/
+
 
 ## R for Conservation and Development Projects: A Primer for Practitioners
 Nathan Whitmore
@@ -2474,6 +2509,14 @@ Freely avaiable online, paid print.
 
 # Social Science
 
+## Analyzing US Census Data: Methods, Maps, and Models in R
+[Kyle Walker](https://twitter.com/kyle_e_walker)
+
+Census data are widely used in the United States across numerous research and applied fields, including education, business, journalism, and many others. Until recently, the process of working with US Census data has required the use of a wide array of web interfaces and software platforms to prepare, map, and present data products. The goal of this book is to illustrate the utility of the R programming language for handling these tasks, allowing Census data users to manage their projects in a single computing environment.
+
+https://walker-data.com/census-r/
+
+
 ## Computing for the Social Sciences
 
 By [Dr. Benjamin Soltoff](https://bensoltoff.com/)
@@ -2499,6 +2542,14 @@ We will cover many different topics in this course, including:
 - Generating reproducible research
 
 <https://cfss.uchicago.edu/notes/intro-to-course/>
+
+## Crime by the Numbers: A Criminologist’s Guide to R
+[Jacob Kaplan](https://twitter.com/JacobKaplanCrim)
+
+This book introduces the programming language R and is meant for undergrads or graduate students studying criminology. R is a programming language that is well-suited to the type of work frequently done in criminology - taking messy data and turning it into useful information. While R is a useful tool for many fields of study, this book focuses on the skills criminologists should know and uses crime data for the example data sets.
+
+https://crimebythenumbers.com/
+
 
 ## Introduction to R for Social Scientists:A Tidy Programming Approach
 Ryan Kennedy, Philip Waggoner
@@ -2623,6 +2674,16 @@ Free online book under construction but with 5 complete chapters on
 2020/10/15
 
 <https://www.bayesrulesbook.com/>
+
+## Doing meta-analysis with R: A hands-on guide
+Mathias Harrer, Pim Cuijpers, Toshi A. Furukawa, David D. Ebert 
+
+This book serves as an accessible introduction into how meta-analyses can be conducted in R. Essential steps for meta-analysis are covered, including pooling of outcome measures, forest plots, heterogeneity diagnostics, subgroup analyses, meta-regression, methods to control for publication bias, risk of bias assessments and plotting tools.
+
+Advanced, but highly relevant topics such as network meta-analysis, multi-/three-level meta-analyses, Bayesian meta-analysis approaches, SEM meta-analysis are also covered.
+
+https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/
+
 
 ## Using R for Bayesian Spatial and Spatio-Temporal Health Modeling
 By Andrew B. Lawson
@@ -2749,6 +2810,15 @@ statistics concepts as well as R.
 The book is free to read online.
 
 <https://moderndive.com/>
+
+## An Introduction to Statistical Learning
+Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani
+
+As the scale and scope of data collection continue to increase across virtually all fields, statistical learning has become a critical toolkit for anyone who wishes to understand data. An Introduction to Statistical Learning provides a broad and less technical treatment of key topics in statistical learning. Each chapter includes an R lab. This book is appropriate for anyone who wishes to use contemporary tools for data analysis. 
+
+https://www.statlearning.com/
+
+
 
 ## ISLR tidymodels Labs
 [Emil Hvitfeldt](https://twitter.com/Emil_Hvitfeldt)

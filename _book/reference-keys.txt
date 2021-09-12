@@ -54,6 +54,7 @@ aps-135-introduction-to-exploratory-data-analysis-with-r
 the-art-of-data-science
 the-elements-of-data-analytic-style
 beginning-data-science-in-r
+a-business-analysts-introduction-to-business-analytics
 business-intelligence-with-r
 r-data-science-quick-reference
 modern-data-science-with-r
@@ -78,6 +79,7 @@ javascript-for-r
 field-specific
 analyzing-financial-and-economic-data-with-r
 computer-age-calculus-with-r
+crime-by-the-numbers-a-criminologists-guide-to-r
 data-science-in-education-using-r
 data-skills-for-reproducible-science
 discrete-data-analysis-with-r-visualization-and-modeling-techniques-for-categorical-and-count-data
@@ -114,6 +116,7 @@ using-r-for-data-journalism
 life-sciences
 an-open-compendium-of-soil-datasets
 assigning-cell-types-with-singler
+data-science-for-the-biomedical-sciences
 using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling
 computational-genomics-with-r
 data-analysis-for-the-life-sciences
@@ -121,6 +124,7 @@ data-analysis-and-visualization-in-r-for-ecologists
 r-for-applied-epidemiology-and-public-health
 git-and-github-for-advanced-ecological-data-analysis
 r-for-health-data-science
+hydroinformatics-at-vt
 r-for-conservation-and-development-projects-a-primer-for-practitioners
 r-for-water-resources-data-science-1
 reproducible-medical-research-with-r
@@ -130,6 +134,7 @@ statistics-in-r-for-biodiversity-conservation-paperback
 numerical-ecology-with-r
 introduction-to-data-analysis-with-r
 wehi-intro-to-tidy-r-course
+experimental-design-for-laboratory-biologists-maximising-information-and-improving-reproducibility
 machine-learning
 hands-on-machine-learning-with-r
 feature-engineering-and-selection-a-practical-approach-for-predictive-models
@@ -220,6 +225,9 @@ supplement-to-shiny-in-production
 outstanding-user-interfaces-with-shiny
 javascript-for-r-1
 social-science
+analyzing-us-census-data-methods-maps-and-models-in-r
+computing-for-the-social-sciences
+crime-by-the-numbers-a-criminologists-guide-to-r-1
 introduction-to-r-for-social-scientistsa-tidy-programming-approach
 public-policy-analytics-code-context-for-data-science-in-government-1
 social-data-science-with-r
@@ -232,6 +240,7 @@ coding-for-sports-analytics-get-started-resources
 statistics
 answering-questions-with-data
 bayes-rules
+doing-meta-analysis-with-r-a-hands-on-guide
 using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling-1
 a-business-analysts-introduction-to-business-analytics-intro-to-bayesian-business-analytics-in-the-r-ecosystem
 common-statistical-tests-are-linear-models-a-work-through
@@ -241,6 +250,7 @@ handbook-of-regression-modeling-in-people-analytics-1
 learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners.-version-0.6.1
 mixed-models-with-r-getting-started-with-random-effects
 an-introduction-to-statistical-and-data-sciences-via-r
+an-introduction-to-statistical-learning
 islr-tidymodels-labs
 statistical-rethinking
 statistical-rethinking-with-brms-ggplot2-and-the-tidyverse-second-edition

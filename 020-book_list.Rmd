@@ -2634,9 +2634,37 @@ Paid product \~\$50
 
 <https://baseballwithr.wordpress.com/about/>
 
+## Wrangling F1 Data With R: A Data Junkie's Guide
+
+Tony Hirst
+
+This book describes a range of data analysis and visualisation techniques that can be applied to motorsport timing and results data in general, and Formula One data in particular.
+
+Paid product \$7.49+
+
+https://leanpub.com/wranglingf1datawithr
+
+## Visualising WRC Rally Stages With rayshader and R: A RallyDataJunkie Adventure
+
+Tony Hirst
+
+Taking a simple rally route dataset, what can we do with it? This book describes a wide range of techniques for working with geodata, including routes and elevantion rasters. From 2D and 3D mapping, to a wide range of route analysis techniques, the techniques described are also relevant to a wide range of othr route analysis contexts, including ecological trail analysis.
+
+Free online book
+
+https://rallydatajunkie.com/visualising-rally-stages/
+
+## Visualising WRC Rally Timing and Results Data: A RallyDataJunkie Adventure
+
+Tony Hirst
+
+A handy guide to visualising a wide range of motorsport timing and results data, concentrating on rally data associated with the FIA World Rally Championship (WRC).
+
+https://rallydatajunkie.com/visualising-wrc-rally-results/
+
 ## Coding for sports analytics: get started resources
 
-Given the lack of sport-focussed R books, I've added this colelction og
+Given the lack of sport-focussed R books, I've added this collection of
 blog posts.
 
 <https://brendankent.com/2020/09/15/coding-for-sports-analytics-resources-to-get-started/>

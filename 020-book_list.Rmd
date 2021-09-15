@@ -457,6 +457,21 @@ This textbook goes farther than just teaching you to make computational models u
 https://www.causact.com/
 
 
+## Business Case Analysis with R - Simulation Tutorials to Support Complex Business Decisions
+
+[Robert D. Brown III](https://twitter.com/InciteDecisions)
+
+Business case analysis, often conducted in spreadsheets, exposes decision makers to additional risks that arise just from the use of the spreadsheet environment. This book discusses how to use the statistical programming language R to develop a business case simulation and analysis. It presents a methodology that minimizes decision delay by focusing stakeholders on what matters most and suggests pathways for minimizing the risk in strategic and capital allocation decisions.
+
+Apress/Springer-Nature eBook \$24.99, Softcover \$34.99
+
+<https://www.apress.com/us/book/9781484234945#>
+
+Amazon Kindle Rent \$14, Buy \~$19, Paperback \$24.99
+
+<https://www.amazon.com/Business-Case-Analysis-Simulation-Tutorials-ebook/dp/B07B6Q7TK1/>
+
+
 ## Business Intelligence with R
 
 [Dwight Barry](https://twitter.com/healthstatsdude)

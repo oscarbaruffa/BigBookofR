@@ -2507,6 +2507,16 @@ Freely avaiable online, paid print.
 
 <https://javascript-for-r.com>
 
+## JavaScript 4 Shiny - Field Notes
+
+[Colin Fay](https://colinfay.me)
+
+JavaScript in practice for Shiny users.
+
+Freely avaiable online.
+
+<https://connect.thinkr.fr/js4shinyfieldnotes/>
+
 # Social Science
 
 ## Analyzing US Census Data: Methods, Maps, and Models in R

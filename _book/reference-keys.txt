@@ -55,6 +55,7 @@ the-art-of-data-science
 the-elements-of-data-analytic-style
 beginning-data-science-in-r
 a-business-analysts-introduction-to-business-analytics
+business-case-analysis-with-r---simulation-tutorials-to-support-complex-business-decisions
 business-intelligence-with-r
 r-data-science-quick-reference
 modern-data-science-with-r
@@ -224,6 +225,7 @@ engineering-production-grade-shiny-apps
 supplement-to-shiny-in-production
 outstanding-user-interfaces-with-shiny
 javascript-for-r-1
+javascript-4-shiny---field-notes
 social-science
 analyzing-us-census-data-methods-maps-and-models-in-r
 computing-for-the-social-sciences
@@ -233,9 +235,13 @@ public-policy-analytics-code-context-for-data-science-in-government-1
 social-data-science-with-r
 the-plain-persons-guide-to-plain-text-social-science
 using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach
+composite-indicator-development-and-analysis-in-r-with-coinr
 sport-analytics
 basketball-data-science-with-applications-in-r
 exploring-baseball-data-with-r
+wrangling-f1-data-with-r-a-data-junkies-guide
+visualising-wrc-rally-stages-with-rayshader-and-r-a-rallydatajunkie-adventure
+visualising-wrc-rally-timing-and-results-data-a-rallydatajunkie-adventure
 coding-for-sports-analytics-get-started-resources
 statistics
 answering-questions-with-data

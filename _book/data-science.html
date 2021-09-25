@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <title>9 Data Science | Big Book of R</title>
   <meta name="description" content="9 Data Science | Big Book of R" />
-  <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
+  <meta name="generator" content="bookdown 0.24 and GitBook 2.6.7" />
 
   <meta property="og:title" content="9 Data Science | Big Book of R" />
   <meta property="og:type" content="book" />
@@ -32,8 +32,9 @@
   
 <link rel="prev" href="bookdown.html"/>
 <link rel="next" href="data-visualization.html"/>
-<script src="libs/header-attrs-2.6/header-attrs.js"></script>
-<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<script src="libs/header-attrs-2.9/header-attrs.js"></script>
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -49,7 +50,8 @@
 
 
 
-
+<link href="libs/anchor-sections-1.0.1/anchor-sections.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.0.1/anchor-sections.js"></script>
 <script async defer data-domain="bigbookofr.com" src="https://plausible.io/js/plausible.outbound-links.js"></script>
 <meta property="og:title" content="9 Data Science | Big Book of R">
 <meta property="og:description" content="150+ Free R programming books">
@@ -63,6 +65,7 @@
 <meta name="twitter:site" content="@oscarbaruffa">
 <meta name="twitter:description" content="150+ Free R programming books">
 <meta name="twitter:image" content="https://www.bigbookofr.com/images/big_book_social.png">
+
 
 
 
@@ -155,11 +158,12 @@
 <li class="chapter" data-level="9.14" data-path="data-science.html"><a href="data-science.html#the-elements-of-data-analytic-style"><i class="fa fa-check"></i><b>9.14</b> The Elements of Data Analytic Style</a></li>
 <li class="chapter" data-level="9.15" data-path="data-science.html"><a href="data-science.html#beginning-data-science-in-r"><i class="fa fa-check"></i><b>9.15</b> Beginning Data Science in R</a></li>
 <li class="chapter" data-level="9.16" data-path="data-science.html"><a href="data-science.html#a-business-analysts-introduction-to-business-analytics"><i class="fa fa-check"></i><b>9.16</b> A Business Analyst’s Introduction to Business Analytics</a></li>
-<li class="chapter" data-level="9.17" data-path="data-science.html"><a href="data-science.html#business-intelligence-with-r"><i class="fa fa-check"></i><b>9.17</b> Business Intelligence with R</a></li>
-<li class="chapter" data-level="9.18" data-path="data-science.html"><a href="data-science.html#r-data-science-quick-reference"><i class="fa fa-check"></i><b>9.18</b> R Data Science Quick Reference</a></li>
-<li class="chapter" data-level="9.19" data-path="data-science.html"><a href="data-science.html#modern-data-science-with-r"><i class="fa fa-check"></i><b>9.19</b> Modern Data Science with R</a></li>
-<li class="chapter" data-level="9.20" data-path="data-science.html"><a href="data-science.html#modern-statistics-with-r"><i class="fa fa-check"></i><b>9.20</b> Modern Statistics with R</a></li>
-<li class="chapter" data-level="9.21" data-path="data-science.html"><a href="data-science.html#model-based-clustering-and-classification-for-data-science"><i class="fa fa-check"></i><b>9.21</b> Model-Based Clustering and Classification for Data Science</a></li>
+<li class="chapter" data-level="9.17" data-path="data-science.html"><a href="data-science.html#business-case-analysis-with-r---simulation-tutorials-to-support-complex-business-decisions"><i class="fa fa-check"></i><b>9.17</b> Business Case Analysis with R - Simulation Tutorials to Support Complex Business Decisions</a></li>
+<li class="chapter" data-level="9.18" data-path="data-science.html"><a href="data-science.html#business-intelligence-with-r"><i class="fa fa-check"></i><b>9.18</b> Business Intelligence with R</a></li>
+<li class="chapter" data-level="9.19" data-path="data-science.html"><a href="data-science.html#r-data-science-quick-reference"><i class="fa fa-check"></i><b>9.19</b> R Data Science Quick Reference</a></li>
+<li class="chapter" data-level="9.20" data-path="data-science.html"><a href="data-science.html#modern-data-science-with-r"><i class="fa fa-check"></i><b>9.20</b> Modern Data Science with R</a></li>
+<li class="chapter" data-level="9.21" data-path="data-science.html"><a href="data-science.html#modern-statistics-with-r"><i class="fa fa-check"></i><b>9.21</b> Modern Statistics with R</a></li>
+<li class="chapter" data-level="9.22" data-path="data-science.html"><a href="data-science.html#model-based-clustering-and-classification-for-data-science"><i class="fa fa-check"></i><b>9.22</b> Model-Based Clustering and Classification for Data Science</a></li>
 </ul></li>
 <li class="chapter" data-level="10" data-path="data-visualization.html"><a href="data-visualization.html"><i class="fa fa-check"></i><b>10</b> Data Visualization</a>
 <ul>
@@ -350,6 +354,7 @@
 <li class="chapter" data-level="22.6" data-path="shiny.html"><a href="shiny.html#supplement-to-shiny-in-production"><i class="fa fa-check"></i><b>22.6</b> Supplement to Shiny in Production</a></li>
 <li class="chapter" data-level="22.7" data-path="shiny.html"><a href="shiny.html#outstanding-user-interfaces-with-shiny"><i class="fa fa-check"></i><b>22.7</b> Outstanding User Interfaces with Shiny</a></li>
 <li class="chapter" data-level="22.8" data-path="shiny.html"><a href="shiny.html#javascript-for-r-1"><i class="fa fa-check"></i><b>22.8</b> JavaScript for R</a></li>
+<li class="chapter" data-level="22.9" data-path="shiny.html"><a href="shiny.html#javascript-4-shiny---field-notes"><i class="fa fa-check"></i><b>22.9</b> JavaScript 4 Shiny - Field Notes</a></li>
 </ul></li>
 <li class="chapter" data-level="23" data-path="social-science.html"><a href="social-science.html"><i class="fa fa-check"></i><b>23</b> Social Science</a>
 <ul>
@@ -361,12 +366,16 @@
 <li class="chapter" data-level="23.6" data-path="social-science.html"><a href="social-science.html#social-data-science-with-r"><i class="fa fa-check"></i><b>23.6</b> Social Data Science with R</a></li>
 <li class="chapter" data-level="23.7" data-path="social-science.html"><a href="social-science.html#the-plain-persons-guide-to-plain-text-social-science"><i class="fa fa-check"></i><b>23.7</b> The Plain Person’s Guide to Plain Text Social Science</a></li>
 <li class="chapter" data-level="23.8" data-path="social-science.html"><a href="social-science.html#using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach"><i class="fa fa-check"></i><b>23.8</b> Using R for Data Analysis in Social Sciences: A Research Project-Oriented Approach</a></li>
+<li class="chapter" data-level="23.9" data-path="social-science.html"><a href="social-science.html#composite-indicator-development-and-analysis-in-r-with-coinr"><i class="fa fa-check"></i><b>23.9</b> Composite Indicator Development and Analysis in R with COINr</a></li>
 </ul></li>
 <li class="chapter" data-level="24" data-path="sport-analytics.html"><a href="sport-analytics.html"><i class="fa fa-check"></i><b>24</b> Sport analytics</a>
 <ul>
 <li class="chapter" data-level="24.1" data-path="sport-analytics.html"><a href="sport-analytics.html#basketball-data-science-with-applications-in-r"><i class="fa fa-check"></i><b>24.1</b> Basketball Data Science with Applications in R</a></li>
 <li class="chapter" data-level="24.2" data-path="sport-analytics.html"><a href="sport-analytics.html#exploring-baseball-data-with-r"><i class="fa fa-check"></i><b>24.2</b> Exploring Baseball Data with R</a></li>
-<li class="chapter" data-level="24.3" data-path="sport-analytics.html"><a href="sport-analytics.html#coding-for-sports-analytics-get-started-resources"><i class="fa fa-check"></i><b>24.3</b> Coding for sports analytics: get started resources</a></li>
+<li class="chapter" data-level="24.3" data-path="sport-analytics.html"><a href="sport-analytics.html#wrangling-f1-data-with-r-a-data-junkies-guide"><i class="fa fa-check"></i><b>24.3</b> Wrangling F1 Data With R: A Data Junkie’s Guide</a></li>
+<li class="chapter" data-level="24.4" data-path="sport-analytics.html"><a href="sport-analytics.html#visualising-wrc-rally-stages-with-rayshader-and-r-a-rallydatajunkie-adventure"><i class="fa fa-check"></i><b>24.4</b> Visualising WRC Rally Stages With rayshader and R: A RallyDataJunkie Adventure</a></li>
+<li class="chapter" data-level="24.5" data-path="sport-analytics.html"><a href="sport-analytics.html#visualising-wrc-rally-timing-and-results-data-a-rallydatajunkie-adventure"><i class="fa fa-check"></i><b>24.5</b> Visualising WRC Rally Timing and Results Data: A RallyDataJunkie Adventure</a></li>
+<li class="chapter" data-level="24.6" data-path="sport-analytics.html"><a href="sport-analytics.html#coding-for-sports-analytics-get-started-resources"><i class="fa fa-check"></i><b>24.6</b> Coding for sports analytics: get started resources</a></li>
 </ul></li>
 <li class="chapter" data-level="25" data-path="statistics.html"><a href="statistics.html"><i class="fa fa-check"></i><b>25</b> Statistics</a>
 <ul>
@@ -638,8 +647,17 @@ language</p>
 <p>This textbook goes farther than just teaching you to make computational models using software or mathematical models using statistics. It teaches you how to align computational and mathematical models with real-world scenarios; empowering you to communicate with and leverage the expertise of business stakeholders while using modern software stacks and statistical workflows. In this book, you do not learn business analytics to make models; you learn business analytics to add tangible value in the real-world.</p>
 <p><a href="https://www.causact.com/" class="uri">https://www.causact.com/</a></p>
 </div>
-<div id="business-intelligence-with-r" class="section level2" number="9.17">
-<h2><span class="header-section-number">9.17</span> Business Intelligence with R</h2>
+<div id="business-case-analysis-with-r---simulation-tutorials-to-support-complex-business-decisions" class="section level2" number="9.17">
+<h2><span class="header-section-number">9.17</span> Business Case Analysis with R - Simulation Tutorials to Support Complex Business Decisions</h2>
+<p><a href="https://twitter.com/InciteDecisions">Robert D. Brown III</a></p>
+<p>Business case analysis, often conducted in spreadsheets, exposes decision makers to additional risks that arise just from the use of the spreadsheet environment. This book discusses how to use the statistical programming language R to develop a business case simulation and analysis. It presents a methodology that minimizes decision delay by focusing stakeholders on what matters most and suggests pathways for minimizing the risk in strategic and capital allocation decisions.</p>
+<p>Apress/Springer-Nature eBook $24.99, Softcover $34.99</p>
+<p><a href="https://www.apress.com/us/book/9781484234945#" class="uri">https://www.apress.com/us/book/9781484234945#</a></p>
+<p>Amazon Kindle Rent $14, Buy ~$19, Paperback $24.99</p>
+<p><a href="https://www.amazon.com/Business-Case-Analysis-Simulation-Tutorials-ebook/dp/B07B6Q7TK1/" class="uri">https://www.amazon.com/Business-Case-Analysis-Simulation-Tutorials-ebook/dp/B07B6Q7TK1/</a></p>
+</div>
+<div id="business-intelligence-with-r" class="section level2" number="9.18">
+<h2><span class="header-section-number">9.18</span> Business Intelligence with R</h2>
 <p><a href="https://twitter.com/healthstatsdude">Dwight Barry</a></p>
 <p>A desktop reference for busy professionals, giving you fingertip access
 to a variety of BI analytic methods done in R as simply as possible.</p>
@@ -648,8 +666,8 @@ Children’s Hospital.</p>
 <p>Free or up to $20 for a good cause!</p>
 <p><a href="https://leanpub.com/businessintelligencewithr" class="uri">https://leanpub.com/businessintelligencewithr</a></p>
 </div>
-<div id="r-data-science-quick-reference" class="section level2" number="9.18">
-<h2><span class="header-section-number">9.18</span> R Data Science Quick Reference</h2>
+<div id="r-data-science-quick-reference" class="section level2" number="9.19">
+<h2><span class="header-section-number">9.19</span> R Data Science Quick Reference</h2>
 <p><a href="https://twitter.com/ThomasMailund">Thomas Mailund</a></p>
 <p>In this book, you’ll learn about the following APIs and packages that
 deal specifically with data science applications: readr, dibble,
@@ -658,16 +676,16 @@ modelr, and more.</p>
 <p>Paid, ~$30</p>
 <p><a href="https://amzn.to/2WN1mQy" class="uri">https://amzn.to/2WN1mQy</a></p>
 </div>
-<div id="modern-data-science-with-r" class="section level2" number="9.19">
-<h2><span class="header-section-number">9.19</span> Modern Data Science with R</h2>
+<div id="modern-data-science-with-r" class="section level2" number="9.20">
+<h2><span class="header-section-number">9.20</span> Modern Data Science with R</h2>
 <p>Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton</p>
 <p>This book is intended for readers who want to develop the appropriate skills to tackle complex data science projects and “think with data” (as coined by Diane Lambert of Google). The desire to solve problems using data is at the heart of our approach.</p>
 <p>We acknowledge that it is impossible to cover all these topics in any level of detail within a single book: Many of the chapters could productively form the basis for a course or series of courses. Instead, our goal is to lay a foundation for analysis of real-world data and to ensure that analysts see the power of statistics and data analysis. After reading this book, readers will have greatly expanded their skill set for working with these data, and should have a newfound confidence about their ability to learn new technologies on-the-fly.</p>
 <p>This book was originally conceived to support a one-semester, 13-week undergraduate course in data science. We have found that the book will be useful for more advanced students in related disciplines, or analysts who want to bolster their data science skills. At the same time, Part I of the book is accessible to a general audience with no programming or statistics experience.</p>
 <p><a href="https://mdsr-book.github.io/mdsr2e/" class="uri">https://mdsr-book.github.io/mdsr2e/</a></p>
 </div>
-<div id="modern-statistics-with-r" class="section level2" number="9.20">
-<h2><span class="header-section-number">9.20</span> Modern Statistics with R</h2>
+<div id="modern-statistics-with-r" class="section level2" number="9.21">
+<h2><span class="header-section-number">9.21</span> Modern Statistics with R</h2>
 <p><a href="https://twitter.com/mansthulin">Måns Thulin</a></p>
 <p>This book covers the fundamentals of data science and statistics. The
 first half deals with the basics of R and R coding, data wrangling,
@@ -680,8 +698,8 @@ messages in R. In addition, there are 170 or so exercises with fully
 worked solutions.</p>
 <p><a href="http://www.modernstatisticswithr.com/" class="uri">http://www.modernstatisticswithr.com/</a></p>
 </div>
-<div id="model-based-clustering-and-classification-for-data-science" class="section level2" number="9.21">
-<h2><span class="header-section-number">9.21</span> Model-Based Clustering and Classification for Data Science</h2>
+<div id="model-based-clustering-and-classification-for-data-science" class="section level2" number="9.22">
+<h2><span class="header-section-number">9.22</span> Model-Based Clustering and Classification for Data Science</h2>
 <p><a href="https://twitter.com/cbouveyron">Charles Bouveyron</a>, <a href="https://www.imo.universite-paris-saclay.fr/~celeux/">Gilles
 Celeux</a>, <a href="https://twitter.com/tbmurphy">T.
 Brendan Murphy</a>, and <a href="https://twitter.com/AdrianRaftery1">Adrian E.
@@ -706,7 +724,6 @@ science, as well as researchers and practitioners.</p>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
-<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
 <script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
 <script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
@@ -725,6 +742,7 @@ gitbook.start({
 "weibo": false,
 "instapaper": false,
 "vk": false,
+"whatsapp": false,
 "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
 },
 "fontsettings": {
@@ -745,6 +763,10 @@ gitbook.start({
 "text": null
 },
 "download": null,
+"search": {
+"engine": "fuse",
+"options": null
+},
 "toc": {
 "collapse": "subsection"
 }

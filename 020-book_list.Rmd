@@ -2596,7 +2596,15 @@ Paid ~$40 and listing of library availability
 
 https://www.worldcat.org/title/using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach/oclc/1048009316
 
+## Composite Indicator Development and Analysis in R with COINr
 
+[William Becker](https://www.bluefoxdata.eu/)
+
+*Composite indicators* are aggregations of indicators which aim to measure (usually socio-economic) complex and multidimensional concepts which are difficult to define, and cannot be measured directly. Examples include innovation, human development, environmental performance, and so on. This book gives a detailed guide on building composite indicators in R, focusing on the recent [COINr package](https://cran.r-project.org/package=COINr), which is an end-to-end development environment for composite indicators. Although COINr is the main tool used in the book, it also gives general explanation and guidance on composite indicator construction and analysis in R, ranging from normalisation, aggregation, multivariate analysis and global sensitivity analysis.
+
+This book is free, open source and built in R using Bookdown.
+
+<https://bluefoxr.github.io/COINrDoc/>
 
 # Sport analytics
 

@@ -1604,7 +1604,7 @@ The book is free and work in progress. <https://mlr3book.mlr-org.com/>
 
 Sacha Epskamp
 
-<http://sachaepskamp.com/files/Cookbook.html>
+<https://web.archive.org/web/20210414173702/http://sachaepskamp.com/files/Cookbook.html>
 
 
 ## Statistical Analysis of Network Data with R

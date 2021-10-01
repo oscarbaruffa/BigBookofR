@@ -151,9 +151,9 @@ model-based-clustering-and-classification-for-data-science-1
 tidy-modeling-with-r
 mlr3-book
 network-analysis
-network-analysis-in-r-cookbook
 statistical-analysis-of-network-data-with-r
 awesome-network-analysis
+network-analysis-in-r-cookbook
 packages
 the-caret-package-1
 complexheatmap-complete-reference

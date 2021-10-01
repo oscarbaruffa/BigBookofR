@@ -1600,11 +1600,6 @@ The book is free and work in progress. <https://mlr3book.mlr-org.com/>
 
 # Network analysis
 
-## Network Analysis in R Cookbook
-
-Sacha Epskamp
-
-<https://web.archive.org/web/20210414173702/http://sachaepskamp.com/files/Cookbook.html>
 
 
 ## Statistical Analysis of Network Data with R
@@ -1620,6 +1615,14 @@ https://www.springer.com/us/book/9781493909834#otherversion=9781493909827
 Not a book, but a compendium of resources that look really valuable. 
 
 https://github.com/briatte/awesome-network-analysis
+
+
+## Network Analysis in R Cookbook
+Sacha Epskamp
+
+[Oscar Baruffa: Note this resource is a bit out of date, but because there are so few available on this topic, and it might still be good as a reference, it'll stay in Big Book of R for now.]
+
+<https://web.archive.org/web/20210414173702/http://sachaepskamp.com/files/Cookbook.html>
 
 
 # Packages

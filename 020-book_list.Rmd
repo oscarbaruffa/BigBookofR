@@ -77,6 +77,15 @@ Paid \~\$30
 
 <https://gumroad.com/l/getting-started-in-data-science>
 
+## Ace The Data Science Interview
+Kevin Huo, Nick Singh
+
+Authored by two Ex-Facebook employees, Ace the Data Science Interview is the best way to prepare for Data Science, Data Analyst, and Machine Learning interviews, so that you can land your dream job at FAANG, tech startups, or Wall Street.
+
+Paid ~ $30
+https://www.acethedatascienceinterview.com/
+
+
 ## Hiring Data Scientists and Machine Learning Engineers
 [Roy Keyes](https://twitter.com/roycoding)
 
@@ -173,6 +182,23 @@ The first hands-on guide to using the R statistical computing system written spe
 Loan or buy ~$100
 [Cambridge COre site](https://www.cambridge.org/core/books/quantitative-methods-in-archaeology-using-r/DEAE593FA2418EA3B8ECD538C34ED2D5?fbclid=IwAR0guclfEtttfDkVKNUJWfhQ1wgUlXSKAIA3f_6D3hS_9EkUKivSY9AyFD8)
 
+
+# Art
+
+There are no books available covering art, but there are some blog posts available. This first one is is a good intro.
+
+## Thinking Outside The Grid - A “bare bones” intro to Rtistry concepts in R using ggplot.
+[Meghan Harris](https://twitter.com/meghansharris)
+
+Recently I’ve discovered the courage to dive into creative coding and generative aRt in R. Something that the R community calls “Rtistry.” My Rtistry journey so far has been an amazing and tranquil expedition into a world that seemed intimidating and scary on the outside but is honestly just a bottomless pit of fun and creativity on the inside. 
+
+I’m going to talk about some very basic concepts and perspectives you can think about while starting your own Rtistry journey in ggplot. This includes basics on geoms, aesthetics, layering, etc. But then I’m also going to walk you through two of my Rtistry examples and code to get you started.
+
+This article is intended for those who have some experience with ggplot building in R but may not have realized how to transition from making “regular” visuals to Rtistry. This article goes over basic concepts that more seasoned users may already know. 
+
+https://www.thetidytrekker.com/post/thinking-outside-the-grid
+
+
 # Big Data
 
 ## Exploring, Visualizing, and Modeling Big Data with R
@@ -241,6 +267,18 @@ This is a sample book written in Markdown.
 <https://benmarwick.github.io/bookdown-ort/>
 
 # Data Science
+
+
+## DevOps for Data Science 
+[Alex Gold](https://twitter.com/alexkgold)
+
+At some point, most data scientists reach the point where they want to show their work to others. But the skills and tools to deploy data science are completely different from the skills and tools needed to do data science.
+
+If you’re a data scientist who wants to get your work in front of the right people, this book aims to equip you with all the technical things you need to know that aren’t data science.
+
+Hopefully, once you’ve read this book, you’ll understand how to deploy your data science, whether you’re building a DIY deployment system or trying to work with your organization’s IT/DevOps/SysAdmin/SRE group to make that happen.
+
+https://akgold.github.io/do4ds/index.html
 
 ## R for Data Science
 
@@ -561,6 +599,15 @@ can create novel graphics that are tailored to your specific problem.
 
 <https://ggplot2-book.org/>
 
+
+## Solutions to ggplot2: Elegant Graphics for Data Analysis
+[Howard Baek](https://twitter.com/howard_baek)
+
+This is the website for “Solutions to ggplot2: Elegant Graphics for Data Analysis,” a solution manual to the exercises in the 3rd edition of ggplot2: Elegant Graphics for Data Analysis, written by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen. While there are bookdown solution manuals to Hadley Wickham’s Advanced R and Mastering Shiny, there is no such thing for the ggplot2 book. This website is an attempt to fill this missing void.
+
+https://ggplot2-book-solutions-3ed.netlify.app/index.html
+
+
 ## A ggplot2 Tutorial for Beautiful Plotting in R
 
 [Cédric Sherer](https://twitter.com/CedScherer)
@@ -839,6 +886,18 @@ to provide those who need it with help in getting there.
 For accompanying solutions to some of the questions
 
 <https://keithmcnulty.github.io/peopleanalytics-regression-book/solutions/>
+
+## Handbook of Graphs and Networks in People Analytics: With Examples in R and Python
+[Keith McNulty](https://twitter.com/dr_keithmcnulty)
+
+The technology of graphs is all around us, and enables so many of the ways in which we live our lives today. That same technology is also available to us at no cost as an analytic tool to allow us to better understand network structures and dynamics in the fields of science, technology, economics, sociology and psychology to name just a few. It is available to academics and practitioners alike, and can be used on problems ranging from a very small network analysis which takes a few minutes on a laptop, to massive scale network mining requiring days or weeks of processing time.
+
+But here’s the problem: few people really know how to do network analysis. It is still considered by many as a deep specialism or even a ‘dark art.’ It shouldn’t be.
+
+This book aims to make the field of graph and network analysis more approachable to students and professionals by explaining the most important elements of theory and sharing common methodologies using open source programming languages like R and Python. It does so by explaining theory in as much detail as is necessary to support analytical curiosity and interpretation, and by using a wide array of example data sets and code snippets to demonstrate the specific implementation and interpretation of methodologies. 
+
+
+https://ona-book.org/
 
 ## R for Excel users
 Julie Lowndes & Allison Horst
@@ -1600,6 +1659,17 @@ The book is free and work in progress. <https://mlr3book.mlr-org.com/>
 
 # Network analysis
 
+## Handbook of Graphs and Networks in People Analytics: With Examples in R and Python
+[Keith McNulty](https://twitter.com/dr_keithmcnulty)
+
+The technology of graphs is all around us, and enables so many of the ways in which we live our lives today. That same technology is also available to us at no cost as an analytic tool to allow us to better understand network structures and dynamics in the fields of science, technology, economics, sociology and psychology to name just a few. It is available to academics and practitioners alike, and can be used on problems ranging from a very small network analysis which takes a few minutes on a laptop, to massive scale network mining requiring days or weeks of processing time.
+
+But here’s the problem: few people really know how to do network analysis. It is still considered by many as a deep specialism or even a ‘dark art.’ It shouldn’t be.
+
+This book aims to make the field of graph and network analysis more approachable to students and professionals by explaining the most important elements of theory and sharing common methodologies using open source programming languages like R and Python. It does so by explaining theory in as much detail as is necessary to support analytical curiosity and interpretation, and by using a wide array of example data sets and code snippets to demonstrate the specific implementation and interpretation of methodologies. 
+
+
+https://ona-book.org/
 
 
 ## Statistical Analysis of Network Data with R
@@ -1903,6 +1973,16 @@ Paid ~$40
 https://nostarch.com/bookofr
 
 
+
+## Data Analytics with R: A Recipe book
+[Ryan Garnett](https://twitter.com/ryangarnett78)
+
+The structure and design of this book is based on iterative learning, starting with the most basic and build by adding one new element concept. the book has been structured to be small easily consumable chunks similar to that of a recipe card. The concept for a recipe card is that they are self contained, providing all the ingredients, preparation, and instructions required to create a meal. While a cookbook may consist of many recipes, there is no expectation to read, understand, and master all the recipes in order to prepare a meal. Following this as the central theme the book, it has been designed as a number of data analytics recipes focusing on the R language.
+
+
+https://ryangarnett.github.io/r-recipe-book/
+
+
 ## Modern R with the tidyverse
 
 Bruno Rodrigues
@@ -2133,6 +2213,15 @@ Definition 1. Writing R Extensions 1. R Installation and Administration
 1. R Data Import/Export 1. R Internals
 
 <https://stat.ethz.ch/R-manual/R-patched/doc/html/>
+
+
+## R Development Guide
+R Contribution Working Group
+
+This guide is heavily influenced by the Python Developer Guide, and is a comprehensive resource for contributing to R Core – for both new and experienced contributors. It is maintained by the R Contribution Working Group. We welcome your contributions to R Core!
+
+https://forwards.github.io/rdevguide/ 
+
 
 
 ## R for Graduate Students
@@ -2863,6 +2952,15 @@ some way.
 
 <https://m-clark.github.io/mixed-models-with-R/>
 
+## Model Estimation by Example: Demonstrations with R
+[Michael Clark](https://m-clark.github.io/)
+
+This document provides ‘by-hand’ demonstrations of various models and algorithms. The goal is to take away some of the mystery of them by providing clean code examples that are easy to run and compare with other tools.
+
+The code was collected over several years, so is not exactly consistent in style, but now has been cleaned up to make it more so. Within each demo, you will generally find some imported/simulated data, a primary estimating function, a comparison of results with some R package, and a link to the old code that was the initial demonstration.
+
+https://m-clark.github.io/models-by-example/
+
 ## An Introduction to Statistical and Data Sciences via R
 
 [Chester Ismay](https://twitter.com/old_man_chester) and [Albert
@@ -3279,6 +3377,10 @@ instructor and student facing teaching materials.
 
 # Text analysis
 
+
+
+
+
 ## Text Mining with R
 
 [Julia Silge](https://twitter.com/juliasilge) and [David
@@ -3317,6 +3419,7 @@ develop your text mining skills using the tidytext package in R, along
 with other tidyverse tools.
 
 <https://juliasilge.shinyapps.io/learntidytext/>
+
 
 # Version control
 

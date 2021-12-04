@@ -19,6 +19,7 @@ conversations-on-data-science
 executive-data-science
 essays-on-data-analysis
 getting-started-in-data-science
+ace-the-data-science-interview
 hiring-data-scientists-and-machine-learning-engineers
 introduction-to-machine-learning-interviews-book
 telling-stories-with-data
@@ -29,6 +30,8 @@ project-management-fundamentals-for-data-analysts
 archeology
 how-to-do-archaeological-science-using-r
 quantitative-methods-in-archaeology-using-r
+art
+thinking-outside-the-grid---a-bare-bones-intro-to-rtistry-concepts-in-r-using-ggplot.
 big-data
 exploring-visualizing-and-modeling-big-data-with-r
 mastering-spark-with-r
@@ -39,6 +42,7 @@ bookdown
 bookdown-authoring-books-and-technical-documents-with-r-markdown
 a-minimal-book-example
 data-science
+devops-for-data-science
 r-for-data-science
 r-for-data-science-solutions
 everyday-data-science
@@ -63,6 +67,7 @@ modern-statistics-with-r
 model-based-clustering-and-classification-for-data-science
 data-visualization
 ggplot2-elegant-graphics-for-data-analysis
+solutions-to-ggplot2-elegant-graphics-for-data-analysis
 a-ggplot2-tutorial-for-beautiful-plotting-in-r
 ggplot2-in-2
 data-visualization---a-practical-introduction
@@ -87,6 +92,7 @@ discrete-data-analysis-with-r-visualization-and-modeling-techniques-for-categori
 learning-microeconometrics-with-r
 public-policy-analytics-code-context-for-data-science-in-government
 handbook-of-regression-modeling-in-people-analytics
+handbook-of-graphs-and-networks-in-people-analytics-with-examples-in-r-and-python
 r-for-excel-users
 r-programming-with-minecraft
 r-for-seo
@@ -151,6 +157,7 @@ model-based-clustering-and-classification-for-data-science-1
 tidy-modeling-with-r
 mlr3-book
 network-analysis
+handbook-of-graphs-and-networks-in-people-analytics-with-examples-in-r-and-python-1
 statistical-analysis-of-network-data-with-r
 awesome-network-analysis
 network-analysis-in-r-cookbook
@@ -181,6 +188,7 @@ http-testing-in-r
 r-programming
 best-coding-practices-for-r
 book-of-r-a-first-course-in-programming-and-statistics
+data-analytics-with-r-a-recipe-book
 modern-r-with-the-tidyverse
 stats545-data-wrangling-exploration-and-analysis-with-r
 what-they-forgot-to-teach-you-about-r
@@ -197,6 +205,7 @@ tidyverse-skills-for-data-science
 hands-on-programming-with-r
 r-for-excel-users-1
 the-r-language
+r-development-guide
 r-for-graduate-students
 r-language-for-programmers
 r-cookbook---2nd-edition
@@ -255,6 +264,7 @@ foundations-of-statistics-with-r
 handbook-of-regression-modeling-in-people-analytics-1
 learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners.-version-0.6.1
 mixed-models-with-r-getting-started-with-random-effects
+model-estimation-by-example-demonstrations-with-r
 an-introduction-to-statistical-and-data-sciences-via-r
 an-introduction-to-statistical-learning
 islr-tidymodels-labs

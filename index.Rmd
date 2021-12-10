@@ -6,6 +6,7 @@ output:
   bookdown::gitbook:
     includes:
       in_header: [plausible-analytics.html, social.html]
+      after_body: footer.html
     config:
       edit: https://github.com/oscarbaruffa/BigBookofR/edit/main/%s
       toc:

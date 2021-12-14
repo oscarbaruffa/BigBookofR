@@ -846,6 +846,14 @@ Paid ~$80
 http://ddar.datavis.ca/
 
 
+## Introduction to Econometrics with R
+
+Christoph Hanck, Martin C. Arnold, Alexander Gerber, and Martin Schmelzer
+
+Beginners with little background in statistics and econometrics often have a hard time understanding the benefits of having programming skills for learning and applying Econometrics. *Introduction to Econometrics with R* is an interactive companion to the well-received textbook *Introduction to Econometrics* by James H. Stock and Mark W. Watson (2015). It gives a gentle introduction to the essentials of R programming and guides students in implementing the empirical applications presented throughout the textbook using the newly aquired skills. This is supported by interactive programming exercises and integration of interactive visualizations of central concepts which are based on the flexible JavaScript library D3.js.
+
+<https://www.econometrics-with-r.org/>
+
 
 ## Learning Microeconometrics with R
 

@@ -3283,7 +3283,7 @@ This is material that was developed as part of a course we teach at the
 University of Washington on applied time series analysis for fisheries
 and environmental data.
 
-<https://nwfsc-timeseries.github.io/atsa-labs/>
+https://atsa-es.github.io/atsa-labs/
 
 ## Fisheries Catch Forecasting
 

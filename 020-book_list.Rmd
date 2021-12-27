@@ -26,6 +26,18 @@ books_source <- read_sheet("https://docs.google.com/spreadsheets/d/1vufdtrIzF5wb
 ```
 
 
+```{r include=FALSE}
+# TO DO -----------------------------------------------------
+
+# move Career and community chapter upfront
+# Test alphabetization
+# One book in multiple chapters
+# update readme
+# account for blank Paid text but filled amounts
+
+
+```
+
 
 
 ```{r include=FALSE}
@@ -36,6 +48,14 @@ chapters <- books_source %>%
   select(chapters) %>% 
   distinct(chapters) %>% 
   pull() 
+
+
+# Re-arrange "Career & Community" to be the first chapter
+first <-  chapters[match("Career & Community", chapters)]
+
+chapters <- chapters[chapters!=first]
+
+chapters <-  c(first, chapters)
 
 ```
 

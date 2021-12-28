@@ -31,8 +31,21 @@ books_source <- read_sheet("https://docs.google.com/spreadsheets/d/1vufdtrIzF5wb
 ```{r arrange books, include=FALSE}
 
 books_source <-  books_source %>% 
+  
+  # titles that are in multiple chapters are duplictaed into each
   separate_rows(chapters, sep = ",") %>% 
-  mutate(chapters = str_trim(chapters, side = "both"))
+  
+  #  A leading space might be easily created if comma seperation is done, so this removes it
+  mutate(chapters = str_trim(chapters, side = "both")) %>% 
+  
+  # Arrange titles alphabetically within their chapter
+  
+  group_by(chapters) %>% 
+  arrange(title, .by_group = TRUE) %>% 
+  ungroup() %>% 
+  
+  # Delete any empty rows (could occur if an entry is deleted form the google sheet)
+  filter_all(any_vars(!is.na(.)))  
 
 ```
 
@@ -55,7 +68,7 @@ books_source <-  books_source %>%
 
 
 chapters <- books_source %>% 
-  select(chapters) %>% 
+  select(chapters) %>%
   
   distinct(chapters) %>% 
   pull() 

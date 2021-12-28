@@ -6,6 +6,8 @@ knitr::opts_chunk$set(echo = TRUE)
 # Load packages -----------------------------------------------------------
 
 library(dplyr)
+library(tidyr)
+library(stringr)
 library(googlesheets4)
 
 ```
@@ -26,14 +28,22 @@ books_source <- read_sheet("https://docs.google.com/spreadsheets/d/1vufdtrIzF5wb
 ```
 
 
+```{r arrange books, include=FALSE}
+
+books_source <-  books_source %>% 
+  separate_rows(chapters, sep = ",") %>% 
+  mutate(chapters = str_trim(chapters, side = "both"))
+
+```
+
+
+
 ```{r include=FALSE}
 # TO DO -----------------------------------------------------
 
-# move Career and community chapter upfront
+
 # Test alphabetization
-# One book in multiple chapters
 # update readme
-# account for blank Paid text but filled amounts
 
 
 ```
@@ -46,6 +56,7 @@ books_source <- read_sheet("https://docs.google.com/spreadsheets/d/1vufdtrIzF5wb
 
 chapters <- books_source %>% 
   select(chapters) %>% 
+  
   distinct(chapters) %>% 
   pull() 
 
@@ -137,13 +148,31 @@ chapter_content <- books_source %>%
     cat('\n\n', as.character(chapter_content[entry, 'description']),'\n\n', sep="")   
   }
   
-  if (!is.na(chapter_content[entry, 'paid'])) {
-    cat('\n\nPaid: ', as.character(chapter_content[entry, 'paid']), sep="") 
+     
+  #Combinations of paid description and dollar amount  
+  
+    if (!is.na(chapter_content[entry, 'paid']) & !is.na(chapter_content[entry, 'amount_usd']) ) {
+      cat('\n\nPaid: ', as.character(chapter_content[entry, 'paid']), " $", as.character(chapter_content[entry, 'amount_usd']), sep="") 
+    }
     
-    if (!is.na(chapter_content[entry, 'amount_usd'])) {
-      cat(' $', as.character(chapter_content[entry, 'amount_usd']),'\n\n', sep="")   
-    } 
-  } # end paid info
+    if (is.na(chapter_content[entry, 'paid']) & !is.na(chapter_content[entry, 'amount_usd']) ) {
+      cat('\n\nPaid: ', "$", as.character(chapter_content[entry, 'amount_usd']), sep="") 
+    }
+    
+    if (!is.na(chapter_content[entry, 'paid']) & is.na(chapter_content[entry, 'amount_usd']) ) {
+      cat('\n\nPaid: ', as.character(chapter_content[entry, 'paid']), sep="") 
+    }
+    
+    # 
+    # if (!is.na(chapter_content[entry, 'paid'])) {
+    # cat('\n\nPaid: ', as.character(chapter_content[entry, 'paid']), sep="") 
+    # 
+    # if (!is.na(chapter_content[entry, 'amount_usd'])) {
+    #   cat(' $', as.character(chapter_content[entry, 'amount_usd']),'\n\n', sep="")   
+    # } 
+  #} 
+
+# end paid info
     
     
   if (!is.na(chapter_content[entry, 'link'])) {

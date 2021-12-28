@@ -56,7 +56,7 @@ books_source <-  books_source %>%
 # TO DO -----------------------------------------------------
 
 # update readme
-# Add chapter intro
+
 # add google form
 
 

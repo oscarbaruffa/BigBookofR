@@ -23,8 +23,9 @@ library(googlesheets4)
 
 gs4_deauth()
 
-books_source <- read_sheet("https://docs.google.com/spreadsheets/d/1vufdtrIzF5wbkWZUG_HGIBAXpT1C4joPx2qTh5aYzDg")
-
+books_source <- read_sheet("https://docs.google.com/spreadsheets/d/1vufdtrIzF5wbkWZUG_HGIBAXpT1C4joPx2qTh5aYzDg",
+                           sheet = "books")
+chapter_info <- read_sheet("https://docs.google.com/spreadsheets/d/1vufdtrIzF5wbkWZUG_HGIBAXpT1C4joPx2qTh5aYzDg/edit#gid=477753205", sheet="chapter_info")
 ```
 
 
@@ -55,6 +56,8 @@ books_source <-  books_source %>%
 # TO DO -----------------------------------------------------
 
 # update readme
+# Add chapter intro
+# add google form
 
 
 ```
@@ -90,6 +93,19 @@ chapters <-  c(first, chapters)
 for (chapter in chapters) {
   cat('\n\n#', chapter, '\n\n')
  
+ 
+  
+if (chapter %in% chapter_info$chapters) {
+  
+  chapter_intro <- chapter_info %>% 
+   filter(chapters == chapter) %>% 
+   select(introduction) %>% 
+   pull()
+  
+  cat('\n\n', as.character(chapter_intro), '\n\n', sep="")
+    
+}  
+  
 chapter_content <- books_source %>% 
      filter(chapters == chapter)
 

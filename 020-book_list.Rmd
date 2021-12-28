@@ -54,8 +54,6 @@ books_source <-  books_source %>%
 ```{r include=FALSE}
 # TO DO -----------------------------------------------------
 
-
-# Test alphabetization
 # update readme
 
 
@@ -176,16 +174,8 @@ chapter_content <- books_source %>%
       cat('\n\nPaid: ', as.character(chapter_content[entry, 'paid']), sep="") 
     }
     
-    # 
-    # if (!is.na(chapter_content[entry, 'paid'])) {
-    # cat('\n\nPaid: ', as.character(chapter_content[entry, 'paid']), sep="") 
-    # 
-    # if (!is.na(chapter_content[entry, 'amount_usd'])) {
-    #   cat(' $', as.character(chapter_content[entry, 'amount_usd']),'\n\n', sep="")   
-    # } 
-  #} 
-
-# end paid info
+    
+  # end paid info
     
     
   if (!is.na(chapter_content[entry, 'link'])) {
@@ -194,10 +184,6 @@ chapter_content <- books_source %>%
     
     
   } #end chapter for loop
-    
-    
-   
-    
     
     
   }

@@ -45,6 +45,7 @@ data-science
 devops-for-data-science
 r-for-data-science
 r-for-data-science-solutions
+yet-another-r-for-data-science-study-guide
 everyday-data-science
 an-introduction-to-data-analysis
 introduction-to-data-science
@@ -52,7 +53,7 @@ data-science-a-first-introduction
 data-science-at-the-command-line-2e
 practical-data-science-with-r-second-edition
 r-programming-for-data-science
-exploratory-data-analysis-by-roger-d.-peng
+exploratory-data-analysis-with-r
 edav.info
 aps-135-introduction-to-exploratory-data-analysis-with-r
 the-art-of-data-science

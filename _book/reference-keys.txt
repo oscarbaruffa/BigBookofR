@@ -66,3 +66,6 @@ r-programming-for-data-science
 the-art-of-data-science
 the-elements-of-data-analytic-style
 yet-another-r-for-data-science-study-guide
+packages
+a-minimal-book-example-1
+create-publish-and-analyze-personal-websites-using-r-and-rstudio-1

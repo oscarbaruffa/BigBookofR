@@ -15,6 +15,10 @@ r4ds-slack-community
 r-ladies-netherlands---advanced-r-by-hadley-wickham
 career-community
 build-your-career-in-data-science
+conversations-on-data-science
+essays-on-data-analysis
+executive-data-science
+getting-started-in-data-science
 archeology
 how-to-do-archaeological-science-using-r
 quantitative-methods-in-archaeology-using-r

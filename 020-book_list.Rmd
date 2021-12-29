@@ -151,7 +151,7 @@ Explores the way your brain works when it’s thinking about code. In it, you’
 
 Free & Paid ~$30
 
-[Manning publications link](https://www.manning.com/books/the-programmers-brain?utm_source=felienne&utm_medium=affiliate&utm_campaign=book_hermans2_programmers_12_8_20&a_aid=felienne&a_bid=d7c7c538)
+[Manning publications link](https://www.manning.com/books/the-programmers-brain)
 
 
 ## Project Management Fundamentals for Data Analysts
@@ -161,7 +161,7 @@ In Project Management Fundamentals for Data Analysts, I’ve boiled the concepts
 
 These concepts can be used to great effect on their own if you wish to never read another word on the topic. It’ll also provide a solid foundation if you want to dive deeper into more formal courses or sophisticated theory.
 
-Paid $15
+Paid $12
 https://oscarbaruffa.com/pm/
 
 
@@ -306,7 +306,7 @@ Solutions for the hadley and Grolemund R4Ds book
 
 <https://jrnold.github.io/r4ds-exercise-solutions/>
 
-*Yet another 'R for Data Science' study guide*
+## Yet another 'R for Data Science' study guide
 
 An alternative set of solutions for R4Ds.
 
@@ -328,7 +328,7 @@ https://gumroad.com/l/everydaydata
 ## An Introduction to Data Analysis
 Michael Franke
 
-his book provides basic reading material for an introduction to data analysis. It uses R to handle, plot and analyze data. After covering the use of R for data wrangling and plotting, the book introduces key concepts of data analysis from a Bayesian and a frequentist tradition. This text is intended for use as a first introduction to statistics for an audience with some affinity towards programming, but no prior exposition to R.
+This book provides basic reading material for an introduction to data analysis. It uses R to handle, plot and analyze data. After covering the use of R for data wrangling and plotting, the book introduces key concepts of data analysis from a Bayesian and a frequentist tradition. This text is intended for use as a first introduction to statistics for an audience with some affinity towards programming, but no prior exposition to R.
 
 https://michael-franke.github.io/intro-data-analysis/index.html
 
@@ -399,7 +399,7 @@ foundation on which to build your data science toolbox.
 
 <https://bookdown.org/rdpeng/rprogdatascience/>
 
-## Exploratory Data Analysis... by Roger D. Peng
+## Exploratory Data Analysis with R
 
 Roger Peng
 
@@ -520,7 +520,7 @@ to a variety of BI analytic methods done in R as simply as possible.
 All proceeds will support mitochondrial disorder research at Seattle
 Children's Hospital.
 
-Free or up to \$20 for a good cause!
+Free or up to $20 for a good cause!
 
 <https://leanpub.com/businessintelligencewithr>
 

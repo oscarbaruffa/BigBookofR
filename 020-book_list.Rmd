@@ -113,6 +113,7 @@ chapter_content <- books_source %>%
     
     
     #Printing Authors - bit tricky to account for if data is availabel or not, and if a link is availabel or not. 
+    # TODO: Refactor to simpler loop
     
     cat('\n\n## ', as.character(chapter_content[entry, 'title']), '\n\n', sep="")
     
@@ -163,6 +164,53 @@ chapter_content <- books_source %>%
      if (!is.na(chapter_content[entry, 'bio3'])) {
       cat('(', as.character(chapter_content[entry, 'bio3']),')', sep="")
     } #end third author
+    
+    
+    #Fourth author
+    if (!is.na(chapter_content[entry, 'author4'])) {
+      
+      if (!is.na(chapter_content[entry, 'bio4'])) {
+        cat(', [', as.character(chapter_content[entry, 'author4']),']', sep="")
+      } else {
+      cat(', ', as.character(chapter_content[entry, 'author4']), sep="")
+      }
+    }
+    
+      
+     if (!is.na(chapter_content[entry, 'bio4'])) {
+      cat('(', as.character(chapter_content[entry, 'bio4']),')', sep="")
+    } #end fourth author
+    
+    
+    #fifth author
+    if (!is.na(chapter_content[entry, 'author5'])) {
+      
+      if (!is.na(chapter_content[entry, 'bio5'])) {
+        cat(', [', as.character(chapter_content[entry, 'author5']),']', sep="")
+      } else {
+      cat(', ', as.character(chapter_content[entry, 'author5']), sep="")
+      }
+    }
+    
+      
+     if (!is.na(chapter_content[entry, 'bio5'])) {
+      cat('(', as.character(chapter_content[entry, 'bio5']),')', sep="")
+    } #end fifth author
+    
+    #Sixth author
+    if (!is.na(chapter_content[entry, 'author6'])) {
+      
+      if (!is.na(chapter_content[entry, 'bio6'])) {
+        cat(', [', as.character(chapter_content[entry, 'author6']),']', sep="")
+      } else {
+      cat(', ', as.character(chapter_content[entry, 'author6']), sep="")
+      }
+    }
+    
+      
+     if (!is.na(chapter_content[entry, 'bio6'])) {
+      cat('(', as.character(chapter_content[entry, 'bio6']),')', sep="")
+    } #end sixth author
     
     #Additional authors
     if (!is.na(chapter_content[entry, 'others'])) {

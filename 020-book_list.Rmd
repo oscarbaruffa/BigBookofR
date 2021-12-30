@@ -34,7 +34,7 @@ chapter_info <- read_sheet("https://docs.google.com/spreadsheets/d/1vufdtrIzF5wb
 books_source <-  books_source %>% 
   
   # titles that are in multiple chapters are duplictaed into each
-  separate_rows(chapters, sep = ",") %>% 
+  separate_rows(chapters, sep = ";") %>% 
   
   #  A leading space might be easily created if comma seperation is done, so this removes it
   mutate(chapters = str_trim(chapters, side = "both")) %>% 

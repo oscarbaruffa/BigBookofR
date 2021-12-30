@@ -647,7 +647,7 @@ The book is free online.
 This document provides some tools, demonstrations, and more to make data
 processing, programming, modeling, visualization, and presentation
 easier.While the programming language focus is on R, where applicable
-(which is most of the time), Python notebooks are also available,.
+(which is most of the time), Python notebooks are also available.
 
 <https://m-clark.github.io/data-processing-and-visualization/>
 

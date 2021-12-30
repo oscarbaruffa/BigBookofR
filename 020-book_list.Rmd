@@ -212,11 +212,7 @@ chapter_content <- books_source %>%
       cat('(', as.character(chapter_content[entry, 'bio6']),')', sep="")
     } #end sixth author
     
-    #Additional authors
-    if (!is.na(chapter_content[entry, 'others'])) {
-       cat('(', as.character(chapter_content[entry, 'others']),')', sep="")
-      
-    } #end additional authors
+    
     
       
   if (!is.na(chapter_content[entry, 'description'])) {

@@ -2316,7 +2316,7 @@ book, 126 pages only.
 Derek l. Sonderegger
 
 This book is intended to guide people that are completely new to
-programming along a path towards a useful skill level using R. I belive
+programming along a path towards a useful skill level using R. I believe
 that while people can get by with just copying code chunks, that doesn't
 give them the background information to modify the code in non-trivial
 ways. Therefore we will spend more time on foundational details than a
@@ -2328,7 +2328,7 @@ ways. Therefore we will spend more time on foundational details than a
 
 Reto Stauffer, Joanna Chimiak-Opoka, Thorsten Simon, Achim Zeileis
 
-a learning resource for programming novices who want to learn
+A learning resource for programming novices who want to learn
 programming using the statistical programming language R. While one of
 the major strengths of R is the broad variety of packages for statistics
 and data science, this resource focuses on learning and understanding

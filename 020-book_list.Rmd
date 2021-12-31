@@ -2801,13 +2801,13 @@ undergraduates in Psychology. This textbook is part of a larger OER
 course package for teaching undergraduate statistics in Psychology,
 including this textbook, a lab manual, and a course website.
 
-Looks like a comprehensive stats resource!
+(Oscar's note:Looks like a comprehensive stats resource!)
 
 <https://crumplab.github.io/statistics/>
 
 ## Bayes rules!
 
--   Alicia A. Johnson, [Miles Ott](twitter.com/Miles_Ott), [Mine
+-   Alicia A. Johnson, [Miles Ott](https://twitter.com/Miles_Ott), [Mine
     Dogucu](https://twitter.com/MineDogucu)
 
 The primary goal of Bayes Rules! is to make modern Bayesian thinking,

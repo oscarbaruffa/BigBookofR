@@ -3315,7 +3315,7 @@ This book is free online.
 [Desirée De Leon](https://desiree.rbind.io/) and [Alison
 Hill](https://alison.rbind.io/)
 
-> A Handbook for Teaching and Learning with R and RStudio
+A Handbook for Teaching and Learning with R and RStudio
 
 A book for educators in the data science space who wish to create
 educational materials that are engaging for students and inspiring to
@@ -3334,8 +3334,8 @@ other educators. This book is a cookbook for generating materials for
 
 Greg Wilson
 
-Not an R book per se, but comes highly recommended about how to teach
-programming.
+(Oscar's note: Not an R book per se, but comes highly recommended about how to teach
+programming.)
 
 Grassroots groups have sprung up around the world to teach programming,
 web design, robotics, and other skills to free-range learners. These

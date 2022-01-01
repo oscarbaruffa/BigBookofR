@@ -48,6 +48,15 @@ books_source <-  books_source %>%
   # Delete any empty rows (could occur if an entry is deleted form the google sheet)
   filter_all(any_vars(!is.na(.)))  
 
+
+#save latest as an R object
+save(books_source, file = "data/books_source.rda")
+
+
+#save a backup
+save(books_source, file = paste0("data/books_source_", as.character(Sys.Date()), ".rda", sep=""))
+
+
 ```
 
 

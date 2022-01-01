@@ -55,10 +55,6 @@ books_source <-  books_source %>%
 ```{r include=FALSE}
 # TO DO -----------------------------------------------------
 
-# update readme
-
-# add google form
-
 # save data to an rda file
 
 #Refactor authors to simpler loop

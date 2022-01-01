@@ -1,0 +1,1020 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>21 R programming | Big Book of R</title>
+  <meta name="description" content="21 R programming | Big Book of R" />
+  <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="21 R programming | Big Book of R" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="21 R programming | Big Book of R" />
+  
+  
+  
+
+<meta name="author" content="Oscar Baruffa" />
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="r-package-development.html"/>
+<link rel="next" href="reports-r-markdown-and-knitr.html"/>
+<script src="libs/header-attrs-2.6/header-attrs.js"></script>
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+<script async defer data-domain="bigbookofr.com" src="https://plausible.io/js/plausible.outbound-links.js"></script>
+<meta property="og:title" content="21 R programming | Big Book of R">
+<meta property="og:description" content="200+ Free R programming books">
+<meta property="og:image" content="https://www.bigbookofr.com/images/big_book_social.png">
+<meta property="og:url" content="https://www.bigbookofr.com/">
+<meta property="og:site_name" content="21 R programming | Big Book of R">
+
+<meta name="twitter:title" content="21 R programming | Big Book of R">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:alt" content="200+ Free R programming books">
+<meta name="twitter:site" content="@oscarbaruffa">
+<meta name="twitter:description" content="200+ Free R programming books">
+<meta name="twitter:image" content="https://www.bigbookofr.com/images/big_book_social.png">
+
+
+
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<br/><center><b><a href="./index.html">&nbsp&nbspBig Book of R</a></b></center></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Welcome :)</a>
+<ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#your-last-ever-bookmark"><i class="fa fa-check"></i><b>1.1</b> Your last-ever bookmark</a></li>
+<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#searching"><i class="fa fa-check"></i><b>1.2</b> Searching</a></li>
+<li class="chapter" data-level="1.3" data-path="index.html"><a href="index.html#contributing"><i class="fa fa-check"></i><b>1.3</b> Contributing</a></li>
+<li class="chapter" data-level="1.4" data-path="index.html"><a href="index.html#contributors"><i class="fa fa-check"></i><b>1.4</b> Contributors</a></li>
+<li class="chapter" data-level="1.5" data-path="index.html"><a href="index.html#licence"><i class="fa fa-check"></i><b>1.5</b> Licence</a></li>
+<li class="chapter" data-level="1.6" data-path="index.html"><a href="index.html#live-stats"><i class="fa fa-check"></i><b>1.6</b> Live stats</a></li>
+<li class="chapter" data-level="1.7" data-path="index.html"><a href="index.html#about-me"><i class="fa fa-check"></i><b>1.7</b> About me</a></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html"><i class="fa fa-check"></i><b>2</b> New to R? Start here</a>
+<ul>
+<li class="chapter" data-level="2.0.1" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html#book-r-for-data-science"><i class="fa fa-check"></i><b>2.0.1</b> Book: R for Data Science</a></li>
+<li class="chapter" data-level="2.0.2" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html#video-course-getting-started-with-r"><i class="fa fa-check"></i><b>2.0.2</b> Video Course: Getting started with R</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="book-clubs.html"><a href="book-clubs.html"><i class="fa fa-check"></i><b>3</b> Book Clubs</a>
+<ul>
+<li class="chapter" data-level="3.1" data-path="book-clubs.html"><a href="book-clubs.html#nhs-r-community"><i class="fa fa-check"></i><b>3.1</b> NHS-R community</a></li>
+<li class="chapter" data-level="3.2" data-path="book-clubs.html"><a href="book-clubs.html#r4ds-slack-community"><i class="fa fa-check"></i><b>3.2</b> R4DS Slack Community</a></li>
+<li class="chapter" data-level="3.3" data-path="book-clubs.html"><a href="book-clubs.html#r-ladies-netherlands---advanced-r-by-hadley-wickham"><i class="fa fa-check"></i><b>3.3</b> R-ladies Netherlands - Advanced R by Hadley Wickham</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="career-community.html"><a href="career-community.html"><i class="fa fa-check"></i><b>4</b> Career &amp; Community</a>
+<ul>
+<li class="chapter" data-level="4.1" data-path="career-community.html"><a href="career-community.html#ace-the-data-science-interview"><i class="fa fa-check"></i><b>4.1</b> Ace The Data Science Interview</a></li>
+<li class="chapter" data-level="4.2" data-path="career-community.html"><a href="career-community.html#build-your-career-in-data-science"><i class="fa fa-check"></i><b>4.2</b> Build Your Career in Data Science</a></li>
+<li class="chapter" data-level="4.3" data-path="career-community.html"><a href="career-community.html#conversations-on-data-science"><i class="fa fa-check"></i><b>4.3</b> Conversations On Data Science</a></li>
+<li class="chapter" data-level="4.4" data-path="career-community.html"><a href="career-community.html#essays-on-data-analysis"><i class="fa fa-check"></i><b>4.4</b> Essays on Data Analysis</a></li>
+<li class="chapter" data-level="4.5" data-path="career-community.html"><a href="career-community.html#executive-data-science"><i class="fa fa-check"></i><b>4.5</b> Executive Data Science</a></li>
+<li class="chapter" data-level="4.6" data-path="career-community.html"><a href="career-community.html#getting-started-in-data-science"><i class="fa fa-check"></i><b>4.6</b> Getting Started in Data Science</a></li>
+<li class="chapter" data-level="4.7" data-path="career-community.html"><a href="career-community.html#hiring-data-scientists-and-machine-learning-engineers"><i class="fa fa-check"></i><b>4.7</b> Hiring Data Scientists and Machine Learning Engineers</a></li>
+<li class="chapter" data-level="4.8" data-path="career-community.html"><a href="career-community.html#introduction-to-machine-learning-interviews-book"><i class="fa fa-check"></i><b>4.8</b> Introduction to Machine Learning Interviews Book</a></li>
+<li class="chapter" data-level="4.9" data-path="career-community.html"><a href="career-community.html#project-management-fundamentals-for-data-analysts"><i class="fa fa-check"></i><b>4.9</b> Project Management Fundamentals for Data Analysts</a></li>
+<li class="chapter" data-level="4.10" data-path="career-community.html"><a href="career-community.html#telling-stories-with-data"><i class="fa fa-check"></i><b>4.10</b> Telling Stories With Data</a></li>
+<li class="chapter" data-level="4.11" data-path="career-community.html"><a href="career-community.html#the-programmers-brain-what-every-programmer-needs-to-know-about-cognition"><i class="fa fa-check"></i><b>4.11</b> The Programmer’s Brain : What every programmer needs to know about cognition</a></li>
+<li class="chapter" data-level="4.12" data-path="career-community.html"><a href="career-community.html#twitter-for-r-programmers"><i class="fa fa-check"></i><b>4.12</b> Twitter for R Programmers</a></li>
+<li class="chapter" data-level="4.13" data-path="career-community.html"><a href="career-community.html#twitter-for-scientists"><i class="fa fa-check"></i><b>4.13</b> Twitter for Scientists</a></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="archeology.html"><a href="archeology.html"><i class="fa fa-check"></i><b>5</b> Archeology</a>
+<ul>
+<li class="chapter" data-level="5.1" data-path="archeology.html"><a href="archeology.html#how-to-do-archaeological-science-using-r"><i class="fa fa-check"></i><b>5.1</b> How To Do Archaeological Science Using R</a></li>
+<li class="chapter" data-level="5.2" data-path="archeology.html"><a href="archeology.html#quantitative-methods-in-archaeology-using-r"><i class="fa fa-check"></i><b>5.2</b> Quantitative Methods in Archaeology Using R</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="art.html"><a href="art.html"><i class="fa fa-check"></i><b>6</b> Art</a>
+<ul>
+<li class="chapter" data-level="6.1" data-path="art.html"><a href="art.html#thinking-outside-the-grid---a-bare-bones-intro-to-rtistry-concepts-in-r-using-ggplot."><i class="fa fa-check"></i><b>6.1</b> Thinking Outside The Grid - A “bare bones” intro to Rtistry concepts in R using ggplot.</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="big-data.html"><a href="big-data.html"><i class="fa fa-check"></i><b>7</b> Big Data</a>
+<ul>
+<li class="chapter" data-level="7.1" data-path="big-data.html"><a href="big-data.html#exploring-visualizing-and-modeling-big-data-with-r"><i class="fa fa-check"></i><b>7.1</b> Exploring, Visualizing, and Modeling Big Data with R</a></li>
+<li class="chapter" data-level="7.2" data-path="big-data.html"><a href="big-data.html#mastering-spark-with-r"><i class="fa fa-check"></i><b>7.2</b> Mastering Spark with R</a></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="blogdown.html"><a href="blogdown.html"><i class="fa fa-check"></i><b>8</b> Blogdown</a>
+<ul>
+<li class="chapter" data-level="8.1" data-path="blogdown.html"><a href="blogdown.html#blogdown-creating-websites-with-r-markdown"><i class="fa fa-check"></i><b>8.1</b> blogdown: Creating Websites with R Markdown</a></li>
+<li class="chapter" data-level="8.2" data-path="blogdown.html"><a href="blogdown.html#create-publish-and-analyze-personal-websites-using-r-and-rstudio"><i class="fa fa-check"></i><b>8.2</b> Create, Publish, and Analyze Personal Websites Using R and RStudio</a></li>
+<li class="chapter" data-level="8.3" data-path="blogdown.html"><a href="blogdown.html#httpsr4sites-book.netlify.app"><i class="fa fa-check"></i><b>8.3</b> <span>https://r4sites-book.netlify.app/</span></a></li>
+</ul></li>
+<li class="chapter" data-level="9" data-path="bookdown.html"><a href="bookdown.html"><i class="fa fa-check"></i><b>9</b> Bookdown</a>
+<ul>
+<li class="chapter" data-level="9.1" data-path="bookdown.html"><a href="bookdown.html#a-minimal-book-example"><i class="fa fa-check"></i><b>9.1</b> A Minimal Book Example</a></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="data-science.html"><a href="data-science.html"><i class="fa fa-check"></i><b>10</b> Data Science</a>
+<ul>
+<li class="chapter" data-level="10.1" data-path="data-science.html"><a href="data-science.html#a-business-analysts-introduction-to-business-analytics"><i class="fa fa-check"></i><b>10.1</b> A Business Analyst’s Introduction to Business Analytics</a></li>
+<li class="chapter" data-level="10.2" data-path="data-science.html"><a href="data-science.html#an-introduction-to-data-analysis"><i class="fa fa-check"></i><b>10.2</b> An Introduction to Data Analysis</a></li>
+<li class="chapter" data-level="10.3" data-path="data-science.html"><a href="data-science.html#aps-135-introduction-to-exploratory-data-analysis-with-r"><i class="fa fa-check"></i><b>10.3</b> APS 135: Introduction to Exploratory Data Analysis with R</a></li>
+<li class="chapter" data-level="10.4" data-path="data-science.html"><a href="data-science.html#beginning-data-science-in-r"><i class="fa fa-check"></i><b>10.4</b> Beginning Data Science in R</a></li>
+<li class="chapter" data-level="10.5" data-path="data-science.html"><a href="data-science.html#business-case-analysis-with-r---simulation-tutorials-to-support-complex-business-decisions"><i class="fa fa-check"></i><b>10.5</b> Business Case Analysis with R - Simulation Tutorials to Support Complex Business Decisions</a></li>
+<li class="chapter" data-level="10.6" data-path="data-science.html"><a href="data-science.html#business-intelligence-with-r"><i class="fa fa-check"></i><b>10.6</b> Business Intelligence with R</a></li>
+<li class="chapter" data-level="10.7" data-path="data-science.html"><a href="data-science.html#data-science-at-the-command-line-2e"><i class="fa fa-check"></i><b>10.7</b> Data Science at the Command Line, 2e</a></li>
+<li class="chapter" data-level="10.8" data-path="data-science.html"><a href="data-science.html#data-science-a-first-introduction"><i class="fa fa-check"></i><b>10.8</b> Data Science: A First Introduction</a></li>
+<li class="chapter" data-level="10.9" data-path="data-science.html"><a href="data-science.html#devops-for-data-science"><i class="fa fa-check"></i><b>10.9</b> DevOps for Data Science</a></li>
+<li class="chapter" data-level="10.10" data-path="data-science.html"><a href="data-science.html#edav.info"><i class="fa fa-check"></i><b>10.10</b> edav.info/</a></li>
+<li class="chapter" data-level="10.11" data-path="data-science.html"><a href="data-science.html#everyday-data-science"><i class="fa fa-check"></i><b>10.11</b> Everyday Data Science</a></li>
+<li class="chapter" data-level="10.12" data-path="data-science.html"><a href="data-science.html#exploratory-data-analysis-with-r"><i class="fa fa-check"></i><b>10.12</b> Exploratory Data Analysis with R</a></li>
+<li class="chapter" data-level="10.13" data-path="data-science.html"><a href="data-science.html#introduction-to-data-science"><i class="fa fa-check"></i><b>10.13</b> Introduction to Data Science</a></li>
+<li class="chapter" data-level="10.14" data-path="data-science.html"><a href="data-science.html#model-based-clustering-and-classification-for-data-science"><i class="fa fa-check"></i><b>10.14</b> Model-Based Clustering and Classification for Data Science</a></li>
+<li class="chapter" data-level="10.15" data-path="data-science.html"><a href="data-science.html#modern-data-science-with-r"><i class="fa fa-check"></i><b>10.15</b> Modern Data Science with R</a></li>
+<li class="chapter" data-level="10.16" data-path="data-science.html"><a href="data-science.html#modern-statistics-with-r"><i class="fa fa-check"></i><b>10.16</b> Modern Statistics with R</a></li>
+<li class="chapter" data-level="10.17" data-path="data-science.html"><a href="data-science.html#practical-data-science-with-r-second-edition"><i class="fa fa-check"></i><b>10.17</b> Practical Data Science with R, Second Edition</a></li>
+<li class="chapter" data-level="10.18" data-path="data-science.html"><a href="data-science.html#r-data-science-quick-reference"><i class="fa fa-check"></i><b>10.18</b> R Data Science Quick Reference</a></li>
+<li class="chapter" data-level="10.19" data-path="data-science.html"><a href="data-science.html#r-for-data-science"><i class="fa fa-check"></i><b>10.19</b> R for Data Science</a></li>
+<li class="chapter" data-level="10.20" data-path="data-science.html"><a href="data-science.html#r-for-data-science-solutions"><i class="fa fa-check"></i><b>10.20</b> R for Data Science Solutions</a></li>
+<li class="chapter" data-level="10.21" data-path="data-science.html"><a href="data-science.html#r-programming-for-data-science"><i class="fa fa-check"></i><b>10.21</b> R Programming for Data Science</a></li>
+<li class="chapter" data-level="10.22" data-path="data-science.html"><a href="data-science.html#the-art-of-data-science"><i class="fa fa-check"></i><b>10.22</b> The Art of Data Science</a></li>
+<li class="chapter" data-level="10.23" data-path="data-science.html"><a href="data-science.html#the-elements-of-data-analytic-style"><i class="fa fa-check"></i><b>10.23</b> The Elements of Data Analytic Style</a></li>
+<li class="chapter" data-level="10.24" data-path="data-science.html"><a href="data-science.html#yet-another-r-for-data-science-study-guide"><i class="fa fa-check"></i><b>10.24</b> Yet another ‘R for Data Science’ study guide</a></li>
+</ul></li>
+<li class="chapter" data-level="11" data-path="data-visualization.html"><a href="data-visualization.html"><i class="fa fa-check"></i><b>11</b> Data Visualization</a>
+<ul>
+<li class="chapter" data-level="11.1" data-path="data-visualization.html"><a href="data-visualization.html#a-ggplot2-tutorial-for-beautiful-plotting-in-r"><i class="fa fa-check"></i><b>11.1</b> A ggplot2 Tutorial for Beautiful Plotting in R</a></li>
+<li class="chapter" data-level="11.2" data-path="data-visualization.html"><a href="data-visualization.html#bbc-visual-and-data-journalism-cookbook-for-r-graphics"><i class="fa fa-check"></i><b>11.2</b> BBC Visual and Data Journalism cookbook for R graphics</a></li>
+<li class="chapter" data-level="11.3" data-path="data-visualization.html"><a href="data-visualization.html#data-processing-visualization"><i class="fa fa-check"></i><b>11.3</b> Data Processing &amp; Visualization</a></li>
+<li class="chapter" data-level="11.4" data-path="data-visualization.html"><a href="data-visualization.html#data-visualisation-using-r-for-researchers-who-dont-use-r"><i class="fa fa-check"></i><b>11.4</b> Data visualisation using R, for researchers who don’t use R</a></li>
+<li class="chapter" data-level="11.5" data-path="data-visualization.html"><a href="data-visualization.html#data-visualization---a-practical-introduction"><i class="fa fa-check"></i><b>11.5</b> Data Visualization - A practical introduction</a></li>
+<li class="chapter" data-level="11.6" data-path="data-visualization.html"><a href="data-visualization.html#data-visualization-in-r"><i class="fa fa-check"></i><b>11.6</b> Data Visualization in R</a></li>
+<li class="chapter" data-level="11.7" data-path="data-visualization.html"><a href="data-visualization.html#data-visualization-with-r"><i class="fa fa-check"></i><b>11.7</b> Data Visualization with R</a></li>
+<li class="chapter" data-level="11.8" data-path="data-visualization.html"><a href="data-visualization.html#fundamentals-of-data-visualization"><i class="fa fa-check"></i><b>11.8</b> Fundamentals of Data Visualization</a></li>
+<li class="chapter" data-level="11.9" data-path="data-visualization.html"><a href="data-visualization.html#ggplot2-in-2"><i class="fa fa-check"></i><b>11.9</b> ggplot2 in 2</a></li>
+<li class="chapter" data-level="11.10" data-path="data-visualization.html"><a href="data-visualization.html#ggplot2-elegant-graphics-for-data-analysis"><i class="fa fa-check"></i><b>11.10</b> ggplot2: Elegant Graphics for Data Analysis</a></li>
+<li class="chapter" data-level="11.11" data-path="data-visualization.html"><a href="data-visualization.html#graphical-data-analysis-with-r"><i class="fa fa-check"></i><b>11.11</b> Graphical Data Analysis with R</a></li>
+<li class="chapter" data-level="11.12" data-path="data-visualization.html"><a href="data-visualization.html#hands-on-data-visualization-interactive-storytelling-from-spreadsheets-to-code"><i class="fa fa-check"></i><b>11.12</b> Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code</a></li>
+<li class="chapter" data-level="11.13" data-path="data-visualization.html"><a href="data-visualization.html#javascript-for-r"><i class="fa fa-check"></i><b>11.13</b> JavaScript for R</a></li>
+<li class="chapter" data-level="11.14" data-path="data-visualization.html"><a href="data-visualization.html#plotly-interactive-web-based-data-visualization-with-r-plotly-and-shiny"><i class="fa fa-check"></i><b>11.14</b> plotly Interactive web-based data visualization with R, plotly, and shiny</a></li>
+<li class="chapter" data-level="11.15" data-path="data-visualization.html"><a href="data-visualization.html#r-graphics-cookbook-2nd-edition"><i class="fa fa-check"></i><b>11.15</b> R Graphics Cookbook, 2nd edition</a></li>
+<li class="chapter" data-level="11.16" data-path="data-visualization.html"><a href="data-visualization.html#solutions-to-ggplot2-elegant-graphics-for-data-analysis"><i class="fa fa-check"></i><b>11.16</b> Solutions to ggplot2: Elegant Graphics for Data Analysis</a></li>
+</ul></li>
+<li class="chapter" data-level="12" data-path="field-specific.html"><a href="field-specific.html"><i class="fa fa-check"></i><b>12</b> Field specific</a>
+<ul>
+<li class="chapter" data-level="12.1" data-path="field-specific.html"><a href="field-specific.html#an-introduction-to-quantitative-analysis-of-political-data-in-r"><i class="fa fa-check"></i><b>12.1</b> An introduction to quantitative analysis of political data in R</a></li>
+<li class="chapter" data-level="12.2" data-path="field-specific.html"><a href="field-specific.html#analyzing-financial-and-economic-data-with-r"><i class="fa fa-check"></i><b>12.2</b> Analyzing Financial and Economic Data with R</a></li>
+<li class="chapter" data-level="12.3" data-path="field-specific.html"><a href="field-specific.html#computer-age-calculus-with-r"><i class="fa fa-check"></i><b>12.3</b> Computer-age Calculus with R</a></li>
+<li class="chapter" data-level="12.4" data-path="field-specific.html"><a href="field-specific.html#crime-by-the-numbers-a-criminologists-guide-to-r"><i class="fa fa-check"></i><b>12.4</b> Crime by the Numbers: A Criminologist’s Guide to R</a></li>
+<li class="chapter" data-level="12.5" data-path="field-specific.html"><a href="field-specific.html#cryptocurrency-research-open-source-r-tutorial"><i class="fa fa-check"></i><b>12.5</b> Cryptocurrency Research: Open Source R Tutorial</a></li>
+<li class="chapter" data-level="12.6" data-path="field-specific.html"><a href="field-specific.html#data-science-in-education-using-r"><i class="fa fa-check"></i><b>12.6</b> Data Science in Education Using R</a></li>
+<li class="chapter" data-level="12.7" data-path="field-specific.html"><a href="field-specific.html#data-skills-for-reproducible-science"><i class="fa fa-check"></i><b>12.7</b> Data Skills for Reproducible Science</a></li>
+<li class="chapter" data-level="12.8" data-path="field-specific.html"><a href="field-specific.html#discrete-data-analysis-with-r-visualization-and-modeling-techniques-for-categorical-and-count-data"><i class="fa fa-check"></i><b>12.8</b> Discrete Data Analysis with R: Visualization and Modeling Techniques for Categorical and Count Data</a></li>
+<li class="chapter" data-level="12.9" data-path="field-specific.html"><a href="field-specific.html#handbook-of-graphs-and-networks-in-people-analytics-with-examples-in-r-and-python"><i class="fa fa-check"></i><b>12.9</b> Handbook of Graphs and Networks in People Analytics: With Examples in R and Python</a></li>
+<li class="chapter" data-level="12.10" data-path="field-specific.html"><a href="field-specific.html#handbook-of-regression-modeling-in-people-analytics"><i class="fa fa-check"></i><b>12.10</b> Handbook of Regression Modeling in People Analytics</a></li>
+<li class="chapter" data-level="12.11" data-path="field-specific.html"><a href="field-specific.html#how-to-be-a-modern-scientist"><i class="fa fa-check"></i><b>12.11</b> How to be a modern scientist</a></li>
+<li class="chapter" data-level="12.12" data-path="field-specific.html"><a href="field-specific.html#introduction-to-econometrics-with-r"><i class="fa fa-check"></i><b>12.12</b> Introduction to Econometrics with R</a></li>
+<li class="chapter" data-level="12.13" data-path="field-specific.html"><a href="field-specific.html#learning-microeconometrics-with-r"><i class="fa fa-check"></i><b>12.13</b> Learning Microeconometrics with R</a></li>
+<li class="chapter" data-level="12.14" data-path="field-specific.html"><a href="field-specific.html#machine-learning-for-factor-investing"><i class="fa fa-check"></i><b>12.14</b> Machine Learning for Factor Investing</a></li>
+<li class="chapter" data-level="12.15" data-path="field-specific.html"><a href="field-specific.html#public-policy-analytics-code-context-for-data-science-in-government"><i class="fa fa-check"></i><b>12.15</b> Public Policy Analytics: Code &amp; Context for Data Science in Government</a></li>
+<li class="chapter" data-level="12.16" data-path="field-specific.html"><a href="field-specific.html#r-for-excel-users"><i class="fa fa-check"></i><b>12.16</b> R for Excel users</a></li>
+<li class="chapter" data-level="12.17" data-path="field-specific.html"><a href="field-specific.html#r-for-seo"><i class="fa fa-check"></i><b>12.17</b> R for SEO</a></li>
+<li class="chapter" data-level="12.18" data-path="field-specific.html"><a href="field-specific.html#r-for-water-resources-data-science"><i class="fa fa-check"></i><b>12.18</b> R for Water Resources Data Science</a></li>
+<li class="chapter" data-level="12.19" data-path="field-specific.html"><a href="field-specific.html#r-programming-with-minecraft"><i class="fa fa-check"></i><b>12.19</b> R Programming with Minecraft</a></li>
+<li class="chapter" data-level="12.20" data-path="field-specific.html"><a href="field-specific.html#technical-foundations-of-informatics"><i class="fa fa-check"></i><b>12.20</b> Technical Foundations of Informatics</a></li>
+</ul></li>
+<li class="chapter" data-level="13" data-path="geospatial.html"><a href="geospatial.html"><i class="fa fa-check"></i><b>13</b> Geospatial</a>
+<ul>
+<li class="chapter" data-level="13.1" data-path="geospatial.html"><a href="geospatial.html#geocomputation-with-r"><i class="fa fa-check"></i><b>13.1</b> Geocomputation with R</a></li>
+<li class="chapter" data-level="13.2" data-path="geospatial.html"><a href="geospatial.html#geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny"><i class="fa fa-check"></i><b>13.2</b> Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny</a></li>
+<li class="chapter" data-level="13.3" data-path="geospatial.html"><a href="geospatial.html#introduction-to-spatial-data-programming-with-r"><i class="fa fa-check"></i><b>13.3</b> Introduction to Spatial Data Programming with R</a></li>
+<li class="chapter" data-level="13.4" data-path="geospatial.html"><a href="geospatial.html#predictive-soil-mapping-with-r"><i class="fa fa-check"></i><b>13.4</b> Predictive Soil Mapping with R</a></li>
+<li class="chapter" data-level="13.5" data-path="geospatial.html"><a href="geospatial.html#spatial-data-science"><i class="fa fa-check"></i><b>13.5</b> Spatial Data Science</a></li>
+<li class="chapter" data-level="13.6" data-path="geospatial.html"><a href="geospatial.html#spatial-microsimulation-with-r"><i class="fa fa-check"></i><b>13.6</b> Spatial Microsimulation with R</a></li>
+<li class="chapter" data-level="13.7" data-path="geospatial.html"><a href="geospatial.html#spatial-modelling-for-data-scientists"><i class="fa fa-check"></i><b>13.7</b> Spatial Modelling for Data Scientists</a></li>
+<li class="chapter" data-level="13.8" data-path="geospatial.html"><a href="geospatial.html#using-r-for-digital-soil-mapping"><i class="fa fa-check"></i><b>13.8</b> Using R for Digital Soil Mapping</a></li>
+</ul></li>
+<li class="chapter" data-level="14" data-path="getting-cleaning-and-wrangling-data.html"><a href="getting-cleaning-and-wrangling-data.html"><i class="fa fa-check"></i><b>14</b> Getting, cleaning and wrangling data</a>
+<ul>
+<li class="chapter" data-level="14.1" data-path="getting-cleaning-and-wrangling-data.html"><a href="getting-cleaning-and-wrangling-data.html#recipes-for-mining-twitter-data-with-rtweet"><i class="fa fa-check"></i><b>14.1</b> 21 Recipes for Mining Twitter Data with rtweet</a></li>
+<li class="chapter" data-level="14.2" data-path="getting-cleaning-and-wrangling-data.html"><a href="getting-cleaning-and-wrangling-data.html#a-beginners-guide-to-clean-data"><i class="fa fa-check"></i><b>14.2</b> A Beginner’s Guide to Clean Data</a></li>
+<li class="chapter" data-level="14.3" data-path="getting-cleaning-and-wrangling-data.html"><a href="getting-cleaning-and-wrangling-data.html#spreadsheet-munging-strategies"><i class="fa fa-check"></i><b>14.3</b> Spreadsheet Munging Strategies</a></li>
+<li class="chapter" data-level="14.4" data-path="getting-cleaning-and-wrangling-data.html"><a href="getting-cleaning-and-wrangling-data.html#text-mining-with-r"><i class="fa fa-check"></i><b>14.4</b> Text Mining with R</a></li>
+<li class="chapter" data-level="14.5" data-path="getting-cleaning-and-wrangling-data.html"><a href="getting-cleaning-and-wrangling-data.html#text-mining-with-tidy-data-principles"><i class="fa fa-check"></i><b>14.5</b> Text Mining With Tidy Data Principles</a></li>
+</ul></li>
+<li class="chapter" data-level="15" data-path="journalism.html"><a href="journalism.html"><i class="fa fa-check"></i><b>15</b> Journalism</a>
+<ul>
+<li class="chapter" data-level="15.1" data-path="journalism.html"><a href="journalism.html#practical-r-for-mass-communication-and-journalism"><i class="fa fa-check"></i><b>15.1</b> Practical R for Mass Communication and Journalism</a></li>
+<li class="chapter" data-level="15.2" data-path="journalism.html"><a href="journalism.html#using-r-for-data-journalism"><i class="fa fa-check"></i><b>15.2</b> Using R for Data Journalism</a></li>
+</ul></li>
+<li class="chapter" data-level="16" data-path="life-sciences.html"><a href="life-sciences.html"><i class="fa fa-check"></i><b>16</b> Life Sciences</a>
+<ul>
+<li class="chapter" data-level="16.1" data-path="life-sciences.html"><a href="life-sciences.html#an-open-compendium-of-soil-datasets"><i class="fa fa-check"></i><b>16.1</b> An Open Compendium of Soil Datasets</a></li>
+<li class="chapter" data-level="16.2" data-path="life-sciences.html"><a href="life-sciences.html#assigning-cell-types-with-singler"><i class="fa fa-check"></i><b>16.2</b> Assigning cell types with SingleR</a></li>
+<li class="chapter" data-level="16.3" data-path="life-sciences.html"><a href="life-sciences.html#computational-genomics-with-r"><i class="fa fa-check"></i><b>16.3</b> Computational Genomics with R</a></li>
+<li class="chapter" data-level="16.4" data-path="life-sciences.html"><a href="life-sciences.html#data-analysis-and-visualization-in-r-for-ecologists"><i class="fa fa-check"></i><b>16.4</b> Data Analysis and Visualization in R for Ecologists</a></li>
+<li class="chapter" data-level="16.5" data-path="life-sciences.html"><a href="life-sciences.html#data-analysis-for-the-life-sciences"><i class="fa fa-check"></i><b>16.5</b> Data Analysis for the Life Sciences</a></li>
+<li class="chapter" data-level="16.6" data-path="life-sciences.html"><a href="life-sciences.html#data-science-for-the-biomedical-sciences"><i class="fa fa-check"></i><b>16.6</b> Data Science for the Biomedical Sciences</a></li>
+<li class="chapter" data-level="16.7" data-path="life-sciences.html"><a href="life-sciences.html#experimental-design-for-laboratory-biologists-maximising-information-and-improving-reproducibility"><i class="fa fa-check"></i><b>16.7</b> Experimental Design for Laboratory Biologists: Maximising Information and Improving Reproducibility</a></li>
+<li class="chapter" data-level="16.8" data-path="life-sciences.html"><a href="life-sciences.html#git-and-github-for-advanced-ecological-data-analysis"><i class="fa fa-check"></i><b>16.8</b> Git and Github for Advanced Ecological Data Analysis</a></li>
+<li class="chapter" data-level="16.9" data-path="life-sciences.html"><a href="life-sciences.html#hydroinformatics-at-vt"><i class="fa fa-check"></i><b>16.9</b> Hydroinformatics at VT</a></li>
+<li class="chapter" data-level="16.10" data-path="life-sciences.html"><a href="life-sciences.html#introduction-to-data-analysis-with-r"><i class="fa fa-check"></i><b>16.10</b> Introduction to Data Analysis with R</a></li>
+<li class="chapter" data-level="16.11" data-path="life-sciences.html"><a href="life-sciences.html#modern-statistics-for-modern-biology"><i class="fa fa-check"></i><b>16.11</b> Modern Statistics for Modern Biology</a></li>
+<li class="chapter" data-level="16.12" data-path="life-sciences.html"><a href="life-sciences.html#numerical-ecology-with-r"><i class="fa fa-check"></i><b>16.12</b> Numerical Ecology with R</a></li>
+<li class="chapter" data-level="16.13" data-path="life-sciences.html"><a href="life-sciences.html#orchestrating-single-cell-analysis-with-bioconductor"><i class="fa fa-check"></i><b>16.13</b> Orchestrating Single-Cell Analysis with Bioconductor</a></li>
+<li class="chapter" data-level="16.14" data-path="life-sciences.html"><a href="life-sciences.html#r-for-applied-epidemiology-and-public-health"><i class="fa fa-check"></i><b>16.14</b> R for applied epidemiology and public health</a></li>
+<li class="chapter" data-level="16.15" data-path="life-sciences.html"><a href="life-sciences.html#r-for-conservation-and-development-projects-a-primer-for-practitioners"><i class="fa fa-check"></i><b>16.15</b> R for Conservation and Development Projects: A Primer for Practitioners</a></li>
+<li class="chapter" data-level="16.16" data-path="life-sciences.html"><a href="life-sciences.html#r-for-health-data-science"><i class="fa fa-check"></i><b>16.16</b> R for Health Data Science</a></li>
+<li class="chapter" data-level="16.17" data-path="life-sciences.html"><a href="life-sciences.html#reproducible-medical-research-with-r"><i class="fa fa-check"></i><b>16.17</b> Reproducible Medical Research with R</a></li>
+<li class="chapter" data-level="16.18" data-path="life-sciences.html"><a href="life-sciences.html#statistics-in-r-for-biodiversity-conservation-paperback"><i class="fa fa-check"></i><b>16.18</b> Statistics in R for Biodiversity Conservation Paperback</a></li>
+<li class="chapter" data-level="16.19" data-path="life-sciences.html"><a href="life-sciences.html#using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling"><i class="fa fa-check"></i><b>16.19</b> Using R for Bayesian Spatial and Spatio-Temporal Health Modeling</a></li>
+<li class="chapter" data-level="16.20" data-path="life-sciences.html"><a href="life-sciences.html#wehi-intro-to-tidy-r-course"><i class="fa fa-check"></i><b>16.20</b> WEHI Intro to Tidy R Course</a></li>
+</ul></li>
+<li class="chapter" data-level="17" data-path="machine-learning.html"><a href="machine-learning.html"><i class="fa fa-check"></i><b>17</b> Machine Learning</a>
+<ul>
+<li class="chapter" data-level="17.1" data-path="machine-learning.html"><a href="machine-learning.html#a-minimal-rtorch-book"><i class="fa fa-check"></i><b>17.1</b> A Minimal rTorch Book</a></li>
+<li class="chapter" data-level="17.2" data-path="machine-learning.html"><a href="machine-learning.html#explanatory-model-analysis"><i class="fa fa-check"></i><b>17.2</b> Explanatory Model Analysis</a></li>
+<li class="chapter" data-level="17.3" data-path="machine-learning.html"><a href="machine-learning.html#feature-engineering-and-selection-a-practical-approach-for-predictive-models"><i class="fa fa-check"></i><b>17.3</b> Feature Engineering and Selection: A Practical Approach for Predictive Models</a></li>
+<li class="chapter" data-level="17.4" data-path="machine-learning.html"><a href="machine-learning.html#hands-on-machine-learning-with-r"><i class="fa fa-check"></i><b>17.4</b> Hands-On Machine Learning with R</a></li>
+<li class="chapter" data-level="17.5" data-path="machine-learning.html"><a href="machine-learning.html#interpretable-machine-learning"><i class="fa fa-check"></i><b>17.5</b> Interpretable Machine Learning</a></li>
+<li class="chapter" data-level="17.6" data-path="machine-learning.html"><a href="machine-learning.html#lightweight-machine-learning-classics-with-r-marek-gagolewski"><i class="fa fa-check"></i><b>17.6</b> Lightweight Machine Learning Classics with R Marek Gagolewski</a></li>
+<li class="chapter" data-level="17.7" data-path="machine-learning.html"><a href="machine-learning.html#machine-learning-for-factor-investing-1"><i class="fa fa-check"></i><b>17.7</b> Machine Learning for Factor Investing</a></li>
+<li class="chapter" data-level="17.8" data-path="machine-learning.html"><a href="machine-learning.html#mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle"><i class="fa fa-check"></i><b>17.8</b> Mathematics and Programming for Machine Learning with R: From the Ground Up 1st Edition, Kindle</a></li>
+<li class="chapter" data-level="17.9" data-path="machine-learning.html"><a href="machine-learning.html#mlr3-book"><i class="fa fa-check"></i><b>17.9</b> mlr3 book</a></li>
+<li class="chapter" data-level="17.10" data-path="machine-learning.html"><a href="machine-learning.html#supervised-machine-learning-for-text-analysis-in-r"><i class="fa fa-check"></i><b>17.10</b> Supervised Machine Learning for Text Analysis in R</a></li>
+<li class="chapter" data-level="17.11" data-path="machine-learning.html"><a href="machine-learning.html#the-caret-package"><i class="fa fa-check"></i><b>17.11</b> The caret Package</a></li>
+<li class="chapter" data-level="17.12" data-path="machine-learning.html"><a href="machine-learning.html#tidy-modeling-with-r"><i class="fa fa-check"></i><b>17.12</b> Tidy Modeling with R</a></li>
+</ul></li>
+<li class="chapter" data-level="18" data-path="network-analysis.html"><a href="network-analysis.html"><i class="fa fa-check"></i><b>18</b> Network analysis</a>
+<ul>
+<li class="chapter" data-level="18.1" data-path="network-analysis.html"><a href="network-analysis.html#awesome-network-analysis"><i class="fa fa-check"></i><b>18.1</b> Awesome network analysis</a></li>
+<li class="chapter" data-level="18.2" data-path="network-analysis.html"><a href="network-analysis.html#handbook-of-graphs-and-networks-in-people-analytics-with-examples-in-r-and-python-1"><i class="fa fa-check"></i><b>18.2</b> Handbook of Graphs and Networks in People Analytics: With Examples in R and Python</a></li>
+<li class="chapter" data-level="18.3" data-path="network-analysis.html"><a href="network-analysis.html#network-analysis-in-r-cookbook"><i class="fa fa-check"></i><b>18.3</b> Network Analysis in R Cookbook</a></li>
+<li class="chapter" data-level="18.4" data-path="network-analysis.html"><a href="network-analysis.html#statistical-analysis-of-network-data-with-r"><i class="fa fa-check"></i><b>18.4</b> Statistical Analysis of Network Data with R</a></li>
+</ul></li>
+<li class="chapter" data-level="19" data-path="packages.html"><a href="packages.html"><i class="fa fa-check"></i><b>19</b> Packages</a>
+<ul>
+<li class="chapter" data-level="19.1" data-path="packages.html"><a href="packages.html#a-minimal-book-example-1"><i class="fa fa-check"></i><b>19.1</b> A Minimal Book Example</a></li>
+<li class="chapter" data-level="19.2" data-path="packages.html"><a href="packages.html#a-minimal-rtorch-book-1"><i class="fa fa-check"></i><b>19.2</b> A Minimal rTorch Book</a></li>
+<li class="chapter" data-level="19.3" data-path="packages.html"><a href="packages.html#complexheatmap-complete-reference"><i class="fa fa-check"></i><b>19.3</b> ComplexHeatmap Complete Reference</a></li>
+<li class="chapter" data-level="19.4" data-path="packages.html"><a href="packages.html#create-publish-and-analyze-personal-websites-using-r-and-rstudio-1"><i class="fa fa-check"></i><b>19.4</b> Create, Publish, and Analyze Personal Websites Using R and RStudio</a></li>
+<li class="chapter" data-level="19.5" data-path="packages.html"><a href="packages.html#data.table-in-r-the-complete-beginners-guide"><i class="fa fa-check"></i><b>19.5</b> data.table in R – The Complete Beginners Guide</a></li>
+<li class="chapter" data-level="19.6" data-path="packages.html"><a href="packages.html#ggplot2-elegant-graphics-for-data-analysis-1"><i class="fa fa-check"></i><b>19.6</b> ggplot2: Elegant Graphics for Data Analysis</a></li>
+<li class="chapter" data-level="19.7" data-path="packages.html"><a href="packages.html#gt-cookbook"><i class="fa fa-check"></i><b>19.7</b> GT Cookbook</a></li>
+<li class="chapter" data-level="19.8" data-path="packages.html"><a href="packages.html#highcharter-cookbook"><i class="fa fa-check"></i><b>19.8</b> Highcharter Cookbook</a></li>
+<li class="chapter" data-level="19.9" data-path="packages.html"><a href="packages.html#knitr"><i class="fa fa-check"></i><b>19.9</b> knitr</a></li>
+<li class="chapter" data-level="19.10" data-path="packages.html"><a href="packages.html#mlr3-book-1"><i class="fa fa-check"></i><b>19.10</b> mlr3 book</a></li>
+<li class="chapter" data-level="19.11" data-path="packages.html"><a href="packages.html#the-caret-package-1"><i class="fa fa-check"></i><b>19.11</b> The caret Package</a></li>
+<li class="chapter" data-level="19.12" data-path="packages.html"><a href="packages.html#the-data-validation-cookbook"><i class="fa fa-check"></i><b>19.12</b> The Data Validation Cookbook</a></li>
+<li class="chapter" data-level="19.13" data-path="packages.html"><a href="packages.html#the-lidr-package"><i class="fa fa-check"></i><b>19.13</b> The lidR package</a></li>
+<li class="chapter" data-level="19.14" data-path="packages.html"><a href="packages.html#the-targets-r-package-user-manual"><i class="fa fa-check"></i><b>19.14</b> The targets R Package User Manual</a></li>
+<li class="chapter" data-level="19.15" data-path="packages.html"><a href="packages.html#the-tidyverse-cookbook"><i class="fa fa-check"></i><b>19.15</b> The Tidyverse Cookbook</a></li>
+</ul></li>
+<li class="chapter" data-level="20" data-path="r-package-development.html"><a href="r-package-development.html"><i class="fa fa-check"></i><b>20</b> R package development</a>
+<ul>
+<li class="chapter" data-level="20.1" data-path="r-package-development.html"><a href="r-package-development.html#http-testing-in-r"><i class="fa fa-check"></i><b>20.1</b> HTTP testing in R</a></li>
+<li class="chapter" data-level="20.2" data-path="r-package-development.html"><a href="r-package-development.html#r-packages"><i class="fa fa-check"></i><b>20.2</b> R packages</a></li>
+<li class="chapter" data-level="20.3" data-path="r-package-development.html"><a href="r-package-development.html#ropensci-packages-development-maintenance-and-peer-review"><i class="fa fa-check"></i><b>20.3</b> rOpenSci Packages: Development, Maintenance, and Peer Review</a></li>
+</ul></li>
+<li class="chapter" data-level="21" data-path="r-programming.html"><a href="r-programming.html"><i class="fa fa-check"></i><b>21</b> R programming</a>
+<ul>
+<li class="chapter" data-level="21.1" data-path="r-programming.html"><a href="r-programming.html#a-sufficient-introduction-to-r"><i class="fa fa-check"></i><b>21.1</b> A sufficient Introduction to R</a></li>
+<li class="chapter" data-level="21.2" data-path="r-programming.html"><a href="r-programming.html#advanced-object-oriented-programming-in-r"><i class="fa fa-check"></i><b>21.2</b> Advanced Object-Oriented Programming in R</a></li>
+<li class="chapter" data-level="21.3" data-path="r-programming.html"><a href="r-programming.html#advanced-r"><i class="fa fa-check"></i><b>21.3</b> Advanced R</a></li>
+<li class="chapter" data-level="21.4" data-path="r-programming.html"><a href="r-programming.html#advanced-r-solutions"><i class="fa fa-check"></i><b>21.4</b> Advanced R Solutions</a></li>
+<li class="chapter" data-level="21.5" data-path="r-programming.html"><a href="r-programming.html#an-introduction-to-data-analysis-1"><i class="fa fa-check"></i><b>21.5</b> An Introduction to Data Analysis</a></li>
+<li class="chapter" data-level="21.6" data-path="r-programming.html"><a href="r-programming.html#an-introduction-to-r"><i class="fa fa-check"></i><b>21.6</b> An Introduction to R</a></li>
+<li class="chapter" data-level="21.7" data-path="r-programming.html"><a href="r-programming.html#another-book-on-data-science-learn-r-and-python-in-parallel"><i class="fa fa-check"></i><b>21.7</b> Another Book on Data Science : Learn R and Python in Parallel</a></li>
+<li class="chapter" data-level="21.8" data-path="r-programming.html"><a href="r-programming.html#best-coding-practices-for-r"><i class="fa fa-check"></i><b>21.8</b> Best Coding Practices for R</a></li>
+<li class="chapter" data-level="21.9" data-path="r-programming.html"><a href="r-programming.html#book-of-r-a-first-course-in-programming-and-statistics"><i class="fa fa-check"></i><b>21.9</b> Book of R: A First Course in Programming and Statistics</a></li>
+<li class="chapter" data-level="21.10" data-path="r-programming.html"><a href="r-programming.html#cookbook-for-r"><i class="fa fa-check"></i><b>21.10</b> Cookbook for R</a></li>
+<li class="chapter" data-level="21.11" data-path="r-programming.html"><a href="r-programming.html#data-analytics-with-r-a-recipe-book"><i class="fa fa-check"></i><b>21.11</b> Data Analytics with R: A Recipe book</a></li>
+<li class="chapter" data-level="21.12" data-path="r-programming.html"><a href="r-programming.html#domain-specific-languages-in-r"><i class="fa fa-check"></i><b>21.12</b> Domain-Specific Languages in R</a></li>
+<li class="chapter" data-level="21.13" data-path="r-programming.html"><a href="r-programming.html#efficient-r-programming"><i class="fa fa-check"></i><b>21.13</b> Efficient R programming</a></li>
+<li class="chapter" data-level="21.14" data-path="r-programming.html"><a href="r-programming.html#field-guide-to-the-r-ecosystem"><i class="fa fa-check"></i><b>21.14</b> Field Guide to the R Ecosystem</a></li>
+<li class="chapter" data-level="21.15" data-path="r-programming.html"><a href="r-programming.html#functional-data-structures-in-r"><i class="fa fa-check"></i><b>21.15</b> Functional Data Structures in R</a></li>
+<li class="chapter" data-level="21.16" data-path="r-programming.html"><a href="r-programming.html#functional-programming"><i class="fa fa-check"></i><b>21.16</b> Functional Programming</a></li>
+<li class="chapter" data-level="21.17" data-path="r-programming.html"><a href="r-programming.html#functional-programming-in-r"><i class="fa fa-check"></i><b>21.17</b> Functional Programming in R</a></li>
+<li class="chapter" data-level="21.18" data-path="r-programming.html"><a href="r-programming.html#hands-on-programming-with-r"><i class="fa fa-check"></i><b>21.18</b> Hands-On Programming with R</a></li>
+<li class="chapter" data-level="21.19" data-path="r-programming.html"><a href="r-programming.html#introduction-to-programming-with-r"><i class="fa fa-check"></i><b>21.19</b> Introduction to Programming with R</a></li>
+<li class="chapter" data-level="21.20" data-path="r-programming.html"><a href="r-programming.html#introduction-to-r---r-spatial"><i class="fa fa-check"></i><b>21.20</b> Introduction to R - R spatial</a></li>
+<li class="chapter" data-level="21.21" data-path="r-programming.html"><a href="r-programming.html#mastering-software-development-in-r"><i class="fa fa-check"></i><b>21.21</b> Mastering Software Development in R</a></li>
+<li class="chapter" data-level="21.22" data-path="r-programming.html"><a href="r-programming.html#metaprogramming-in-r"><i class="fa fa-check"></i><b>21.22</b> Metaprogramming in R</a></li>
+<li class="chapter" data-level="21.23" data-path="r-programming.html"><a href="r-programming.html#modern-r-with-the-tidyverse"><i class="fa fa-check"></i><b>21.23</b> Modern R with the tidyverse</a></li>
+<li class="chapter" data-level="21.24" data-path="r-programming.html"><a href="r-programming.html#r-cookbook---2nd-edition"><i class="fa fa-check"></i><b>21.24</b> R Cookbook - 2nd edition</a></li>
+<li class="chapter" data-level="21.25" data-path="r-programming.html"><a href="r-programming.html#r-development-guide"><i class="fa fa-check"></i><b>21.25</b> R Development Guide</a></li>
+<li class="chapter" data-level="21.26" data-path="r-programming.html"><a href="r-programming.html#r-for-excel-users-1"><i class="fa fa-check"></i><b>21.26</b> R for Excel users</a></li>
+<li class="chapter" data-level="21.27" data-path="r-programming.html"><a href="r-programming.html#r-for-graduate-students"><i class="fa fa-check"></i><b>21.27</b> R for Graduate Students</a></li>
+<li class="chapter" data-level="21.28" data-path="r-programming.html"><a href="r-programming.html#r-language-for-programmers"><i class="fa fa-check"></i><b>21.28</b> R language for programmers</a></li>
+<li class="chapter" data-level="21.29" data-path="r-programming.html"><a href="r-programming.html#rcpp-for-everyone"><i class="fa fa-check"></i><b>21.29</b> Rcpp for everyone</a></li>
+<li class="chapter" data-level="21.30" data-path="r-programming.html"><a href="r-programming.html#stats545-data-wrangling-exploration-and-analysis-with-r"><i class="fa fa-check"></i><b>21.30</b> stats545 Data wrangling, exploration, and analysis with R</a></li>
+<li class="chapter" data-level="21.31" data-path="r-programming.html"><a href="r-programming.html#the-r-inferno"><i class="fa fa-check"></i><b>21.31</b> The R Inferno</a></li>
+<li class="chapter" data-level="21.32" data-path="r-programming.html"><a href="r-programming.html#the-r-language"><i class="fa fa-check"></i><b>21.32</b> The R Language</a></li>
+<li class="chapter" data-level="21.33" data-path="r-programming.html"><a href="r-programming.html#the-tidyverse-cookbook-1"><i class="fa fa-check"></i><b>21.33</b> The Tidyverse Cookbook</a></li>
+<li class="chapter" data-level="21.34" data-path="r-programming.html"><a href="r-programming.html#the-tidyverse-style-guide"><i class="fa fa-check"></i><b>21.34</b> The tidyverse style guide</a></li>
+<li class="chapter" data-level="21.35" data-path="r-programming.html"><a href="r-programming.html#tidy-evaluation"><i class="fa fa-check"></i><b>21.35</b> Tidy evaluation</a></li>
+<li class="chapter" data-level="21.36" data-path="r-programming.html"><a href="r-programming.html#tidyverse-design-guide"><i class="fa fa-check"></i><b>21.36</b> Tidyverse design guide</a></li>
+<li class="chapter" data-level="21.37" data-path="r-programming.html"><a href="r-programming.html#tidyverse-skills-for-data-science"><i class="fa fa-check"></i><b>21.37</b> Tidyverse Skills for Data Science</a></li>
+<li class="chapter" data-level="21.38" data-path="r-programming.html"><a href="r-programming.html#what-they-forgot-to-teach-you-about-r"><i class="fa fa-check"></i><b>21.38</b> What They Forgot to Teach You About R</a></li>
+<li class="chapter" data-level="21.39" data-path="r-programming.html"><a href="r-programming.html#yarrr-the-pirates-guide-to-r"><i class="fa fa-check"></i><b>21.39</b> YaRrr! The Pirate’s Guide to R</a></li>
+</ul></li>
+<li class="chapter" data-level="22" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html"><i class="fa fa-check"></i><b>22</b> Reports: R Markdown and knitr</a>
+<ul>
+<li class="chapter" data-level="22.1" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#getting-used-to-r-rstudio-and-r-markdown"><i class="fa fa-check"></i><b>22.1</b> Getting used to R, RStudio, and R Markdown</a></li>
+<li class="chapter" data-level="22.2" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#introduction-to-r-markdown"><i class="fa fa-check"></i><b>22.2</b> Introduction to R Markdown</a></li>
+<li class="chapter" data-level="22.3" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#knitr-1"><i class="fa fa-check"></i><b>22.3</b> knitr</a></li>
+<li class="chapter" data-level="22.4" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#pimp-my-rmd-a-few-tips-for-r-markdown"><i class="fa fa-check"></i><b>22.4</b> Pimp my RMD: a few tips for R Markdown</a></li>
+<li class="chapter" data-level="22.5" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#r-markdown-cookbook"><i class="fa fa-check"></i><b>22.5</b> R Markdown Cookbook</a></li>
+<li class="chapter" data-level="22.6" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#r-markdown-the-definitive-guide"><i class="fa fa-check"></i><b>22.6</b> R Markdown: The Definitive Guide</a></li>
+<li class="chapter" data-level="22.7" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#report-writing-for-data-science-in-r"><i class="fa fa-check"></i><b>22.7</b> Report Writing for Data Science in R</a></li>
+<li class="chapter" data-level="22.8" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#reproducible-research-with-r-and-rstudio"><i class="fa fa-check"></i><b>22.8</b> Reproducible Research with R and RStudio</a></li>
+<li class="chapter" data-level="22.9" data-path="reports-r-markdown-and-knitr.html"><a href="reports-r-markdown-and-knitr.html#rmarkdown-for-scientists"><i class="fa fa-check"></i><b>22.9</b> RMarkdown for Scientists</a></li>
+</ul></li>
+<li class="chapter" data-level="23" data-path="shiny.html"><a href="shiny.html"><i class="fa fa-check"></i><b>23</b> Shiny</a>
+<ul>
+<li class="chapter" data-level="23.1" data-path="shiny.html"><a href="shiny.html#a-gradual-introduction-to-shiny"><i class="fa fa-check"></i><b>23.1</b> A gRadual intRoduction to Shiny</a></li>
+<li class="chapter" data-level="23.2" data-path="shiny.html"><a href="shiny.html#engineering-production-grade-shiny-apps"><i class="fa fa-check"></i><b>23.2</b> Engineering Production-Grade Shiny Apps</a></li>
+<li class="chapter" data-level="23.3" data-path="shiny.html"><a href="shiny.html#javascript-4-shiny---field-notes"><i class="fa fa-check"></i><b>23.3</b> JavaScript 4 Shiny - Field Notes</a></li>
+<li class="chapter" data-level="23.4" data-path="shiny.html"><a href="shiny.html#javascript-for-r-1"><i class="fa fa-check"></i><b>23.4</b> JavaScript for R</a></li>
+<li class="chapter" data-level="23.5" data-path="shiny.html"><a href="shiny.html#mastering-shiny"><i class="fa fa-check"></i><b>23.5</b> Mastering Shiny</a></li>
+<li class="chapter" data-level="23.6" data-path="shiny.html"><a href="shiny.html#mastering-shiny-solutions"><i class="fa fa-check"></i><b>23.6</b> Mastering Shiny Solutions</a></li>
+<li class="chapter" data-level="23.7" data-path="shiny.html"><a href="shiny.html#outstanding-user-interfaces-with-shiny"><i class="fa fa-check"></i><b>23.7</b> Outstanding User Interfaces with Shiny</a></li>
+<li class="chapter" data-level="23.8" data-path="shiny.html"><a href="shiny.html#shiny-production-with-aws-book"><i class="fa fa-check"></i><b>23.8</b> Shiny Production with AWS Book</a></li>
+<li class="chapter" data-level="23.9" data-path="shiny.html"><a href="shiny.html#supplement-to-shiny-in-production"><i class="fa fa-check"></i><b>23.9</b> Supplement to Shiny in Production</a></li>
+</ul></li>
+<li class="chapter" data-level="24" data-path="social-science.html"><a href="social-science.html"><i class="fa fa-check"></i><b>24</b> Social Science</a>
+<ul>
+<li class="chapter" data-level="24.1" data-path="social-science.html"><a href="social-science.html#analyzing-us-census-data-methods-maps-and-models-in-r"><i class="fa fa-check"></i><b>24.1</b> Analyzing US Census Data: Methods, Maps, and Models in R</a></li>
+<li class="chapter" data-level="24.2" data-path="social-science.html"><a href="social-science.html#composite-indicator-development-and-analysis-in-r-with-coinr"><i class="fa fa-check"></i><b>24.2</b> Composite Indicator Development and Analysis in R with COINr</a></li>
+<li class="chapter" data-level="24.3" data-path="social-science.html"><a href="social-science.html#computing-for-the-social-sciences"><i class="fa fa-check"></i><b>24.3</b> Computing for the Social Sciences</a></li>
+<li class="chapter" data-level="24.4" data-path="social-science.html"><a href="social-science.html#crime-by-the-numbers-a-criminologists-guide-to-r-1"><i class="fa fa-check"></i><b>24.4</b> Crime by the Numbers: A Criminologist’s Guide to R</a></li>
+<li class="chapter" data-level="24.5" data-path="social-science.html"><a href="social-science.html#crime-by-the-numbers-a-criminologists-guide-to-r-2"><i class="fa fa-check"></i><b>24.5</b> Crime by the Numbers: A Criminologist’s Guide to R</a></li>
+<li class="chapter" data-level="24.6" data-path="social-science.html"><a href="social-science.html#introduction-to-r-for-social-scientistsa-tidy-programming-approach"><i class="fa fa-check"></i><b>24.6</b> Introduction to R for Social Scientists:A Tidy Programming Approach</a></li>
+<li class="chapter" data-level="24.7" data-path="social-science.html"><a href="social-science.html#public-policy-analytics-code-context-for-data-science-in-government-1"><i class="fa fa-check"></i><b>24.7</b> Public Policy Analytics: Code &amp; Context for Data Science in Government</a></li>
+<li class="chapter" data-level="24.8" data-path="social-science.html"><a href="social-science.html#social-data-science-with-r"><i class="fa fa-check"></i><b>24.8</b> Social Data Science with R</a></li>
+<li class="chapter" data-level="24.9" data-path="social-science.html"><a href="social-science.html#the-plain-persons-guide-to-plain-text-social-science"><i class="fa fa-check"></i><b>24.9</b> The Plain Person’s Guide to Plain Text Social Science</a></li>
+<li class="chapter" data-level="24.10" data-path="social-science.html"><a href="social-science.html#using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach"><i class="fa fa-check"></i><b>24.10</b> Using R for Data Analysis in Social Sciences: A Research Project-Oriented Approach</a></li>
+</ul></li>
+<li class="chapter" data-level="25" data-path="sport-analytics.html"><a href="sport-analytics.html"><i class="fa fa-check"></i><b>25</b> Sport analytics</a>
+<ul>
+<li class="chapter" data-level="25.1" data-path="sport-analytics.html"><a href="sport-analytics.html#basketball-data-science-with-applications-in-r"><i class="fa fa-check"></i><b>25.1</b> Basketball Data Science with Applications in R</a></li>
+<li class="chapter" data-level="25.2" data-path="sport-analytics.html"><a href="sport-analytics.html#coding-for-sports-analytics-get-started-resources"><i class="fa fa-check"></i><b>25.2</b> Coding for sports analytics: get started resources</a></li>
+<li class="chapter" data-level="25.3" data-path="sport-analytics.html"><a href="sport-analytics.html#exploring-baseball-data-with-r"><i class="fa fa-check"></i><b>25.3</b> Exploring Baseball Data with R</a></li>
+<li class="chapter" data-level="25.4" data-path="sport-analytics.html"><a href="sport-analytics.html#visualising-wrc-rally-stages-with-rayshader-and-r-a-rallydatajunkie-adventure"><i class="fa fa-check"></i><b>25.4</b> Visualising WRC Rally Stages With rayshader and R: A RallyDataJunkie Adventure</a></li>
+<li class="chapter" data-level="25.5" data-path="sport-analytics.html"><a href="sport-analytics.html#visualising-wrc-rally-timing-and-results-data-a-rallydatajunkie-adventure"><i class="fa fa-check"></i><b>25.5</b> Visualising WRC Rally Timing and Results Data: A RallyDataJunkie Adventure</a></li>
+<li class="chapter" data-level="25.6" data-path="sport-analytics.html"><a href="sport-analytics.html#wrangling-f1-data-with-r-a-data-junkies-guide"><i class="fa fa-check"></i><b>25.6</b> Wrangling F1 Data With R: A Data Junkie’s Guide</a></li>
+</ul></li>
+<li class="chapter" data-level="26" data-path="statistics.html"><a href="statistics.html"><i class="fa fa-check"></i><b>26</b> Statistics</a>
+<ul>
+<li class="chapter" data-level="26.1" data-path="statistics.html"><a href="statistics.html#a-business-analysts-introduction-to-business-analytics-1"><i class="fa fa-check"></i><b>26.1</b> A Business Analyst’s Introduction to Business Analytics</a></li>
+<li class="chapter" data-level="26.2" data-path="statistics.html"><a href="statistics.html#an-introduction-to-statistical-and-data-sciences-via-r"><i class="fa fa-check"></i><b>26.2</b> An Introduction to Statistical and Data Sciences via R</a></li>
+<li class="chapter" data-level="26.3" data-path="statistics.html"><a href="statistics.html#an-introduction-to-statistical-learning"><i class="fa fa-check"></i><b>26.3</b> An Introduction to Statistical Learning</a></li>
+<li class="chapter" data-level="26.4" data-path="statistics.html"><a href="statistics.html#answering-questions-with-data"><i class="fa fa-check"></i><b>26.4</b> Answering questions with data</a></li>
+<li class="chapter" data-level="26.5" data-path="statistics.html"><a href="statistics.html#bayes-rules"><i class="fa fa-check"></i><b>26.5</b> Bayes rules!</a></li>
+<li class="chapter" data-level="26.6" data-path="statistics.html"><a href="statistics.html#common-statistical-tests-are-linear-models-a-work-through"><i class="fa fa-check"></i><b>26.6</b> Common statistical tests are linear models: a work through</a></li>
+<li class="chapter" data-level="26.7" data-path="statistics.html"><a href="statistics.html#doing-meta-analysis-with-r-a-hands-on-guide"><i class="fa fa-check"></i><b>26.7</b> Doing meta-analysis with R: A hands-on guide</a></li>
+<li class="chapter" data-level="26.8" data-path="statistics.html"><a href="statistics.html#end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inference"><i class="fa fa-check"></i><b>26.8</b> End-to-End Solved Problems With R: a catalog of 26 examples using statistical inference</a></li>
+<li class="chapter" data-level="26.9" data-path="statistics.html"><a href="statistics.html#foundations-of-statistics-with-r"><i class="fa fa-check"></i><b>26.9</b> Foundations of Statistics with R</a></li>
+<li class="chapter" data-level="26.10" data-path="statistics.html"><a href="statistics.html#foundations-of-statistics-with-r-1"><i class="fa fa-check"></i><b>26.10</b> Foundations of Statistics with R</a></li>
+<li class="chapter" data-level="26.11" data-path="statistics.html"><a href="statistics.html#handbook-of-regression-modeling-in-people-analytics-1"><i class="fa fa-check"></i><b>26.11</b> Handbook of Regression Modeling in People Analytics</a></li>
+<li class="chapter" data-level="26.12" data-path="statistics.html"><a href="statistics.html#introduction-to-modern-statistics"><i class="fa fa-check"></i><b>26.12</b> Introduction to Modern Statistics</a></li>
+<li class="chapter" data-level="26.13" data-path="statistics.html"><a href="statistics.html#islr-tidymodels-labs"><i class="fa fa-check"></i><b>26.13</b> ISLR tidymodels Labs</a></li>
+<li class="chapter" data-level="26.14" data-path="statistics.html"><a href="statistics.html#learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners"><i class="fa fa-check"></i><b>26.14</b> Learning statistics with R: A tutorial for psychology students and other beginners</a></li>
+<li class="chapter" data-level="26.15" data-path="statistics.html"><a href="statistics.html#mixed-models-with-r-getting-started-with-random-effects"><i class="fa fa-check"></i><b>26.15</b> Mixed Models with R : Getting started with random effects</a></li>
+<li class="chapter" data-level="26.16" data-path="statistics.html"><a href="statistics.html#model-estimation-by-example-demonstrations-with-r"><i class="fa fa-check"></i><b>26.16</b> Model Estimation by Example: Demonstrations with R</a></li>
+<li class="chapter" data-level="26.17" data-path="statistics.html"><a href="statistics.html#modern-statistics-with-r-1"><i class="fa fa-check"></i><b>26.17</b> Modern Statistics with R</a></li>
+<li class="chapter" data-level="26.18" data-path="statistics.html"><a href="statistics.html#one-way-anova-with-r-completely-randomized-design---between-groups"><i class="fa fa-check"></i><b>26.18</b> One Way ANOVA with R: Completely Randomized Design - Between Groups</a></li>
+<li class="chapter" data-level="26.19" data-path="statistics.html"><a href="statistics.html#openintro-statistics"><i class="fa fa-check"></i><b>26.19</b> OpenIntro Statistics</a></li>
+<li class="chapter" data-level="26.20" data-path="statistics.html"><a href="statistics.html#statistical-inference-for-data-science"><i class="fa fa-check"></i><b>26.20</b> Statistical inference for data science</a></li>
+<li class="chapter" data-level="26.21" data-path="statistics.html"><a href="statistics.html#statistical-rethinking"><i class="fa fa-check"></i><b>26.21</b> Statistical Rethinking</a></li>
+<li class="chapter" data-level="26.22" data-path="statistics.html"><a href="statistics.html#statistical-rethinking-with-brms-ggplot2-and-the-tidyverse-second-edition"><i class="fa fa-check"></i><b>26.22</b> Statistical Rethinking with brms, ggplot2, and the tidyverse: Second edition</a></li>
+<li class="chapter" data-level="26.23" data-path="statistics.html"><a href="statistics.html#statistical-thinking-in-the-21st-century"><i class="fa fa-check"></i><b>26.23</b> Statistical Thinking in the 21st Century</a></li>
+<li class="chapter" data-level="26.24" data-path="statistics.html"><a href="statistics.html#statistics-the-easier-way-with-r-3rd.-ed.-tidyversion"><i class="fa fa-check"></i><b>26.24</b> Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)</a></li>
+<li class="chapter" data-level="26.25" data-path="statistics.html"><a href="statistics.html#statistics-and-data-with-r-an-applied-approach-through-examples"><i class="fa fa-check"></i><b>26.25</b> Statistics and Data with R: An Applied Approach Through Examples</a></li>
+<li class="chapter" data-level="26.26" data-path="statistics.html"><a href="statistics.html#teacups-giraffes-and-statistics"><i class="fa fa-check"></i><b>26.26</b> Teacups, Giraffes and Statistics</a></li>
+<li class="chapter" data-level="26.27" data-path="statistics.html"><a href="statistics.html#the-effect-an-introduction-to-research-design-and-causality"><i class="fa fa-check"></i><b>26.27</b> The Effect: An Introduction to Research Design and Causality</a></li>
+<li class="chapter" data-level="26.28" data-path="statistics.html"><a href="statistics.html#using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling-1"><i class="fa fa-check"></i><b>26.28</b> Using R for Bayesian Spatial and Spatio-Temporal Health Modeling</a></li>
+</ul></li>
+<li class="chapter" data-level="27" data-path="teaching.html"><a href="teaching.html"><i class="fa fa-check"></i><b>27</b> Teaching</a>
+<ul>
+<li class="chapter" data-level="27.1" data-path="teaching.html"><a href="teaching.html#data-science-in-a-box"><i class="fa fa-check"></i><b>27.1</b> Data Science in a Box</a></li>
+<li class="chapter" data-level="27.2" data-path="teaching.html"><a href="teaching.html#rstudio4edu"><i class="fa fa-check"></i><b>27.2</b> rstudio4edu</a></li>
+<li class="chapter" data-level="27.3" data-path="teaching.html"><a href="teaching.html#teaching-tech-together"><i class="fa fa-check"></i><b>27.3</b> Teaching Tech Together</a></li>
+<li class="chapter" data-level="27.4" data-path="teaching.html"><a href="teaching.html#what-they-forgot-to-teach-you-about-teaching-r"><i class="fa fa-check"></i><b>27.4</b> What they forgot to teach you about teaching R</a></li>
+</ul></li>
+<li class="chapter" data-level="28" data-path="text-analysis.html"><a href="text-analysis.html"><i class="fa fa-check"></i><b>28</b> Text analysis</a>
+<ul>
+<li class="chapter" data-level="28.1" data-path="text-analysis.html"><a href="text-analysis.html#supervised-machine-learning-for-text-analysis-in-r-1"><i class="fa fa-check"></i><b>28.1</b> Supervised Machine Learning for Text Analysis in R</a></li>
+<li class="chapter" data-level="28.2" data-path="text-analysis.html"><a href="text-analysis.html#text-mining-with-r-1"><i class="fa fa-check"></i><b>28.2</b> Text Mining with R</a></li>
+<li class="chapter" data-level="28.3" data-path="text-analysis.html"><a href="text-analysis.html#text-mining-with-tidy-data-principles-1"><i class="fa fa-check"></i><b>28.3</b> Text Mining With Tidy Data Principles</a></li>
+</ul></li>
+<li class="chapter" data-level="29" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html"><i class="fa fa-check"></i><b>29</b> Time Series Analysis and Forecasting</a>
+<ul>
+<li class="chapter" data-level="29.1" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#applied-time-series-analysis-for-fisheries-and-environmental-sciences"><i class="fa fa-check"></i><b>29.1</b> Applied Time Series Analysis for Fisheries and Environmental Sciences</a></li>
+<li class="chapter" data-level="29.2" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#fisheries-catch-forecasting"><i class="fa fa-check"></i><b>29.2</b> Fisheries Catch Forecasting</a></li>
+<li class="chapter" data-level="29.3" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#forecasting-principles-and-practice"><i class="fa fa-check"></i><b>29.3</b> Forecasting: Principles and Practice</a></li>
+<li class="chapter" data-level="29.4" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#hands-on-time-series-analysis-with-r"><i class="fa fa-check"></i><b>29.4</b> Hands-On Time Series Analysis with R</a></li>
+<li class="chapter" data-level="29.5" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#practical-time-series-forecasting-with-r-a-hands-on-guide"><i class="fa fa-check"></i><b>29.5</b> Practical Time Series Forecasting with R: A Hands-On Guide</a></li>
+<li class="chapter" data-level="29.6" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#time-series---a-data-analysis-approach-using-r"><i class="fa fa-check"></i><b>29.6</b> Time Series - A Data Analysis Approach Using R</a></li>
+<li class="chapter" data-level="29.7" data-path="time-series-analysis-and-forecasting.html"><a href="time-series-analysis-and-forecasting.html#time-series-analysis-and-its-applications"><i class="fa fa-check"></i><b>29.7</b> Time Series Analysis and Its Applications</a></li>
+</ul></li>
+<li class="chapter" data-level="30" data-path="version-control.html"><a href="version-control.html"><i class="fa fa-check"></i><b>30</b> Version control</a>
+<ul>
+<li class="chapter" data-level="30.1" data-path="version-control.html"><a href="version-control.html#git-and-github-for-advanced-ecological-data-analysis-1"><i class="fa fa-check"></i><b>30.1</b> Git and Github for Advanced Ecological Data Analysis</a></li>
+<li class="chapter" data-level="30.2" data-path="version-control.html"><a href="version-control.html#github-actions-with-r"><i class="fa fa-check"></i><b>30.2</b> Github actions with R</a></li>
+<li class="chapter" data-level="30.3" data-path="version-control.html"><a href="version-control.html#github-learning-lab"><i class="fa fa-check"></i><b>30.3</b> Github learning lab</a></li>
+<li class="chapter" data-level="30.4" data-path="version-control.html"><a href="version-control.html#happy-git-and-github-for-the-user"><i class="fa fa-check"></i><b>30.4</b> Happy Git and GitHub for the useR</a></li>
+<li class="chapter" data-level="30.5" data-path="version-control.html"><a href="version-control.html#the-beginners-guide-to-git-and-github"><i class="fa fa-check"></i><b>30.5</b> The Beginner’s Guide to Git and GitHub</a></li>
+</ul></li>
+<li class="chapter" data-level="31" data-path="workflow.html"><a href="workflow.html"><i class="fa fa-check"></i><b>31</b> Workflow</a>
+<ul>
+<li class="chapter" data-level="31.1" data-path="workflow.html"><a href="workflow.html#agile-data-science-with-r"><i class="fa fa-check"></i><b>31.1</b> Agile Data Science with R</a></li>
+<li class="chapter" data-level="31.2" data-path="workflow.html"><a href="workflow.html#github-actions-with-r-1"><i class="fa fa-check"></i><b>31.2</b> Github actions with R</a></li>
+<li class="chapter" data-level="31.3" data-path="workflow.html"><a href="workflow.html#how-i-use-r"><i class="fa fa-check"></i><b>31.3</b> How I Use R</a></li>
+<li class="chapter" data-level="31.4" data-path="workflow.html"><a href="workflow.html#the-data-validation-cookbook-1"><i class="fa fa-check"></i><b>31.4</b> The Data Validation Cookbook</a></li>
+<li class="chapter" data-level="31.5" data-path="workflow.html"><a href="workflow.html#the-targets-r-package-user-manual-1"><i class="fa fa-check"></i><b>31.5</b> The targets R Package User Manual</a></li>
+</ul></li>
+<li class="chapter" data-level="32" data-path="other-compendiums.html"><a href="other-compendiums.html"><i class="fa fa-check"></i><b>32</b> Other compendiums</a>
+<ul>
+<li class="chapter" data-level="32.1" data-path="other-compendiums.html"><a href="other-compendiums.html#awesome-network-analysis-1"><i class="fa fa-check"></i><b>32.1</b> Awesome network analysis</a></li>
+<li class="chapter" data-level="32.2" data-path="other-compendiums.html"><a href="other-compendiums.html#bookdown-archive"><i class="fa fa-check"></i><b>32.2</b> Bookdown archive</a></li>
+<li class="chapter" data-level="32.3" data-path="other-compendiums.html"><a href="other-compendiums.html#cran-doc-collections"><i class="fa fa-check"></i><b>32.3</b> CRAN doc collections</a></li>
+<li class="chapter" data-level="32.4" data-path="other-compendiums.html"><a href="other-compendiums.html#data-science-with-r-a-resource-compendium"><i class="fa fa-check"></i><b>32.4</b> Data Science with R: A Resource Compendium</a></li>
+<li class="chapter" data-level="32.5" data-path="other-compendiums.html"><a href="other-compendiums.html#r-on-the-web"><i class="fa fa-check"></i><b>32.5</b> R on the web</a></li>
+<li class="chapter" data-level="32.6" data-path="other-compendiums.html"><a href="other-compendiums.html#r-project-book-compendium"><i class="fa fa-check"></i><b>32.6</b> R project book compendium</a></li>
+<li class="chapter" data-level="32.7" data-path="other-compendiums.html"><a href="other-compendiums.html#use-r-springer-series"><i class="fa fa-check"></i><b>32.7</b> Use R! Springer series</a></li>
+</ul></li>
+<li class="divider"></li>
+<li><center><a href="https://bookdown.org/yihui/bookdown/">
+Published with bookdown</a></center></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Big Book of R</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="r-programming" class="section level1" number="21">
+<h1><span class="header-section-number">21</span> R programming</h1>
+<div id="a-sufficient-introduction-to-r" class="section level2" number="21.1">
+<h2><span class="header-section-number">21.1</span> A sufficient Introduction to R</h2>
+<p>by Derek l. Sonderegger</p>
+<p>This book is intended to guide people that are completely new to
+programming along a path towards a useful skill level using R. I believe
+that while people can get by with just copying code chunks, that doesn’t
+give them the background information to modify the code in non-trivial
+ways. Therefore we will spend more time on foundational details than a
+“crash-course” would.</p>
+<p>Link: <a href="https://dereksonderegger.github.io/570L/" class="uri">https://dereksonderegger.github.io/570L/</a></p>
+</div>
+<div id="advanced-object-oriented-programming-in-r" class="section level2" number="21.2">
+<h2><span class="header-section-number">21.2</span> Advanced Object-Oriented Programming in R</h2>
+<p>by <a href="https://twitter.com/ThomasMailund">Thomas Mailund</a></p>
+<p>Learn how to write object-oriented programs in R and how to construct
+classes and class hierarchies in the three object-oriented systems
+available in R. This book gives an introduction to object-oriented
+programming in the R programming language and shows you how to use and
+apply R in an object-oriented manner. You will then be able to use this
+powerful programming style in your own statistical programming projects
+to write flexible and extendable software.</p>
+<p>Paid: $20</p>
+<p>Link: <a href="https://amzn.to/2wZnBbp" class="uri">https://amzn.to/2wZnBbp</a></p>
+</div>
+<div id="advanced-r" class="section level2" number="21.3">
+<h2><span class="header-section-number">21.3</span> Advanced R</h2>
+<p>by <a href="https://twitter.com/hadleywickham">Hadley Whickham</a></p>
+<p>This is the companion website for “Advanced R”, a book in Chapman &amp;
+Hall’s R Series. The book is designed primarily for R users who want to
+improve their programming skills and understanding of the language. It
+should also be useful for programmers coming to R from other languages,
+as it explains some of R’s quirks and shows how some parts that seem
+horrible do have a positive side.</p>
+<p>The book is free online. (Ignore the message redirecting you to the 2nd
+edition, this is the latest edition)</p>
+<p>Link: <a href="http://adv-r.had.co.nz/" class="uri">http://adv-r.had.co.nz/</a></p>
+</div>
+<div id="advanced-r-solutions" class="section level2" number="21.4">
+<h2><span class="header-section-number">21.4</span> Advanced R Solutions</h2>
+<p>by Malte Grosser, Henning Bumann, Hadley Wickham</p>
+<p>This book offers solutions to the exercises from Hadley Wickham’s book
+Advanced R (Edition 2). It is work in progress and under active
+development. The 2nd edition of Advanced R has been published and we are
+currently working towards completion.</p>
+<p>Link: <a href="https://advanced-r-solutions.rbind.io/" class="uri">https://advanced-r-solutions.rbind.io/</a></p>
+</div>
+<div id="an-introduction-to-data-analysis-1" class="section level2" number="21.5">
+<h2><span class="header-section-number">21.5</span> An Introduction to Data Analysis</h2>
+<p>by <a href="https://twitter.com/meanwhileina">Michael Franke</a></p>
+<p>This book provides basic reading material for an introduction to data
+analysis. It uses R to handle, plot and analyze data. After covering the
+use of R for data wrangling and plotting, the book introduces key
+concepts of data analysis from a Bayesian and a frequentist tradition.
+This text is intended for use as a first introduction to statistics for
+an audience with some affinity towards programming, but no prior
+exposition to R.</p>
+<p>Link: <a href="https://michael-franke.github.io/intro-data-analysis/index.html" class="uri">https://michael-franke.github.io/intro-data-analysis/index.html</a></p>
+</div>
+<div id="an-introduction-to-r" class="section level2" number="21.6">
+<h2><span class="header-section-number">21.6</span> An Introduction to R</h2>
+<p>by <a href="https://twitter.com/Scedacity">Alex Douglas</a>, <a href="https://twitter.com/DeonRoos88">Deon Roos</a>, <a href="https://twitter.com/AnaSofiaCouto">Ana Couto</a>, <a href="https://twitter.com/frances_mancini">Francesca Mancini</a>, <a href="https://twitter.com/lusseau">David Lusseau</a></p>
+<p>The aim of this book is to introduce you to using R, a powerful and
+flexible interactive environment for statistical computing and research.
+R in itself is not difficult to learn, but as with learning any new
+language (spoken or computer) the initial learning curve can be a little
+steep and somewhat daunting. We have tried to simplify the content of
+this book as much as possible and have based it on our own personal
+experience of teaching (and learning) R over the last 15 years. It is
+not intended to cover everything there is to know about R - that would
+be an impossible task. Neither is it intended to be an introductory
+statistics course, although you will be using some simple statistics to
+highlight some of R’s capabilities. The main aim of this book is to help
+you climb the initial learning curve and provide you with the basic
+skills and experience (and confidence!) to enable you to further your
+experience in using R.</p>
+<p>Link: <a href="https://intro2r.com/" class="uri">https://intro2r.com/</a></p>
+</div>
+<div id="another-book-on-data-science-learn-r-and-python-in-parallel" class="section level2" number="21.7">
+<h2><span class="header-section-number">21.7</span> Another Book on Data Science : Learn R and Python in Parallel</h2>
+<p>by Nailong Zhang</p>
+<p>There has been considerable debate over choosing R vs. Python for Data
+Science. Based on my limited knowledge/experience, both R and Python are
+great languages and are worth learning; so why not learn them together?</p>
+<p>Besides the side-by-side comparison of the two popular languages used in
+Data Science, this book also focuses on the translation from
+mathematical models to codes. In the book, the audience could find the
+applications/implementations of some important algorithms from scratch,
+such as maximum likelihood estimation, inversion sampling, copula
+simulation, simulated annealing, bootstrapping, linear regression
+(lasso/ridge regression), logistic regression, gradient boosting trees,
+etc.</p>
+<p>Link: <a href="https://www.anotherbookondatascience.com/" class="uri">https://www.anotherbookondatascience.com/</a></p>
+</div>
+<div id="best-coding-practices-for-r" class="section level2" number="21.8">
+<h2><span class="header-section-number">21.8</span> Best Coding Practices for R</h2>
+<p>by <a href="https://twitter.com/Guru_GyanKhoji">Vikram Singh Rawat</a>)</p>
+<p>R is a huge language and I would like to share the little knowledge I have in the subject. I don’t claim to be an expert but this book will guide you in the right path wherever possible.</p>
+<p>Most of the books about R programming language will tell you what are the possible ways to do one thing in R. This book will only tell you one way to do that thing correctly.</p>
+<p>Link: <a href="https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/" class="uri">https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/</a></p>
+</div>
+<div id="book-of-r-a-first-course-in-programming-and-statistics" class="section level2" number="21.9">
+<h2><span class="header-section-number">21.9</span> Book of R: A First Course in Programming and Statistics</h2>
+<p>by Tilman M. Davies</p>
+<p>The Book of R is a comprehensive, beginner-friendly guide to R, the world’s most popular programming language for statistical analysis. Even if you have no programming experience and little more than a grounding in the basics of mathematics, you’ll find everything you need to begin using R effectively for statistical analysis.</p>
+<p>You’ll start with the basics, like how to handle data and write simple programs, before moving on to more advanced topics, like producing statistical summaries of your data and performing statistical tests and modeling. You’ll even learn how to create impressive data visualizations with R’s basic graphics tools and contributed packages, like ggplot2 and ggvis, as well as interactive 3D visualizations using the rgl package.</p>
+<p>Paid: $40</p>
+<p>Link: <a href="https://nostarch.com/bookofr" class="uri">https://nostarch.com/bookofr</a></p>
+</div>
+<div id="cookbook-for-r" class="section level2" number="21.10">
+<h2><span class="header-section-number">21.10</span> Cookbook for R</h2>
+<p>by Winston Chang</p>
+<p>The goal of the cookbook is to provide solutions to common tasks and
+problems in analyzing data.</p>
+<p>Not to be confused with R Cookbook</p>
+<p>Link: <a href="http://www.cookbook-r.com/" class="uri">http://www.cookbook-r.com/</a></p>
+</div>
+<div id="data-analytics-with-r-a-recipe-book" class="section level2" number="21.11">
+<h2><span class="header-section-number">21.11</span> Data Analytics with R: A Recipe book</h2>
+<p>by <a href="https://twitter.com/ryangarnett78">Ryan Garnett</a></p>
+<p>The structure and design of this book is based on iterative learning, starting with the most basic and build by adding one new element concept. the book has been structured to be small easily consumable chunks similar to that of a recipe card. The concept for a recipe card is that they are self contained, providing all the ingredients, preparation, and instructions required to create a meal. While a cookbook may consist of many recipes, there is no expectation to read, understand, and master all the recipes in order to prepare a meal. Following this as the central theme the book, it has been designed as a number of data analytics recipes focusing on the R language.</p>
+<p>Link: <a href="https://ryangarnett.github.io/r-recipe-book" class="uri">https://ryangarnett.github.io/r-recipe-book</a></p>
+</div>
+<div id="domain-specific-languages-in-r" class="section level2" number="21.12">
+<h2><span class="header-section-number">21.12</span> Domain-Specific Languages in R</h2>
+<p>by <a href="https://twitter.com/ThomasMailund">Thomas Mailund</a></p>
+<p>Gain an accelerated introduction to domain-specific languages in R,
+including coverage of regular expressions. This compact, in-depth book
+shows you how DSLs are programming languages specialized for a
+particular purpose, as opposed to general purpose programming languages.
+Along the way, you’ll learn to specify tasks you want to do in a precise
+way and achieve programming goals within a domain-specific context.</p>
+<p>Domain-Specific Languages in R includes examples of DSLs including large
+data sets or matrix multiplication; pattern matching DSLs for
+application in computer vision; and DSLs for continuous time Markov
+chains and their applications in data science. After reading and using
+this book, you’ll understand how to write DSLs in R and have skills you
+can extrapolate to other programming languages.</p>
+<p>Paid: $25</p>
+<p>Link: <a href="https://amzn.to/2CDqhAU" class="uri">https://amzn.to/2CDqhAU</a></p>
+</div>
+<div id="efficient-r-programming" class="section level2" number="21.13">
+<h2><span class="header-section-number">21.13</span> Efficient R programming</h2>
+<p>by <a href="http://www.mas.ncl.ac.uk/~ncsg3/">Colin Gillespie</a>, <a href="https://twitter.com/robinlovelace">Robin Lovelace</a></p>
+<p>This book is for anyone who wants to make their R code faster to type,
+faster to run and more scalable. These considerations generally come
+after learning the very basics of R for data analysis.</p>
+<p>Link: <a href="https://csgillespie.github.io/efficientR/" class="uri">https://csgillespie.github.io/efficientR/</a></p>
+</div>
+<div id="field-guide-to-the-r-ecosystem" class="section level2" number="21.14">
+<h2><span class="header-section-number">21.14</span> Field Guide to the R Ecosystem</h2>
+<p>by Mark Sellors</p>
+<p>This field guide aims to introduce the reader to the main components of
+the R ecosystem that may be encountered in “the field”.Whatever the
+reason, whilst there is a wealth of in-depth information for people
+actually using the language, I could find precious little information
+that provided the sort of overview of the ecosystem that I know I’d have
+appreciated when I first came to the language. And with that thought, a
+field guide is born…</p>
+<p>Link: <a href="https://fg2re.sellorm.com/" class="uri">https://fg2re.sellorm.com/</a></p>
+</div>
+<div id="functional-data-structures-in-r" class="section level2" number="21.15">
+<h2><span class="header-section-number">21.15</span> Functional Data Structures in R</h2>
+<p>by <a href="https://twitter.com/ThomasMailund">Thomas Mailund</a></p>
+<p>Get an introduction to functional data structures using R and write more
+effective code and gain performance for your programs. This book teaches
+you workarounds because data in functional languages is not mutable: for
+example you’ll learn how to change variable-value bindings by modifying
+environments, which can be exploited to emulate pointers and implement
+traditional data structures. You’ll also see how, by abandoning
+traditional data structures, you can manipulate structures by building
+new versions rather than modifying them. You’ll discover how these
+so-called functional data structures are different from the traditional
+data structures you might know, but are worth understanding to do
+serious algorithmic programming in a functional language such as R.</p>
+<p>Paid: $20</p>
+<p>Link: <a href="https://amzn.to/2oUG2cP" class="uri">https://amzn.to/2oUG2cP</a></p>
+</div>
+<div id="functional-programming" class="section level2" number="21.16">
+<h2><span class="header-section-number">21.16</span> Functional Programming</h2>
+<p>by Sara Altman, Bill Behrman, Hadley Wickham</p>
+<p>This book is a practical introduction to functional programming using the tidyverse.</p>
+<p>Link: <a href="https://dcl-prog.stanford.edu/" class="uri">https://dcl-prog.stanford.edu/</a></p>
+</div>
+<div id="functional-programming-in-r" class="section level2" number="21.17">
+<h2><span class="header-section-number">21.17</span> Functional Programming in R</h2>
+<p>by <a href="https://twitter.com/ThomasMailund">Thomas Mailund</a></p>
+<p>Master functions and discover how to write functional programs in R. In
+this concise book, you’ll make your functions pure by avoiding
+side-effects; you’ll write functions that manipulate other functions,
+and you’ll construct complex functions using simpler functions as
+building blocks.</p>
+<p>Paid: $20</p>
+<p>Link: <a href="https://amzn.to/2wY4m11" class="uri">https://amzn.to/2wY4m11</a></p>
+</div>
+<div id="hands-on-programming-with-r" class="section level2" number="21.18">
+<h2><span class="header-section-number">21.18</span> Hands-On Programming with R</h2>
+<p>by Garrett Grolemund</p>
+<p>This book will teach you how to program in R, with hands-on examples. I
+wrote it for non-programmers to provide a friendly introduction to the R
+language. You’ll learn how to load data, assemble and disassemble data
+objects, navigate R’s environment system, write your own functions, and
+use all of R’s programming tools. Throughout the book, you’ll use your
+newfound skills to solve practical data science problems.</p>
+<p>Link: <a href="https://rstudio-education.github.io/hopr/" class="uri">https://rstudio-education.github.io/hopr/</a></p>
+</div>
+<div id="introduction-to-programming-with-r" class="section level2" number="21.19">
+<h2><span class="header-section-number">21.19</span> Introduction to Programming with R</h2>
+<p>by Reto Stauffer, Joanna Chimiak-Opoka, Thorsten Simon, Achim Zeileis</p>
+<p>A learning resource for programming novices who want to learn
+programming using the statistical programming language R. While one of
+the major strengths of R is the broad variety of packages for statistics
+and data science, this resource focuses on learning and understanding
+basic programming concepts using base R. Only a couple of additional
+packages are used and/or briefly discussed for special tasks.</p>
+<p>This online book is specifically written for participants of the course
+“Introduction to Programming: Programming in R” offered by the Digital
+Science Center at Universität Innsbruck.</p>
+<p>Link: <a href="https://eeecon.uibk.ac.at/~discdown/rprogramming/index.html" class="uri">https://eeecon.uibk.ac.at/~discdown/rprogramming/index.html</a></p>
+</div>
+<div id="introduction-to-r---r-spatial" class="section level2" number="21.20">
+<h2><span class="header-section-number">21.20</span> Introduction to R - R spatial</h2>
+<p>by R Spatial</p>
+<p>This document provides a concise introduction to R. It emphasizes what
+you need to know to be able to use the language in any context. There is
+no fancy statistical analysis here. We just present the basics of the R
+language itself. We do not assume that you have done any computer
+programming before (but we do assume that you think it is about time you
+did). Experienced R users obviously need not read this. But the material
+may be useful if you want to refresh your memory, if you have not used R
+much, or if you feel confused.</p>
+<p>Link: <a href="https://rspatial.org/intr/index.html" class="uri">https://rspatial.org/intr/index.html</a></p>
+</div>
+<div id="mastering-software-development-in-r" class="section level2" number="21.21">
+<h2><span class="header-section-number">21.21</span> Mastering Software Development in R</h2>
+<p>by <a href="https://twitter.com/rdpeng">Roger D. Peng</a>, <a href="https://twitter.com/seankross">Sean Kross</a>, <a href="https://twitter.com/gbwanderson">Brooke Anderson</a></p>
+<p>This book covers R software development for building data science tools.
+This book provides rigorous training in the R language and covers modern
+software development practices for building tools that are highly
+reusable, modular, and suitable for use in a team-based environment or a
+community of developers.</p>
+<p>Paid: Free or pay what you want $20</p>
+<p>Link: <a href="https://leanpub.com/msdr" class="uri">https://leanpub.com/msdr</a></p>
+</div>
+<div id="metaprogramming-in-r" class="section level2" number="21.22">
+<h2><span class="header-section-number">21.22</span> Metaprogramming in R</h2>
+<p>by <a href="https://twitter.com/ThomasMailund">Thomas Mailund</a></p>
+<p>Learn how to manipulate functions and expressions to modify how the R
+language interprets itself. This book is an introduction to
+metaprogramming in the R language, so you will write programs to
+manipulate other programs. Metaprogramming in R shows you how to treat
+code as data that you can generate, analyze, or modify.</p>
+<p>Paid: $20</p>
+<p>Link: <a href="https://amzn.to/2x1cYUR" class="uri">https://amzn.to/2x1cYUR</a></p>
+</div>
+<div id="modern-r-with-the-tidyverse" class="section level2" number="21.23">
+<h2><span class="header-section-number">21.23</span> Modern R with the tidyverse</h2>
+<p>by Bruno Rodrigues</p>
+<p>This book can be useful to different audiences. If you have never used R
+in your life, and want to start, start with Chapter 1 of this book.
+Chapter 1 to 3 are the very basics, and should be easy to follow up to
+Chapter 9. Starting with Chapter 9, it gets more technical, and will be
+harder to follow. But I suggest you keep on going, and do not hesitate
+to contact me for help if you struggle! Chapter 9 is also where you can
+start if you are already familiar with R and the {tidyverse}, but not
+functional programming. If you are familiar with R but not the
+{tidyverse} (or have no clue what the {tidyverse} is), then you can
+start with Chapter 4. If you are familiar with R, the {tidyverse} and
+functional programming, you might still be interested in this book,
+especially Chapter 9 and 10, which deal with package development and
+further advanced topics respectively.</p>
+<p>Link: <a href="https://b-rodrigues.github.io/modern_R/" class="uri">https://b-rodrigues.github.io/modern_R/</a></p>
+</div>
+<div id="r-cookbook---2nd-edition" class="section level2" number="21.24">
+<h2><span class="header-section-number">21.24</span> R Cookbook - 2nd edition</h2>
+<p>by JD Long, Paul Teetor</p>
+<p>I have written software professionally in perhaps a dozen programming
+languages, and the hardest language for me to learn has been R. The
+language is actually fairly simple, but it is unconventional. These
+notes are intended to make the language easier to learn for someone used
+to more commonly used languages such as C++, Java, Perl, etc.</p>
+<p>Not to be confused with Cookbook for R</p>
+<p>Link: <a href="https://rc2e.com/index.html" class="uri">https://rc2e.com/index.html</a></p>
+</div>
+<div id="r-development-guide" class="section level2" number="21.25">
+<h2><span class="header-section-number">21.25</span> R Development Guide</h2>
+<p>by R Contribution Working Group</p>
+<p>This guide is heavily influenced by the Python Developer Guide, and is a comprehensive resource for contributing to R Core – for both new and experienced contributors. It is maintained by the R Contribution Working Group. We welcome your contributions to R Core!</p>
+<p>Link: <a href="https://forwards.github.io/rdevguide/" class="uri">https://forwards.github.io/rdevguide/</a></p>
+</div>
+<div id="r-for-excel-users-1" class="section level2" number="21.26">
+<h2><span class="header-section-number">21.26</span> R for Excel users</h2>
+<p>by Julie Lowndes, Allison Horst</p>
+<p>This course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration &amp; reproducibility.</p>
+<p>Link: <a href="https://rstudio-conf-2020.github.io/r-for-excel/" class="uri">https://rstudio-conf-2020.github.io/r-for-excel/</a></p>
+</div>
+<div id="r-for-graduate-students" class="section level2" number="21.27">
+<h2><span class="header-section-number">21.27</span> R for Graduate Students</h2>
+<p>by Y. Wendy Huynh</p>
+<p>Hello! My name is Wendy Huynh and I am a current PhD student working in the behavioral neurosciences. I began my R journey at the end of my first year of graduate school, slowly and painfully piecing together code. Although programming was never really part of my program, I now see it as an integral part of my work.</p>
+<p>Many fellow graduate students expressed interest in learning R, but didn’t know where to begin. Programming with R is still relatively niche among my cohort and there are very few formal classes teaching this subject.</p>
+<p>Although there are many amazing guides/textbooks for R out there, very few of them featured examples relevant for my specific needs and were user-friendly enough for a true beginner. In the Fall of my second year, I began teaching a new graduate student in my lab everything I knew about R. However, I quickly found that teaching R – even just to one person – was very time consuming. I decided to write up assignments as a “short” guide to R. After writing a short 11 page “first assignment” and receiving positive feedback, I began writing up a second assignment. Then a third. Soon enough, I had written enough pages that I couldn’t deny that this “short guide” had turned into a book.</p>
+<p>Link: <a href="https://bookdown.org/yih_huynh/Guide-to-R-Book/" class="uri">https://bookdown.org/yih_huynh/Guide-to-R-Book/</a></p>
+</div>
+<div id="r-language-for-programmers" class="section level2" number="21.28">
+<h2><span class="header-section-number">21.28</span> R language for programmers</h2>
+<p>by <a href="https://www.johndcook.com/blog/services-2/">John D Cook</a></p>
+<p>I have written software professionally in perhaps a dozen programming
+languages, and the hardest language for me to learn has been R. The
+language is actually fairly simple, but it is unconventional. These
+notes are intended to make the language easier to learn for someone used
+to more commonly used languages such as C++, Java, Perl, etc.</p>
+<p>Link: <a href="https://www.johndcook.com/blog/r_language_for_programmers/" class="uri">https://www.johndcook.com/blog/r_language_for_programmers/</a></p>
+</div>
+<div id="rcpp-for-everyone" class="section level2" number="21.29">
+<h2><span class="header-section-number">21.29</span> Rcpp for everyone</h2>
+<p>by Masaki E. Tsuda</p>
+<p>Rcpp is a package that enables you to implement R functions in C++. It
+is easy to use even without deep knowledge of C++, because it is
+implemented so as to write your C++ code in a style similar to R. And
+Rcpp does not sacrifice execution speed for the ease of use, anyone can
+get high performance outcome.</p>
+<p>This document focuses on providing necessary information to users who
+are not familiar with C++. Therefore, in some cases, I explain usage of
+Rcpp conceptually rather than describing accurately from the viewpoint
+of C++, so that I hope readers can easily understand it.</p>
+<p>Link: <a href="https://teuder.github.io/rcpp4everyone_en/" class="uri">https://teuder.github.io/rcpp4everyone_en/</a></p>
+</div>
+<div id="stats545-data-wrangling-exploration-and-analysis-with-r" class="section level2" number="21.30">
+<h2><span class="header-section-number">21.30</span> stats545 Data wrangling, exploration, and analysis with R</h2>
+<p>by Jenny Bryan</p>
+<p>Learn how to: Explore, groom, visualize, and analyze data, make all of that
+reproducible, reusable, and shareable, using R. This site is about
+everything that comes up during data analysis except for statistical
+modelling and inference.</p>
+<p>Link: <a href="https://stat545.com/" class="uri">https://stat545.com/</a></p>
+</div>
+<div id="the-r-inferno" class="section level2" number="21.31">
+<h2><span class="header-section-number">21.31</span> The R Inferno</h2>
+<p>by Patrick Burns</p>
+<p>If R’s behaviour has ever suprised you, then this book is a guide for
+many more surprises, written in the style of Dante. It’s a concise
+report on number of common-errors and unexpected behaviours in R. This
+book would make more sense, if you have been programming and are
+familiar with such behaviours (not all though), as there is little time
+spent on explaining why part of behaviour. As mentioned, it’s a concise
+book, 126 pages only.</p>
+<p>Link: <a href="https://www.burns-stat.com/pages/Tutor/R_inferno.pdf" class="uri">https://www.burns-stat.com/pages/Tutor/R_inferno.pdf</a></p>
+</div>
+<div id="the-r-language" class="section level2" number="21.32">
+<h2><span class="header-section-number">21.32</span> The R Language</h2>
+<p>by <a href="https://stat.ethz.ch/R-manual/R-patched/doc/AUTHORS">R Core team</a></p>
+<p>A collection of manuals: 1. An Introduction to R 1. The R Language
+Definition 1. Writing R Extensions 1. R Installation and Administration
+1. R Data Import/Export 1. R Internals</p>
+<p>Link: <a href="https://stat.ethz.ch/R-manual/R-patched/doc/html/" class="uri">https://stat.ethz.ch/R-manual/R-patched/doc/html/</a></p>
+</div>
+<div id="the-tidyverse-cookbook-1" class="section level2" number="21.33">
+<h2><span class="header-section-number">21.33</span> The Tidyverse Cookbook</h2>
+<p>by Edited by Garrett Grolemund</p>
+<p>This book collects code recipes for doing data science with R’s
+tidyverse. Each recipe solves a single common task, with a minimum of
+discussion.</p>
+<p>Link: <a href="https://rstudio-education.github.io/tidyverse-cookbook/" class="uri">https://rstudio-education.github.io/tidyverse-cookbook/</a></p>
+</div>
+<div id="the-tidyverse-style-guide" class="section level2" number="21.34">
+<h2><span class="header-section-number">21.34</span> The tidyverse style guide</h2>
+<p>by <a href="https://twitter.com/hadleywickham">Hadley Whickham</a></p>
+<p>Good coding style is like correct punctuation: you can manage without
+it, butitsuremakesthingseasiertoread. This site describes the style used
+throughout the tidyverse. It was derived from Google’s original R Style
+Guide - but Google’s current guide is derived from the tidyverse style
+guide.</p>
+<p>Link: <a href="https://style.tidyverse.org/" class="uri">https://style.tidyverse.org/</a></p>
+</div>
+<div id="tidy-evaluation" class="section level2" number="21.35">
+<h2><span class="header-section-number">21.35</span> Tidy evaluation</h2>
+<p>by Lionel Henry, Hadley Wickham</p>
+<p>This guide is now superseded by more recent efforts at documenting tidy
+evaluation in a user-friendly way. We now recommend reading:</p>
+<p>The new Programming with dplyr vignette.</p>
+<p>The Using ggplot2 in packages vignette.</p>
+<p>(Oscar’s note: I’m keeping this in for my own reference)</p>
+<p>Link: <a href="https://tidyeval.tidyverse.org/" class="uri">https://tidyeval.tidyverse.org/</a></p>
+</div>
+<div id="tidyverse-design-guide" class="section level2" number="21.36">
+<h2><span class="header-section-number">21.36</span> Tidyverse design guide</h2>
+<p>by Tidyverse team</p>
+<p>The goal of this book is to help you write better R code. It has four
+main components:</p>
+<ol style="list-style-type: decimal">
+<li><p>Design problems which lead to suboptimal outcomes.</p></li>
+<li><p>Useful patterns that help solve common problems.</p></li>
+<li><p>Key principles that help you balance conflicting patterns.</p></li>
+<li><p>Selected case studies that help you see how all the pieces fit
+together with real code.</p></li>
+</ol>
+<p>It is used by the tidyverse team to promote consistency across packages
+in the core tidyverse.</p>
+<p>Link: <a href="https://design.tidyverse.org/" class="uri">https://design.tidyverse.org/</a></p>
+</div>
+<div id="tidyverse-skills-for-data-science" class="section level2" number="21.37">
+<h2><span class="header-section-number">21.37</span> Tidyverse Skills for Data Science</h2>
+<p>by Carrie Wright, Shannon E. Ellis, Stephanie C. Hicks, Roger D. Peng</p>
+<p>Book and Course formats</p>
+<p>This course introduces a powerful set of data science tools known as the
+Tidyverse. The Tidyverse has revolutionized the way in which data
+scientists do almost every aspect of their job. We will cover the simple
+idea of “tidy data” and how this idea serves to organize data for
+analysis and modeling. We will also cover how non-tidy data can be
+transformed to tidy data, the data science project life cycle, and the
+ecosystem of Tidyverse R packages that can be used to execute a data
+science project.</p>
+<p>Book format <a href="https://jhudatascience.org/tidyversecourse/" class="uri">https://jhudatascience.org/tidyversecourse/</a></p>
+<p>Ebook: <a href="https://leanpub.com/tidyverseskillsdatascience" class="uri">https://leanpub.com/tidyverseskillsdatascience</a></p>
+<p>Course format
+<a href="https://www.coursera.org/specializations/tidyverse-data-science-r" class="uri">https://www.coursera.org/specializations/tidyverse-data-science-r</a></p>
+<p>Link: <a href="https://jhudatascience.org/tidyversecourse/" class="uri">https://jhudatascience.org/tidyversecourse/</a></p>
+</div>
+<div id="what-they-forgot-to-teach-you-about-r" class="section level2" number="21.38">
+<h2><span class="header-section-number">21.38</span> What They Forgot to Teach You About R</h2>
+<p>by Jenny Bryan, Jim Hester</p>
+<p>The initial impetus for creating these materials is a two-day hands-on
+workshop. The target learner:</p>
+<p>Has a moderate amount of R and RStudio experience.Is largely
+self-taught.Suspects they have drifted into some idiosyncratic habits
+that may slow them down or make their work products more brittle.Is
+interested in (re)designing their R lifestyle, to be more effective and
+more self-sufficient.</p>
+<p>Link: <a href="https://rstats.wtf/" class="uri">https://rstats.wtf/</a></p>
+</div>
+<div id="yarrr-the-pirates-guide-to-r" class="section level2" number="21.39">
+<h2><span class="header-section-number">21.39</span> YaRrr! The Pirate’s Guide to R</h2>
+<p>by Nathaniel D. Phillips</p>
+<p>Learn R from the ground up.</p>
+<p>Let me make something very, very clear…</p>
+<p>I did not write this book.</p>
+<p>This whole story started in the Summer of 2015. I was taking a late
+night swim on the Bodensee in Konstanz and saw a rusty object sticking
+out of the water. Upon digging it out, I realized it was an ancient
+usb-stick with the word YaRrr inscribed on the side. Intrigued, I
+brought it home and plugged it into my laptop. Inside the stick, I found
+a single pdf file written entirely in pirate-speak. After watching
+several pirate movies, I learned enough pirate-speak to begin
+translating the text to English. Sure enough, the book turned out to be
+an introduction to R called The Pirate’s Guide to R.</p>
+<p>Link: <a href="https://bookdown.org/ndphillips/YaRrr/" class="uri">https://bookdown.org/ndphillips/YaRrr/</a></p>
+</div>
+</div>
+&nbsp;
+<hr />
+<p style="text-align: center;">Created and maintained by <a href="https://oscarbaruffa.com/" target="_blank">Oscar Baruffa</a></p>
+<p style="text-align: center;">For updates, sign up to my <a href="https://oscarbaruffa.com/newsletter/" target="_blank">newsletter</a></p>
+
+
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!-- Add font awesome icons -->
+<p style="text-align: center;">
+    <a href="https://twitter.com/OscarBaruffa" class="fa fa-twitter" target="_blank"></a>
+    <a href="https://github.com/oscarbaruffa" class="fa fa-github" target="_blank"></a>
+</p>
+
+&nbsp;
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="r-package-development.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="reports-r-markdown-and-knitr.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"linkedin": false,
+"weibo": false,
+"instapaper": false,
+"vk": false,
+"all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/oscarbaruffa/BigBookofR/edit/main/020-book_list.Rmd",
+"text": "Edit"
+},
+"history": {
+"link": null,
+"text": null
+},
+"view": {
+"link": null,
+"text": null
+},
+"download": null,
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>

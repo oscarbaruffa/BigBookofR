@@ -61,7 +61,7 @@ books_source <-  books_source %>%
 
 # save data to an rda file
 
-
+#Refactor authors to simpler loop
 ```
 
 

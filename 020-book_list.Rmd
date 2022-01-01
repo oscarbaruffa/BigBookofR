@@ -64,7 +64,6 @@ save(books_source, file = paste0("data/books_source_", as.character(Sys.Date()),
 ```{r include=FALSE}
 # TO DO -----------------------------------------------------
 
-# save data to an rda file
 
 #Refactor authors to simpler loop
 ```

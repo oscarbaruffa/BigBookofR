@@ -161,6 +161,14 @@ awesome-network-analysis
 handbook-of-graphs-and-networks-in-people-analytics-with-examples-in-r-and-python-1
 network-analysis-in-r-cookbook
 statistical-analysis-of-network-data-with-r
+other-compendiums
+awesome-network-analysis-1
+bookdown-archive
+cran-doc-collections
+data-science-with-r-a-resource-compendium
+r-on-the-web
+r-project-book-compendium
+use-r-springer-series
 packages
 a-minimal-book-example-1
 a-minimal-rtorch-book-1
@@ -317,6 +325,7 @@ github-actions-with-r-1
 how-i-use-r
 the-data-validation-cookbook-1
 the-targets-r-package-user-manual-1
+<<<<<<< HEAD
 other-compendiums
 awesome-network-analysis-1
 bookdown-archive
@@ -325,3 +334,5 @@ data-science-with-r-a-resource-compendium
 r-on-the-web
 r-project-book-compendium
 use-r-springer-series
+=======
+>>>>>>> 5ed02cb0af6411666c71331bcd87fa0a16249218

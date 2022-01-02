@@ -221,7 +221,7 @@ tidyverse-design-guide
 tidyverse-skills-for-data-science
 what-they-forgot-to-teach-you-about-r
 yarrr-the-pirates-guide-to-r
-reports-r-markdown-and-knitr
+reports
 getting-used-to-r-rstudio-and-r-markdown
 introduction-to-r-markdown
 knitr-1

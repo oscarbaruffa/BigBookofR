@@ -73,8 +73,8 @@ chapters <- books_source %>%
   pull() 
 
 
-# Re-arrange "Career & Community" to be the first chapter and "Other compendiums" to be the last. 
-first <-  chapters[match("Career & Community", chapters)]
+# Re-arrange "Career and Community" to be the first chapter and "Other compendiums" to be the last. 
+first <-  chapters[match("Career and Community", chapters)]
 last <-  chapters[match("Other compendiums", chapters)]
 
 chapters <- chapters[chapters!=first]

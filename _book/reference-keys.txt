@@ -13,7 +13,7 @@ book-clubs
 nhs-r-community
 r4ds-slack-community
 r-ladies-netherlands---advanced-r-by-hadley-wickham
-career-community
+career-and-community
 ace-the-data-science-interview
 build-your-career-in-data-science
 conversations-on-data-science
@@ -38,7 +38,6 @@ mastering-spark-with-r
 blogdown
 blogdown-creating-websites-with-r-markdown
 create-publish-and-analyze-personal-websites-using-r-and-rstudio
-httpsr4sites-book.netlify.app
 bookdown
 a-minimal-book-example
 data-science
@@ -48,8 +47,8 @@ aps-135-introduction-to-exploratory-data-analysis-with-r
 beginning-data-science-in-r
 business-case-analysis-with-r---simulation-tutorials-to-support-complex-business-decisions
 business-intelligence-with-r
-data-science-at-the-command-line-2e
 data-science-a-first-introduction
+data-science-at-the-command-line-2e
 devops-for-data-science
 edav.info
 everyday-data-science
@@ -75,8 +74,8 @@ data-visualization---a-practical-introduction
 data-visualization-in-r
 data-visualization-with-r
 fundamentals-of-data-visualization
-ggplot2-in-2
 ggplot2-elegant-graphics-for-data-analysis
+ggplot2-in-2
 graphical-data-analysis-with-r
 hands-on-data-visualization-interactive-storytelling-from-spreadsheets-to-code
 javascript-for-r

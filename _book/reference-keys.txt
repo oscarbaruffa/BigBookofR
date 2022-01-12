@@ -27,6 +27,8 @@ telling-stories-with-data
 the-programmers-brain-what-every-programmer-needs-to-know-about-cognition
 twitter-for-r-programmers
 twitter-for-scientists
+api
+apis-for-social-scientists-a-collaborative-review
 archeology
 how-to-do-archaeological-science-using-r
 quantitative-methods-in-archaeology-using-r
@@ -82,6 +84,7 @@ javascript-for-r
 plotly-interactive-web-based-data-visualization-with-r-plotly-and-shiny
 r-graphics-cookbook-2nd-edition
 solutions-to-ggplot2-elegant-graphics-for-data-analysis
+the-hitchhikers-guide-to-ggplot2
 field-specific
 an-introduction-to-quantitative-analysis-of-political-data-in-r
 analyzing-financial-and-economic-data-with-r
@@ -163,6 +166,7 @@ statistical-analysis-of-network-data-with-r
 packages
 a-minimal-book-example-1
 a-minimal-rtorch-book-1
+apache-arrow-r-cookbook
 complexheatmap-complete-reference
 create-publish-and-analyze-personal-websites-using-r-and-rstudio-1
 data.table-in-r-the-complete-beginners-guide
@@ -182,6 +186,7 @@ r-packages
 ropensci-packages-development-maintenance-and-peer-review
 r-programming
 a-sufficient-introduction-to-r
+a-survivors-guide-to-r
 advanced-object-oriented-programming-in-r
 advanced-r
 advanced-r-solutions
@@ -208,6 +213,7 @@ r-cookbook---2nd-edition
 r-development-guide
 r-for-excel-users-1
 r-for-graduate-students
+r-in-action-third-edition-data-analysis-and-graphics-with-r-and-tidyverse
 r-language-for-programmers
 rcpp-for-everyone
 stats545-data-wrangling-exploration-and-analysis-with-r
@@ -236,12 +242,15 @@ engineering-production-grade-shiny-apps
 javascript-4-shiny---field-notes
 javascript-for-r-1
 mastering-shiny
-mastering-shiny-solutions
+mastering-shiny-solutions-baek
+mastering-shiny-solutions-gans-gotti
 outstanding-user-interfaces-with-shiny
 shiny-production-with-aws-book
 supplement-to-shiny-in-production
 social-science
+an-r-platform-for-social-scientists
 analyzing-us-census-data-methods-maps-and-models-in-r
+apis-for-social-scientists-a-collaborative-review-1
 composite-indicator-development-and-analysis-in-r-with-coinr
 computing-for-the-social-sciences
 crime-by-the-numbers-a-criminologists-guide-to-r-1
@@ -264,6 +273,7 @@ an-introduction-to-statistical-and-data-sciences-via-r
 an-introduction-to-statistical-learning
 answering-questions-with-data
 bayes-rules
+beyond-multiple-linear-regression-applied-generalized-linear-models-and-multilevel-models-in-r
 common-statistical-tests-are-linear-models-a-work-through
 doing-meta-analysis-with-r-a-hands-on-guide
 end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inference
@@ -275,6 +285,7 @@ islr-tidymodels-labs
 learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners
 mixed-models-with-r-getting-started-with-random-effects
 model-estimation-by-example-demonstrations-with-r
+modern-statistical-methods-for-astronomy
 modern-statistics-with-r-1
 one-way-anova-with-r-completely-randomized-design---between-groups
 openintro-statistics
@@ -294,6 +305,7 @@ teaching-tech-together
 what-they-forgot-to-teach-you-about-teaching-r
 text-analysis
 supervised-machine-learning-for-text-analysis-in-r-1
+text-mining-for-information-professionals-an-uncharted-territory
 text-mining-with-r-1
 text-mining-with-tidy-data-principles-1
 time-series-analysis-and-forecasting

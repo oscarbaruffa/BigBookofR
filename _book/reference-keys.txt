@@ -85,6 +85,9 @@ plotly-interactive-web-based-data-visualization-with-r-plotly-and-shiny
 r-graphics-cookbook-2nd-edition
 solutions-to-ggplot2-elegant-graphics-for-data-analysis
 the-hitchhikers-guide-to-ggplot2
+data-databases-and-engineering
+exploring-enterprise-databases-with-r-a-tidyverse-approach
+r-for-data-engineers
 field-specific
 an-introduction-to-quantitative-analysis-of-political-data-in-r
 analyzing-financial-and-economic-data-with-r
@@ -109,6 +112,7 @@ technical-foundations-of-informatics
 geospatial
 geocomputation-with-r
 geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny
+intro-to-gis-and-spatial-analysis
 introduction-to-spatial-data-programming-with-r
 predictive-soil-mapping-with-r
 spatial-data-science
@@ -147,6 +151,7 @@ using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling
 wehi-intro-to-tidy-r-course
 machine-learning
 a-minimal-rtorch-book
+behavior-analysis-with-machine-learning-using-r
 explanatory-model-analysis
 feature-engineering-and-selection-a-practical-approach-for-predictive-models
 hands-on-machine-learning-with-r
@@ -157,6 +162,7 @@ mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-e
 mlr3-book
 supervised-machine-learning-for-text-analysis-in-r
 the-caret-package
+the-hitchhikers-guide-to-responsible-machine-learning
 tidy-modeling-with-r
 network-analysis
 awesome-network-analysis
@@ -175,6 +181,7 @@ gt-cookbook
 highcharter-cookbook
 knitr
 mlr3-book-1
+r-function-a-day
 the-caret-package-1
 the-data-validation-cookbook
 the-lidr-package
@@ -274,6 +281,7 @@ an-introduction-to-statistical-learning
 answering-questions-with-data
 bayes-rules
 beyond-multiple-linear-regression-applied-generalized-linear-models-and-multilevel-models-in-r
+causal-inference-the-mixtape
 common-statistical-tests-are-linear-models-a-work-through
 doing-meta-analysis-with-r-a-hands-on-guide
 end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inference
@@ -283,12 +291,14 @@ handbook-of-regression-modeling-in-people-analytics-1
 introduction-to-modern-statistics
 islr-tidymodels-labs
 learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners
+library-of-statistical-techniques
 mixed-models-with-r-getting-started-with-random-effects
 model-estimation-by-example-demonstrations-with-r
 modern-statistical-methods-for-astronomy
 modern-statistics-with-r-1
 one-way-anova-with-r-completely-randomized-design---between-groups
 openintro-statistics
+regression-and-other-stories
 statistical-inference-for-data-science
 statistical-rethinking
 statistical-rethinking-with-brms-ggplot2-and-the-tidyverse-second-edition
@@ -297,6 +307,8 @@ statistics-the-easier-way-with-r-3rd.-ed.-tidyversion
 statistics-and-data-with-r-an-applied-approach-through-examples
 teacups-giraffes-and-statistics
 the-effect-an-introduction-to-research-design-and-causality
+the-grammar-of-experimental-designs
+translating-stata-to-r
 using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling-1
 teaching
 data-science-in-a-box

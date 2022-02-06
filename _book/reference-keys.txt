@@ -182,8 +182,10 @@ highcharter-cookbook
 knitr
 mlr3-book-1
 r-function-a-day
+rcpp-for-everyone
 the-caret-package-1
 the-data-validation-cookbook
+the-grammar-of-experimental-designs
 the-lidr-package
 the-targets-r-package-user-manual
 the-tidyverse-cookbook
@@ -222,7 +224,7 @@ r-for-excel-users-1
 r-for-graduate-students
 r-in-action-third-edition-data-analysis-and-graphics-with-r-and-tidyverse
 r-language-for-programmers
-rcpp-for-everyone
+rcpp-for-everyone-1
 stats545-data-wrangling-exploration-and-analysis-with-r
 the-r-inferno
 the-r-language
@@ -307,7 +309,7 @@ statistics-the-easier-way-with-r-3rd.-ed.-tidyversion
 statistics-and-data-with-r-an-applied-approach-through-examples
 teacups-giraffes-and-statistics
 the-effect-an-introduction-to-research-design-and-causality
-the-grammar-of-experimental-designs
+the-grammar-of-experimental-designs-1
 translating-stata-to-r
 using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling-1
 teaching

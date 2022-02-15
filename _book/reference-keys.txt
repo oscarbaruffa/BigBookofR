@@ -288,7 +288,6 @@ common-statistical-tests-are-linear-models-a-work-through
 doing-meta-analysis-with-r-a-hands-on-guide
 end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inference
 foundations-of-statistics-with-r
-foundations-of-statistics-with-r-1
 handbook-of-regression-modeling-in-people-analytics-1
 introduction-to-modern-statistics
 islr-tidymodels-labs

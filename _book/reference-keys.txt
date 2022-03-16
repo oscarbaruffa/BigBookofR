@@ -60,6 +60,7 @@ model-based-clustering-and-classification-for-data-science
 modern-data-science-with-r
 modern-statistics-with-r
 practical-data-science-with-r-second-edition
+r-basics
 r-data-science-quick-reference
 r-for-data-science
 r-for-data-science-solutions
@@ -108,6 +109,7 @@ r-for-excel-users
 r-for-seo
 r-for-water-resources-data-science
 r-programming-with-minecraft
+reproducible-finance-with-r-code-flows-and-shiny-apps-for-portfolio-analysis
 technical-foundations-of-informatics
 geospatial
 geocomputation-with-r
@@ -115,6 +117,7 @@ geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny
 intro-to-gis-and-spatial-analysis
 introduction-to-spatial-data-programming-with-r
 predictive-soil-mapping-with-r
+r-for-geographic-data-science
 spatial-data-science
 spatial-microsimulation-with-r
 spatial-modelling-for-data-scientists
@@ -173,6 +176,7 @@ packages
 a-minimal-book-example-1
 a-minimal-rtorch-book-1
 apache-arrow-r-cookbook
+brailler-in-action
 complexheatmap-complete-reference
 create-publish-and-analyze-personal-websites-using-r-and-rstudio-1
 data.table-in-r-the-complete-beginners-guide
@@ -235,6 +239,8 @@ tidyverse-design-guide
 tidyverse-skills-for-data-science
 what-they-forgot-to-teach-you-about-r
 yarrr-the-pirates-guide-to-r
+r-programming-1
+r-basics-1
 reports
 getting-used-to-r-rstudio-and-r-markdown
 introduction-to-r-markdown
@@ -263,7 +269,6 @@ apis-for-social-scientists-a-collaborative-review-1
 composite-indicator-development-and-analysis-in-r-with-coinr
 computing-for-the-social-sciences
 crime-by-the-numbers-a-criminologists-guide-to-r-1
-crime-by-the-numbers-a-criminologists-guide-to-r-2
 introduction-to-r-for-social-scientistsa-tidy-programming-approach
 public-policy-analytics-code-context-for-data-science-in-government-1
 social-data-science-with-r
@@ -273,6 +278,7 @@ sport-analytics
 basketball-data-science-with-applications-in-r
 coding-for-sports-analytics-get-started-resources
 exploring-baseball-data-with-r
+stats-in-sports
 visualising-wrc-rally-stages-with-rayshader-and-r-a-rallydatajunkie-adventure
 visualising-wrc-rally-timing-and-results-data-a-rallydatajunkie-adventure
 wrangling-f1-data-with-r-a-data-junkies-guide

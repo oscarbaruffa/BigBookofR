@@ -60,7 +60,6 @@ model-based-clustering-and-classification-for-data-science
 modern-data-science-with-r
 modern-statistics-with-r
 practical-data-science-with-r-second-edition
-r-basics
 r-data-science-quick-reference
 r-for-data-science
 r-for-data-science-solutions
@@ -222,6 +221,7 @@ introduction-to-r---r-spatial
 mastering-software-development-in-r
 metaprogramming-in-r
 modern-r-with-the-tidyverse
+r-basics
 r-cookbook---2nd-edition
 r-development-guide
 r-for-excel-users-1
@@ -239,8 +239,6 @@ tidyverse-design-guide
 tidyverse-skills-for-data-science
 what-they-forgot-to-teach-you-about-r
 yarrr-the-pirates-guide-to-r
-r-programming-1
-r-basics-1
 reports
 getting-used-to-r-rstudio-and-r-markdown
 introduction-to-r-markdown

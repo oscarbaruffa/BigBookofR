@@ -90,7 +90,7 @@ exploring-enterprise-databases-with-r-a-tidyverse-approach
 r-for-data-engineers
 field-specific
 an-introduction-to-quantitative-analysis-of-political-data-in-r
-analyzing-financial-and-economic-data-with-r
+an-open-source-active-learning-curriculum-for-data-science-in-engineering
 computer-age-calculus-with-r
 crime-by-the-numbers-a-criminologists-guide-to-r
 cryptocurrency-research-open-source-r-tutorial
@@ -102,14 +102,18 @@ handbook-of-regression-modeling-in-people-analytics
 how-to-be-a-modern-scientist
 introduction-to-econometrics-with-r
 learning-microeconometrics-with-r
-machine-learning-for-factor-investing
 public-policy-analytics-code-context-for-data-science-in-government
 r-for-excel-users
 r-for-seo
 r-for-water-resources-data-science
 r-programming-with-minecraft
-reproducible-finance-with-r-code-flows-and-shiny-apps-for-portfolio-analysis
 technical-foundations-of-informatics
+finance
+analyzing-financial-and-economic-data-with-r
+machine-learning-for-factor-investing
+reproducible-finance-with-r-code-flows-and-shiny-apps-for-portfolio-analysis
+tidy-finance-with-r
+tidy-portfoliomanagement-in-r
 geospatial
 geocomputation-with-r
 geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny
@@ -265,6 +269,7 @@ an-r-platform-for-social-scientists
 analyzing-us-census-data-methods-maps-and-models-in-r
 apis-for-social-scientists-a-collaborative-review-1
 composite-indicator-development-and-analysis-in-r-with-coinr
+computational-analysis-of-communication
 computing-for-the-social-sciences
 crime-by-the-numbers-a-criminologists-guide-to-r-1
 introduction-to-r-for-social-scientistsa-tidy-programming-approach
@@ -316,6 +321,7 @@ the-grammar-of-experimental-designs-1
 translating-stata-to-r
 using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling-1
 teaching
+an-open-source-active-learning-curriculum-for-data-science-in-engineering-1
 data-science-in-a-box
 rstudio4edu
 teaching-tech-together

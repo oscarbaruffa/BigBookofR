@@ -8,6 +8,9 @@ output:
       in_header: [plausible-analytics.html, social.html]
       after_body: footer.html
     config:
+      search:
+        engine: fuse
+        options: null
       edit: https://github.com/oscarbaruffa/BigBookofR/edit/main/%s
       toc:
         before: |  

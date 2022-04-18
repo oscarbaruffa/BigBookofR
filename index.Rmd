@@ -79,7 +79,7 @@ From now on, you can view the **[LIVE site stats right here](https://plausible.i
 
 I'm Oscar. Fairly new to R and loving it. If you like this book, feel free to say "Hi!" on [Twitter](https://twitter.com/OscarBaruffa). 
 
-If you want to stay in the loop on other data-related products I create, or major updates to this book, sign up to my [newsletter](https://oscarbaruffa.com/newsletter/).
+If you want to stay in the loop on other data-related products I create, or major updates to this book, sign up to my [newsletter](https://oscarbaruffa.com/newsletter?ref=BigBookofR&source=index&utm_content=Link).
 
 
 

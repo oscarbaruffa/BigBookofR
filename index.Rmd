@@ -66,14 +66,13 @@ Who says you can't have privacy AND transparency??
 
 I'm guessing that if you're interested in R then you also like data ;).
 
-I initially used Google Analytics for this site but as I'm keen to enhance user privacy I switched to [Plausible Analytics](https://plausible.io/bigbookofr.com) from 30 December 2020 onward.
-
-You can view the old Google Analytics [summary report PDF here](https://www.bigbookofr.com/files/Analytics All Web Site Data Audience Overview 20200825-20201229.pdf). TLDR 22k unique visitors and 33k sessions between August 2020 and December 2020 :D!!
-
 Note that "unique" visits will be higher in Plausible than you'd find with Google Analytics. Because Plausible is GDPR compliant and privacy focused, each user is identified for only 1 day. If someone visits the site 2 days in a row, that's counted as 2 "uniques" whereas in Google Analytics it would only be counted as 1 unique visitor because of the presence of persistent cookies and such that allows for tracking of users. 
 
 From now on, you can view the **[LIVE site stats right here](https://plausible.io/bigbookofr.com?ref=BigBoofofR)**.
 
+## Discover more books
+
+Follow the [Big Book of R twitter bot](https://twitter.com/BigBookofR) which tweets randomly-selected books from the collection. 
 
 ## About me
 

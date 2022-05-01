@@ -5,6 +5,7 @@ contributing
 contributors
 licence
 live-stats
+discover-more-books
 about-me
 new-to-r-start-here
 book-r-for-data-science

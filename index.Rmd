@@ -55,7 +55,7 @@ If you've contributed, add your name and Twitter / blog link below!
 [Shamsuddeen Hassan Muhammad](https://twitter.com/Shmuhammadd), [Eric Leung](https://twitter.com/erictleung), [Isabella Velásquez](https://twitter.com/ivelasq3), [Matt Roumaya](https://www.mattroumaya.com/), [Legana Fingerhut](https://twitter.com/LeganaFingerhut), [Robert D. Brown III](https://twitter.com/InciteDecisions), [Samrit Pramanik](https://twitter.com/Samrit2442)
 
 
-## Licence
+## License
 
 This website/book is free to use, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/){target="blank}.
 

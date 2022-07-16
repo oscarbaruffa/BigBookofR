@@ -3,7 +3,7 @@ your-last-ever-bookmark
 searching
 contributing
 contributors
-licence
+license
 live-stats
 discover-more-books
 about-me
@@ -87,6 +87,7 @@ r-graphics-cookbook-2nd-edition
 solutions-to-ggplot2-elegant-graphics-for-data-analysis
 the-hitchhikers-guide-to-ggplot2
 data-databases-and-engineering
+devops-for-data-science-1
 exploring-enterprise-databases-with-r-a-tidyverse-approach
 r-for-data-engineers
 field-specific
@@ -102,6 +103,7 @@ discrete-data-analysis-with-r-visualization-and-modeling-techniques-for-categori
 handbook-of-graphs-and-networks-in-people-analytics-with-examples-in-r-and-python
 handbook-of-regression-modeling-in-people-analytics
 how-to-be-a-modern-scientist
+hr-analytics-in-r
 introduction-to-econometrics-with-r
 learning-microeconometrics-with-r
 open-forensic-science-in-r
@@ -114,10 +116,18 @@ technical-foundations-of-informatics
 finance
 analyzing-financial-and-economic-data-with-r
 audit-analytics-with-r-1
+financial-econometrics---r-tutorial-guidance
+introduction-to-computational-finance-and-financial-econometrics-with-r
+introduction-to-econometrics-with-r-1
+introduction-to-r-for-econometrics
 machine-learning-for-factor-investing
+principles-of-econometrics-with-r
+r-companion-to-real-econometrics
+r-guide-to-accompany-introductory-econometrics-for-finance
 reproducible-finance-with-r-code-flows-and-shiny-apps-for-portfolio-analysis
 tidy-finance-with-r
 tidy-portfoliomanagement-in-r
+using-r-for-introductory-econometrics
 geospatial
 geocomputation-with-r
 geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny
@@ -133,6 +143,8 @@ using-r-for-digital-soil-mapping
 getting-cleaning-and-wrangling-data
 recipes-for-mining-twitter-data-with-rtweet
 a-beginners-guide-to-clean-data
+data-wrangling-essentials
+handling-strings-with-r
 spreadsheet-munging-strategies
 text-mining-with-r
 text-mining-with-tidy-data-principles
@@ -142,9 +154,11 @@ using-r-for-data-journalism
 life-sciences
 an-open-compendium-of-soil-datasets
 assigning-cell-types-with-singler
+biostatistics-for-biomedical-research
 computational-genomics-with-r
 data-analysis-and-visualization-in-r-for-ecologists
 data-analysis-for-the-life-sciences
+data-integration-manipulation-and-visualization-of-phylogenetic-trees
 data-science-for-the-biomedical-sciences
 experimental-design-for-laboratory-biologists-maximising-information-and-improving-reproducibility
 git-and-github-for-advanced-ecological-data-analysis
@@ -163,6 +177,7 @@ wehi-intro-to-tidy-r-course
 machine-learning
 a-minimal-rtorch-book
 behavior-analysis-with-machine-learning-using-r
+data-science-theories-models-algorithms-and-analytics
 explanatory-model-analysis
 feature-engineering-and-selection-a-practical-approach-for-predictive-models
 hands-on-machine-learning-with-r
@@ -173,6 +188,7 @@ mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-e
 mlr3-book
 sits-data-analysis-and-machine-learning-on-earth-observation-data-cubes-with-satellite-image-time-series-1
 supervised-machine-learning-for-text-analysis-in-r
+surrogates---gaussian-process-modeling-design-and-optimization-for-the-applied-sciences
 the-caret-package
 the-hitchhikers-guide-to-responsible-machine-learning
 tidy-modeling-with-r
@@ -188,6 +204,7 @@ apache-arrow-r-cookbook
 brailler-in-action
 complexheatmap-complete-reference
 create-publish-and-analyze-personal-websites-using-r-and-rstudio-1
+data-integration-manipulation-and-visualization-of-phylogenetic-trees-1
 data.table-in-r-the-complete-beginners-guide
 ggplot2-elegant-graphics-for-data-analysis-1
 gt-cookbook
@@ -195,9 +212,12 @@ gt-cookbook-advanced
 highcharter-cookbook
 knitr
 mlr3-book-1
+piper-tutorial
+r-bookdownplus-textbook
 r-function-a-day
 rcpp-for-everyone
 reactablefmtr-cookbook
+rlist-tutorial
 the-caret-package-1
 the-data-validation-cookbook
 the-grammar-of-experimental-designs
@@ -206,6 +226,7 @@ the-targets-r-package-user-manual
 the-tidyverse-cookbook
 r-package-development
 http-testing-in-r
+pack-your-code
 r-packages
 ropensci-packages-development-maintenance-and-peer-review
 r-programming
@@ -216,6 +237,7 @@ advanced-r
 advanced-r-solutions
 an-introduction-to-data-analysis-1
 an-introduction-to-r
+another-introduction-to-r
 another-book-on-data-science-learn-r-and-python-in-parallel
 best-coding-practices-for-r
 book-of-r-a-first-course-in-programming-and-statistics
@@ -257,6 +279,7 @@ getting-used-to-r-rstudio-and-r-markdown
 introduction-to-r-markdown
 knitr-1
 pimp-my-rmd-a-few-tips-for-r-markdown
+r-bookdownplus-textbook-1
 r-markdown-cookbook
 r-markdown-the-definitive-guide
 report-writing-for-data-science-in-r
@@ -271,19 +294,27 @@ mastering-shiny
 mastering-shiny-solutions-baek
 mastering-shiny-solutions-gans-gotti
 outstanding-user-interfaces-with-shiny
+r-shiny-applications-in-finance-medicine-pharma-and-education-industr
 shiny-production-with-aws-book
 supplement-to-shiny-in-production
 social-science
+an-introduction-to-psychometric-theory-with-applications-in-r
 an-r-platform-for-social-scientists
 analyzing-us-census-data-methods-maps-and-models-in-r
 apis-for-social-scientists-a-collaborative-review-1
+complex-surveys-a-guide-to-analysis-using-r
 composite-indicator-development-and-analysis-in-r-with-coinr
 computational-analysis-of-communication
+computational-social-science-theory-application
 computing-for-the-social-sciences
 crime-by-the-numbers-a-criminologists-guide-to-r-1
+csss-508-introduction-to-r-for-social-scientists
+hr-analytics-in-r-1
 introduction-to-r-for-social-scientistsa-tidy-programming-approach
 public-policy-analytics-code-context-for-data-science-in-government-1
+reproducible-statistics-for-psychologists-with-r-lab-tutorials
 social-data-science-with-r
+text-mining-for-social-scientists
 the-plain-persons-guide-to-plain-text-social-science
 using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach
 sport-analytics
@@ -296,6 +327,7 @@ visualising-wrc-rally-timing-and-results-data-a-rallydatajunkie-adventure
 wrangling-f1-data-with-r-a-data-junkies-guide
 statistics
 a-business-analysts-introduction-to-business-analytics-1
+an-introduction-to-bayesian-reasoning-and-methods
 an-introduction-to-statistical-and-data-sciences-via-r
 an-introduction-to-statistical-learning
 answering-questions-with-data
@@ -303,6 +335,7 @@ bayes-rules
 beyond-multiple-linear-regression-applied-generalized-linear-models-and-multilevel-models-in-r
 causal-inference-the-mixtape
 common-statistical-tests-are-linear-models-a-work-through
+doing-bayesian-data-analysis-in-brms-and-the-tidyverse
 doing-meta-analysis-with-r-a-hands-on-guide
 end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inference
 foundations-of-statistics-with-r
@@ -317,6 +350,7 @@ modern-statistical-methods-for-astronomy
 modern-statistics-with-r-1
 one-way-anova-with-r-completely-randomized-design---between-groups
 openintro-statistics
+partial-least-squares-structural-equation-modeling-pls-sem-using-r
 power-analysis-with-superpower
 regression-and-other-stories
 spatio-temporal-statistics-with-r
@@ -326,9 +360,11 @@ statistical-rethinking-with-brms-ggplot2-and-the-tidyverse-second-edition
 statistical-thinking-in-the-21st-century
 statistics-the-easier-way-with-r-3rd.-ed.-tidyversion
 statistics-and-data-with-r-an-applied-approach-through-examples
+surrogates---gaussian-process-modeling-design-and-optimization-for-the-applied-sciences-1
 teacups-giraffes-and-statistics
 the-effect-an-introduction-to-research-design-and-causality
 the-grammar-of-experimental-designs-1
+the-saga-of-pls
 translating-stata-to-r
 using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling-1
 teaching
@@ -338,8 +374,10 @@ rstudio4edu
 teaching-tech-together
 what-they-forgot-to-teach-you-about-teaching-r
 text-analysis
+an-introduction-to-text-processing-and-analysis-with-r
 supervised-machine-learning-for-text-analysis-in-r-1
 text-mining-for-information-professionals-an-uncharted-territory
+text-mining-for-social-scientists-1
 text-mining-with-r-1
 text-mining-with-tidy-data-principles-1
 time-series-analysis-and-forecasting
@@ -360,6 +398,7 @@ workflow
 agile-data-science-with-r
 github-actions-with-r-1
 how-i-use-r
+r-workflow-for-reproducible-data-analysis-and-reporting
 the-data-validation-cookbook-1
 the-targets-r-package-user-manual-1
 other-compendiums
@@ -369,4 +408,5 @@ cran-doc-collections
 data-science-with-r-a-resource-compendium
 r-on-the-web
 r-project-book-compendium
+the-r-series-by-crc-press
 use-r-springer-series

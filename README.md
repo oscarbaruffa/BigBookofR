@@ -2,7 +2,7 @@
 
 # BigBookofR
 
-This is a collection of over 250 (mostly) free R programming books. 
+This is a collection of over 300 (mostly) free R programming books. 
 
 
 ## Contribution guidelines

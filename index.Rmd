@@ -31,7 +31,7 @@ Thanks for stopping by. If you're like me, you can't help but bookmark every R-r
 
 Hopefully this is the only bookmark you'll need in future ;).
 
-When I initially released this collection in late August 2020, it contained about 100 books that I'd been collecting over the previous two years. Since then I've found a few more and there have been contributions from many people. The collection now stands at about 250 books. 
+When I initially released this collection in late August 2020, it contained about 100 books that I'd been collecting over the previous two years. Since then I've found a few more and there have been contributions from many people. The collection now stands at over 300 books. 
 
 
 Most of these are free. Some are paid but usually quite affordable.
@@ -76,7 +76,7 @@ Follow the [Big Book of R twitter bot](https://twitter.com/BigBookofR) which twe
 
 ## About me
 
-I'm Oscar. Fairly new to R and loving it. If you like this book, feel free to say "Hi!" on [Twitter](https://twitter.com/OscarBaruffa). 
+I'm Oscar. If you like this book, feel free to say "Hi!" on [Twitter](https://twitter.com/OscarBaruffa). 
 
 If you want to stay in the loop on other data-related products I create, or major updates to this book, sign up to my [newsletter](https://oscarbaruffa.com/newsletter?utm_source=BigBookofR_index&utm_content=Link).
 

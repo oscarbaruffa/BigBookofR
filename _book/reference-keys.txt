@@ -294,7 +294,7 @@ mastering-shiny
 mastering-shiny-solutions-baek
 mastering-shiny-solutions-gans-gotti
 outstanding-user-interfaces-with-shiny
-r-shiny-applications-in-finance-medicine-pharma-and-education-industr
+r-shiny-applications-in-finance-medicine-pharma-and-education-industry
 shiny-production-with-aws-book
 supplement-to-shiny-in-production
 social-science

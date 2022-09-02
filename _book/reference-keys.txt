@@ -155,7 +155,7 @@ handling-strings-with-r
 spreadsheet-munging-strategies
 text-mining-with-r
 text-mining-with-tidy-data-principles
-web-scraping-with-r.-a-rich-source-of-examples-and-instruction.
+web-scraping-with-r
 journalism
 practical-r-for-mass-communication-and-journalism
 using-r-for-data-journalism

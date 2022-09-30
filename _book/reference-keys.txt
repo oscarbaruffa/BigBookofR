@@ -24,6 +24,7 @@ getting-started-in-data-science
 hiring-data-scientists-and-machine-learning-engineers
 introduction-to-machine-learning-interviews-book
 project-management-fundamentals-for-data-analysts
+public-speaking-for-data-and-tech-professionals
 telling-stories-with-data
 the-programmers-brain-what-every-programmer-needs-to-know-about-cognition
 the-turing-way
@@ -143,6 +144,7 @@ predictive-soil-mapping-with-r
 r-for-geographic-data-science
 sits-data-analysis-and-machine-learning-on-earth-observation-data-cubes-with-satellite-image-time-series
 spatial-data-science
+spatial-data-science-with-r
 spatial-microsimulation-with-r
 spatial-modelling-for-data-scientists
 using-r-for-digital-soil-mapping
@@ -225,6 +227,7 @@ gt-cookbook-advanced
 highcharter-cookbook
 knitr
 mlr3-book-1
+officeverse
 piper-tutorial
 r-bookdownplus-textbook
 r-function-a-day
@@ -332,10 +335,12 @@ social-data-science-with-r
 text-mining-for-social-scientists
 the-plain-persons-guide-to-plain-text-social-science
 using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach
+using-r-for-social-work-research
 sport-analytics
 basketball-data-science-with-applications-in-r
 coding-for-sports-analytics-get-started-resources
 exploring-baseball-data-with-r
+introduction-to-empirical-bayes-examples-from-baseball-statistics
 stats-in-sports
 visualising-wrc-rally-stages-with-rayshader-and-r-a-rallydatajunkie-adventure
 visualising-wrc-rally-timing-and-results-data-a-rallydatajunkie-adventure
@@ -362,6 +367,7 @@ end-to-end-solved-problems-with-r-a-catalog-of-26-examples-using-statistical-inf
 flexible-regression-models
 foundations-of-statistics-with-r
 handbook-of-regression-modeling-in-people-analytics-1
+introduction-to-empirical-bayes-examples-from-baseball-statistics-1
 introduction-to-modern-statistics
 islr-tidymodels-labs
 learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners

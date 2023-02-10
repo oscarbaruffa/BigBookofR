@@ -181,6 +181,7 @@ little-book-of-r-for-biomedical-statistics
 modern-statistics-for-modern-biology
 numerical-ecology-with-r
 orchestrating-single-cell-analysis-with-bioconductor
+population-health-data-science-with-r
 r-for-applied-epidemiology-and-public-health
 r-for-conservation-and-development-projects-a-primer-for-practitioners
 r-for-health-data-science
@@ -428,6 +429,7 @@ agile-data-science-with-r
 github-actions-with-r-1
 how-i-use-r
 r-workflow-for-reproducible-data-analysis-and-reporting
+reproducible-analytical-pipelines---masters-of-data-science
 reproducible-analytical-pipelines-rap-companion-1
 the-data-validation-cookbook-1
 the-targets-r-package-user-manual-1

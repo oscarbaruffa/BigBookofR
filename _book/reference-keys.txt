@@ -50,6 +50,7 @@ bookdown
 a-minimal-book-example
 data-science
 a-business-analysts-introduction-to-business-analytics
+a-course-in-exploratory-data-analysis
 an-introduction-to-data-analysis
 aps-135-introduction-to-exploratory-data-analysis-with-r
 beginning-data-science-in-r
@@ -167,6 +168,7 @@ an-open-compendium-of-soil-datasets
 assigning-cell-types-with-singler
 bayesian-hierarchical-models-in-ecology
 biostatistics-for-biomedical-research
+comparative-methods
 computational-genomics-with-r
 data-analysis-and-visualization-in-r-for-ecologists
 data-analysis-for-the-life-sciences
@@ -357,6 +359,7 @@ an-introduction-to-statistical-learning
 analysing-data-using-linear-models
 answering-questions-with-data
 applied-longitudinal-data-analysis-in-brms-and-the-tidyverse
+applied-statistics-with-r
 bayes-rules
 beyond-multiple-linear-regression-applied-generalized-linear-models-and-multilevel-models-in-r
 causal-inference-the-mixtape
@@ -381,6 +384,7 @@ one-way-anova-with-r-completely-randomized-design---between-groups
 openintro-statistics
 partial-least-squares-structural-equation-modeling-pls-sem-using-r
 power-analysis-with-superpower
+probability-and-bayesian-modeling
 recoding-introduction-to-mediation-moderation-and-conditional-process-analysis
 regression-and-other-stories
 spatio-temporal-statistics-with-r
@@ -428,6 +432,7 @@ workflow
 agile-data-science-with-r
 github-actions-with-r-1
 how-i-use-r
+r-without-statistics
 r-workflow-for-reproducible-data-analysis-and-reporting
 reproducible-analytical-pipelines---masters-of-data-science
 reproducible-analytical-pipelines-rap-companion-1

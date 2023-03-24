@@ -62,11 +62,13 @@ edav.info
 everyday-data-science
 exploratory-data-analysis-with-r
 introduction-to-data-science
+introduction-to-data-science-1
 model-based-clustering-and-classification-for-data-science
 modern-data-science-with-r
 modern-statistics-with-r
 practical-data-science-with-r-second-edition
 r-data-science-quick-reference
+r-for-data-analysis
 r-for-data-science
 r-for-data-science-solutions
 r-programming-for-data-science
@@ -137,10 +139,12 @@ tidy-finance-with-r
 tidy-portfoliomanagement-in-r
 using-r-for-introductory-econometrics
 geospatial
+a-crash-course-in-geographic-information-systems-gis-using-r
 geocomputation-with-r
 geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny
 intro-to-gis-and-spatial-analysis
 introduction-to-spatial-data-programming-with-r
+introduction-to-urban-accessibility
 predictive-soil-mapping-with-r
 r-for-geographic-data-science
 sits-data-analysis-and-machine-learning-on-earth-observation-data-cubes-with-satellite-image-time-series
@@ -164,6 +168,7 @@ practical-r-for-mass-communication-and-journalism
 using-r-for-data-journalism
 life-sciences
 a-little-book-of-r-for-bioinformatics
+a-little-book-of-r-for-bioinformatics-2.0
 an-open-compendium-of-soil-datasets
 assigning-cell-types-with-singler
 bayesian-hierarchical-models-in-ecology
@@ -385,6 +390,7 @@ openintro-statistics
 partial-least-squares-structural-equation-modeling-pls-sem-using-r
 power-analysis-with-superpower
 probability-and-bayesian-modeling
+r-for-data-analytics
 recoding-introduction-to-mediation-moderation-and-conditional-process-analysis
 regression-and-other-stories
 spatio-temporal-statistics-with-r

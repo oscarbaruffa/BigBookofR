@@ -4,7 +4,7 @@ If you're new to R and want to learn how to use it, this library might be a litt
 
 > There's so much choice! 
 
-If you aren't sure where  to start, then try one  of these two options:
+If you aren't sure where  to start, then try one  of these three options:
 
 ### Book: R for Data Science
 
@@ -27,3 +27,14 @@ https://oscarbaruffa.com/a-roadmap-for-getting-started-with-r/
 If you prefer video instruction with progress tracking, check out this course from "R for the Rest of Us" called Getting Started with R.
 
 https://rfortherestofus.com/courses/getting-started/
+
+
+### Watch a data analyst code live
+
+If you’re looking for real-world examples of live data analyses, you’ve come to the right place.
+
+David Robinson, a highly experienced Data Scientist, has recorded many screencasts where he analyses data that he’s never seen before. These are fantastic examples of how to think about approaching an analysis. You couldn’t ask for a better mentor!
+
+All analyses are done in R with over 80 hours of screencasts timestamped and annotated with detailed info. 
+
+https://www.rscreencasts.com/ 

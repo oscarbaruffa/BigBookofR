@@ -1,6 +1,7 @@
 welcome
 your-last-ever-bookmark
 searching
+supporting
 contributing
 contributors
 license
@@ -63,6 +64,7 @@ everyday-data-science
 exploratory-data-analysis-with-r
 introduction-to-data-science
 introduction-to-data-science-1
+introduction-to-r-for-data-science-a-lisa-2020-guidebook
 model-based-clustering-and-classification-for-data-science
 modern-data-science-with-r
 modern-statistics-with-r
@@ -74,6 +76,7 @@ r-for-data-science-solutions
 r-programming-for-data-science
 the-art-of-data-science
 the-elements-of-data-analytic-style
+yet-again-r-data-science
 yet-another-r-for-data-science-study-guide
 data-visualization
 a-ggplot2-tutorial-for-beautiful-plotting-in-r
@@ -93,7 +96,10 @@ plotly-interactive-web-based-data-visualization-with-r-plotly-and-shiny
 r-graphics-cookbook-2nd-edition
 solutions-to-ggplot2-elegant-graphics-for-data-analysis
 the-hitchhikers-guide-to-ggplot2
+data-visualization-packages
+an-introduction-to-ggplot2
 data-databases-and-engineering
+data-management-in-large-scale-education-research
 devops-for-data-science
 exploring-enterprise-databases-with-r-a-tidyverse-approach
 r-for-data-engineers
@@ -140,6 +146,7 @@ tidy-portfoliomanagement-in-r
 using-r-for-introductory-econometrics
 geospatial
 a-crash-course-in-geographic-information-systems-gis-using-r
+an-introduction-to-spatial-data-analysis-and-statistics-a-course-in-r
 geocomputation-with-r
 geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny
 intro-to-gis-and-spatial-analysis
@@ -367,6 +374,7 @@ applied-longitudinal-data-analysis-in-brms-and-the-tidyverse
 applied-statistics-with-r
 bayes-rules
 beyond-multiple-linear-regression-applied-generalized-linear-models-and-multilevel-models-in-r
+building-energy-statistical-modelling
 causal-inference-the-mixtape
 common-statistical-tests-are-linear-models-a-work-through
 data-analytics
@@ -436,6 +444,7 @@ happy-git-and-github-for-the-user
 the-beginners-guide-to-git-and-github
 workflow
 agile-data-science-with-r
+data-management-in-large-scale-education-research-1
 github-actions-with-r-1
 how-i-use-r
 r-without-statistics

@@ -11,6 +11,7 @@ about-me
 new-to-r-start-here
 book-r-for-data-science
 video-course-getting-started-with-r
+watch-a-data-analyst-code-live
 book-clubs
 nhs-r-community
 r4ds-slack-community
@@ -80,6 +81,7 @@ yet-again-r-data-science
 yet-another-r-for-data-science-study-guide
 data-visualization
 a-ggplot2-tutorial-for-beautiful-plotting-in-r
+an-introduction-to-ggplot2
 bbc-visual-and-data-journalism-cookbook-for-r-graphics
 data-processing-visualization
 data-visualisation-using-r-for-researchers-who-dont-use-r
@@ -96,8 +98,6 @@ plotly-interactive-web-based-data-visualization-with-r-plotly-and-shiny
 r-graphics-cookbook-2nd-edition
 solutions-to-ggplot2-elegant-graphics-for-data-analysis
 the-hitchhikers-guide-to-ggplot2
-data-visualization-packages
-an-introduction-to-ggplot2
 data-databases-and-engineering
 data-management-in-large-scale-education-research
 devops-for-data-science
@@ -229,6 +229,7 @@ statistical-analysis-of-network-data-with-r
 packages
 a-minimal-book-example-1
 a-minimal-rtorch-book-1
+an-introduction-to-ggplot2-1
 apache-arrow-r-cookbook
 brailler-in-action
 circular-visualization-in-r

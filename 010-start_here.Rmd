@@ -4,7 +4,7 @@ If you're new to R and want to learn how to use it, this library might be a litt
 
 > There's so much choice! 
 
-If you aren't sure where  to start, then try one  of these three options:
+If you aren't sure where  to start, then try one  of these options:
 
 ### Book: R for Data Science
 
@@ -14,7 +14,6 @@ The book is free to read at https://r4ds.had.co.nz/
 
 There's an accompanying exercise solution book at https://jrnold.github.io/r4ds-exercise-solutions/
 
-For a different take on the solutions, check out *Yet another ‘R for Data Science’ study guide* which can also be found at https://brshallo.github.io/r4ds_solutions/
 
 If you'd like more of a roadmap which incorporates this book, have a look at my blogpost:
 
@@ -38,3 +37,10 @@ David Robinson, a highly experienced Data Scientist, has recorded many screencas
 All analyses are done in R with over 80 hours of screencasts timestamped and annotated with detailed info. 
 
 https://www.rscreencasts.com/ 
+
+
+### Posit Primers
+
+If you prefer  step by step instructions in an interactive online environment, then have a look at the Posit Primers which will take you through very very basic of data wrangling through to an introduction to building web apps with R!
+
+https://posit.cloud/learn/primers

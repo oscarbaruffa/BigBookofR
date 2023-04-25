@@ -12,6 +12,7 @@ new-to-r-start-here
 book-r-for-data-science
 video-course-getting-started-with-r
 watch-a-data-analyst-code-live
+posit-primers
 book-clubs
 nhs-r-community
 r4ds-slack-community

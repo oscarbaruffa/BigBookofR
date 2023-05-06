@@ -108,6 +108,7 @@ reproducible-analytical-pipelines-rap-companion
 field-specific
 an-open-source-active-learning-curriculum-for-data-science-in-engineering
 audit-analytics-with-r
+building-energy-statistical-modelling
 computer-age-calculus-with-r
 crime-by-the-numbers-a-criminologists-guide-to-r
 cryptocurrency-research-open-source-r-tutorial
@@ -375,7 +376,7 @@ applied-longitudinal-data-analysis-in-brms-and-the-tidyverse
 applied-statistics-with-r
 bayes-rules
 beyond-multiple-linear-regression-applied-generalized-linear-models-and-multilevel-models-in-r
-building-energy-statistical-modelling
+building-energy-statistical-modelling-1
 causal-inference-the-mixtape
 common-statistical-tests-are-linear-models-a-work-through
 data-analytics

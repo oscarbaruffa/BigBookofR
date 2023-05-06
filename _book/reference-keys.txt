@@ -106,7 +106,6 @@ exploring-enterprise-databases-with-r-a-tidyverse-approach
 r-for-data-engineers
 reproducible-analytical-pipelines-rap-companion
 field-specific
-an-introduction-to-quantitative-analysis-of-political-data-in-r
 an-open-source-active-learning-curriculum-for-data-science-in-engineering
 audit-analytics-with-r
 computer-age-calculus-with-r

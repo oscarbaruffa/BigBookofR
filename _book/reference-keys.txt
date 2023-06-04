@@ -348,7 +348,6 @@ hr-analytics-in-r-1
 introduction-to-r-for-social-scientistsa-tidy-programming-approach
 public-policy-analytics-code-context-for-data-science-in-government-1
 reproducible-statistics-for-psychologists-with-r-lab-tutorials
-social-data-science-with-r
 text-mining-for-social-scientists
 the-plain-persons-guide-to-plain-text-social-science
 using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach

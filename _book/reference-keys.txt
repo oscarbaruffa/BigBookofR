@@ -31,8 +31,6 @@ public-speaking-for-data-and-tech-professionals
 telling-stories-with-data
 the-programmers-brain-what-every-programmer-needs-to-know-about-cognition
 the-turing-way
-twitter-for-r-programmers
-twitter-for-scientists
 api
 apis-for-social-scientists-a-collaborative-review
 archeology

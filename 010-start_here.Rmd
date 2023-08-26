@@ -15,11 +15,6 @@ The book is free to read at https://r4ds.had.co.nz/
 There's an accompanying exercise solution book at https://jrnold.github.io/r4ds-exercise-solutions/
 
 
-If you'd like more of a roadmap which incorporates this book, have a look at my blogpost:
-
-https://oscarbaruffa.com/a-roadmap-for-getting-started-with-r/
-
-
 
 ### Video Course: Getting started with R
 

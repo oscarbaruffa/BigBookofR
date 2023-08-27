@@ -133,7 +133,7 @@ handbook-of-regression-modeling-in-people-analytics
 how-to-be-a-modern-scientist
 hr-analytics-in-r
 introduction-to-econometrics-with-r-1
-linear-algebra-for-data-science
+linear-algebra-for-data-science-with-examples-in-r
 open-forensic-science-in-r
 public-policy-analytics-code-context-for-data-science-in-government
 r-for-excel-users

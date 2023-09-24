@@ -10,7 +10,7 @@ If you aren't sure where  to start, then try one  of these options:
 
 This book is an excellent introduction to R programming and gets you started with visualizing data so you see some exciting stuff, and the power of R, right away. 
 
-The book is free to read at https://r4ds.had.co.nz/
+The book is free to read at https://r4ds.hadley.nz/
 
 There's an accompanying exercise solution book at https://jrnold.github.io/r4ds-exercise-solutions/
 

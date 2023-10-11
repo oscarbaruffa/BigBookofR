@@ -117,6 +117,10 @@ r-companion-to-real-econometrics
 r-for-economic-research
 r-guide-to-accompany-introductory-econometrics-for-finance
 using-r-for-introductory-econometrics
+español
+cuentapalabras-estilometría-y-análisis-de-texto-con-r-para-filólogos
+introducción-a-la-probabilidad
+r-para-ciencia-de-datos
 field-specific
 an-open-source-active-learning-curriculum-for-data-science-in-engineering
 audit-analytics-with-r

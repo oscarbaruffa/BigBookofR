@@ -76,13 +76,10 @@ Note that "unique" visits will be higher in Plausible than you'd find with Googl
 
 From now on, you can view the **[LIVE site stats right here](https://plausible.io/bigbookofr.com?ref=BigBoofofR)**.
 
-## Discover more books
-
-Follow the [Big Book of R twitter bot](https://twitter.com/BigBookofR) which tweets randomly-selected books from the collection. 
 
 ## About me
 
-I'm Oscar. If you like this book, feel free to say "Hi!" on [Twitter](https://twitter.com/OscarBaruffa). 
+I'm Oscar. If you like this book, feel free to say "Hi!" on [Mastodon](https://fosstodon.org/@OscarBaruffa) or [LinkedIn](https://www.linkedin.com/in/oscarbaruffa/).
 
 If you want to stay in the loop on other data-related products I create, or major updates to this book, sign up to my [newsletter](https://oscarbaruffa.com/newsletter?utm_source=BigBookofR_index&utm_content=Link).
 

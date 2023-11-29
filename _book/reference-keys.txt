@@ -11,6 +11,7 @@ about-me
 new-to-r-start-here
 book-r-for-data-science
 video-course-getting-started-with-r
+video-course-data-manipulation-in-r
 watch-a-data-analyst-code-live
 posit-primers
 book-clubs
@@ -132,10 +133,7 @@ cryptocurrency-research-open-source-r-tutorial
 data-science-in-education-using-r
 data-skills-for-reproducible-science
 discrete-data-analysis-with-r-visualization-and-modeling-techniques-for-categorical-and-count-data
-handbook-of-graphs-and-networks-in-people-analytics-with-examples-in-r-and-python
-handbook-of-regression-modeling-in-people-analytics
 how-to-be-a-modern-scientist
-hr-analytics-in-r
 introduction-to-econometrics-with-r-1
 linear-algebra-for-data-science-with-examples-in-r
 open-forensic-science-in-r
@@ -239,7 +237,7 @@ the-hitchhikers-guide-to-responsible-machine-learning
 tidy-modeling-with-r
 network-analysis
 awesome-network-analysis
-handbook-of-graphs-and-networks-in-people-analytics-with-examples-in-r-and-python-1
+handbook-of-graphs-and-networks-in-people-analytics-with-examples-in-r-and-python
 network-analysis-in-r-cookbook
 statistical-analysis-of-network-data-with-r
 packages
@@ -267,12 +265,18 @@ r-function-a-day
 rcpp-for-everyone
 reactablefmtr-cookbook
 rlist-tutorial
+shiny-app-packages
 the-caret-package-1
 the-data-validation-cookbook
 the-grammar-of-experimental-designs
 the-lidr-package
 the-targets-r-package-user-manual
 the-tidyverse-cookbook
+people-analytics
+handbook-of-graphs-and-networks-in-people-analytics-with-examples-in-r-and-python-1
+handbook-of-regression-modeling-in-people-analytics
+hr-analytics-in-r
+r-for-hr-an-introduction-to-human-resource-analytics-using-r
 r-package-development
 http-testing-in-r
 pack-your-code
@@ -346,6 +350,7 @@ mastering-shiny-solutions-baek
 mastering-shiny-solutions-gans-gotti
 outstanding-user-interfaces-with-shiny
 r-shiny-applications-in-finance-medicine-pharma-and-education-industry
+shiny-app-packages-1
 shiny-production-with-aws-book
 supplement-to-shiny-in-production
 social-science
@@ -354,6 +359,7 @@ an-r-exercise-in-data-collection-cleaning-and-merging-u.s.-census-data
 an-r-platform-for-social-scientists
 analyzing-us-census-data-methods-maps-and-models-in-r
 apis-for-social-scientists-a-collaborative-review-1
+applied-demographic-data-analysis
 complex-surveys-a-guide-to-analysis-using-r
 composite-indicator-development-and-analysis-in-r-with-coinr
 computational-analysis-of-communication
@@ -361,7 +367,6 @@ computational-social-science-theory-application
 computing-for-the-social-sciences
 crime-by-the-numbers-a-criminologists-guide-to-r-1
 csss-508-introduction-to-r-for-social-scientists
-hr-analytics-in-r-1
 introduction-to-r-for-social-scientistsa-tidy-programming-approach
 public-policy-analytics-code-context-for-data-science-in-government-1
 reproducible-statistics-for-psychologists-with-r-lab-tutorials
@@ -375,6 +380,7 @@ basketball-data-science-with-applications-in-r
 coding-for-sports-analytics-get-started-resources
 exploring-baseball-data-with-r
 introduction-to-empirical-bayes-examples-from-baseball-statistics
+introduction-to-nfl-analytics-with-r
 stats-in-sports
 visualising-wrc-rally-stages-with-rayshader-and-r-a-rallydatajunkie-adventure
 visualising-wrc-rally-timing-and-results-data-a-rallydatajunkie-adventure
@@ -431,6 +437,7 @@ surrogates---gaussian-process-modeling-design-and-optimization-for-the-applied-s
 teacups-giraffes-and-statistics
 the-effect-an-introduction-to-research-design-and-causality
 the-grammar-of-experimental-designs-1
+the-hitchhikers-guide-to-linear-models
 the-saga-of-pls
 translating-stata-to-r
 using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling-1

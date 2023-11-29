@@ -15,12 +15,20 @@ The book is free to read at https://r4ds.hadley.nz/
 There's an accompanying exercise solution book at https://jrnold.github.io/r4ds-exercise-solutions/
 
 
-
 ### Video Course: Getting started with R
 
-If you prefer video instruction with progress tracking, check out this course from "R for the Rest of Us" called Getting Started with R.
+If you prefer video instruction with progress tracking, check out this course from "R for the Rest of Us" called Getting Started with R. It comes key components in typical workflows from start to finish.
 
 https://rfortherestofus.com/courses/getting-started/
+
+
+### Video Course: Data Manipulation in R
+
+If you're looking for specific how-to's on data manipulation, this is a great paid course to consider from Statistics Globe, who also has a youtube channel filled with free content
+
+Paid course: https://statisticsglobe.com/online-course-t13-data-manipulation-r-dplyr-tidyverse
+
+Free content: https://www.youtube.com/c/statisticsglobe 
 
 
 ### Watch a data analyst code live

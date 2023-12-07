@@ -26,7 +26,7 @@ https://rfortherestofus.com/courses/getting-started/
 
 If you're looking for specific how-to's on data manipulation, this is a great paid course to consider from Statistics Globe, who also has a youtube channel filled with free content
 
-Paid course: https://statisticsglobe.com/online-course-t13-data-manipulation-r-dplyr-tidyverse
+Paid course: https://statisticsglobe.com/online-course-data-manipulation-r-dplyr-tidyverse
 
 Free content: https://www.youtube.com/c/statisticsglobe 
 

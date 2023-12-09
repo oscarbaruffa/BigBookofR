@@ -8,9 +8,11 @@ If you aren't sure where  to start, then try one  of these options:
 
 ### Book: R for Data Science
 
-This book is an excellent introduction to R programming and gets you started with visualizing data so you see some exciting stuff, and the power of R, right away. 
+This book is THE most recommended resource to get started. It's an excellent introduction to R programming and gets you started with visualizing data so you see some exciting stuff, and the power of R, right away. 
 
 The book is free to read at https://r4ds.hadley.nz/
+
+You can treat yourself to a [physical copy](https://amzn.to/3t9MyBg).
 
 There's an accompanying exercise solution book at https://jrnold.github.io/r4ds-exercise-solutions/
 

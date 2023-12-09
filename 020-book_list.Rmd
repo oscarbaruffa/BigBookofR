@@ -242,6 +242,10 @@ chapter_content <- books_source %>%
     cat('\n\nLink: ', as.character(chapter_content[entry, 'link']),'\n\n', sep="")   
   }
     
+  if (!is.na(chapter_content[entry, 'physical'])) {
+    cat('\n\nPhysical copy: ', as.character(chapter_content[entry, 'physical']),'\n\n', sep="")   
+  }
+    
     
   } #end chapter for loop
     

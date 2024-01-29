@@ -50,7 +50,7 @@ If you'd like to show your appreciation with a donation you're most welcome to d
 
 ## Contributing
 
-Please feel free to contribute paid and free books - see [GitHub.](https://github.com/oscarbaruffa/BigBookofR)
+Please feel free to contribute paid and free books - see [GitHub.](https://github.com/oscarbaruffa/BigBookofR) or submit via the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScLSaVzr8dh1dOE2M338QAhfvKfDkydB7QZGMrVWI-VudhQbA/viewform).
 
 
 ## Contributors

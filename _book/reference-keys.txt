@@ -40,6 +40,7 @@ art
 art-from-code
 thinking-outside-the-grid---a-bare-bones-intro-to-rtistry-concepts-in-r-using-ggplot.
 big-data
+big-data-analytics
 big-data-with-r---exercise-book
 exploring-visualizing-and-modeling-big-data-with-r
 larger-than-memory-data-workflows-with-apache-arrow
@@ -75,6 +76,7 @@ r-for-data-analysis
 r-for-data-science
 r-for-data-science-solutions
 r-programming-for-data-science
+targeted-learning-in-r-causal-data-science-with-the-tlverse-software-ecosystem
 the-art-of-data-science
 the-elements-of-data-analytic-style
 yet-again-r-data-science
@@ -121,6 +123,7 @@ español
 cuentapalabras-estilometría-y-análisis-de-texto-con-r-para-filólogos
 introducción-a-la-probabilidad
 r-para-ciencia-de-datos
+r-para-epidemiología-aplicada-y-salud-pública
 field-specific
 an-open-source-active-learning-curriculum-for-data-science-in-engineering
 audit-analytics-with-r
@@ -132,6 +135,7 @@ cryptocurrency-research-open-source-r-tutorial
 data-science-in-education-using-r
 data-skills-for-reproducible-science
 discrete-data-analysis-with-r-visualization-and-modeling-techniques-for-categorical-and-count-data
+hierarchical-compartmental-reserving-models
 how-to-be-a-modern-scientist
 introduction-to-econometrics-with-r-1
 linear-algebra-for-data-science-with-examples-in-r
@@ -146,6 +150,7 @@ finance
 analyzing-financial-and-economic-data-with-r-1
 audit-analytics-with-r-1
 financial-econometrics---r-tutorial-guidance-1
+hierarchical-compartmental-reserving-models-1
 introduction-to-computational-finance-and-financial-econometrics-with-r
 machine-learning-for-factor-investing
 reproducible-finance-with-r-code-flows-and-shiny-apps-for-portfolio-analysis
@@ -265,10 +270,12 @@ rcpp-for-everyone
 reactablefmtr-cookbook
 rlist-tutorial
 shiny-app-packages
+targeted-learning-in-r-causal-data-science-with-the-tlverse-software-ecosystem-1
 the-caret-package-1
 the-data-validation-cookbook
 the-grammar-of-experimental-designs
 the-lidr-package
+the-targets-r-package-design-specification
 the-targets-r-package-user-manual
 the-tidyverse-cookbook
 people-analytics
@@ -296,6 +303,7 @@ book-of-r-a-first-course-in-programming-and-statistics
 cookbook-for-r
 data-analytics-with-r-a-recipe-book
 deep-r-programming
+deep-r-programming-1
 domain-specific-languages-in-r
 efficient-r-programming
 field-guide-to-the-r-ecosystem
@@ -309,6 +317,7 @@ mastering-software-development-in-r
 metaprogramming-in-r
 modern-r-with-the-tidyverse
 r-basics
+r-bytecode-book
 r-cookbook---2nd-edition
 r-development-guide
 r-for-excel-users-1
@@ -353,6 +362,8 @@ shiny-app-packages-1
 shiny-production-with-aws-book
 supplement-to-shiny-in-production
 social-science
+psychometrics-in-exercises-using-r-and-rstudio
+social-science-1
 an-introduction-to-psychometric-theory-with-applications-in-r
 an-r-exercise-in-data-collection-cleaning-and-merging-u.s.-census-data
 an-r-platform-for-social-scientists
@@ -478,6 +489,7 @@ r-workflow-for-reproducible-data-analysis-and-reporting
 reproducible-analytical-pipelines---masters-of-data-science
 reproducible-analytical-pipelines-rap-companion-1
 the-data-validation-cookbook-1
+the-targets-r-package-design-specification-1
 the-targets-r-package-user-manual-1
 other-compendiums
 awesome-network-analysis-1

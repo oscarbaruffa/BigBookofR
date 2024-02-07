@@ -303,7 +303,6 @@ book-of-r-a-first-course-in-programming-and-statistics
 cookbook-for-r
 data-analytics-with-r-a-recipe-book
 deep-r-programming
-deep-r-programming-1
 domain-specific-languages-in-r
 efficient-r-programming
 field-guide-to-the-r-ecosystem

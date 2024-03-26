@@ -90,6 +90,7 @@ data-visualisation-using-r-for-researchers-who-dont-use-r
 data-visualization---a-practical-introduction
 data-visualization-in-r
 data-visualization-with-r
+data-wrangling-and-visualization-guide
 fundamentals-of-data-visualization
 ggplot2-elegant-graphics-for-data-analysis
 ggplot2-in-2
@@ -178,7 +179,9 @@ using-r-for-digital-soil-mapping
 getting-cleaning-and-wrangling-data
 recipes-for-mining-twitter-data-with-rtweet
 a-beginners-guide-to-clean-data
+data-wrangling-and-visualization-guide-1
 data-wrangling-essentials
+flexible-imputation-of-missing-data
 fundamentals-of-wrangling-healthcare-data-with-r
 handling-strings-with-r
 spreadsheet-munging-strategies
@@ -211,6 +214,7 @@ modern-statistics-for-modern-biology
 numerical-ecology-with-r
 orchestrating-single-cell-analysis-with-bioconductor
 population-health-data-science-with-r
+practical-statistics-in-medicine-with-r
 r-for-applied-epidemiology-and-public-health
 r-for-conservation-and-development-projects-a-primer-for-practitioners
 r-for-health-data-science
@@ -224,6 +228,7 @@ behavior-analysis-with-machine-learning-using-r
 data-science-theories-models-algorithms-and-analytics
 deep-learning-and-scientific-computing-with-r-torch
 explanatory-model-analysis
+feature-engineering-a-z
 feature-engineering-and-selection-a-practical-approach-for-predictive-models
 hands-on-machine-learning-with-r
 interpretable-machine-learning
@@ -256,6 +261,7 @@ create-publish-and-analyze-personal-websites-using-r-and-rstudio-1
 data-integration-manipulation-and-visualization-of-phylogenetic-trees-1
 data.table-in-r-the-complete-beginners-guide
 deep-learning-and-scientific-computing-with-r-torch-1
+flexible-imputation-of-missing-data-1
 ggplot2-elegant-graphics-for-data-analysis-1
 gt-cookbook
 gt-cookbook-advanced
@@ -370,6 +376,7 @@ applied-demographic-data-analysis
 complex-surveys-a-guide-to-analysis-using-r
 composite-indicator-development-and-analysis-in-r-with-coinr
 computational-analysis-of-communication
+computational-analysis-of-communication-1
 computational-social-science-theory-application
 computing-for-the-social-sciences
 crime-by-the-numbers-a-criminologists-guide-to-r-1
@@ -377,12 +384,14 @@ csss-508-introduction-to-r-for-social-scientists
 introduction-to-r-for-social-scientistsa-tidy-programming-approach
 psychometrics-in-exercises-using-r-and-rstudio
 public-policy-analytics-code-context-for-data-science-in-government-1
+r-programming-for-psychometrics
 reproducible-statistics-for-psychologists-with-r-lab-tutorials
 simulation-models-of-cultural-evolution-in-r
 text-mining-for-social-scientists
 the-plain-persons-guide-to-plain-text-social-science
 using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach
 using-r-for-social-work-research
+welcome-to-modern-statistical-methods-for-psychology
 sport-analytics
 basketball-data-science-with-applications-in-r
 coding-for-sports-analytics-get-started-resources

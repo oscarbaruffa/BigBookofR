@@ -382,6 +382,7 @@ computing-for-the-social-sciences
 crime-by-the-numbers-a-criminologists-guide-to-r-1
 csss-508-introduction-to-r-for-social-scientists
 introduction-to-r-for-social-scientistsa-tidy-programming-approach
+modern-statistical-methods-for-psychology
 psychometrics-in-exercises-using-r-and-rstudio
 public-policy-analytics-code-context-for-data-science-in-government-1
 r-programming-for-psychometrics
@@ -391,7 +392,6 @@ text-mining-for-social-scientists
 the-plain-persons-guide-to-plain-text-social-science
 using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach
 using-r-for-social-work-research
-welcome-to-modern-statistical-methods-for-psychology
 sport-analytics
 basketball-data-science-with-applications-in-r
 coding-for-sports-analytics-get-started-resources

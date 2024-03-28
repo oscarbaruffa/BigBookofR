@@ -376,7 +376,6 @@ applied-demographic-data-analysis
 complex-surveys-a-guide-to-analysis-using-r
 composite-indicator-development-and-analysis-in-r-with-coinr
 computational-analysis-of-communication
-computational-analysis-of-communication-1
 computational-social-science-theory-application
 computing-for-the-social-sciences
 crime-by-the-numbers-a-criminologists-guide-to-r-1

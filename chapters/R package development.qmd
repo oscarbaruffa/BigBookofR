@@ -1,0 +1,49 @@
+# R package development
+
+## HTTP testing in R
+
+- [Scott Chamberlain](https://twitter.com/sckottie)
+- [Maëlle Salmon](https://twitter.com/ma_salmon)
+
+This book is meant to be a free, central reference for developers of R
+packages accessing web resources, to help them have a faster and more
+robust development. Our aim is to develop an useful guidance to go with
+the great recent tools that vcr, webmockr, httptest and presser are.
+
+Link: [https://books.ropensci.org/http-testing/](https://books.ropensci.org/http-testing/)
+
+## Pack YouR Code
+
+- [Gaston Sanchez](https://www.gastonsanchez.com)
+
+The ultimate goal of this book is to teach you how to create a relatively simple R package based on the so-called S3 classes.
+
+Paid: Free preview of first 4 chapters $13
+
+Link: [http://www.gastonsanchez.com/packyourcode/](http://www.gastonsanchez.com/packyourcode/)
+
+## R packages
+
+- [Hadley Wickham](https://twitter.com/hadleywickham)
+- [Jenny Bryan](https://twitter.com/JennyBryan)
+
+Packages are the fundamental units of reproducible R code. They include
+reusable R functions, the documentation that describes how to use them,
+and sample data. In this section you'll learn how to turn your code into
+packages that others can easily download and use. Writing a package can
+seem overwhelming at first. So start with the basics and improve it over
+time. It doesn't matter if your first version isn't perfect as long as
+the next version is better.
+
+Link: [https://r-pkgs.org/](https://r-pkgs.org/)
+
+## rOpenSci Packages Development, Maintenance, and Peer Review
+
+- [rOpenSci software review editorial team](https://twitter.com/ropensci)
+
+This book is a package development guide for authors, maintainers,
+reviewers and editors of rOpenSci.
+
+Link: [https://devguide.ropensci.org/index.html](https://devguide.ropensci.org/index.html)
+
+

@@ -1,0 +1,591 @@
+# Statistics
+
+## A Business Analyst’s Introduction to Business Analytics
+
+- [Adam Fleischhacker](https://twitter.com/preposterior)
+
+This textbook goes farther than just teaching you to make computational models using software or mathematical models using statistics. It teaches you how to align computational and mathematical models with real-world scenarios; empowering you to communicate with and leverage the expertise of business stakeholders while using modern software stacks and statistical workflows. In this book, you do not learn business analytics to make models; you learn business analytics to add tangible value in the real-world.
+
+Link: [https://www.causact.com/](https://www.causact.com/)
+
+Physical copy available: https://amzn.to/4aaG5GX
+
+## A Little Book of R for Multivariate Analysis
+
+- [Avril Coghlan](https://www.researchgate.net/profile/Avril-Coghlan)
+
+This is a simple introduction to multivariate analysis using the R statistics software.
+
+Link: [https://little-book-of-r-for-multivariate-analysis.readthedocs.io](https://little-book-of-r-for-multivariate-analysis.readthedocs.io)
+
+## A Little Book of R for Time Series
+
+- [Avril Coghlan](https://www.researchgate.net/profile/Avril-Coghlan)
+
+This is a simple introduction to time series analysis using the R statistics software.
+
+Link: [https://a-little-book-of-r-for-time-series.readthedocs.io](https://a-little-book-of-r-for-time-series.readthedocs.io)
+
+## Advanced Regression Methods - Companion to BER642
+
+- Cheng HUA
+- [Youn-Jeng CHOI](https://orcid.org/0000-0001-9803-2681)
+- Qingzhou SHI
+
+Different multiple regression methods are presented including an overview of ordinary least squares regression, ordinal regression, logistic and probit regression, loglinear, mixed, and regression discontinuity. Interpretation of results diagnostics, and appications are covered for the several glm models.
+
+Link: [https://bookdown.org/chua/ber642_advanced_regression/](https://bookdown.org/chua/ber642_advanced_regression/)
+
+## An Introduction to Bayesian Reasoning and Methods
+
+- Kevin Ross
+
+we will focus on statistical inference, the process of using data analysis to draw conclusions about a population or process beyond the existing data. “Traditional” hypothesis tests and confidence intervals that you are familiar with are components of “frequestist” statistics. This book will introduce aspects of “Bayesian” statistics. We will focus on analyzing data, developing models, drawing conclusions, and communicating results from a Bayesian perspective. We will also discuss some similarities and differences between frequentist and Bayesian approaches, and some advantages and disadvantages of each approach.
+
+Link: [https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/](https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/)
+
+## An Introduction to Statistical Learning
+
+- Gareth James
+- Daniela Witten
+- Trevor Hastie
+- Rob Tibshirani
+
+As the scale and scope of data collection continue to increase across virtually all fields, statistical learning has become a critical toolkit for anyone who wishes to understand data. An Introduction to Statistical Learning provides a broad and less technical treatment of key topics in statistical learning. Each chapter includes an R lab. This book is appropriate for anyone who wishes to use contemporary tools for data analysis.
+
+Link: [https://www.statlearning.com/](https://www.statlearning.com/)
+
+## An Introduction to Statistical and Data Sciences via R
+
+- [Chester Ismay](https://twitter.com/old_man_chester)
+- [Albert Kim](https://twitter.com/rudeboybert)
+
+An incredibly beginner friendly introduction to both datascience and statistics concepts as well as R.
+
+Link: [https://moderndive.com/](https://moderndive.com/)
+
+## Analysing Data using Linear Models
+
+- Stéphanie M. van den Berg
+
+This book is for bachelor students in social, behavioural and management sciences that want to learn how to analyse their data, with the specific aim to answer research questions. The book has a practical take on data analysis: how to do it, how to interpret the results, and how to report the results. All techniques are presented within the framework of linear models: this includes simple and multiple regression models, linear mixed models and generalised linear models. This approach is illustrated using R.
+
+Link: [https://bookdown.org/pingapang9/linear_models_bookdown/](https://bookdown.org/pingapang9/linear_models_bookdown/)
+
+## Answering questions with data
+
+- Matthew J. Crump
+
+This is a free textbook teaching introductory statistics for
+undergraduates in Psychology. This textbook is part of a larger OER
+course package for teaching undergraduate statistics in Psychology,
+including this textbook, a lab manual, and a course website.
+
+(Oscar's note:Looks like a comprehensive stats resource!)
+
+Link: [https://crumplab.github.io/statistics/](https://crumplab.github.io/statistics/)
+
+## Applied Statistics with R
+
+- [David Dalpiaz](https://github.com/daviddalpiaz/)
+
+The book gives a basic introduction how to perform regression analysis in R. It is used in the context of an applied statistics class of University of Illinois Urbana-Champaign
+
+Link: [https://book.stat420.org](https://book.stat420.org)
+
+## Applied longitudinal data analysis in brms and the tidyverse
+
+- [A Solomon Kurz](https://solomonkurz.netlify.app)
+
+A translation of the examples and figures from Singer and Willett’s classic Applied longitudinal data analysis: Modeling change and event occurrence.
+
+Link: [https://bookdown.org/content/4253/](https://bookdown.org/content/4253/)
+
+## Bayes rules!
+
+- Alicia A. Johnson
+- [Miles Ott](https://twitter.com/Miles_Ott)
+- [Mine Dogucu](https://twitter.com/MineDogucu)
+
+The primary goal of Bayes Rules! is to make modern Bayesian thinking,
+modeling, and computing accessible to a broad audience. Bayes Rules!
+empowers readers to weave Bayesian approaches into an everyday modern
+practice of statistics and data science.\
+The overall spirit is very applied: the book utilizes modern computing
+resources and a reproducible pipeline; the discussion emphasizes
+conceptual understanding; the material is motivated by data-driven
+inquiry; and the delivery blends traditional "content" with "activity".
+
+Link: [https://www.bayesrulesbook.com/](https://www.bayesrulesbook.com/)
+
+## Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R
+
+- Paul Roback
+- Julie Legler
+
+This book is designed for undergraduate students who have successfully completed a multiple linear regression course, helping them develop an expanded modeling toolkit that includes non-normal responses and correlated structure. Even though there is no mathematical prerequisite, the authors still introduce fairly sophisticated topics such as likelihood theory, zero-inflated Poisson, and parametric bootstrapping in an intuitive and applied manner. The case studies and exercises feature real data and real research questions; thus, most of the data in the textbook comes from collaborative research conducted by the authors and their students, or from student projects. Every chapter features a variety of conceptual exercises, guided exercises, and open-ended exercises using real data. After working through this material, students will develop an expanded toolkit and a greater appreciation for the wider world of data and statistical modeling.
+
+Link: [https://bookdown.org/roback/bookdown-BeyondMLR/](https://bookdown.org/roback/bookdown-BeyondMLR/)
+
+## Building energy statistical modelling
+
+- Simon Rouchier
+
+The topic of this book is statistical modelling and inference applied to building energy performance assessment. It has two target audiences: building energy researchers and practitioners who need a gentle introduction to statistical modelling; statisticians who may be interested in applications to energy performance.
+
+Link: [https://buildingenergygeeks.org/index.html](https://buildingenergygeeks.org/index.html)
+
+## Causal Inference: The Mixtape
+
+- Scott Cunningham
+
+Causal inference encompasses the tools that allow social scientists to determine what causes what. In a messy world, causal inference is what helps establish the causes and effects of the actions being studied—for example, the impact (or lack thereof) of increases in the minimum wage on employment, the effects of early childhood education on incarceration later in life, or the influence on economic growth of introducing malaria nets in developing regions. Scott Cunningham introduces students and practitioners to the methods necessary to arrive at meaningful answers to the questions of causation, using a range of modeling techniques and coding instructions for both the R and the Stata programming languages.
+
+Link: [https://mixtape.scunning.com/](https://mixtape.scunning.com/)
+
+## Common statistical tests are linear models a work through
+
+- Steve Doogue
+
+This is a reworking of the book Common statistical tests are linear
+models (or: how to teach stats), written by Jonas Lindeløv. The book
+beautifully demonstrates how many common statistical tests (such as the
+t-test, ANOVA and chi-squared) are special cases of the linear model.
+The book also demonstrates that many non-parametric tests, which are
+needed when certain test assumptions do not hold, can be approximated by
+linear models using the rank of values.
+
+Link: [https://steverxd.github.io/Stat_tests/](https://steverxd.github.io/Stat_tests/)
+
+## Data Analytics
+
+- [Achim Zeileis](https://twitter.com/AchimZeileis)
+- Janette Walde
+- Vanda Rajnai
+- Matteo Saveriano
+- Matthias Schurz
+
+This collection of R tutorials accompanies the new course Data Analytics organized jointly in the bachelor curriculum “Wirtschaftswissenschaften” and the complementary subject area “Digital Science” at Universität Innsbruck and its Digital Science Center (DiSC).
+
+Link: [https://discdown.org/dataanalytics/](https://discdown.org/dataanalytics/)
+
+## Doing Bayesian Data Analysis in brms and the tidyverse
+
+- A Solomon Kurz
+
+Kruschke began his text with “This book explains how to actually do Bayesian data analysis, by real people (like you), for realistic data (like yours).” In the same way, this project is designed to help those real people do Bayesian data analysis.
+
+Link: [https://bookdown.org/content/3686/](https://bookdown.org/content/3686/)
+
+## Doing meta-analysis with R A hands-on guide
+
+- Mathias Harrer
+- Pim Cuijpers
+- Toshi A. Furukawa
+- David D. Ebert
+
+This book serves as an accessible introduction into how meta-analyses can be conducted in R. Essential steps for meta-analysis are covered, including pooling of outcome measures, forest plots, heterogeneity diagnostics, subgroup analyses, meta-regression, methods to control for publication bias, risk of bias assessments and plotting tools.
+
+Advanced, but highly relevant topics such as network meta-analysis, multi-/three-level meta-analyses, Bayesian meta-analysis approaches, SEM meta-analysis are also covered.
+
+Link: [https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
+
+## End-to-End Solved Problems With R a catalog of 26 examples using statistical inference
+
+- [Nicole Radziwill](https://radziwill.cc)
+
+Lots of worked problems, analytically and in R! Useful supplement for an introductory applied stats class.
+
+https://amzn.to/2EREAn2 - used for \$4-18, new \$19-20
+https://www.e-junkie.com/ecom/gb.php?c=single&cl=147256&i=1548704 -
+\$10 for PDF only
+
+Link: [https://amzn.to/2EREAn2](https://amzn.to/2EREAn2)
+
+## Flexible Regression Models
+
+- [Nikolaus Umlauf](https://eeecon.uibk.ac.at/~umlauf/)
+
+This script aims to cover the core knowledge of flexible regression models, frequentist and Bayesian estimation, computational details and software implementations. The script assumes a certain basic knowledge of the linear regression model and the generalized linear model (GLM).
+
+Link: [https://discdown.org/flexregression/](https://discdown.org/flexregression/)
+
+## Foundations of Statistics with R
+
+- [Darrin Speegle](https://twitter.com/speegled)
+- Bryan Clair
+
+This book represents a fundamental rethinking of a calculus based first course in probability and statistics. We offer a breadth first approach, where the fundamentals of probability and statistics can be taught in one semester. The statistical programming language R plays an essential role throughout the text through simulations, data wrangling, visualizations and statistical procedures. Data sets from a variety of sources, including many from recent, open source scientific articles, are used in examples and exercises. Demonstrations of important facts are given through simulations, with some formal mathematical proofs as well.
+
+This book is an excellent choice for students studying data science, statistics, engineering, computer science, mathematics, science, business, or any field which requires the two semesters of calculus needed to read this book.
+
+Link: [https://mathstat.slu.edu/~speegle/_book/preface.html](https://mathstat.slu.edu/~speegle/_book/preface.html)
+
+## Handbook of Regression Modeling in People Analytics
+
+- [Keith McNulty](https://twitter.com/dr_keithmcnulty)
+
+It is the author's firm belief that all people analytics professionals
+should have a strong understanding of regression models and how to
+implement and interpret them in practice, and the aim with this book is
+to provide those who need it with help in getting there.
+
+For accompanying solutions to some of the questions: https://keithmcnulty.github.io/peopleanalytics-regression-book/solutions/
+
+Link: [http://peopleanalytics-regression-book.org/index.html](http://peopleanalytics-regression-book.org/index.html)
+
+## ISLR tidymodels Labs
+
+- [Emil Hvitfeldt](https://twitter.com/Emil_Hvitfeldt)
+
+This book aims to be a complement to the 1st version An Introduction to Statistical Learning book with translations of the labs into using the tidymodels set of packages.
+
+The labs will be mirrored quite closely to stay true to the original material.
+
+Link: [https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
+
+## Introduction to Empirical Bayes: Examples from Baseball Statistics
+
+- [David Robinson](https://twitter.com/drob)
+
+Learn to use empirical Bayesian methods for estimating binomial proportions, through a series of examples drawn from baseball statistics. These methods are effective in estimating click-through rates on ads, success rates of experiments, and other examples common in modern data science. You'll learn both the theory and the practice behind empirical Bayesian methods, including computing credible intervals, performing Bayesian A/B testing, and fitting mixture models. Each example comes with R code that can be used to analyze your own data.
+
+Link: [https://drob.gumroad.com/l/empirical-bayes](https://drob.gumroad.com/l/empirical-bayes)
+
+## Introduction to Modern Statistics
+
+- [Mine Çetinkaya-Rundel](https://twitter.com/minebocek)
+- [Johanna Hardin](https://twitter.com/jo_hardin47)
+
+We hope readers will take away three ideas from this book in addition to
+forming a foundation of statistical thinking and methods.
+
+1.  Statistics is an applied field with a wide range of practical
+    applications.
+2.  You don't have to be a math guru to learn from interesting, real
+    data.
+3.  Data are messy, and statistical tools are imperfect. However, when
+    you understand the strengths and weaknesses of these tools, you can
+    use them to learn interesting things about the\~world.
+
+Link: [https://openintro-ims.netlify.app/](https://openintro-ims.netlify.app/)
+
+## Learning statistics with R A tutorial for psychology students and other beginners
+
+- [Danielle Navarro](https://twitter.com/djnavarro)
+
+Learning Statistics with R covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students, focusing on the use of the R statistical software. The book discusses how to get started in R as well as giving an introduction to
+data manipulation and writing scripts. From a statistical perspective, the book discusses descriptive statistics and graphing ﬁrst, followed by chapters on probability theory, sampling and estimation, and null hypothesis testing. After introducing the theory, the book covers the
+analysis of contingency tables, t-tests, ANOVAs and regression. Bayesian statistics are covered at the end of the book.
+
+Link: [https://learningstatisticswithr-bookdown.netlify.app/](https://learningstatisticswithr-bookdown.netlify.app/)
+
+## Library of Statistical Techniques
+
+- Nick Huntington-Klein
+- Volunteers
+
+In short, LOST is a Rosetta Stone for statistical software.
+
+LOST is a publicly-editable website with the goal of making it easy to execute statistical techniques in statistical software.
+
+Each page of the website contains a statistical technique — which may be an estimation method, a data manipulation or cleaning method, a method for presenting or visualizing results, or any of the other kinds of things that statistical software typically does.
+
+For each of those techniques, the LOST page will contain code for performing that method in a variety of packages and languages. It may also contain information (or links) with thorough descriptions of the method, but the focus here is on implementation. How can you do it in your language of choice? If there are multiple ways, how are those ways different? Is the way you used to do it outdated, or does it do something unexpected? What’s the R equivalent of that command you know about in Stata or SAS, or vice versa?
+
+Link: [https://lost-stats.github.io/](https://lost-stats.github.io/)
+
+## Mixed Models with R  Getting started with random effects
+
+- [Michael Clark](https://m-clark.github.io/)
+
+Mixed models are an extremely useful modeling tool for situations in which there is some dependency among observations in the data, where the correlation typically arises from the observations being clustered in some way.
+
+Link: [https://m-clark.github.io/mixed-models-with-R/](https://m-clark.github.io/mixed-models-with-R/)
+
+## Model Estimation by Example Demonstrations with R
+
+- [Michael Clark](https://m-clark.github.io/)
+
+This document provides ‘by-hand’ demonstrations of various models and algorithms. The goal is to take away some of the mystery of them by providing clean code examples that are easy to run and compare with other tools.
+
+The code was collected over several years, so is not exactly consistent in style, but now has been cleaned up to make it more so. Within each demo, you will generally find some 
+ imported/simulated data, a primary estimating function, a comparison of results with some R package, and a link to the old code that was the initial demonstration.
+
+Link: [https://m-clark.github.io/models-by-example/](https://m-clark.github.io/models-by-example/)
+
+## Modern Statistical Methods for Astronomy
+
+- [Eric D. Feigelson](https://science.psu.edu/astro/people/e5f)
+- [G. Jogesh Babu](http://personal.psu.edu/gjb6/)
+
+Modern astronomical research is beset with a vast range of statistical challenges, ranging
+from reducing data from mega datasets to characterizing an amazing variety of variable
+celestial objects or testing astrophysical theory. Linking astronomy to the world of modern
+statistics, this volume is a unique resource, introducing astronomers to advanced statistics
+through ready-to-use code in the public-domain R statistical software environment. The book presents fundamental results of probability theory and statistical inference, before exploring several fields of applied statistics, such as data smoothing, regression, multivariate analysis and classification, treatment of non-detections, time series analysis,
+and spatial point processes. It applies the methods discussed to contemporary astronomical research datasets using the R statistical software, making it an invaluable resource for graduate students and researchers facing complex data analysis task.
+
+Link: [https://www.cambridge.org/in/academic/subjects/physics/astronomy-general/modern-statistical-methods-astronomy-r-applications?format=AR](https://www.cambridge.org/in/academic/subjects/physics/astronomy-general/modern-statistical-methods-astronomy-r-applications?format=AR)
+
+## Modern Statistics with R
+
+- [Måns Thulin](https://twitter.com/mansthulin)
+
+This book covers the fundamentals of data science and statistics. The first half deals with the basics of R and R coding, data wrangling, exploratory data analysis and more advandced programming. The second half deals with modern statistics (favouring permutation tests, the bootstrap and Bayesian methods over traditional asymptotic methods), regression models and predictive modelling. It also contains information about debugging and explanations of 25 commonly encountered error messages in R. In addition, there are 170 or so exercises with fully worked solutions.
+
+Link: [http://www.modernstatisticswithr.com/](http://www.modernstatisticswithr.com/)
+
+Physical copy available: https://amzn.to/3RytIxc
+
+## One Way ANOVA with R Completely Randomized Design - Between Groups
+
+- Bruce Dudek
+
+This document can be a standalone “how-to” document for R users. However, it is primarily intended for students in the APSY510/511 statistics sequence at the University at Albany. It is a fairly thorough treatment of graphical and inferential evaluation of one-factor designs. It presumes prior background coverage of the ANOVA logic from standard textbooks such as Howell or Maxwell, Delaney and Kelley (2017). The analyses are intended to parallel and exhaust the methods already covered with SPSS, and to extend them to additional topics.
+
+Link: [https://bcdudek.net/anova/oneway_anova_basics.pdf](https://bcdudek.net/anova/oneway_anova_basics.pdf)
+
+## OpenIntro Statistics
+
+- David Diez
+- [Mine Cetinkaya-Rundel](https://twitter.com/minebocek)
+- Christopher Barr
+- [OpenIntro](https://twitter.com/OpenIntroOrg)
+
+A complete foundation for Statistics, also serving as a foundation for
+Data Science.
+
+Leanpub revenue supports OpenIntro (US-based nonprofit) so we can
+provide free desk copies to teachers interested in using OpenIntro
+Statistics in the classroom and expand the project to support free
+textbooks in other subjects.
+
+More resources: [openintro.org](https://www.openintro.org/).
+
+Paid: Pay what you want for the ebook, minimum \$0.00, however if you are able to, please consider the cause above. Thanks! $15
+
+Link: [https://leanpub.com/openintro-statistics](https://leanpub.com/openintro-statistics)
+
+## Partial Least Squares Structural Equation Modeling (PLS-SEM) Using R
+
+- Joseph F. Hair Jr.
+- G. Tomas M. Hult
+- Christian M. Ringle
+- Marko Sarstedt
+- [Nicholas P. Danks](https://nicholasdanks.com/)
+- [Soumya Ray](https://soumyaray.com/)
+
+An open access (free and unlimited) book with concise guidelines on how to apply and interpret Partial Least Squares Structural Equation Modeling (PLS-SEM). It includes an illustrative, step-by-step application of PLS-SEM using the highly user-friendly SEMinR package. It adopts a case-study approach that focuses on the illustration of relevant analysis steps.
+
+Link: [https://link.springer.com/book/10.1007/978-3-030-80519-7](https://link.springer.com/book/10.1007/978-3-030-80519-7)
+
+## Power Analysis with Superpower
+
+- Aaron R. Caldwell
+- Daniël Lakens
+- Chelsea M. Parlett-Pelleriti
+- Guy Prochilo
+- Frederik Aust
+
+The goal of Superpower is to easily simulate factorial designs and empirically calculate power using a simulation approach. The R package is intended to be utilized for prospective (a priori) power analysis. Calculating post hoc power is not a useful thing to do for single studies.
+
+This package, and book, expect readers to have some familiarity with R (2020). However, we have created two Shiny apps (for the ANOVA_power & ANOVA_exact functions respectively) to help use Superpower if you are not familiar with R. Reading through the examples in this book, and reproducing them in the Shiny apps, is probably the easiest way to get started with power analyses in Superpower.
+
+Link: [https://aaroncaldwell.us/SuperpowerBook/index.html](https://aaroncaldwell.us/SuperpowerBook/index.html)
+
+## Probability and Bayesian Modeling
+
+- [Jim Albert](https://bayesball.github.io)
+- [Jingchen (Monika) HU](https://github.com/monika76five)
+
+This book introduces Bayesian statistics in the undergraduate statistics curriculum. The book comes with a R Package "ProbBayes" and repos.
+
+Link: [https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html](https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html)
+
+## R for Data Analytics
+
+- [Abhay Singh](https://twitter.com/rforresearch)
+
+This is compilation of notes for R for Data Analytics. These notes are used as learning material in R for Research, R for Financial Analytics and R for Data Analytics workshops.
+
+Link: [https://rforanalytics.com/](https://rforanalytics.com/)
+
+## Recoding Introduction to Mediation, Moderation, and Conditional Process Analysis
+
+- [A Solomon Kurz](https://twitter.com/SolomonKurz)
+
+A translation of the code from the second edition of Andrew F. Hayes’s Introduction to Mediation, Moderation, and Conditional Process Analysis.
+
+Link: [https://bookdown.org/content/b472c7b3-ede5-40f0-9677-75c3704c7e5c/](https://bookdown.org/content/b472c7b3-ede5-40f0-9677-75c3704c7e5c/)
+
+## Regression and Other Stories
+
+- Andrew Gelman
+- Jennifer Hill
+- Aki Vehtari
+
+Many textbooks on regression focus on theory and the simplest of examples. Real statistical problems, however, are complex and subtle. This is not a book about the theory of regression. It is a book about how to use regression to solve real problems of comparison, estimation, prediction, and causal inference. It focuses on practical issues such as sample size and missing data and a wide range of goals and techniques. It jumps right in to methods and computer code you can use fresh out of the box.
+
+PDF is free for personal use
+
+Link: [https://avehtari.github.io/ROS-Examples/](https://avehtari.github.io/ROS-Examples/)
+
+## Spatio-Temporal Statistics with R
+
+- Christopher K. Wikle
+- Andrew Zammit-Mangion
+- Noel Cressie
+
+We live in a complex world, and clever people are continually coming up with new ways to observe and record increasingly large parts of it so we can comprehend it better (warts and all!). We are squarely in the midst of a “big data” era, and it seems that every day new methodologies and algorithms emerge that are designed to deal with the ever-increasing size of these data streams. It so happens that the “big data” available to us are often spatio-temporal data. That is, they can be indexed by spatial locations and time stamps. This book provides an accessible introduction, with hands-on applications of the methods through the use of R Labs at the end of each chapter.
+
+Link: [https://spacetimewithr.org/](https://spacetimewithr.org/)
+
+## Statistical Rethinking
+
+
+
+A Bayesian Course with Examples in R and Stan
+
+Statistical Rethinking: A Bayesian Course with Examples in R and Stan
+builds your knowledge of and confidence in making inferences from data.
+Reflecting the need for scripting in today's model-based statistics, the
+book pushes you to perform step-by-step calculations that are usually
+automated. This unique computational approach ensures that you
+understand enough of the details to make reasonable choices and
+interpretations in your own modeling work.
+
+Link: [https://xcelab.net/rm/statistical-rethinking/](https://xcelab.net/rm/statistical-rethinking/)
+
+## Statistical Rethinking with brms, ggplot2, and the tidyverse Second edition
+
+- A Solomon Kurz
+
+This ebook is based on the second edition of Richard McElreath’s (2020) 
+text, Statistical rethinking: A Bayesian course with examples in R and Stan. My contributions show how to fit the models he covered with Paul Bürkner’s brms 
+package, which makes it easy to fit Bayesian regression models in R using Hamiltonian Monte Carlo. I also prefer plotting and data wrangling with the packages from the tidyverse. So we’ll be using those methods, too.
+
+Link: [https://bookdown.org/content/4857/](https://bookdown.org/content/4857/)
+
+## Statistical Thinking in the 21st Century
+
+- [Russell Poldrack](https://github.com/poldrack)
+
+This textbook aims to cover modern methods that take advantage of today's increased computing power, while also balancing the accessibility of the material for students not wanting to wade through a lot of story to get to the statistical knowledge while reading Andy Field's graphic novel statistics books, "An Adventure in Statistics".
+
+The main site below has companion sites in R and Python:
+
+- R companion <https://statsthinking21.github.io/statsthinking21-R-site/>
+- Python companion <https://statsthinking21.github.io/statsthinking21-python/>
+
+Link: [https://statsthinking21.github.io/statsthinking21-core-site/](https://statsthinking21.github.io/statsthinking21-core-site/)
+
+## Statistical inference for data science
+
+- Brian Caffo
+
+This book gives a brief, but rigorous, treatment of statistical inference intended for practicing Data Scientists.
+
+Paid: Free or pay what you want $15
+
+Link: [https://leanpub.com/LittleInferenceBook](https://leanpub.com/LittleInferenceBook)
+
+## Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)
+
+- [Nicole Radziwill](https://radziwill.cc)
+
+This introductory applied statistics handbook shows you how to run tests
+analytically, and then how to run exactly the same steps using R. No
+steps are skipped, making this particularly well suited for beginners or
+people who need a quick lookup. Used at 30+ universities around the
+globe.
+
+https://amzn.to/3b9ha8s - varies between $37-43 
+https://www.e-junkie.com/ecom/gb.php?&c=single&cl=147256&i=1614407 -
+\$25 for PDF only
+
+Link: [https://amzn.to/3b9ha8s](https://amzn.to/3b9ha8s)
+
+## Statistics and Data with R An Applied Approach Through Examples
+
+- Yosef Cohen
+- Jeremiah Y. Cohen
+
+R, an Open Source software, has become the de facto statistical computing environment. It has an excellent collection of data manipulation and graphics capabilities. It is extensible and comes with a large number of packages that allow statistical analysis at all levels
+-- from simple to advanced -- and in numerous fields including Medicine, Genetics, Biology, Environmental Sciences, Geology, Social Sciences and much more. The software is maintained and developed by academicians and professionals and as such, is continuously evolving and up to date. Statistics and Data with R presents an accessible guide to data
+manipulations, statistical analysis and graphics using R.
+
+Paid: The E-Book costs \$97.00 while the print version costs \$121.75 $97
+
+Link: [https://www.wiley.com/en-us/Statistics+and+Data+with+R%3A+An+Applied+Approach+Through+Examples-p-9780470758052](https://www.wiley.com/en-us/Statistics+and+Data+with+R%3A+An+Applied+Approach+Through+Examples-p-9780470758052)
+
+## Surrogates - Gaussian process modeling, design and optimization for the applied sciences
+
+- [Robert B. Gramacy](https://www.stat.vt.edu/people/stat-faculty/gramacy-robert.html)
+
+Surrogates is a graduate textbook, or professional handbook, on topics at the interface between machine learning, spatial statistics, computer simulation, meta-modeling (i.e., emulation), design of experiments, and optimization. Experimentation through simulation, “human out-of-the-loop” statistical support, management of dynamic processes, online and real-time analysis, automation, and practical application are at the forefront.
+
+Link: [https://bookdown.org/rbg/surrogates/](https://bookdown.org/rbg/surrogates/)
+
+## Teacups, Giraffes and Statistics
+
+- [Hasse Walum](https://twitter.com/dcossyle)
+- [Desirée De Leon](https://twitter.com/dcossyle)
+
+A delightful series of beautifully illustrated modules to learn statistics and R coding for students, scientists, and stats-enthusiasts.
+
+Link: [https://tinystats.github.io/teacups-giraffes-and-statistics/index.html](https://tinystats.github.io/teacups-giraffes-and-statistics/index.html)
+
+## The Effect An Introduction to Research Design and Causality
+
+- [Nick Huntington-Klein](https://twitter.com/nickchk)
+
+The Effect is a book intended to introduce students (and non-students) to the concepts of research design and causality in the context of observational data. The book is written in an intuitive and approachable way and doesn’t overload on technical detail. Why teach regression and research design at the same time when they are fundamentally different things? First learn why you want to structure a design in a certain way, and what it is you want to do to the data, and then afterwards learn the technical details of how to run the appropriate model.
+
+Link: [https://theeffectbook.net/](https://theeffectbook.net/)
+
+## The Grammar of Experimental Designs
+
+- [Emi Tanaka](https://emitanaka.org)
+
+An book about designing experiments using the eddible package.
+
+Link: [https://emitanaka.org/edibble-book/index.html](https://emitanaka.org/edibble-book/index.html)
+
+## The Hitchhiker's Guide to Linear Models
+
+- [Mauricio 'Pacha' Vargas Sepúlveda](https://leanpub.com/u/pachadotdev)
+
+This book aims to get straight to the point, and the only thing I assume here is that you have used spreadsheets at some point and that you are motivated to estimate linear models in R. Here I do not assume that you know how to install R or the basics of the R programming language.
+
+Paid: Free or paid $10
+
+Link: [https://leanpub.com/linear-models-guide](https://leanpub.com/linear-models-guide)
+
+## The Saga of PLS
+
+- Gaston Sanchez
+
+The main motivating trigger behind this book has been my long standing obsession to understand the historical development of Partial Least Squares methods in order to find the who’s, why’s, what’s, when’s, and how’s. It is the result of an intermittent 10 year quest, tracking bits and pieces of information in order to assemble the story of such methods. Moreover, this text is my third iteration on the subject, following two of my previous works.
+
+Paid: Free preview of first 4 chapters $13
+
+Link: [https://sagaofpls.github.io](https://sagaofpls.github.io)
+
+## Translating Stata to R
+
+
+
+This website is for Stata users who are interested in learning R. But it could also be useful for those going the other way around. We provide side-by-side code snippets for common tasks in both Stata and R, so that users have a dictionary for navigating across the two languages.
+
+Link: [https://stata2r.github.io/](https://stata2r.github.io/)
+
+## Using R for Bayesian Spatial and Spatio-Temporal Health Modeling
+
+- Andrew B. Lawson
+
+Progressively more and more attention has been paid to how location affects health outcomes. The area of disease mapping focusses on these problems, and the Bayesian paradigm has a major role to play in the understanding of the complex interplay of context and individual predisposition in such studies of disease. Using R for Bayesian Spatial and Spatio-Temporal Health Modeling provides a major resource for those interested in applying Bayesian methodology in small area health data studies.
+
+Link: [https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126](https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126)
+
+

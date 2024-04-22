@@ -1,28 +1,8 @@
 ---
 title: "Big Book of R"
 author: "Oscar Baruffa"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-output: 
-  bookdown::gitbook:
-    includes:
-      in_header: [plausible-analytics.html, social.html]
-      after_body: footer.html
-    config:
-      search:
-        engine: fuse
-        options: null
-      edit: https://github.com/oscarbaruffa/BigBookofR/edit/main/%s
-      toc:
-        before: |  
-          <br/><center><b><a href="./index.html">&nbsp&nbspBig Book of R</a></b></center></li>
-        after: |
-          <li><center><a href="https://bookdown.org/yihui/bookdown/">
-          Published with bookdown</a></center></li>
-site: bookdown::bookdown_site
+date: "2024-04-11"
 ---
-
-
-
 
 # Welcome :)
 

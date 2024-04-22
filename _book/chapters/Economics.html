@@ -1,18 +1,13 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Big Book of R</title>
-  <meta name="description" content="Big Book of R" />
-  <meta name="generator" content="bookdown 0.38 and GitBook 2.6.7" />
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Oscar Baruffa">
-<meta name="dcterms.date" content="2024-04-11">
 
-<title>Big Book of R</title>
+<title>Big Book of R - 14&nbsp; Economics</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -28,23 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./010-start_here.html" rel="next">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../chapters/Español.html" rel="next">
+<link href="../chapters/Data Visualization.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -76,13 +72,13 @@ ul.task-list li input[type="checkbox"] {
 </head><body class="nav-sidebar floating fullcontent"><a rel="me" href="https://fosstodon.org/@OscarBaruffa"></a>
 
 
-<meta property="og:title" content="Big Book of R">
+<meta property="og:title" content="Big Book of R - 14&nbsp; Economics">
 <meta property="og:description" content="">
 <meta property="og:image" content="https://www.bigbookofr.com/images/big_book_social.png">
 <meta property="og:url" content="https://www.bigbookofr.com/">
 <meta property="og:site_name" content="Big Book of R">
 
-<meta name="twitter:title" content="Big Book of R">
+<meta name="twitter:title" content="Big Book of R - 14&nbsp; Economics">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image:alt" content="400+ Free R programming books">
 <meta name="twitter:site" content="@oscarbaruffa">
@@ -92,55 +88,22 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<style type="text/css">
-  
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-</style>
 
 
 
-
-  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
-
-    <div class="book-summary">
-      <nav role="navigation">
-
-<ul class="summary">
-<br/><center><b><a href="./index.html">&nbsp&nbspBig Book of R</a></b></center></li>
-
-<li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Welcome :)</a>
-<ul>
-<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#your-last-ever-bookmark"><i class="fa fa-check"></i><b>1.1</b> Your last-ever bookmark</a></li>
-<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#searching"><i class="fa fa-check"></i><b>1.2</b> Searching</a></li>
-<li class="chapter" data-level="1.3" data-path="index.html"><a href="index.html#supporting"><i class="fa fa-check"></i><b>1.3</b> Supporting</a></li>
-<li class="chapter" data-level="1.4" data-path="index.html"><a href="index.html#contributing"><i class="fa fa-check"></i><b>1.4</b> Contributing</a></li>
-<li class="chapter" data-level="1.5" data-path="index.html"><a href="index.html#contributors"><i class="fa fa-check"></i><b>1.5</b> Contributors</a></li>
-<li class="chapter" data-level="1.6" data-path="index.html"><a href="index.html#license"><i class="fa fa-check"></i><b>1.6</b> License</a></li>
-<li class="chapter" data-level="1.7" data-path="index.html"><a href="index.html#live-stats"><i class="fa fa-check"></i><b>1.7</b> Live stats</a></li>
-<li class="chapter" data-level="1.8" data-path="index.html"><a href="index.html#about-me"><i class="fa fa-check"></i><b>1.8</b> About me</a></li>
-</ul></li>
-<li class="chapter" data-level="2" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html"><i class="fa fa-check"></i><b>2</b> New to R? Start here</a>
-<ul>
-<li class="chapter" data-level="2.0.1" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html#book-r-for-data-science"><i class="fa fa-check"></i><b>2.0.1</b> Book: R for Data Science</a></li>
-<li class="chapter" data-level="2.0.2" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html#video-course-getting-started-with-r"><i class="fa fa-check"></i><b>2.0.2</b> Video Course: Getting started with R</a></li>
-<li class="chapter" data-level="2.0.3" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html#video-course-data-manipulation-in-r"><i class="fa fa-check"></i><b>2.0.3</b> Video Course: Data Manipulation in R</a></li>
-<li class="chapter" data-level="2.0.4" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html#watch-a-data-analyst-code-live"><i class="fa fa-check"></i><b>2.0.4</b> Watch a data analyst code live</a></li>
-<li class="chapter" data-level="2.0.5" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html#posit-primers"><i class="fa fa-check"></i><b>2.0.5</b> Posit Primers</a></li>
-</ul></li>
-<li class="chapter" data-level="3" data-path="book-clubs.html"><a href="book-clubs.html"><i class="fa fa-check"></i><b>3</b> Book Clubs</a>
-<ul>
-<li class="chapter" data-level="3.1" data-path="book-clubs.html"><a href="book-clubs.html#nhs-r-community"><i class="fa fa-check"></i><b>3.1</b> NHS-R community</a></li>
-<li class="chapter" data-level="3.2" data-path="book-clubs.html"><a href="book-clubs.html#r4ds-slack-community"><i class="fa fa-check"></i><b>3.2</b> R4DS Slack Community</a></li>
-<li class="chapter" data-level="3.3" data-path="book-clubs.html"><a href="book-clubs.html#r-ladies-netherlands---advanced-r-by-hadley-wickham"><i class="fa fa-check"></i><b>3.3</b> R-ladies Netherlands - Advanced R by Hadley Wickham</a></li>
-</ul></li>
-<li class="divider"></li>
-<li><center><a href="https://bookdown.org/yihui/bookdown/">
-Published with bookdown</a></center></li>
-
-</ul>
-
-      </nav>
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/Economics.html"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Economics</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
     </div>
   </nav>
 </header>
@@ -150,7 +113,7 @@ Published with bookdown</a></center></li>
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Big Book of R</a> 
+      <a href="../">Big Book of R</a> 
     </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -162,229 +125,229 @@ Published with bookdown</a></center></li>
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Big Book of R</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./010-start_here.html" class="sidebar-item-text sidebar-link">
+  <a href="../010-start_here.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">New to R? Start here</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./015-book_clubs.html" class="sidebar-item-text sidebar-link">
+  <a href="../015-book_clubs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Book Clubs</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Career and Community.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Career and Community.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Career and Community</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/API.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/API.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">API</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Archeology.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Archeology.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Archeology</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Art.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Art.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Art</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Big Data.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Big Data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Big Data</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Blogdown.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Blogdown.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Blogdown</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Bookdown.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Bookdown.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Bookdown</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Data Databases and Engineering.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Data Databases and Engineering.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Data, Databases and Engineering</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Data Science.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Data Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Data Science</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Data Visualization.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Data Visualization.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Data Visualization</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Economics.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Economics.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Economics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Español.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Español.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Español</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Field specific.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Field specific.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Field specific</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Finance.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Finance.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Finance</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Geospatial.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Geospatial.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Geospatial</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Getting cleaning and wrangling data.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Getting cleaning and wrangling data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Getting, cleaning and wrangling data</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Journalism.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Journalism.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Journalism</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Life Sciences.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Life Sciences.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Life Sciences</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Machine Learning.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Machine Learning.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Machine Learning</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Network analysis.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Network analysis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Network analysis</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Packages.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Packages.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Packages</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/People Analytics.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/People Analytics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">People Analytics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Reports.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Reports.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Reports</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/R package development.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/R package development.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">R package development</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/R programming.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/R programming.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">R programming</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Shiny.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Shiny.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Shiny</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Social Science.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Social Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Social Science</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Sport analytics.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Sport analytics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Sport analytics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Statistics.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Statistics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Statistics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Teaching.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Teaching.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Teaching</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Text analysis.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Text analysis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Text analysis</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Time Series Analysis and Forecasting.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Time Series Analysis and Forecasting.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Time Series Analysis and Forecasting</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Version control.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Version control.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">Version control</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Workflow.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Workflow.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">37</span>&nbsp; <span class="chapter-title">Workflow</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Other compendiums.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Other compendiums.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">Other compendiums</span></span></a>
   </div>
 </li>
@@ -399,28 +362,14 @@ Published with bookdown</a></center></li>
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Big Book of R</h1>
-<p class="author"><em>Oscar Baruffa</em></p>
-<p class="date"><em>11 April, 2024</em></p>
+<h1 class="title"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Economics</span></h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Oscar Baruffa </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">April 11, 2024</p>
-    </div>
-  </div>
   
     
   </div>
@@ -430,51 +379,113 @@ Published with bookdown</a></center></li>
 </header>
 
 
-<section id="welcome" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> Welcome :)</h1>
-<section id="your-last-ever-bookmark" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="your-last-ever-bookmark"><span class="header-section-number">1.1</span> Your last-ever bookmark</h2>
-<p>Thanks for stopping by. If you’re like me, you can’t help but bookmark every R-related programming book you find in the hopes that one day you, or someone you know, might find it useful.</p>
-<p>Hopefully this is the only bookmark you’ll need in future ;).</p>
-<p>When I initially released this collection in late August 2020, it contained about 100 books that I’d been collecting over the previous two years. Since then I’ve found a few more and there have been contributions from many people. The collection now stands at over 300 books.</p>
-<p>Most of these are free. Some are paid but usually quite affordable.</p>
+<section id="analyzing-financial-and-economic-data-with-r" class="level2" data-number="14.1">
+<h2 data-number="14.1" class="anchored" data-anchor-id="analyzing-financial-and-economic-data-with-r"><span class="header-section-number">14.1</span> Analyzing Financial and Economic Data with R</h2>
+<ul>
+<li>Marcelo S. Perlin</li>
+</ul>
+<p>Not surprisingly, fields with abundant access to data and practical applications, such as economics and finance, it is expected that a graduate student or a data analyst has learned at least one programming language that allows him/her to do his work efficiently. Learning how to program is becoming a requisite for the job market.</p>
+<p>Link: <a href="https://www.msperlin.com/afedR/">https://www.msperlin.com/afedR/</a></p>
+<p>Physical copy available: https://amzn.to/3RBjXhN</p>
 </section>
-<section id="searching" class="level2" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="searching"><span class="header-section-number">1.2</span> Searching</h2>
-<p>If there’s something specific you’re looking for, use the menu or search using the magnifying glass icon at the top of the screen.</p>
+<section id="applied-microeconometrics-with-r" class="level2" data-number="14.2">
+<h2 data-number="14.2" class="anchored" data-anchor-id="applied-microeconometrics-with-r"><span class="header-section-number">14.2</span> Applied Microeconometrics with R</h2>
+<ul>
+<li><a href="https://twitter.com/AchimZeileis">Achim Zeileis</a></li>
+<li><a href="https://wwz.unibas.ch/en/kleiber/">Christian Kleiber</a></li>
+</ul>
+<p>This project will gradually turn the course materials for the “Econometrics and Statistics: Microeconometrics” course at Universität Innsbruck into an online book.</p>
+<p>The topics covered roughly follow the book Analysis of Microdata by Winkelmann &amp; Boes (2009, Springer-Verlag) and encompass: models for categorical responses (binary, multinomial, ordered), count data, limited dependent variables, and duration models.</p>
+<p>Link: <a href="https://discdown.org/microeconometrics/">https://discdown.org/microeconometrics/</a></p>
 </section>
-<section id="supporting" class="level2" data-number="1.3">
-<h2 data-number="1.3" class="anchored" data-anchor-id="supporting"><span class="header-section-number">1.3</span> Supporting</h2>
-<p>If you’d like to show your appreciation with a donation you’re most welcome to do so here:</p>
-<p><a href="https://ko-fi.com/I2I1K189U" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" border="0" alt="Buy Me a Coffee at ko-fi.com"></a></p>
+<section id="data-science-for-economists-and-other-animals" class="level2" data-number="14.3">
+<h2 data-number="14.3" class="anchored" data-anchor-id="data-science-for-economists-and-other-animals"><span class="header-section-number">14.3</span> Data Science for Economists and Other Animals</h2>
+<ul>
+<li><a href="https://twitter.com/grant_mcdermott">Grant McDermott</a></li>
+</ul>
+<p>Introduce Economics graduate students to the modern data science toolkit</p>
+<p>Link: <a href="https://grantmcdermott.com/ds4e/">https://grantmcdermott.com/ds4e/</a></p>
 </section>
-<section id="contributing" class="level2" data-number="1.4">
-<h2 data-number="1.4" class="anchored" data-anchor-id="contributing"><span class="header-section-number">1.4</span> Contributing</h2>
-<p>Please feel free to contribute paid and free books - see <a href="https://github.com/oscarbaruffa/BigBookofR">GitHub.</a> or submit via the <a href="https://docs.google.com/forms/d/e/1FAIpQLScLSaVzr8dh1dOE2M338QAhfvKfDkydB7QZGMrVWI-VudhQbA/viewform">Google Form</a>.</p>
+<section id="financial-econometrics---r-tutorial-guidance" class="level2" data-number="14.4">
+<h2 data-number="14.4" class="anchored" data-anchor-id="financial-econometrics---r-tutorial-guidance"><span class="header-section-number">14.4</span> Financial Econometrics - R Tutorial Guidance</h2>
+<ul>
+<li><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4467812">Yizhi Wang</a></li>
+<li><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2479568">Samuel Vigne</a></li>
+</ul>
+<p>This is an R tutorial book for Financial Econometrics in PDF format.</p>
+<p>Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3863563">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3863563</a></p>
 </section>
-<section id="contributors" class="level2" data-number="1.5">
-<h2 data-number="1.5" class="anchored" data-anchor-id="contributors"><span class="header-section-number">1.5</span> Contributors</h2>
-<p>If you’ve contributed, add your name and Twitter / blog link below!</p>
-<p><a href="https://twitter.com/OscarBaruffa">Oscar Baruffa</a>, Mohit Sharma, <a href="https://twitter.com/Sciencificity">Vebash Naidoo</a>, <a href="https://twitter.com/juliasilge">Julia Silge</a>, <a href="https://twitter.com/erikgahner">Erik Gahner Larsen</a>, <a href="https://radziwill.cc">Nicole Radziwill</a>, <a href="https://twitter.com/nistara_r">Nistara Randhawa</a>, <a href="https://twitter.com/antoine_fabri">Antoine Fabri</a>, <a href="https://twitter.com/jonmcalder">Jon Calder</a>, <a href="https://twitter.com/grimbough">Mike Smith</a>, <a href="https://github.com/bbolker">Ben Bolker</a>, <a href="https://twitter.com/ma_salmon">Maëlle Salmon</a>, <a href="https://twitter.com/LittleMissData">Laura Ellis</a>, <a href="https://twitter.com/brshallo">Bryan Shalloway</a>, <a href="https://twitter.com/antonio_uzal">Antonio Uzal</a>, <a href="http://www.louisaslett.com/">Louis Aslett</a>, <a href="https://llrs.dev">Lluís Revilla Sancho</a>, <a href="https://twitter.com/_bcullen">Brendan Cullen</a>, <a href="https://twitter.com/Rami_Krispin">Rami Krispin</a>, <a href="https://twitter.com/MichaelDorman84">Michael Dorman</a>, <a href="https://twitter.com/gbganalyst">Ezekiel Adebayo Ogundepo</a>, <a href="https://twitter.com/Shmuhammadd">Shamsuddeen Hassan Muhammad</a>, <a href="https://twitter.com/erictleung">Eric Leung</a>, <a href="https://twitter.com/ivelasq3">Isabella Velásquez</a>, <a href="https://www.mattroumaya.com/">Matt Roumaya</a>, <a href="https://twitter.com/LeganaFingerhut">Legana Fingerhut</a>, <a href="https://twitter.com/InciteDecisions">Robert D. Brown III</a>, <a href="https://twitter.com/Samrit2442">Samrit Pramanik</a>, <a href="https://twitter.com/PietroMonticone">Pietro Monticone</a>, <a href="https://twitter.com/abuuAishaaa">Adejumo Ridwan Suleiman</a>, <a href="https://opop999.github.io/">Ondrej Pekacek</a></p>
+<section id="introduction-to-econometrics-with-r" class="level2" data-number="14.5">
+<h2 data-number="14.5" class="anchored" data-anchor-id="introduction-to-econometrics-with-r"><span class="header-section-number">14.5</span> Introduction to Econometrics with R</h2>
+<ul>
+<li>Florian Oswald</li>
+<li>Vincent Viers</li>
+<li>Jean-Marc Robin</li>
+<li>Pierre Villedieu</li>
+<li>Gustave Kenedi</li>
+</ul>
+<p>Welcome to Introductory Econometrics for 2nd year undergraduates at ScPo! On this page we outline the course and present the Syllabus. 2018/2019 was the first time that we taught this course in this format, so we are in year 3 now.</p>
+<p>Link: <a href="https://scpoecon.github.io/ScPoEconometrics">https://scpoecon.github.io/ScPoEconometrics</a></p>
 </section>
-<section id="license" class="level2" data-number="1.6">
-<h2 data-number="1.6" class="anchored" data-anchor-id="license"><span class="header-section-number">1.6</span> License</h2>
-<p>This website/book is free to use, and is licensed under the <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="&quot;blank">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</a>.</p>
+<section id="introduction-to-r-for-econometrics" class="level2" data-number="14.6">
+<h2 data-number="14.6" class="anchored" data-anchor-id="introduction-to-r-for-econometrics"><span class="header-section-number">14.6</span> Introduction to R for Econometrics</h2>
+<ul>
+<li><a href="https://uk.linkedin.com/in/kieran-marray-866740134">Kieran Marray</a></li>
+</ul>
+<p>This is a short introduction to R to go with the first year econometrics courses at the Tinbergen Institute. It is aimed at people who are relatively new to R, or programming in general. The goal is to give you enough of knowledge of the fundamentals of R to write and adapt code to fit econometric models to data, and to simulate your own data, working alone or with others. You will be able to: read data from csv files, plot it, manipulate it into the form you want, use sets of functions others have built (packages), write your own functions to compute estimators, simulate data to test the performance of estimators, and present the results in a nice format.</p>
+<p>Most importantly, when things inevitably go wrong, you will be able to begin to interpret error messages and adapt others’ solutions to fit your needs.</p>
+<p>Link: <a href="https://bookdown.org/kieranmarray/intro_to_r_for_econometrics">https://bookdown.org/kieranmarray/intro_to_r_for_econometrics</a></p>
 </section>
-<section id="live-stats" class="level2" data-number="1.7">
-<h2 data-number="1.7" class="anchored" data-anchor-id="live-stats"><span class="header-section-number">1.7</span> Live stats</h2>
-<p>Who says you can’t have privacy AND transparency??</p>
-<p>I’m guessing that if you’re interested in R then you also like data ;).</p>
-<p>Note that “unique” visits will be higher in Plausible than you’d find with Google Analytics. Because Plausible is GDPR compliant and privacy focused, each user is identified for only 1 day. If someone visits the site 2 days in a row, that’s counted as 2 “uniques” whereas in Google Analytics it would only be counted as 1 unique visitor because of the presence of persistent cookies and such that allows for tracking of users.</p>
-<p>From now on, you can view the <strong><a href="https://plausible.io/bigbookofr.com?ref=BigBoofofR">LIVE site stats right here</a></strong>.</p>
+<section id="learning-microeconometrics-with-r" class="level2" data-number="14.7">
+<h2 data-number="14.7" class="anchored" data-anchor-id="learning-microeconometrics-with-r"><span class="header-section-number">14.7</span> Learning Microeconometrics with R</h2>
+<ul>
+<li>Christopher P. Adams</li>
+</ul>
+<p>This book provides an introduction to the field of microeconometrics through the use of R. The focus is on applying current learning from the field to real world problems. It uses R to both teach the concepts of the field and show the reader how the techniques can be used. It is aimed at the general reader with the equivalent of a bachelor’s degree in economics, statistics or some more technical field. It covers the standard tools of microeconometrics, OLS, instrumental variables, Heckman selection and difference in difference. In addition, it introduces bounds, factor models, mixture models and empirical Bayesian analysis.</p>
+<p>Link: <a href="https://www.routledge.com/Learning-Microeconometrics-with-R/Adams/p/book/9780367255381">https://www.routledge.com/Learning-Microeconometrics-with-R/Adams/p/book/9780367255381</a></p>
 </section>
-<section id="about-me" class="level2" data-number="1.8">
-<h2 data-number="1.8" class="anchored" data-anchor-id="about-me"><span class="header-section-number">1.8</span> About me</h2>
-<p>I’m Oscar. If you like this book, feel free to say “Hi!” on <a href="https://fosstodon.org/@OscarBaruffa">Mastodon</a> or <a href="https://www.linkedin.com/in/oscarbaruffa/">LinkedIn</a>.</p>
-<p>If you want to stay in the loop on other data-related products I create, or major updates to this book, sign up to my <a href="https://oscarbaruffa.com/newsletter?utm_source=BigBookofR_index&amp;utm_content=Link">newsletter</a>.</p>
+<section id="principles-of-econometrics-with-r" class="level2" data-number="14.8">
+<h2 data-number="14.8" class="anchored" data-anchor-id="principles-of-econometrics-with-r"><span class="header-section-number">14.8</span> Principles of Econometrics with R</h2>
+<ul>
+<li><a href="https://ca.linkedin.com/in/constantin-colonescu-925720176">Constantin Colonescu</a></li>
+</ul>
+<p>R supplementary resource for the “Principles of Econometrics” textbook by Carter Hill, William Griffiths and Guay Lim, 4-th edition</p>
+<p>Link: <a href="https://bookdown.org/ccolonescu/RPoE4">https://bookdown.org/ccolonescu/RPoE4</a></p>
+</section>
+<section id="r-companion-to-real-econometrics" class="level2" data-number="14.9">
+<h2 data-number="14.9" class="anchored" data-anchor-id="r-companion-to-real-econometrics"><span class="header-section-number">14.9</span> R Companion to Real Econometrics</h2>
+<ul>
+<li><a href="https://www.tonycarilli.com">Tony Carilli</a></li>
+</ul>
+<p>The intended audience for this book is anyone making using of Real Econometrics: The Right Tools to Answer Important Questions 2nd ed.&nbsp;by Michael Bailey who would like to learn to use R, RStudio, and the tidyverse to complete empirical examples from the text. This book will be useful to anyone wishing to integrate R and the Tidyverse into an econometrics course.</p>
+<p>Link: <a href="https://bookdown.org/carillitony/bailey">https://bookdown.org/carillitony/bailey</a></p>
+</section>
+<section id="r-guide-to-accompany-introductory-econometrics-for-finance" class="level2" data-number="14.10">
+<h2 data-number="14.10" class="anchored" data-anchor-id="r-guide-to-accompany-introductory-econometrics-for-finance"><span class="header-section-number">14.10</span> R Guide to Accompany Introductory Econometrics for Finance</h2>
+<ul>
+<li><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2625032">Robert Wichmann</a></li>
+<li>Chris Brooks</li>
+</ul>
+<p>This free software guide for R with freely downloadable datasets brings the econometric techniques to life, showing readers how to implement the approaches presented in Introductory Econometrics for Finance using this highly popular software package. Designed to be used alongside the main textbook, the guide will give readers the confidence and skills to estimate and interpret their own models while the textbook will ensure that they have a thorough understanding of the conceptual underpinnings.</p>
+<p>Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466882">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466882</a></p>
+</section>
+<section id="r-for-economic-research" class="level2" data-number="14.11">
+<h2 data-number="14.11" class="anchored" data-anchor-id="r-for-economic-research"><span class="header-section-number">14.11</span> R for Economic Research</h2>
+<ul>
+<li>J. Renato Leripio</li>
+</ul>
+<p>Over the past years I’ve received a lot of messages asking what I considered to be the most important subjects one should learn in order to start a career in economic research. R for Economic Research is my contribution to those who have some knowledge of R programming but still lack the necessary tools to carry out professional economic analysis. This is an intermediate-level book where the reader will find shortcuts to start working on a variety of tasks and also valuable references to delve into the details of more complex topics.</p>
+<p>Link: <a href="https://book.rleripio.com/">https://book.rleripio.com/</a></p>
+</section>
+<section id="using-r-for-introductory-econometrics" class="level2" data-number="14.12">
+<h2 data-number="14.12" class="anchored" data-anchor-id="using-r-for-introductory-econometrics"><span class="header-section-number">14.12</span> Using R for Introductory Econometrics</h2>
+<ul>
+<li><a href="https://www.statec.hhu.de/en/our-team-1/prof-dr-florian-heiss">Florian Heiss</a></li>
+</ul>
+<p>An R book supplement to the Wooldridge’s “Introductory Econometrics” textbook</p>
+<p>Link: <a href="http://www.urfie.net">http://www.urfie.net</a></p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -910,10 +921,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="../chapters/Data Visualization.html" class="pagination-link" aria-label="Data Visualization">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Data Visualization</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./010-start_here.html" class="pagination-link" aria-label="New to R? Start here">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">New to R? Start here</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../chapters/Español.html" class="pagination-link" aria-label="Español">
+        <span class="nav-page-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Español</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

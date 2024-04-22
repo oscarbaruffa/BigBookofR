@@ -1,0 +1,116 @@
+# Workflow
+
+## Agile Data Science with R
+
+- Edwin Thoen
+
+I joined a Scrum team (frontend, backend, ux designer, product owner, second data scientist) to create a machine learning model that we brought to production using the Agile principles. It was an inspiring experience from which I learned a great deal. My colleagues patiently explained the principles of Agile software development and together we applied them to the data science context.All these experiences culminated in the workflow that we now adhere to at work and I think it is worthwhile to share it. It is heavily based on the principles of Agile software production, hence the title. We have explored which of
+the concepts from Agile did and did not work for data science and we got hands-on experience in working from these principles in an R project that actually got to production.
+
+Link: [https://edwinth.github.io/ADSwR/](https://edwinth.github.io/ADSwR/)
+
+## Data Management in Large-Scale Education Research
+
+- Crystal Lewis
+
+This book begins, like many other books in this subject area, by describing the research life cycle and how data management fits within the larger picture. The remaining chapters are then organized by each phase of the life cycle, with examples of best practices provided for each phase. Considerations on whether you should implement, and how to integrate those practices into your workflow will be discussed.
+
+Link: [https://datamgmtinedresearch.com/index.html](https://datamgmtinedresearch.com/index.html)
+
+## Github actions with R
+
+- Chris Brown
+- Murray Cadzow
+- Paula A Martinez
+- Rhydwyn McGuire
+- David Neuzerling
+- David Wilkinson, Saras Windecker
+
+GitHub actions allow us to trigger automated steps after we launch
+GitHub interactions such as when we push, pull, submit a pull request,
+or write an issue.
+
+Link: [https://ropenscilabs.github.io/actions_sandbox/](https://ropenscilabs.github.io/actions_sandbox/)
+
+## How I Use R
+
+- David Keyes
+
+There are many great learning resources at the beginner stage and some incredible tutorials to master complex tasks in R. But, drawing from a concept in urban planning, there are far fewer resources in the middle. 
+Stretching the metaphor perhaps to its breaking point, new R users at the "detached single-family home" stage can't get to the advanced "mid-rise" level without going through the middle stage. The "missing middle" in the R neighborhood is the lack of resources to that answer the types of nuts and bolts questions that new R users often have.
+
+Things like:
+
+How should I organize my file structure when creating a new project?
+Should I do data cleaning in an RMarkdown file or an R script file? How
+do I find packages? How do I know if the packages I find are high
+quality?
+
+This book is my attempt to provide answers to these types of questions.
+
+Link: [https://howiuser.com/](https://howiuser.com/)
+
+## R Without Statistics
+
+- [David Keyes](https://twitter.com/rfortherest)
+
+R Without Statistics will show ways that R can be used beyond complex statistical analysis. Readers will learn about a range of uses for R, many of which they have likely never even considered.
+
+Link: [https://book.rwithoutstatistics.com/](https://book.rwithoutstatistics.com/)
+
+Physical copy available: https://amzn.to/3RBuKbO
+
+## R Workflow for Reproducible Data Analysis and Reporting
+
+- Frank E Harrell Jr
+
+This work is intended to foster best practices in reproducible data documentation and manipulation, statistical analysis, graphics, and reporting. It will enable the reader to efficiently produce attractive, readable, and reproducible research reports while keeping code concise and clear. Readers are also guided in choosing statistically efficient descriptive analyses that are consonant with the type of data being analyzed.
+
+Link: [http://hbiostat.org/rflow/](http://hbiostat.org/rflow/)
+
+## Reproducible Analytical Pipelines (RAP) Companion
+
+- [Matthew Gregory](https://twitter.com/mammykins_)
+- [Matthew Upson](https://twitter.com/m_a_upson)
+
+Reproducible Analytical Pipelines require a range of tools and techniques to implement that can be a challenge to overcome, and this book address some of the common knowledge gaps and hard-to-Google problems that upcoming RAP-pers face.
+
+Link: [https://ukgovdatascience.github.io/rap_companion/](https://ukgovdatascience.github.io/rap_companion/)
+
+## Reproducible Analytical Pipelines - Master’s of Data Science
+
+- Bruno Rodrigues
+
+This course is my take on setting up code that results in some data product. This code has to be reproducible, documented and production ready. Not my original idea, but introduced by the UK’s Analysis Function.
+
+The basic idea of a reproducible analytical pipeline (RAP) is to have code that always produces the same result when run, whatever this result might be. This is obviously crucial in research and science, but this is also the case in businesses that deal with data science/data-driven decision making etc.
+
+A well documented RAP avoids a lot of headache and is usually re-usable for other projects as well.
+
+Link: [https://rap4mads.eu/](https://rap4mads.eu/)
+
+## The Data Validation Cookbook
+
+- [Mark P.J. van der Loo](https://twitter.com/markvdLoo)
+
+The purposes of this book include demonstrating the main tools and workflows of the validate package, giving examples of common data validation tasks, and showing how to analyze data validation results.
+
+Link: [https://data-cleaning.github.io/validate/](https://data-cleaning.github.io/validate/)
+
+## The targets R Package Design Specification
+
+- [Will Landau](https://fosstodon.org/@landau)
+
+targets has an elaborate structure to support its advanced features while ensuring decent performance. This bookdown site is a design specification to explain the major aspects of the internal architecture, including the data storage model, object oriented design, and orchestration and branching model
+
+Link: [https://books.ropensci.org/targets-design/index.html](https://books.ropensci.org/targets-design/index.html)
+
+## The targets R Package User Manual
+
+- Will Landau
+
+The targets package is a Make-like pipeline toolkit for Statistics and data science in R. With targets, you can maintain a reproducible workflow without repeating yourself. targets learns how your pipeline fits together, skips costly runtime for tasks that are already up to date, runs only the necessary computation, supports implicit parallel computing, abstracts files as R objects, and shows tangible evidence that the results match the underlying code and data.
+
+Link: [https://books.ropensci.org/targets/](https://books.ropensci.org/targets/)
+
+

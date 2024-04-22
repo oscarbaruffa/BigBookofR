@@ -1,18 +1,13 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Big Book of R</title>
-  <meta name="description" content="Big Book of R" />
-  <meta name="generator" content="bookdown 0.38 and GitBook 2.6.7" />
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.551">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Oscar Baruffa">
-<meta name="dcterms.date" content="2024-04-11">
 
-<title>Big Book of R</title>
+<title>Big Book of R - 18&nbsp; Geospatial</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -28,23 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./010-start_here.html" rel="next">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../chapters/Getting cleaning and wrangling data.html" rel="next">
+<link href="../chapters/Finance.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -76,13 +72,13 @@ ul.task-list li input[type="checkbox"] {
 </head><body class="nav-sidebar floating fullcontent"><a rel="me" href="https://fosstodon.org/@OscarBaruffa"></a>
 
 
-<meta property="og:title" content="Big Book of R">
+<meta property="og:title" content="Big Book of R - 18&nbsp; Geospatial">
 <meta property="og:description" content="">
 <meta property="og:image" content="https://www.bigbookofr.com/images/big_book_social.png">
 <meta property="og:url" content="https://www.bigbookofr.com/">
 <meta property="og:site_name" content="Big Book of R">
 
-<meta name="twitter:title" content="Big Book of R">
+<meta name="twitter:title" content="Big Book of R - 18&nbsp; Geospatial">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image:alt" content="400+ Free R programming books">
 <meta name="twitter:site" content="@oscarbaruffa">
@@ -92,55 +88,22 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<style type="text/css">
-  
-  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-</style>
 
 
 
-
-  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
-
-    <div class="book-summary">
-      <nav role="navigation">
-
-<ul class="summary">
-<br/><center><b><a href="./index.html">&nbsp&nbspBig Book of R</a></b></center></li>
-
-<li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Welcome :)</a>
-<ul>
-<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#your-last-ever-bookmark"><i class="fa fa-check"></i><b>1.1</b> Your last-ever bookmark</a></li>
-<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#searching"><i class="fa fa-check"></i><b>1.2</b> Searching</a></li>
-<li class="chapter" data-level="1.3" data-path="index.html"><a href="index.html#supporting"><i class="fa fa-check"></i><b>1.3</b> Supporting</a></li>
-<li class="chapter" data-level="1.4" data-path="index.html"><a href="index.html#contributing"><i class="fa fa-check"></i><b>1.4</b> Contributing</a></li>
-<li class="chapter" data-level="1.5" data-path="index.html"><a href="index.html#contributors"><i class="fa fa-check"></i><b>1.5</b> Contributors</a></li>
-<li class="chapter" data-level="1.6" data-path="index.html"><a href="index.html#license"><i class="fa fa-check"></i><b>1.6</b> License</a></li>
-<li class="chapter" data-level="1.7" data-path="index.html"><a href="index.html#live-stats"><i class="fa fa-check"></i><b>1.7</b> Live stats</a></li>
-<li class="chapter" data-level="1.8" data-path="index.html"><a href="index.html#about-me"><i class="fa fa-check"></i><b>1.8</b> About me</a></li>
-</ul></li>
-<li class="chapter" data-level="2" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html"><i class="fa fa-check"></i><b>2</b> New to R? Start here</a>
-<ul>
-<li class="chapter" data-level="2.0.1" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html#book-r-for-data-science"><i class="fa fa-check"></i><b>2.0.1</b> Book: R for Data Science</a></li>
-<li class="chapter" data-level="2.0.2" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html#video-course-getting-started-with-r"><i class="fa fa-check"></i><b>2.0.2</b> Video Course: Getting started with R</a></li>
-<li class="chapter" data-level="2.0.3" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html#video-course-data-manipulation-in-r"><i class="fa fa-check"></i><b>2.0.3</b> Video Course: Data Manipulation in R</a></li>
-<li class="chapter" data-level="2.0.4" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html#watch-a-data-analyst-code-live"><i class="fa fa-check"></i><b>2.0.4</b> Watch a data analyst code live</a></li>
-<li class="chapter" data-level="2.0.5" data-path="new-to-r-start-here.html"><a href="new-to-r-start-here.html#posit-primers"><i class="fa fa-check"></i><b>2.0.5</b> Posit Primers</a></li>
-</ul></li>
-<li class="chapter" data-level="3" data-path="book-clubs.html"><a href="book-clubs.html"><i class="fa fa-check"></i><b>3</b> Book Clubs</a>
-<ul>
-<li class="chapter" data-level="3.1" data-path="book-clubs.html"><a href="book-clubs.html#nhs-r-community"><i class="fa fa-check"></i><b>3.1</b> NHS-R community</a></li>
-<li class="chapter" data-level="3.2" data-path="book-clubs.html"><a href="book-clubs.html#r4ds-slack-community"><i class="fa fa-check"></i><b>3.2</b> R4DS Slack Community</a></li>
-<li class="chapter" data-level="3.3" data-path="book-clubs.html"><a href="book-clubs.html#r-ladies-netherlands---advanced-r-by-hadley-wickham"><i class="fa fa-check"></i><b>3.3</b> R-ladies Netherlands - Advanced R by Hadley Wickham</a></li>
-</ul></li>
-<li class="divider"></li>
-<li><center><a href="https://bookdown.org/yihui/bookdown/">
-Published with bookdown</a></center></li>
-
-</ul>
-
-      </nav>
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/Geospatial.html"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Geospatial</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
     </div>
   </nav>
 </header>
@@ -150,7 +113,7 @@ Published with bookdown</a></center></li>
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Big Book of R</a> 
+      <a href="../">Big Book of R</a> 
     </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
@@ -162,229 +125,229 @@ Published with bookdown</a></center></li>
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Big Book of R</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./010-start_here.html" class="sidebar-item-text sidebar-link">
+  <a href="../010-start_here.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">New to R? Start here</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./015-book_clubs.html" class="sidebar-item-text sidebar-link">
+  <a href="../015-book_clubs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Book Clubs</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Career and Community.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Career and Community.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Career and Community</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/API.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/API.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">API</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Archeology.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Archeology.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Archeology</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Art.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Art.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Art</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Big Data.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Big Data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Big Data</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Blogdown.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Blogdown.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Blogdown</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Bookdown.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Bookdown.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Bookdown</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Data Databases and Engineering.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Data Databases and Engineering.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Data, Databases and Engineering</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Data Science.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Data Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Data Science</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Data Visualization.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Data Visualization.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Data Visualization</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Economics.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Economics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Economics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Español.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Español.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Español</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Field specific.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Field specific.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Field specific</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Finance.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Finance.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Finance</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Geospatial.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Geospatial.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Geospatial</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Getting cleaning and wrangling data.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Getting cleaning and wrangling data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Getting, cleaning and wrangling data</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Journalism.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Journalism.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Journalism</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Life Sciences.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Life Sciences.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Life Sciences</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Machine Learning.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Machine Learning.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Machine Learning</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Network analysis.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Network analysis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Network analysis</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Packages.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Packages.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Packages</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/People Analytics.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/People Analytics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">People Analytics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Reports.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Reports.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Reports</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/R package development.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/R package development.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">R package development</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/R programming.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/R programming.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">R programming</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Shiny.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Shiny.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Shiny</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Social Science.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Social Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Social Science</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Sport analytics.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Sport analytics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Sport analytics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Statistics.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Statistics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Statistics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Teaching.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Teaching.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Teaching</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Text analysis.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Text analysis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Text analysis</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Time Series Analysis and Forecasting.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Time Series Analysis and Forecasting.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Time Series Analysis and Forecasting</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Version control.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Version control.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">Version control</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Workflow.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Workflow.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">37</span>&nbsp; <span class="chapter-title">Workflow</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Other compendiums.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Other compendiums.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">Other compendiums</span></span></a>
   </div>
 </li>
@@ -399,28 +362,14 @@ Published with bookdown</a></center></li>
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Big Book of R</h1>
-<p class="author"><em>Oscar Baruffa</em></p>
-<p class="date"><em>11 April, 2024</em></p>
+<h1 class="title"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Geospatial</span></h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Oscar Baruffa </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">April 11, 2024</p>
-    </div>
-  </div>
   
     
   </div>
@@ -430,51 +379,167 @@ Published with bookdown</a></center></li>
 </header>
 
 
-<section id="welcome" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> Welcome :)</h1>
-<section id="your-last-ever-bookmark" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="your-last-ever-bookmark"><span class="header-section-number">1.1</span> Your last-ever bookmark</h2>
-<p>Thanks for stopping by. If you’re like me, you can’t help but bookmark every R-related programming book you find in the hopes that one day you, or someone you know, might find it useful.</p>
-<p>Hopefully this is the only bookmark you’ll need in future ;).</p>
-<p>When I initially released this collection in late August 2020, it contained about 100 books that I’d been collecting over the previous two years. Since then I’ve found a few more and there have been contributions from many people. The collection now stands at over 300 books.</p>
-<p>Most of these are free. Some are paid but usually quite affordable.</p>
+<section id="a-crash-course-in-geographic-information-systems-gis-using-r" class="level2" data-number="18.1">
+<h2 data-number="18.1" class="anchored" data-anchor-id="a-crash-course-in-geographic-information-systems-gis-using-r"><span class="header-section-number">18.1</span> A Crash Course in Geographic Information Systems (GIS) using R</h2>
+<ul>
+<li>Michael Branion-Calles</li>
+</ul>
+<p>Introduction into concepts for GIS and spatial data in R. Later chapters are not finished.</p>
+<p>Link: <a href="https://bookdown.org/michael_bcalles/gis-crash-course-in-r/">https://bookdown.org/michael_bcalles/gis-crash-course-in-r/</a></p>
 </section>
-<section id="searching" class="level2" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="searching"><span class="header-section-number">1.2</span> Searching</h2>
-<p>If there’s something specific you’re looking for, use the menu or search using the magnifying glass icon at the top of the screen.</p>
+<section id="an-introduction-to-spatial-data-analysis-and-statistics-a-course-in-r" class="level2" data-number="18.2">
+<h2 data-number="18.2" class="anchored" data-anchor-id="an-introduction-to-spatial-data-analysis-and-statistics-a-course-in-r"><span class="header-section-number">18.2</span> An Introduction to Spatial Data Analysis and Statistics: A Course in R</h2>
+<ul>
+<li>Antonio Paez</li>
+</ul>
+<p>The objective of this book is to introduce selected topics in applied spatial statistics. My aim with this book is to introduce key concepts and techniques in the statistical analysis of spatial data in an intuitive way. While there are other resources that offer more advanced treatments of every single one of these topics, this book should be appealing to undergraduate students or others who are approaching the topic for the first time.</p>
+<p>Link: <a href="https://paezha.github.io/spatial-analysis-r/">https://paezha.github.io/spatial-analysis-r/</a></p>
 </section>
-<section id="supporting" class="level2" data-number="1.3">
-<h2 data-number="1.3" class="anchored" data-anchor-id="supporting"><span class="header-section-number">1.3</span> Supporting</h2>
-<p>If you’d like to show your appreciation with a donation you’re most welcome to do so here:</p>
-<p><a href="https://ko-fi.com/I2I1K189U" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" border="0" alt="Buy Me a Coffee at ko-fi.com"></a></p>
+<section id="applied-microeconometrics" class="level2" data-number="18.3">
+<h2 data-number="18.3" class="anchored" data-anchor-id="applied-microeconometrics"><span class="header-section-number">18.3</span> Applied Microeconometrics</h2>
+<ul>
+<li>Paula Moraga</li>
+</ul>
+<p>The book combines theory and practice using real-world data science examples such as disease risk mapping, air pollution prediction, species distribution modeling, crime mapping, and real state analyses.</p>
+<p>Link: <a href="https://www.paulamoraga.com/book-spatial/index.html">https://www.paulamoraga.com/book-spatial/index.html</a></p>
 </section>
-<section id="contributing" class="level2" data-number="1.4">
-<h2 data-number="1.4" class="anchored" data-anchor-id="contributing"><span class="header-section-number">1.4</span> Contributing</h2>
-<p>Please feel free to contribute paid and free books - see <a href="https://github.com/oscarbaruffa/BigBookofR">GitHub.</a> or submit via the <a href="https://docs.google.com/forms/d/e/1FAIpQLScLSaVzr8dh1dOE2M338QAhfvKfDkydB7QZGMrVWI-VudhQbA/viewform">Google Form</a>.</p>
+<section id="geocomputation-with-r" class="level2" data-number="18.4">
+<h2 data-number="18.4" class="anchored" data-anchor-id="geocomputation-with-r"><span class="header-section-number">18.4</span> Geocomputation with R</h2>
+<ul>
+<li>Robin Lovelace</li>
+<li>Jakub Nowosad</li>
+<li>Jannes Muenchow</li>
+</ul>
+<p>This is the online home of Geocomputation with R, a book on geographic data analysis, visualization and modeling.</p>
+<p>Link: <a href="https://geocompr.robinlovelace.net/">https://geocompr.robinlovelace.net/</a></p>
 </section>
-<section id="contributors" class="level2" data-number="1.5">
-<h2 data-number="1.5" class="anchored" data-anchor-id="contributors"><span class="header-section-number">1.5</span> Contributors</h2>
-<p>If you’ve contributed, add your name and Twitter / blog link below!</p>
-<p><a href="https://twitter.com/OscarBaruffa">Oscar Baruffa</a>, Mohit Sharma, <a href="https://twitter.com/Sciencificity">Vebash Naidoo</a>, <a href="https://twitter.com/juliasilge">Julia Silge</a>, <a href="https://twitter.com/erikgahner">Erik Gahner Larsen</a>, <a href="https://radziwill.cc">Nicole Radziwill</a>, <a href="https://twitter.com/nistara_r">Nistara Randhawa</a>, <a href="https://twitter.com/antoine_fabri">Antoine Fabri</a>, <a href="https://twitter.com/jonmcalder">Jon Calder</a>, <a href="https://twitter.com/grimbough">Mike Smith</a>, <a href="https://github.com/bbolker">Ben Bolker</a>, <a href="https://twitter.com/ma_salmon">Maëlle Salmon</a>, <a href="https://twitter.com/LittleMissData">Laura Ellis</a>, <a href="https://twitter.com/brshallo">Bryan Shalloway</a>, <a href="https://twitter.com/antonio_uzal">Antonio Uzal</a>, <a href="http://www.louisaslett.com/">Louis Aslett</a>, <a href="https://llrs.dev">Lluís Revilla Sancho</a>, <a href="https://twitter.com/_bcullen">Brendan Cullen</a>, <a href="https://twitter.com/Rami_Krispin">Rami Krispin</a>, <a href="https://twitter.com/MichaelDorman84">Michael Dorman</a>, <a href="https://twitter.com/gbganalyst">Ezekiel Adebayo Ogundepo</a>, <a href="https://twitter.com/Shmuhammadd">Shamsuddeen Hassan Muhammad</a>, <a href="https://twitter.com/erictleung">Eric Leung</a>, <a href="https://twitter.com/ivelasq3">Isabella Velásquez</a>, <a href="https://www.mattroumaya.com/">Matt Roumaya</a>, <a href="https://twitter.com/LeganaFingerhut">Legana Fingerhut</a>, <a href="https://twitter.com/InciteDecisions">Robert D. Brown III</a>, <a href="https://twitter.com/Samrit2442">Samrit Pramanik</a>, <a href="https://twitter.com/PietroMonticone">Pietro Monticone</a>, <a href="https://twitter.com/abuuAishaaa">Adejumo Ridwan Suleiman</a>, <a href="https://opop999.github.io/">Ondrej Pekacek</a></p>
+<section id="geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny" class="level2" data-number="18.5">
+<h2 data-number="18.5" class="anchored" data-anchor-id="geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny"><span class="header-section-number">18.5</span> Geospatial Health Data Modeling and Visualization with R-INLA and Shiny</h2>
+<ul>
+<li>Paula Moraga</li>
+</ul>
+<p>This book describes spatial and spatio-temporal statistical methods and visualization techniques to analyze georeferenced health data in R. After a detailed introduction of geospatial data, the book shows how to develop Bayesian hierarchical models for disease mapping and apply computational approaches such as the integrated nested Laplace approximation (INLA) and the stochastic partial differential equation (SPDE) to analyze areal and geostatistical data.</p>
+<p>Link: <a href="https://www.paulamoraga.com/book-geospatial/">https://www.paulamoraga.com/book-geospatial/</a></p>
 </section>
-<section id="license" class="level2" data-number="1.6">
-<h2 data-number="1.6" class="anchored" data-anchor-id="license"><span class="header-section-number">1.6</span> License</h2>
-<p>This website/book is free to use, and is licensed under the <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="&quot;blank">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</a>.</p>
+<section id="intro-to-gis-and-spatial-analysis" class="level2" data-number="18.6">
+<h2 data-number="18.6" class="anchored" data-anchor-id="intro-to-gis-and-spatial-analysis"><span class="header-section-number">18.6</span> Intro to GIS and Spatial Analysis</h2>
+<ul>
+<li>Manuel Gimond</li>
+</ul>
+<p>A well structures book which serves as an introduction to GIS and spatial data analysis. The book is structures around the authors Introduction to GIS and Spatial Analysis course (ES214). The book provides a good introduction to working with geographical datasets and performing spatial analysis such as point pattern analysis, hypothesis testing, spatial autocorrelation and spatial interpolation,</p>
+<p>Link: <a href="https://mgimond.github.io/Spatial/index.html">https://mgimond.github.io/Spatial/index.html</a></p>
 </section>
-<section id="live-stats" class="level2" data-number="1.7">
-<h2 data-number="1.7" class="anchored" data-anchor-id="live-stats"><span class="header-section-number">1.7</span> Live stats</h2>
-<p>Who says you can’t have privacy AND transparency??</p>
-<p>I’m guessing that if you’re interested in R then you also like data ;).</p>
-<p>Note that “unique” visits will be higher in Plausible than you’d find with Google Analytics. Because Plausible is GDPR compliant and privacy focused, each user is identified for only 1 day. If someone visits the site 2 days in a row, that’s counted as 2 “uniques” whereas in Google Analytics it would only be counted as 1 unique visitor because of the presence of persistent cookies and such that allows for tracking of users.</p>
-<p>From now on, you can view the <strong><a href="https://plausible.io/bigbookofr.com?ref=BigBoofofR">LIVE site stats right here</a></strong>.</p>
+<section id="introduction-to-spatial-data-programming-with-r" class="level2" data-number="18.7">
+<h2 data-number="18.7" class="anchored" data-anchor-id="introduction-to-spatial-data-programming-with-r"><span class="header-section-number">18.7</span> Introduction to Spatial Data Programming with R</h2>
+<ul>
+<li><a href="https://twitter.com/MichaelDorman84">Michael Dorman</a></li>
+</ul>
+<p>This book introduces processing and analysis methods for working with spatial data in R. The book is composed of two parts. The <em>first</em> part gives an overview of the basic syntax and usage of the R language, required before we can start working with spatial data. The <em>second</em> part then covers spatial data workflows, including how to process rasters, vector layers, and both of them together, as well as two selected advanced topics: spatio-temporal data and spatial interpolation.</p>
+<p>Link: <a href="https://geobgu.xyz/r">https://geobgu.xyz/r</a></p>
 </section>
-<section id="about-me" class="level2" data-number="1.8">
-<h2 data-number="1.8" class="anchored" data-anchor-id="about-me"><span class="header-section-number">1.8</span> About me</h2>
-<p>I’m Oscar. If you like this book, feel free to say “Hi!” on <a href="https://fosstodon.org/@OscarBaruffa">Mastodon</a> or <a href="https://www.linkedin.com/in/oscarbaruffa/">LinkedIn</a>.</p>
-<p>If you want to stay in the loop on other data-related products I create, or major updates to this book, sign up to my <a href="https://oscarbaruffa.com/newsletter?utm_source=BigBookofR_index&amp;utm_content=Link">newsletter</a>.</p>
+<section id="introduction-to-urban-accessibility" class="level2" data-number="18.8">
+<h2 data-number="18.8" class="anchored" data-anchor-id="introduction-to-urban-accessibility"><span class="header-section-number">18.8</span> Introduction to urban accessibility</h2>
+<ul>
+<li>Rafael H. M. Pereira</li>
+<li>Daniel Herszenhut</li>
+</ul>
+<p>The aim of this book is to equip its readers with the fundamental concepts, the data analysis skills and the processing tools needed to perform urban accessibility analyses and transportation projects impact assessments. The book was written with the problems faced by public managers, policy makers, students and researchers working on urban and transportation planning in mind. Hence, the book is essentially practical. All the material in the book is presented with reproducible examples using open data sets and the R programming language.</p>
+<p>Link: <a href="https://ipeagit.github.io/intro_access_book/">https://ipeagit.github.io/intro_access_book/</a></p>
+</section>
+<section id="predictive-soil-mapping-with-r" class="level2" data-number="18.9">
+<h2 data-number="18.9" class="anchored" data-anchor-id="predictive-soil-mapping-with-r"><span class="header-section-number">18.9</span> Predictive Soil Mapping with R</h2>
+<ul>
+<li><a href="https://opengeohub.org/people/tom-hengl">Tom Heng</a></li>
+<li><a href="https://opengeohub.org/people/bob-macmillan">Robert A. MacMillan</a></li>
+</ul>
+<p>Predictive Soil Mapping (PSM) with R explains how to import, process and analyze soil data in R using the state-of-the-art soil and Machine Learning packages with ultimate objective to produce most objective spatial predictions of soil numeric and factor-type variables. Especial focus has been put on using R in combination with the Open Source GIS such as GDAL, SAGA GIS and similar, and on using Machine Learning packages ranger, xgboost, SuperLearner and similar. This book is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Contributions of new chapters are welcome.</p>
+<p>Link: <a href="https://soilmapper.org">https://soilmapper.org</a></p>
+</section>
+<section id="r-for-geographic-data-science" class="level2" data-number="18.10">
+<h2 data-number="18.10" class="anchored" data-anchor-id="r-for-geographic-data-science"><span class="header-section-number">18.10</span> R for Geographic Data Science</h2>
+<ul>
+<li><a href="https://twitter.com/maps4thought">Stefano De Sabbata</a></li>
+</ul>
+<p>The materials aim to cover the necessary skills in basic programming, data wrangling and reproducible research to tackle sophisticated but non-spatial data analyses. The first part of the module will focus on core programming techniques, data wrangling and practices for reproducible research. The second part of the module will focus on non-spatial data analysis approaches, including statistical analysis and machine learning.</p>
+<p>Link: <a href="https://sdesabbata.github.io/r-for-geographic-data-science/index.html">https://sdesabbata.github.io/r-for-geographic-data-science/index.html</a></p>
+</section>
+<section id="spatial-data-science-with-applications-in-r" class="level2" data-number="18.11">
+<h2 data-number="18.11" class="anchored" data-anchor-id="spatial-data-science-with-applications-in-r"><span class="header-section-number">18.11</span> Spatial Data Science With applications in R</h2>
+<ul>
+<li>Edzer Pebesma</li>
+<li>Roger Bivand</li>
+</ul>
+<p>This book introduces and explains the concepts underlying spatial data: points, lines, polygons, rasters, coverages, geometry attributes, data cubes, reference systems, as well as higher-level concepts including how attributes relate to geometries and how this affects analysis.</p>
+<p>Link: <a href="https://r-spatial.org/book/">https://r-spatial.org/book/</a></p>
+</section>
+<section id="spatial-data-science-with-r" class="level2" data-number="18.12">
+<h2 data-number="18.12" class="anchored" data-anchor-id="spatial-data-science-with-r"><span class="header-section-number">18.12</span> Spatial Data Science with R</h2>
+<ul>
+<li><a href="https://github.com/rspatial">RSpatial</a></li>
+</ul>
+<p>This website provides materials to learn about spatial data analysis and modeling with R. R is a widely used programming language and software environment for data science. R has advanced capabilities for managing spatial data; and it provides unparalleled opportunities for analyzing such data.</p>
+<p>Link: <a href="https://rspatial.org/raster/index.html#">https://rspatial.org/raster/index.html#</a></p>
+</section>
+<section id="spatial-microsimulation-with-r" class="level2" data-number="18.13">
+<h2 data-number="18.13" class="anchored" data-anchor-id="spatial-microsimulation-with-r"><span class="header-section-number">18.13</span> Spatial Microsimulation with R</h2>
+<ul>
+<li><a href="https://www.robinlovelace.net/">Robin Lovelace</a></li>
+<li><a href="https://directory.unamur.be/staff/modumont">Morgane Dumont</a></li>
+</ul>
+<p>Imagine a world in which data on companies, households and governments were widely available. Imagine, further, that researchers and decision-makers acting in the public interest had tools enabling them to test and model such data to explore different scenarios of the future. People would be able to make more informed decisions, based on the best available evidence. In this technocratic dreamland pressing problems such as climate change, inequality and poor human health could be solved.</p>
+<p>These are the types of real-world issues that we hope the methods in this book will help to address. Spatial microsimulation can provide new insights into complex problems and, ultimately, lead to better decision-making. By shedding new light on existing information, the methods can help shift decision-making processes away from ideological bias and towards evidence-based policy.</p>
+<p>Link: <a href="https://spatial-microsim-book.robinlovelace.net/index.html">https://spatial-microsim-book.robinlovelace.net/index.html</a></p>
+</section>
+<section id="spatial-modelling-for-data-scientists" class="level2" data-number="18.14">
+<h2 data-number="18.14" class="anchored" data-anchor-id="spatial-modelling-for-data-scientists"><span class="header-section-number">18.14</span> Spatial Modelling for Data Scientists</h2>
+<ul>
+<li>Francisco Rowe</li>
+<li>Dani Arribas-Bel</li>
+</ul>
+<p>This is the website for “Spatial Modeling for Data Scientists”. This is a course taught by Dr.&nbsp;Francisco Rowe and Dr.&nbsp;Dani Arribas-Bel in the Second Semester of 2020/21 at the University of Liverpool, United Kingdom. You will learn how to analyse and model different types of spatial data as well as gaining an understanding of the various challenges arising from manipulating such data.</p>
+<p>Link: <a href="https://gdsl-ul.github.io/san/">https://gdsl-ul.github.io/san/</a></p>
+</section>
+<section id="spatial-statistics-for-data-science-theory-and-practice-with-r" class="level2" data-number="18.15">
+<h2 data-number="18.15" class="anchored" data-anchor-id="spatial-statistics-for-data-science-theory-and-practice-with-r"><span class="header-section-number">18.15</span> Spatial Statistics for Data Science: Theory and Practice with R</h2>
+<ul>
+<li>Paula Moraga</li>
+</ul>
+<p>The book combines theory and practice using real-world data science examples such as disease risk mapping, air pollution prediction, species distribution modeling, crime mapping, and real state analyses.</p>
+<p>Link: <a href="https://www.paulamoraga.com/book-spatial/index.html">https://www.paulamoraga.com/book-spatial/index.html</a></p>
+</section>
+<section id="spatial-sampling-with-r" class="level2" data-number="18.16">
+<h2 data-number="18.16" class="anchored" data-anchor-id="spatial-sampling-with-r"><span class="header-section-number">18.16</span> Spatial sampling with R</h2>
+<ul>
+<li>Dick J. Brus</li>
+</ul>
+<p>This book describes and illustrates classical, basic sampling designs for a spatial survey, as well as more recently developed, advanced sampling designs and estimators. Part I of the book is about random sampling designs for estimating a mean, total, or proportion of a population or of several subpopulations. Part II focuses on sampling designs for mapping.</p>
+<p>Link: <a href="https://dickbrus.github.io/SpatialSamplingwithR/">https://dickbrus.github.io/SpatialSamplingwithR/</a></p>
+</section>
+<section id="using-r-for-digital-soil-mapping" class="level2" data-number="18.17">
+<h2 data-number="18.17" class="anchored" data-anchor-id="using-r-for-digital-soil-mapping"><span class="header-section-number">18.17</span> Using R for Digital Soil Mapping</h2>
+<ul>
+<li>Malone, Brendan P.</li>
+<li>Minasny, Budiman</li>
+<li>McBratney, Alex B</li>
+</ul>
+<p>Describes in detail, with ample exercises, how digital soil mapping is done This work includes a number of work-flows that direct users how to create digital soil maps for their own projects This work includes tutorials for users to learn the fundamentals of R, but with a focus on how to use it for digital soil mapping</p>
+<p>Link: <a href="https://www.springer.com/gp/book/9783319443256">https://www.springer.com/gp/book/9783319443256</a></p>
+</section>
+<section id="sits-data-analysis-and-machine-learning-on-earth-observation-data-cubes-with-satellite-image-time-series" class="level2" data-number="18.18">
+<h2 data-number="18.18" class="anchored" data-anchor-id="sits-data-analysis-and-machine-learning-on-earth-observation-data-cubes-with-satellite-image-time-series"><span class="header-section-number">18.18</span> sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series</h2>
+<ul>
+<li>Gilberto Camara</li>
+<li>Rolf Simoes</li>
+<li>Felipe Souza</li>
+<li>Alber Sanchez</li>
+<li>Lorena Santos</li>
+<li>et al</li>
+</ul>
+<p>Using time series derived from big Earth Observation data sets is one of the leading research trends in Land Use Science and Remote Sensing. One of the more promising uses of satellite time series is its application to classify land use and land cover. Information on land is critical for sustainable development because our growing demand for natural resources is causing significant environmental impacts. The target audience for sits is the new generation of specialists who understand the principles of remote sensing and can write scripts in R. Ideally, users should have basic knowledge of data science methods using R.</p>
+<p>This book presents sits, an open-source R package for land use and land cover classification using big Earth observation data.</p>
+<p>Link: <a href="https://e-sensing.github.io/sitsbook/">https://e-sensing.github.io/sitsbook/</a></p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -910,10 +975,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="../chapters/Finance.html" class="pagination-link" aria-label="Finance">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Finance</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./010-start_here.html" class="pagination-link" aria-label="New to R? Start here">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">New to R? Start here</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../chapters/Getting cleaning and wrangling data.html" class="pagination-link" aria-label="Getting, cleaning and wrangling data">
+        <span class="nav-page-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Getting, cleaning and wrangling data</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -1,0 +1,116 @@
+# Getting, cleaning and wrangling data
+
+## 21 Recipes for Mining Twitter Data with rtweet
+
+- Bob Rudis
+
+The recipes contained in this book use the rtweet package by Michael W.
+Kearney.
+
+Link: [https://rud.is/books/21-recipes/](https://rud.is/books/21-recipes/)
+
+## A Beginner's Guide to Clean Data
+
+- Benjamin Greve
+
+This book will help you to become a better data scientist by showing you
+the things that can go wrong when working with data - particularly
+low-quality data. A key difference between a junior and a senior data
+scientist is the awareness of potential pitfalls. The experienced data
+scientist will expect them, navigate around them and avoid costly
+iteration cycles. After reading this book, you will be able to spot data
+quality problems and deal with them before they can break your work,
+saving yourself a lot of time.
+
+Link: [https://b-greve.gitbook.io/beginners-guide-to-clean-data/](https://b-greve.gitbook.io/beginners-guide-to-clean-data/)
+
+## Data Wrangling Essentials
+
+- Mark Banghart
+
+The R and Python communities have developed a set of tools in the tidyverse and the pandas packages respectively designed to wrangle table data. The intuitive nature of these packages makes learning to use them easy and the code easy to read and understand. These tools allow researchers to quickly and accurately complete data preparation for a wide variety of analysis. It is the application of these packages and their approaches to wrangling that are the subject of this book.
+
+The Data Wrangling Essentials title was chosen to emphasize both the use of these new tools and the importance of the work of gathering and preparing data.
+
+Link: [https://www.ssc.wisc.edu/sscc/pubs/DWE/book/](https://www.ssc.wisc.edu/sscc/pubs/DWE/book/)
+
+## Data Wrangling and Visualization Guide
+
+- Max Ricciardelli
+
+These modules are here to present a succinct guide to using R, RStudio, and R Markdown for data wrangling and visualization. This guide is meant for those who have little to no experience in programming. My purpose in designing these modules is to provide a brief yet clear guide to learning the basic theory of these tools and how to apply them in practice.
+
+Link: [https://bookdown.org/max_ricciardelli/wrangling_modules/](https://bookdown.org/max_ricciardelli/wrangling_modules/)
+
+## Flexible Imputation of Missing Data
+
+- Stef van Buuren
+
+Multiple imputation of missing data has become one of the great academic industries. Many analysts now employ multiple imputation on a regular basis as a generic solution to the omnipresent missing-data problem, and a substantial group of practitioners are doing the calculations in mice. This book aspires to combine a state-of-the-art overview of the field with a set of how-to instructions for practical data analysis.
+
+Link: [https://stefvanbuuren.name/fimd/](https://stefvanbuuren.name/fimd/)
+
+## Fundamentals of Wrangling Healthcare Data with R
+
+- J. Kyle Armstrong
+
+In this course we will review some of the tools of the trade, namely, R’s tidyverse (Wickham and Grolemund 2017; Winter 2019) - a collection of R packages designed with a common framework to aide in common data wrangling and data management tasks.
+
+Data Wrangling is one subset set of skills within the Data Science Process. We will carefully investigate how decisions made while collecting and preparing the data have down-stream effects on model performance.
+
+Link: [https://bookdown.org/jkylearmstrong/jeff_data_wrangling/](https://bookdown.org/jkylearmstrong/jeff_data_wrangling/)
+
+## Handling Strings With R
+
+- Gaston Sanchez
+
+Handling character strings in R? Wait a second… you exclaim, R is not a scripting language like Perl, Python, or Ruby. Why would you want to use R for handling and processing text? Well, because sooner or later (I would say sooner than later) you will have to deal with some kind of string manipulation for your data analysis. So it’s better to be prepared for such tasks and know how to perform them inside the R environment.
+
+Paid: Free preview of first 4 chapters $20
+
+Link: [https://www.gastonsanchez.com/r4strings/](https://www.gastonsanchez.com/r4strings/)
+
+## Spreadsheet Munging Strategies
+
+- Duncan Garmonsway
+
+This is a work-in-progress book about getting data out of spreadsheets,
+no matter how peculiar. The book is designed primarily for R users who
+have to extract data from spreadsheets and who are already familiar with
+the tidyverse. It has a cookbook structure, and can be used as a
+reference, but readers who begin in the middle might have to work
+backwards from time to time.
+
+Link: [https://nacnudus.github.io/spreadsheet-munging-strategies/](https://nacnudus.github.io/spreadsheet-munging-strategies/)
+
+## Text Mining With Tidy Data Principles
+
+- [Julia Silge](https://twitter.com/juliasilge)
+
+Text data sets are diverse and ubiquitous, and tidy data principles provide an approach to make text mining easier, more effective, and consistent with tools already in wide use. In this tutorial, you will develop your text mining skills using the tidytext package in R, along
+with other tidyverse tools.
+
+Link: [https://juliasilge.shinyapps.io/learntidytext/](https://juliasilge.shinyapps.io/learntidytext/)
+
+## Text Mining with R
+
+- [Julia Silge](https://twitter.com/juliasilge)
+- [David Robinson](https://twitter.com/drob)
+
+This book serves as an introduction of text mining using the tidytext
+package and other tidy tools in R. The functions provided by the
+tidytext package are relatively simple; what is important are the
+possible applications. Thus, this book provides compelling examples of
+real text mining problems.
+
+Link: [https://www.tidytextmining.com/](https://www.tidytextmining.com/)
+
+## Web Scraping with R
+
+- [Steve Pittard](https://github.com/steviep42)
+
+Web Scraping with R. . A rich source of examples and instruction.
+
+Link: [https://steviep42.github.io/webscraping/book/](https://steviep42.github.io/webscraping/book/)
+
+

@@ -1,0 +1,84 @@
+# Sport analytics
+
+## Basketball Data Science with Applications in R
+
+- Paola Zuccolotto
+- Marica Manisera
+
+Using data from one season of NBA games, Basketball Data Science: With Applications in R is the perfect book for anyone interested in learning and applying data analytics in basketball. Whether assessing the spatial performance of an NBA player's shots or doing an analysis of the impact of high pressure game situations on the probability of scoring, this
+book discusses a variety of case studies and hands-on examples using a custom R package. The codes are supplied so readers can reproduce the analyses themselves or create their own. Assuming a basic statistical knowledge, Basketball Data Science with R is suitable for students, technicians, coaches, data analysts and applied researchers.
+
+Link: [https://www.routledge.com/Basketball-Data-Science-With-Applications-in-R/Zuccolotto-Manisera/p/book/9781138600799](https://www.routledge.com/Basketball-Data-Science-With-Applications-in-R/Zuccolotto-Manisera/p/book/9781138600799)
+
+## Coding for sports analytics get started resources
+
+
+
+Given the lack of sport-focussed R books, I've added this collection of
+blog posts.
+
+Link: [https://brendankent.com/2020/09/15/coding-for-sports-analytics-resources-to-get-started/](https://brendankent.com/2020/09/15/coding-for-sports-analytics-resources-to-get-started/)
+
+## Exploring Baseball Data with R
+
+- Max Marchi
+- Jim Albert
+- Max Marchi
+- Benjamin S. Baumer
+
+This book introduces R to sabermetricians, baseball enthusiasts, and students interested in exploring the richness of baseball data. It equips you with the necessary skills and software tools to perform all the analysis steps, from importing the data to transforming them into an
+appropriate format to visualizing the data via graphs to performing a statistical analysis.
+
+Link: [https://baseballwithr.wordpress.com/about/](https://baseballwithr.wordpress.com/about/)
+
+## Introduction to Empirical Bayes: Examples from Baseball Statistics
+
+- [David Robinson](https://twitter.com/drob)
+
+Learn to use empirical Bayesian methods for estimating binomial proportions, through a series of examples drawn from baseball statistics. These methods are effective in estimating click-through rates on ads, success rates of experiments, and other examples common in modern data science. You'll learn both the theory and the practice behind empirical Bayesian methods, including computing credible intervals, performing Bayesian A/B testing, and fitting mixture models. Each example comes with R code that can be used to analyze your own data.
+
+Link: [https://drob.gumroad.com/l/empirical-bayes](https://drob.gumroad.com/l/empirical-bayes)
+
+## Introduction to NFL Analytics with R
+
+- Bradley J. Congelio
+
+This is the best resource an aspiring data scientist looking to work with football data can use. It has something for all levels, including data analysis, visualization, advanced modeling, and more. The code and the insights in Introduction to NFL Analytics with R are invaluable and can help everyone from beginners to those who have worked with data for years
+
+Link: [https://bradcongelio.com/nfl-analytics-with-r-book/](https://bradcongelio.com/nfl-analytics-with-r-book/)
+
+## Stats in sports
+
+- [Zachary Binney](https://github.com/zbinney)
+
+Materials for the Statistics in Sports class for first-year undergrads at Oxford College of Emory University. This course is unique in that it assumes no background. It covers an introduction to sports analytics and R for Baseball, Basketball, Football, Soccer and Sports business analytics.
+
+Link: [https://github.com/zbinney/Stats_in_Sports_2021](https://github.com/zbinney/Stats_in_Sports_2021)
+
+## Visualising WRC Rally Stages With rayshader and R A RallyDataJunkie Adventure
+
+- Tony Hirst
+
+Taking a simple rally route dataset, what can we do with it? This book describes a wide range of techniques for working with geodata, including routes and elevantion rasters. From 2D and 3D mapping, to a wide range of route analysis techniques, the techniques described are also relevant to a wide range of othr route analysis contexts, including ecological trail analysis.
+
+Link: [https://rallydatajunkie.com/visualising-rally-stages](https://rallydatajunkie.com/visualising-rally-stages)
+
+## Visualising WRC Rally Timing and Results Data A RallyDataJunkie Adventure
+
+- Tony Hirst
+
+A handy guide to visualising a wide range of motorsport timing and results data, concentrating on rally data associated with the FIA World Rally Championship (WRC).
+
+Link: [https://rallydatajunkie.com/visualising-wrc-rally-results/](https://rallydatajunkie.com/visualising-wrc-rally-results/)
+
+## Wrangling F1 Data With R A Data Junkie's Guide
+
+- Tony Hirst
+
+If you're attracted by F1's passion to push engineering and technology to the limit, this book will help you grab a range of Formula One datasets by the scruff of the neck and wrangle a wide variety of insights from them.
+
+Using the latest in open source data analysis and visualisation techniques, you'll learn how to extract the stories that often go unnoticed from whatever Formula One data you can lay your hands on. And maybe, just maybe, you'll be able to use the skills you learn along the way outside of the F1 context...
+
+Link: [https://leanpub.com/wranglingf1datawithr](https://leanpub.com/wranglingf1datawithr)
+
+

@@ -1,0 +1,136 @@
+# Shiny
+
+## A gRadual intRoduction to Shiny
+
+- Ted Laderas
+- Jessica Minnier
+
+By the end of this workshop, you should be able to:
+
+Browse examples in the shiny gallery and understand how they
+work.Understand the components of a Shiny app and how they
+communicate.Learn three basic design patterns to the shiny apps.
+
+Link: [https://laderast.github.io/gradual_shiny/](https://laderast.github.io/gradual_shiny/)
+
+## Engineering Production-Grade Shiny Apps
+
+- Colin Fay
+- Sébastien Rochette
+- Vincent Guyader
+- Cervan Girard
+
+This book will not get you started with Shiny, nor talk how to work with
+Shiny once it is sent to production. What we'll see is the process of
+building an application that will later be sent to production.
+
+Link: [https://engineering-shiny.org/](https://engineering-shiny.org/)
+
+## JavaScript 4 Shiny - Field Notes
+
+- [Colin Fay](https://colinfay.me)
+
+JavaScript in practice for Shiny users.
+
+Link: [https://connect.thinkr.fr/js4shinyfieldnotes/](https://connect.thinkr.fr/js4shinyfieldnotes/)
+
+## JavaScript for R
+
+- [John Coene](https://john-coene.com)
+
+Learn how to build your own data visualisation packages, improve shiny
+with JavaScript, and use JavaScript for computations.
+
+Link: [https://javascript-for-r.com](https://javascript-for-r.com)
+
+## Mastering Shiny
+
+- Hadley Wickham
+
+This book complements Shiny's online documentation and is intended to
+help app authors develop a deeper understanding of Shiny. After reading
+this book, you'll be able to write apps that have more customized UI,
+more maintainable code, and better performance and scalability.
+
+Link: [https://mastering-shiny.org/](https://mastering-shiny.org/)
+
+## Mastering Shiny Solutions, Baek
+
+- [Howard Baek](https://twitter.com/howard_baek)
+
+Mastering Shiny Solutions 2021, by Maya Gans and Marly Gotti, was released in early 2021. Since then, there have been various changes to the exercises in Mastering Shiny, and this book serves as an updated version. A few solutions in this book defer to those provided in Mastering Shiny Solutions 2021. Also, some exercises don’t contain solutions, and for these exercises, the author writes, “Not sure.”
+
+Link: [https://mastering-shiny-solutions.netlify.app/index.html](https://mastering-shiny-solutions.netlify.app/index.html)
+
+## Mastering Shiny Solutions, Gans Gotti
+
+- [Maya Gans](http://maya.rbind.io/)
+- [Marly Gotti](https://www.marlygotti.com/)
+
+This book offers solutions to the exercises from Hadley Wickham's book
+[Mastering Shiny](https://mastering-shiny.org/). It is a work in
+progress and under active development.
+
+Link: [https://mastering-shiny-solutions.org](https://mastering-shiny-solutions.org)
+
+## Outstanding User Interfaces with Shiny
+
+- David Granjon
+
+This book will help you to:
+
+Manipulate Shiny tags from R to create custom layouts. Harness the power
+of CSS and JavaScript to quickly design apps standing out from the pack.
+Discover the steps to import and convert existing web frameworks like
+Bootstrap 4, framework7 and more Learn how Shiny internally deals with
+inputs. Learn more about less documented Shiny mechanisms (websockets,
+sessions, ...)
+
+Link: [https://divadnojnarg.github.io/outstanding-shiny-ui/](https://divadnojnarg.github.io/outstanding-shiny-ui/)
+
+## R Shiny Applications in Finance, Medicine, Pharma and Education Industry
+
+- Loan Robinson
+
+The book is a guide to help you understand the codes of five applications you will receive after you purchase the book. If you can go through all of the codes, you can easily create a complex and brilliant R Shiny application.
+
+Instead of spending hours and hours trying to understand, have the ideas, write the codes, apply application features, you can use the codes to quickly apply and learn the codes. There are many advanced features, it takes years to learn them, now you have it, hand on and work through it.
+
+Paid: Onlien version is a sample of the book, full paid version and all code available for purchase $250
+
+Link: [https://kimloanrobinson.shinyapps.io/r_shiny_book_web/](https://kimloanrobinson.shinyapps.io/r_shiny_book_web/)
+
+## Shiny App-Packages
+
+- Martin Frigaard
+
+This book is a resource to help ‘connect the dots’ between building scalable Shiny applications and writing R packages. Adopting R package development practices in the early stages of your Shiny app will improve the reusability, maintainability, and shareability of all your hard work.
+
+Link: [https://mjfrigaard.github.io/shiny-app-pkgs/](https://mjfrigaard.github.io/shiny-app-pkgs/)
+
+## Shiny Production with AWS Book
+
+- [Matt Doncho](https://twitter.com/mdancho84)
+
+A big problem exists... No one teaches Data Scientists how to deploy web
+applications. You spend all of this time building Shiny web
+applications. And then... [silence].
+
+This book alongside the Shiny Developer with AWS Course (DS4B 202A-R)
+solves this problem - teaching Data Scientists how to deploy, host, and
+maintain web applications.
+
+Link: [https://business-science.github.io/shiny-production-with-aws-book/](https://business-science.github.io/shiny-production-with-aws-book/)
+
+## Supplement to Shiny in Production
+
+
+
+This document is full of supplemental resources and content from the
+[Shiny in Production
+Workshop](https://rstudio.com/resources/rstudioconf-2019/shiny-in-production-principles-practices-and-tools/)
+delievered at rstudio::conf 2019.
+
+Link: [https://kellobri.github.io/shiny-prod-book/](https://kellobri.github.io/shiny-prod-book/)
+
+

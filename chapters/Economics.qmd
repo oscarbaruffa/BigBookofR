@@ -1,0 +1,126 @@
+# Economics
+
+## Analyzing Financial and Economic Data with R
+
+- Marcelo S. Perlin
+
+Not surprisingly, fields with abundant access to data and practical
+applications, such as economics and finance, it is expected that a
+graduate student or a data analyst has learned at least one programming
+language that allows him/her to do his work efficiently. Learning how to
+program is becoming a requisite for the job market.
+
+Link: [https://www.msperlin.com/afedR/](https://www.msperlin.com/afedR/)
+
+Physical copy available: https://amzn.to/3RBjXhN
+
+## Applied Microeconometrics with R
+
+- [Achim Zeileis](https://twitter.com/AchimZeileis)
+- [Christian Kleiber](https://wwz.unibas.ch/en/kleiber/)
+
+This project will gradually turn the course materials for the “Econometrics and Statistics: Microeconometrics” course at Universität Innsbruck into an online book.
+
+The topics covered roughly follow the book Analysis of Microdata by Winkelmann & Boes (2009, Springer-Verlag) and encompass: models for categorical responses (binary, multinomial, ordered), count data, limited dependent variables, and duration models.
+
+Link: [https://discdown.org/microeconometrics/](https://discdown.org/microeconometrics/)
+
+## Data Science for Economists and Other Animals
+
+- [Grant McDermott](https://twitter.com/grant_mcdermott)
+
+Introduce Economics graduate students to the modern data science toolkit
+
+Link: [https://grantmcdermott.com/ds4e/](https://grantmcdermott.com/ds4e/)
+
+## Financial Econometrics - R Tutorial Guidance
+
+- [Yizhi Wang](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4467812)
+- [Samuel Vigne](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2479568)
+
+This is an R tutorial book for Financial Econometrics in PDF format.
+
+Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3863563](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3863563)
+
+## Introduction to Econometrics with R
+
+- Florian Oswald
+- Vincent Viers
+- Jean-Marc Robin
+- Pierre Villedieu
+- Gustave Kenedi
+
+Welcome to Introductory Econometrics for 2nd year undergraduates at ScPo! On this page we outline the course and present the Syllabus. 2018/2019 was the first time that we taught this course in this format, so we are in year 3 now.
+
+Link: [https://scpoecon.github.io/ScPoEconometrics](https://scpoecon.github.io/ScPoEconometrics)
+
+## Introduction to R for Econometrics
+
+- [Kieran Marray](https://uk.linkedin.com/in/kieran-marray-866740134)
+
+This is a short introduction to R to go with the first year econometrics courses at the Tinbergen Institute. It is aimed at people who are relatively new to R, or programming in general.
+The goal is to give you enough of knowledge of the fundamentals of R to write and adapt code to fit econometric models to data, and to simulate your own data, working alone or with others. You will be able to: read data from csv files, plot it, manipulate it into the form you want, use sets of functions others have built (packages), write your own functions to compute estimators, simulate data to test the performance of estimators, and present the results in a nice format.
+
+Most importantly, when things inevitably go wrong, you will be able to begin to interpret error messages and adapt others’ solutions to fit your needs.
+
+Link: [https://bookdown.org/kieranmarray/intro_to_r_for_econometrics](https://bookdown.org/kieranmarray/intro_to_r_for_econometrics)
+
+## Learning Microeconometrics with R
+
+- Christopher P. Adams
+
+This book provides an introduction to the field of microeconometrics
+through the use of R. The focus is on applying current learning from the
+field to real world problems. It uses R to both teach the concepts of
+the field and show the reader how the techniques can be used. It is
+aimed at the general reader with the equivalent of a bachelor's degree
+in economics, statistics or some more technical field. It covers the
+standard tools of microeconometrics, OLS, instrumental variables,
+Heckman selection and difference in difference. In addition, it
+introduces bounds, factor models, mixture models and empirical Bayesian
+analysis.
+
+Link: [https://www.routledge.com/Learning-Microeconometrics-with-R/Adams/p/book/9780367255381](https://www.routledge.com/Learning-Microeconometrics-with-R/Adams/p/book/9780367255381)
+
+## Principles of Econometrics with  R
+
+- [Constantin Colonescu](https://ca.linkedin.com/in/constantin-colonescu-925720176)
+
+R supplementary resource for the “Principles of Econometrics” textbook by Carter Hill, William Griffiths and Guay Lim, 4-th edition
+
+Link: [https://bookdown.org/ccolonescu/RPoE4](https://bookdown.org/ccolonescu/RPoE4)
+
+## R Companion to Real Econometrics
+
+- [Tony Carilli](https://www.tonycarilli.com)
+
+The intended audience for this book is anyone making using of Real Econometrics: The Right Tools to Answer Important Questions 2nd ed. by Michael Bailey who would like to learn to use R, RStudio, and the tidyverse to complete empirical examples from the text. This book will be useful to anyone wishing to integrate R and the Tidyverse into an econometrics course.
+
+Link: [https://bookdown.org/carillitony/bailey](https://bookdown.org/carillitony/bailey)
+
+## R Guide to Accompany Introductory Econometrics for Finance
+
+- [Robert Wichmann](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2625032)
+- Chris Brooks
+
+This free software guide for R with freely downloadable datasets brings the econometric techniques to life, showing readers how to implement the approaches presented in Introductory Econometrics for Finance using this highly popular software package. Designed to be used alongside the main textbook, the guide will give readers the confidence and skills to estimate and interpret their own models while the textbook will ensure that they have a thorough understanding of the conceptual underpinnings.
+
+Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466882](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466882)
+
+## R for Economic Research
+
+- J. Renato Leripio
+
+Over the past years I’ve received a lot of messages asking what I considered to be the most important subjects one should learn in order to start a career in economic research. R for Economic Research is my contribution to those who have some knowledge of R programming but still lack the necessary tools to carry out professional economic analysis. This is an intermediate-level book where the reader will find shortcuts to start working on a variety of tasks and also valuable references to delve into the details of more complex topics.
+
+Link: [https://book.rleripio.com/](https://book.rleripio.com/)
+
+## Using R for Introductory Econometrics
+
+- [Florian Heiss](https://www.statec.hhu.de/en/our-team-1/prof-dr-florian-heiss)
+
+An R book supplement to the Wooldridge’s “Introductory Econometrics” textbook
+
+Link: [http://www.urfie.net](http://www.urfie.net)
+
+

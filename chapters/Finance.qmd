@@ -1,0 +1,94 @@
+# Finance
+
+## Analyzing Financial and Economic Data with R
+
+- Marcelo S. Perlin
+
+Not surprisingly, fields with abundant access to data and practical
+applications, such as economics and finance, it is expected that a
+graduate student or a data analyst has learned at least one programming
+language that allows him/her to do his work efficiently. Learning how to
+program is becoming a requisite for the job market.
+
+Link: [https://www.msperlin.com/afedR/](https://www.msperlin.com/afedR/)
+
+Physical copy available: https://amzn.to/3RBjXhN
+
+## Audit Analytics with R
+
+- Jonathan Lin
+
+This is the website for Audit Analytics in R. This audience of this book is for:
+
+Audit leaders who are looking to design their environment to encourage cultivate collaboration and sustainability.
+Audit data analytics practitioners, who are looking to leverage R in their data analytics tasks.
+You will learn what tools and technologies are well suited for a modern audit analytics toolkit, as well as learn skills with R to perform data analytics tasks. Consider this book to be your roadmap of practical items to implement and follow.
+
+Link: [https://auditanalytics.jonlin.ca/](https://auditanalytics.jonlin.ca/)
+
+## Financial Econometrics - R Tutorial Guidance
+
+- [Yizhi Wang](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4467812)
+- [Samuel Vigne](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2479568)
+
+This is an R tutorial book for Financial Econometrics in PDF format.
+
+Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3863563](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3863563)
+
+## Hierarchical Compartmental Reserving Models
+
+- [Markus Gesmann](https://magesblog.com)
+- Jake Morris
+
+Hierarchical compartmental reserving models provide a parametric framework for describing aggregate insurance claims processes using differential equations. We discuss how these models can be specified in a fully Bayesian modeling framework to jointly fit paid and outstanding claims development data, taking into account the random nature of claims and underlying latent process parameters. We demonstrate how modelers can utilize their expertise to describe specific development features and incorporate prior knowledge into parameter estimation. We also explore the subtle yet important difference between modeling incremental and cumulative claims payments. Finally, we discuss parameter variation across multiple dimensions and introduce an approach to incorporate market cycle data such as rate changes into the modeling process. Examples and case studies are shown using the probabilistic programming language Stan via the brms package in R.
+
+Link: [https://compartmentalmodels.gitlab.io/researchpaper/index.html](https://compartmentalmodels.gitlab.io/researchpaper/index.html)
+
+## Introduction to Computational Finance and Financial Econometrics with R
+
+- [Eric Zivot](https://econ.washington.edu/people/eric-zivot)
+
+This book is based on my University of Washington sponsored Coursera course Introduction to Computational Finance and Financial Econometrics that has been running every quarter on Coursera since 2013. This Coursera course is based on the Summer 2013 offering of my University of Washington advanced undergraduate economics course of the same name. At the time, my UW course was part of a three course summer certificate in Fundamentals of Quantitative Finance offered by the Professional Masters Program in Computational Finance & Risk Management that was video-recorded and available for online students. An edited version of this course became the Coursera course. The popularity of the course encouraged me to convert the class notes for the course into a short book.
+
+Link: [https://bookdown.org/compfinezbook/introFinRbook/](https://bookdown.org/compfinezbook/introFinRbook/)
+
+## Machine Learning for Factor Investing
+
+- [Guillaume Coqueret](https://twitter.com/g_coqueret)
+- [Tony Guida](https://twitter.com/TonyGUIDA_Quant)
+
+This book is intended to cover some advanced modelling techniques
+applied to equity investment strategies that are built on firm
+characteristics.
+
+Link: [http://www.mlfactor.com/](http://www.mlfactor.com/)
+
+## Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis
+
+- Jonathan K. Regenstein Jr.
+
+A unique introduction to data science for investment management that explores the three major R/finance coding paradigms, emphasizes data visualization, and explains how to build a cohesive suite of functioning Shiny applications. The full source code, asset price data and live Shiny applications are available at reproduciblefinance.com. The ideal reader works in finance or wants to work in finance and has a desire to learn R code and Shiny through simple, yet practical real-world examples.
+
+Link: [http://www.reproduciblefinance.com/start-here/](http://www.reproduciblefinance.com/start-here/)
+
+## Tidy Finance with R
+
+- [Christoph Scheuch](https://christophscheuch.github.io/)
+- [Stefan Voigt](https://www.voigtstefan.me/)
+- [Patrick Weiss](https://sites.google.com/view/patrick-weiss)
+
+Financial economics is a vibrant area of research, a central part of all businesses activities, and at least implicitly relevant for our everyday life. Despite its relevance for our society and a vast number of empirical studies of financial phenomenons, one quickly learns that the actual implementation is typically rather opaque. 
+
+This book aims to lift the curtain on reproducible finance by providing a fully transparent code base for many common financial applications. We hope to inspire others to share their code publicly and take part in our journey towards more reproducible research in the future.
+
+Link: [https://tidy-finance.org/](https://tidy-finance.org/)
+
+## Tidy Portfoliomanagement in R
+
+- [Dr. Sebastian Stöckl](https://github.com/sstoeckl/)
+
+The book starts with an introduction to the most important tools for the portfolio analysis: timeseries (mainly xts) and the tidyverse. Afterwards, the possibilities of managing and exploring financial data will be developed. Then we do portfolio optimization for mean-Variance and Mean-CVaR portfolios. This will be followed by a chapter on backtesting, before I show further applications in finance, such as predictions, portfolio sorting, Fama-MacBeth-regressions etc.
+
+Link: [https://www.tidy-pm.com/index.html](https://www.tidy-pm.com/index.html)
+
+

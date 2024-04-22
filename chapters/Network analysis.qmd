@@ -1,0 +1,40 @@
+# Network analysis
+
+## Awesome network analysis
+
+
+
+Not a book, but a compendium of resources that look really valuable.
+
+Link: [https://github.com/briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)
+
+## Handbook of Graphs and Networks in People Analytics With Examples in R and Python
+
+- [Keith McNulty](https://twitter.com/dr_keithmcnulty)
+
+The technology of graphs is all around us, and enables so many of the ways in which we live our lives today. That same technology is also available to us at no cost as an analytic tool to allow us to better understand network structures and dynamics in the fields of science, technology, economics, sociology and psychology to name just a few. It is available to academics and practitioners alike, and can be used on problems ranging from a very small network analysis which takes a few minutes on a laptop, to massive scale network mining requiring days or weeks of processing time.
+
+But here’s the problem: few people really know how to do network analysis. It is still considered by many as a deep specialism or even a ‘dark art.’ It shouldn’t be.
+
+This book aims to make the field of graph and network analysis more approachable to students and professionals by explaining the most important elements of theory and sharing common methodologies using open source programming languages like R and Python. It does so by explaining theory in as much detail as is necessary to support analytical curiosity and interpretation, and by using a wide array of example data sets and code snippets to demonstrate the specific implementation and interpretation of methodologies.
+
+Link: [https://ona-book.org/](https://ona-book.org/)
+
+## Network Analysis in R Cookbook
+
+- Sacha Epskamp
+
+[Oscar Baruffa: Note this resource is a bit out of date, but because there are so few available on this topic, and it might still be good as a reference, it'll stay in Big Book of R for now.]
+
+Link: [https://web.archive.org/web/20210414173702/http://sachaepskamp.com/files/Cookbook.html](https://web.archive.org/web/20210414173702/http://sachaepskamp.com/files/Cookbook.html)
+
+## Statistical Analysis of Network Data with R
+
+- Kolaczyk, Eric D.
+- Csárdi, Gábor
+
+This book is the first of its kind in network research. It can be used as a stand-alone resource in which multiple R packages are used to illustrate how to conduct a wide range of network analyses, from basic manipulation and visualization, to summary and characterization, to modeling of network data. The central package is igraph, which provides extensive capabilities for studying network graphs in R.
+
+Link: [https://www.springer.com/us/book/9781493909834#otherversion=9781493909827](https://www.springer.com/us/book/9781493909834#otherversion=9781493909827)
+
+

@@ -1,0 +1,219 @@
+# Social Science
+
+## APIs for social scientists: A collaborative review
+
+- Paul C. Bauer
+- Camille Landesvatter
+- many others
+
+The present online book provide a review of APIs that may be useful for social scientists. Covers a wide selection of APIs from google, Instagram, Youtube and others.  R code included.
+
+Link: [https://bookdown.org/paul/apis_for_social_scientists/](https://bookdown.org/paul/apis_for_social_scientists/)
+
+## An R Exercise in Data Collection, Cleaning, and Merging U.S. Census Data
+
+- Sean Conner
+
+A step-by-step walkthrough exercise using U.S. Census data.
+
+Link: [https://bookdown.org/scconner7/r_census_data_cleaning_tutorial/](https://bookdown.org/scconner7/r_census_data_cleaning_tutorial/)
+
+## An R Platform for Social Scientists
+
+- [Burak AYDIN](https://twitter.com/Burak4YD1N)
+- James ALGINA
+- Walter LEITE
+- Hakan ATILGAN
+
+We aim to create a platform for the applied social scientists in which we can demonstrate basic statistical procedures using R and real data. We prefer to name this material as a platform given that (a) it is open for contribution, (b) it will have dynamic content and (c) it can serve as a mainboard for Plug-ins and Add-ons .
+
+Link: [https://bookdown.org/burak2358/SARP-EN/](https://bookdown.org/burak2358/SARP-EN/)
+
+## An introduction to psychometric theory with applications in R
+
+- William Revelle
+
+My course in psychometric theory, on which much of this book is based, was inspired by a course of the same name by Warren Norman. The organizational structure of this text owes a great deal to the structure of Warren's course. Warren introduced me, as well as a generation of graduate students at the University of Michigan, to the role of theory and measurement in the study of psychology.
+
+Link: [https://personality-project.org/r/book/](https://personality-project.org/r/book/)
+
+## Analyzing US Census Data Methods, Maps, and Models in R
+
+- [Kyle Walker](https://twitter.com/kyle_e_walker)
+
+Census data are widely used in the United States across numerous research and applied fields, including education, business, journalism, and many others. Until recently, the process of working with US Census data has required the use of a wide array of web interfaces and software platforms to prepare, map, and present data products. The goal of this book is to illustrate the utility of the R programming language for handling these tasks, allowing Census data users to manage their projects in a single computing environment.
+
+Link: [https://walker-data.com/census-r/](https://walker-data.com/census-r/)
+
+## Applied Demographic Data Analysis
+
+- Corey S. Sparks, PhD
+
+My goal for this book is to take the lessons I’ve learned teaching statistics to a diverse and often cursorily trained group of students who have problems they care about, that they need to bring demographic data to bear upon. This is a challenge, and I have always been a stalwart proponent of teaching statistics and data analysis in a very applied manner. As such, this book won’t be going into rigorous proofs of estimators or devoting pages to expositions of icky algebra; instead it will focus on exploring modern methods of data analysis that in used by demographers every day, but not always taught in our training programs.
+
+Link: [https://coreysparks.github.io/appdem_Book/](https://coreysparks.github.io/appdem_Book/)
+
+## CSSS 508 Introduction to R for Social Scientists
+
+- [Charles Lanfear](https://clanfear.github.io)
+- [Rebecca Ferrell](https://rferrell.wordpress.com)
+
+Course material with Youtube Video
+
+Link: [https://clanfear.github.io/CSSS508/](https://clanfear.github.io/CSSS508/)
+
+## Complex Surveys: A Guide to Analysis Using R
+
+- [Thomas Lumley](https://notstatschat.rbind.io/)
+
+Complex Surveys is a practical guide to the analysis of survey data using R, the freely available and downloadable statistical programming language. As creator of the specific survey package for R, the author provides the ultimate presentation of how to successfully use the software for analyzing data from complex surveys while also utilizing the most current data from health and social sciences studies to demonstrate the application of survey research methods in these fields.
+
+Link: [https://www.amazon.com/Complex-Surveys-Guide-Analysis-Using/dp/0470284307](https://www.amazon.com/Complex-Surveys-Guide-Analysis-Using/dp/0470284307)
+
+## Composite Indicator Development and Analysis in R with COINr
+
+- [William Becker](https://www.bluefoxdata.eu/)
+
+Composite indicators are aggregations of indicators which aim to measure (usually socio-economic) complex and multidimensional concepts which are difficult to define, and cannot be measured directly. Examples include innovation, human development, environmental performance, and so on. This book gives a detailed guide on building composite indicators in R, focusing on the recent COINr package, which is an end-to-end development environment for composite indicators. Although COINr is the main tool used in the book, it also gives general explanation and guidance on composite indicator construction and analysis in R, ranging from normalisation, aggregation, multivariate analysis and global sensitivity analysis.
+
+Link: [https://bluefoxr.github.io/COINrDoc/](https://bluefoxr.github.io/COINrDoc/)
+
+## Computational Analysis of Communication
+
+- [Wouter van Atteveldt](https://twitter.com/vanatteveldt)
+- Damian Trilling
+- Carlos Arcila Calderon
+
+Assuming little or no background in data science or computer linguistics, this accessible textbook teaches readers how to use state-of-the art computational methods to perform data-driven analyses of social science issues. A cross-disciplinary team of authors—with expertise in both the social sciences and computer science—explains how to gather and clean data, manage textual, audio-visual, and network data, conduct statistical and quantitative analysis, and interpret, summarize, and visualize the results.
+
+Link: [https://www.wiley.com/en-us/Computational+Analysis+of+Communication-p-9781119680239](https://www.wiley.com/en-us/Computational+Analysis+of+Communication-p-9781119680239)
+
+## Computational Social Science: Theory & Application
+
+- Paul C. Bauer
+
+The goals for this course are twofold. First, I hope you will gain a solid understanding of how access to big data (digital traces) is changing the social sciences in terms of a) new substantial and theoretical insights, and in terms of b) new methodologies. Second, I hope you will learn which and how big data could be used to answer further pressing questions you might encounter in the future.
+
+Link: [https://bookdown.org/paul/2021_computational_social_science/](https://bookdown.org/paul/2021_computational_social_science/)
+
+## Computing for the Social Sciences
+
+- [Dr. Benjamin Soltoff](https://bensoltoff.com/)
+
+The goal of this course is to teach you basic computational skills and provide you with the means to learn what you need to know for your own research. I start from the perspective that you want to analyze data, and programming is a means to that end. You will not become an expert programmer - that is a given. But you will learn the basic skills and techniques necessary to conduct computational social science, and gain the confidence necessary to learn new techniques as you encounter them in your research.
+
+We will cover many different topics in this course, including:
+
+- Elementary programming techniques (e.g. loops, conditional statements,
+  functions)
+- Writing reusable, interpretable code
+- Problem-solving - debugging programs for errors
+- Obtaining, importing, and munging data from a variety of sources
+- Performing statistical analysis
+- Visualizing information
+- Creating interactive reports
+- Generating reproducible research
+
+Link: [https://cfss.uchicago.edu/notes/intro-to-course/](https://cfss.uchicago.edu/notes/intro-to-course/)
+
+## Crime by the Numbers A Criminologist’s Guide to R
+
+- [Jacob Kaplan](https://twitter.com/JacobKaplanCrim)
+
+This book introduces the programming language R and is meant for undergrads or graduate students studying criminology. R is a programming language that is well-suited to the type of work frequently done in criminology - taking messy data and turning it into useful information. While R is a useful tool for many fields of study, this book focuses on the skills criminologists should know and uses crime data for the example data sets.
+
+Link: [https://crimebythenumbers.com/](https://crimebythenumbers.com/)
+
+## Introduction to R for Social ScientistsA Tidy Programming Approach
+
+- Ryan Kennedy
+- Philip Waggoner
+
+Introduction to R for Social Scientists: A Tidy Programming Approach introduces the Tidy approach to programming in R for social science research to help quantitative researchers develop a modern technical toolbox. The Tidy approach is built around consistent syntax, common grammar, and stacked code, which contribute to clear, efficient programming. The authors include hundreds of lines of code to demonstrate a suite of techniques for developing and debugging an efficient social science research workflow.
+
+Link: [https://i2rss.weebly.com/#](https://i2rss.weebly.com/#)
+
+## Modern Statistical Methods for Psychology
+
+- [Mine Çetinkaya-Rundel](https://mine-cr.com/)
+- [Jo Hardin](https://research.pomona.edu/johardin/)
+
+This book is intended to help psychology students build a foundation for statistical thinking and methods. This textbook consists of 3 main parts: (1) descriptive statistics, (2) foundations for inference, and (3) statistical inference. Each part contains multiple chapters. Each chapter ends with a review section which contains a chapter summary as well as a list of key terms introduced in the chapter.
+
+Link: [https://bookdown.org/gregcox7/ims_psych/](https://bookdown.org/gregcox7/ims_psych/)
+
+## Psychometrics in Exercises using R and RStudio
+
+- [Anna Brown](https://annabrown.name/)
+
+Provides a comprehensive set of exercises for practicing all major Psychometric techniques using R and RStudio. The exercises are based on real data from research studies and operational assessments, and provide step-by-step guides that an instructor can use to teach students, or readers can use to learn independently. Each exercise includes a worked example illustrating data analysis steps and teaching how to interpret results and make analysis decisions, and self-test questions that readers can attempt to check own understanding.
+
+Link: [https://bookdown.org/annabrown/psychometricsR/](https://bookdown.org/annabrown/psychometricsR/)
+
+## Public Policy Analytics Code & Context for Data Science in Government
+
+- Ken Steif, Ph.D
+
+The goal of this book is to make data science accessible to social scientists and City Planners, in particular. I hope to convince readers that one with strong domain expertise plus intermediate data skills can have a greater impact in government than the sharpest computer scientist who has never studied economics, sociology, public health, political science, criminology etc.
+
+Link: [https://urbanspatial.github.io/PublicPolicyAnalytics/](https://urbanspatial.github.io/PublicPolicyAnalytics/)
+
+## R Programming for Psychometrics
+
+- [Susu Zhang](https://psychology.illinois.edu/directory/profile/szhan105)
+
+A good test developer should not only be well-versed with measurement theory and psychometric methods. Nowadays, programming skills are also essential. So, the aim of this book is to introduce R to you and improve your data wrangling and functional programming skills.
+
+Link: [https://bookdown.org/sz_psyc490/r4psychometics/](https://bookdown.org/sz_psyc490/r4psychometics/)
+
+## Reproducible statistics for psychologists with R: Lab Tutorials
+
+- Matthew J. C. Crump
+
+This is a series of labs/tutorials for a two-semester graduate-level statistics sequence in Psychology @ Brooklyn College of CUNY. The goal of these tutorials is to 1) develop a deeper conceptual understanding of the principles of statistical analysis and inference; and 2) develop practical skills for data-analysis, such as using the increasingly popular statistical software environment R to code reproducible analyses.
+
+Link: [https://crumplab.com/rstatsforpsych/index.html](https://crumplab.com/rstatsforpsych/index.html)
+
+## Simulation Models of Cultural Evolution in R
+
+- Alex Mesoudi
+
+This book sets out a series of tutorials for modelling cultural evolution in R.
+
+Link: [https://bookdown.org/amesoudi/ABMtutorial_bookdown/](https://bookdown.org/amesoudi/ABMtutorial_bookdown/)
+
+## Text Mining for Social Scientists
+
+- [Felix Lennert](https://twitter.com/felixlennert)
+
+This script will cover the pre-processing of text, the implementation of supervised and unsupervised approaches to text, and in the end, I will briefly touch upon word embeddings and how social science can use them for inquiry.
+
+Link: [https://bookdown.org/f_lennert/text-mining-book/](https://bookdown.org/f_lennert/text-mining-book/)
+
+## The Plain Person's Guide to Plain Text Social Science
+
+- Kieran Healy
+
+As a beginning graduate student in the social sciences, what sort of software should you use to do your work?1 More importantly, what principles should guide your choices? I offer some general considerations and specific answers.
+
+Link: [https://plain-text.co/index.html#introduction](https://plain-text.co/index.html#introduction)
+
+## Using R for Data Analysis in Social Sciences A Research Project-Oriented Approach
+
+- Quan Li
+
+This book seeks to teach undergraduate and graduate students in social sciences how to use R to manage, visualize, and analyze data in order to answer substantive questions and replicate published findings. This book distinguishes itself from other introductory R or statistics books in three ways. First, targeting an audience rarely exposed to statistical programming, it adopts a minimalist approach and covers only the most important functions and skills in R that one will need for conducting reproducible research projects. Second, it emphasizes meeting the practical needs of students using R in research projects. Specifically, it teaches students how to import, inspect, and manage data; understand the logic of statistical inference; visualize data and findings via histograms, boxplots, scatterplots, and diagnostic plots; and analyze data using one-sample t-test, difference-of-means test, covariance, correlation, ordinary least squares (OLS) regression, and model assumption diagnostics. Third, it teaches students how to replicate the findings in published journal articles and diagnose model assumption violations.
+
+Paid: Incl listing of library availability $40
+
+Link: [https://www.worldcat.org/title/using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach/oclc/1048009316](https://www.worldcat.org/title/using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach/oclc/1048009316)
+
+## Using R for Social Work Research
+
+- Jerry Bean
+
+Our goal for this document is to illustrate the importance of good data analysis practices and how R and companion packages support these practices. We think the R system has many benefits for social work research. R has become the flagship computing environment for many areas of science and has great appeal because it is free and open-access. In addition, free tools like RStudio and R Markdown promote a replication commitment and open science philosophy important to our work.
+
+Link: [https://bookdown.org/bean_jerry/using_r_for_social_work_research/](https://bookdown.org/bean_jerry/using_r_for_social_work_research/)
+
+

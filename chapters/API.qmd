@@ -1,0 +1,13 @@
+# API
+
+## APIs for social scientists: A collaborative review
+
+- Paul C. Bauer
+- Camille Landesvatter
+- many others
+
+The present online book provide a review of APIs that may be useful for social scientists. Covers a wide selection of APIs from google, Instagram, Youtube and others.  R code included.
+
+Link: [https://bookdown.org/paul/apis_for_social_scientists/](https://bookdown.org/paul/apis_for_social_scientists/)
+
+

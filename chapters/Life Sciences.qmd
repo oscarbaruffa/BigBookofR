@@ -1,0 +1,313 @@
+# Life Sciences
+
+## A Little Book of R for Bioinformatics
+
+- [Avril Coghlan](https://www.researchgate.net/profile/Avril-Coghlan)
+
+This is a simple introduction to bioinformatics, with a focus on genome analysis, using the R statistics software.
+
+Link: [https://a-little-book-of-r-for-bioinformatics.readthedocs.io](https://a-little-book-of-r-for-bioinformatics.readthedocs.io)
+
+## A Little Book of R for Bioinformatics 2.0
+
+- Avril Coghlan
+- Nathan L. Brouwer
+
+This book is based on the original A Little Book of R for Bioinformatics by Dr. Avril Coghlan (Hereafter “ALBRB 1.0”). Dr. Coghlan’s book was one of the first and most thorough introductions to using R for bioinformatics and computational biology.
+
+Link: [https://brouwern.github.io/lbrb/](https://brouwern.github.io/lbrb/)
+
+## An Open Compendium of Soil Datasets
+
+- Tomislav Hengl
+
+(Not R specific but looks really relevant)
+
+This is a public compendium of global, regional, national and sub-national soil samples and/or soil profile datasets (points with Observations and Measurements of soil properties and characteristics). Datasets listed here, assuming compatible open license, are afterwards imported into the Global compilation of soil chemical and physical properties and soil classes and eventually used to create a better open soil information across countries. The specific objectives of this initiative are:
+
+To enable data digitization, import and binding + harmonization,
+To accelerate research collaboration and networking,
+To enable development of more accurate / more usable global and regional soil property and class maps (typically published via https://OpenLandMap.org),
+
+Link: [https://opengeohub.github.io/SoilSamples/](https://opengeohub.github.io/SoilSamples/)
+
+## Assigning cell types with SingleR
+
+- [Aaron Lun and contributors](https://osca.bioconductor.org/contributors.html)
+
+This book covers the use of SingleR, one implementation of an automated
+annotation method for cell type annotation.
+
+Link: [https://bioconductor.org/books/3.12/SingleRBook/](https://bioconductor.org/books/3.12/SingleRBook/)
+
+## Bayesian Hierarchical Models in Ecology
+
+- [Steve Midway](https://www.stevemidway.com)
+
+Hierarchical Models in Ecology Using Bayesian Inference
+
+Link: [https://bookdown.org/steve_midway/BHME/](https://bookdown.org/steve_midway/BHME/)
+
+## Biostatistics for Biomedical Research
+
+- Frank E Harrell Jr
+
+The book is aimed at exposing biomedical researchers to modern biostatistical methods and statistical graphics, highlighting those methods that make fewer assumptions, including nonparametric statistics and robust statistical measures. In addition to covering traditional estimation and inferential techniques, the course contrasts those with the Bayesian approach, and also includes several components that have been increasingly important in the past few years, such as challenges of high-dimensional data analysis, modeling for observational treatment comparisons, analysis of differential treatment effect (heterogeneity of treatment effect), statistical methods for biomarker research, medical diagnostic research, and methods for reproducible research.
+
+Link: [http://hbiostat.org/bbr/](http://hbiostat.org/bbr/)
+
+## Comparative Methods
+
+- [Brian O’Meara](https://brianomeara.info)
+
+A book for teaching people how to do comparative methods in R.  Written for a biology class to analyse evolutionary trees and finding patterns of divergence and common ancestry among species.
+
+Link: [https://bookdown.org/bomeara/comparative-methods/](https://bookdown.org/bomeara/comparative-methods/)
+
+## Computational Genomics with R
+
+- [Altuna Akalin](https://twitter.com/AltunaAkalin)
+
+The aim of this book is to provide the fundamentals for data analysis
+for genomics. We developed this book based on the computational genomics
+courses we are giving every year.
+
+Link: [http://compgenomr.github.io/book/](http://compgenomr.github.io/book/)
+
+## Data Analysis and Visualization in R for Ecologists
+
+- François Michonneau
+- Auriel Fournier
+
+Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. The lessons below were designed for those interested in working with ecology data in R.
+
+This is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. The last lesson demonstrates how to work with databases directly from R.
+
+This lesson assumes no prior knowledge of R or RStudio and no programming experience.
+
+Link: [https://datacarpentry.org/R-ecology-lesson/](https://datacarpentry.org/R-ecology-lesson/)
+
+## Data Analysis for the Life Sciences
+
+- Rafael A Irizarry
+- Michael I Love
+
+Data analysis is now part of practically every research project in the
+life sciences. In this book we use data and computer code to teach the
+necessary statistical concepts and programming skills to become a data
+analyst. Instead of showing theory first and then applying it to toy
+examples, we start with actual applications. http://genomicsclass.github.io/book/
+
+Paid: Free or pay what you want $40
+
+Link: [https://leanpub.com/dataanalysisforthelifesciences](https://leanpub.com/dataanalysisforthelifesciences)
+
+## Data Integration, Manipulation and Visualization of Phylogenetic Trees
+
+- [Guangchuang Yu](https://yulab-smu.top)
+
+A guide for data integration, manipulation and visualization of phylogenetic trees using a suite of R packages, tidytree, treeio, ggtree and ggtreeExtra.
+
+Link: [https://yulab-smu.top/treedata-book/](https://yulab-smu.top/treedata-book/)
+
+## Data Science for the Biomedical Sciences
+
+- Daniel Chen
+- Anne Brown
+
+We hope this book provides a gentle introduction to data science. The main goal is to understand how to work with spreadsheet data and how data can be manipulated for multiple purposes. If nothing else, the book hopes to help you plan how to structure your own datasets for your own analysis. Even if you never go on to program on your own, understanding the way data can be manipulated and having a plan for your own dataset in the processing pipeline, will go a long ways when leaning and doing the analysis on your own, and/or working with collegues and collaborators on a project.
+
+Link: [https://ds4biomed.tech/](https://ds4biomed.tech/)
+
+## Experimental Design for Laboratory Biologists Maximising Information and Improving Reproducibility
+
+- Stanley E. Lazic
+
+This practical guide shows biologists how to design reproducible experiments that have low bias, high precision, and results that are widely applicable. With specific examples using both cell cultures and model organisms, it shows how to plan a successful experiment. It demonstrates how to control biological and technical factors that can introduce bias or add noise, and covers rarely discussed topics such as graphical data exploration, choosing outcome variables, data quality control checks, and data pre-processing. It also shows how to use R for analysis, and is designed for those with no prior experience. This is an ideal guide for anyone conducting lab-based biological research.
+
+Link: [https://stanlazic.github.io/EDLB.html](https://stanlazic.github.io/EDLB.html)
+
+## Fundamentals of Wrangling Healthcare Data with R
+
+- J. Kyle Armstrong
+
+In this course we will review some of the tools of the trade, namely, R’s tidyverse (Wickham and Grolemund 2017; Winter 2019) - a collection of R packages designed with a common framework to aide in common data wrangling and data management tasks.
+
+Data Wrangling is one subset set of skills within the Data Science Process. We will carefully investigate how decisions made while collecting and preparing the data have down-stream effects on model performance.
+
+Link: [https://bookdown.org/jkylearmstrong/jeff_data_wrangling/](https://bookdown.org/jkylearmstrong/jeff_data_wrangling/)
+
+## Git and Github for Advanced Ecological Data Analysis
+
+- Alexa Fredston
+
+This material was prepared for a three-hour virtual session to teach Git
+and Github to a graduate-level course on Advanced Ecological Data
+Analysis taught at Rutgers University by Malin Pinsky and Rachael
+Winfree. (However, the only course-specific material is Section 4; the
+rest should be applicable to any reader.)
+
+Link: [https://afredston.github.io/learn-git/learn-git.html](https://afredston.github.io/learn-git/learn-git.html)
+
+## Hydroinformatics at VT
+
+- [JP Gannon](https://twitter.com/jp_gannon)
+
+This bookdown contains the notes and most exercises for a course on data analysis techniques in hydrology using the programming language R. The material will be updated each time the course is taught. If new topics are added, the topics they replace will be left, in case they are useful to others.
+
+Link: [https://vt-hydroinformatics.github.io/](https://vt-hydroinformatics.github.io/)
+
+## Introduction to Data Analysis with R
+
+- [Jannik Buhr](https://jmbuhr.de/)
+
+This is a video lecture series with accompanying lecture script that is designed to read much like a book.
+The lecture is held in English for biochemists at Heidelberg University, Germany, but the examples covered are no specific to life sciences in order to enable a focus on learning the techniques with R.
+
+Link: [https://jmbuhr.de/dataintro/](https://jmbuhr.de/dataintro/)
+
+## Little Book of R for Biomedical Statistics
+
+- [Avril Coghlan](https://www.researchgate.net/profile/Avril-Coghlan)
+
+This is a simple introduction to biomedical statistics using the R statistics software.
+
+Link: [https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io](https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io)
+
+## Modern Statistics for Modern Biology
+
+- Susan Holmes
+- Wolfgang Huber
+
+The aim of this book is to enable scientists working in biological
+research to quickly learn many of the important ideas and methods that
+they need to make the best of their experiments and of other available
+data.
+
+Link: [https://www.huber.embl.de/msmb/](https://www.huber.embl.de/msmb/)
+
+## Numerical Ecology with R
+
+- Daniel Borcard
+- François Gillet
+- Pierre Legendre
+
+This new edition of Numerical Ecology with R guides readers through an
+applied exploration of the major methods of multivariate data analysis,
+as seen through the eyes of three ecologists. It provides a bridge
+between a textbook of numerical ecology and the implementation of this
+discipline in the R language. The book begins by examining some
+exploratory approaches.
+
+Link: [https://www.springer.com/us/book/9783319714035](https://www.springer.com/us/book/9783319714035)
+
+## Orchestrating Single-Cell Analysis with Bioconductor
+
+- Aaron Lun
+- Robert Amezquita
+- Stephanie Hicks
+- Raphael Gottardo
+
+This is the website for "Orchestrating Single-Cell Analysis with
+Bioconductor", a book that teaches users some common workflows for the
+analysis of single-cell RNA-seq data (scRNA-seq).
+
+Link: [https://osca.bioconductor.org/](https://osca.bioconductor.org/)
+
+## Population Health Data Science with R
+
+- [Tomás J. Aragón](https://publichealth.berkeley.edu/people/tomas-aragon/)
+
+This book is divided into two parts. First, I cover how to process, manipulate, and operate on data in R. Second, I cover basic PHDS from an epidemiologic perspective. Data science is “the art and science of transforming data into actionable knowledge.” Here is where we can build on the strengths of epidemiology (descriptive and analytic studies). However, in public health practice we need much more than this.
+
+Link: [https://bookdown.org/medepi/phds/](https://bookdown.org/medepi/phds/)
+
+## Practical Statistics in Medicine with R
+
+- Konstantinos I. Bougioukas, PhD
+
+The textbook can be used as support material for practical labs on basic statistics in medicine using R. It can also be used as a support for self-teaching for students and researchers in biomedical field. Additionally, it may be useful for (under)graduate students with a science background (engineering, mathematics) who wants to move towards biomedical sciences.
+
+Link: [https://practical-stats-med-r.netlify.app/](https://practical-stats-med-r.netlify.app/)
+
+## R for Conservation and Development Projects A Primer for Practitioners
+
+- Nathan Whitmore
+
+This book is aimed at conservation and development practitioners who need to learn and use R in a part-time professional context. It gives people with a non-technical background a set of skills to graph, map, and model in R. It also provides background on data integration in project management and covers fundamental statistical concepts. The book aims to demystify R and give practitioners the confidence to use it.
+
+Key Features:
+
+• Viewing data science as part of a greater knowledge and decision making system
+• Foundation sections on inference, evidence, and data integration
+• Plain English explanations of R functions
+• Relatable examples which are typical of activities undertaken by conservation and development organisations in the developing world
+• Worked examples showing how data analysis can be incorporated into project reports
+
+Link: [https://www.routledge.com/R-for-Conservation-and-Development-Projects-A-Primer-for-Practitioners/Whitmore/p/book/9780367205485](https://www.routledge.com/R-for-Conservation-and-Development-Projects-A-Primer-for-Practitioners/Whitmore/p/book/9780367205485)
+
+## R for Health Data Science
+
+- [Ewen Harrison](https://twitter.com/ewenharrison)
+- [Riinu Pius](https://twitter.com/_Riinu_)
+
+In this age of information, the manipulation, analysis and interpretation of data have become a fundamental part of professional life. Nowhere more so than in the delivery of healthcare. From the understanding of disease and the development of new treatments, to the diagnosis and management of individual patients, the use of data and technology are now an integral part of the business of healthcare.
+
+Those working in healthcare interact daily with data, often without realising it. The conversion of this avalanche of information to useful knowledge is essential for high-quality patient care. An important part of this information revolution is the opportunity for everybody to become involved in data analysis. This democratisation is driven in part by the open source software movement – no longer do we require expensive specialised software to do this.
+
+The statistical programming language, R, is firmly at the heart of this.
+
+This book will take an individual with little or no experience in data science all the way through to the execution of sophisticated analyses. We emphasise the importance of truly understanding the underlying data with liberal use of plotting, rather than relying on opaque and possibly poorly understood statistical tests. There are numerous examples included that can be adapted for your own data, together with our own R packages with easy-to-use functions.
+
+Link: [https://argoshare.is.ed.ac.uk/healthyr_book/](https://argoshare.is.ed.ac.uk/healthyr_book/)
+
+## R for applied epidemiology and public health
+
+- [EpiR authors](https://twitter.com/epiRhandbook)
+
+This handbook is produced by a collaboration of epidemiologists from around the world drawing upon experience with organizations including local, state, provincial, and national health agencies, the World Health Organization (WHO), Médecins Sans Frontières / Doctors without Borders (MSF), hospital systems, and academic institutions. Also check out the accompanying tutorials: https://appliedepi.org/tutorial/ 
+
+Written by epidemiologists, for epidemiologists.
+
+Link: [https://epirhandbook.com/](https://epirhandbook.com/)
+
+## Reproducible Medical Research with R
+
+- Peter D.R. Higgins, MD, PhD, MSc
+
+This is a book for anyone in the medical field interested in analyzing the data available to them to better understand health, disease, or the delivery of care. This could include nurses, dieticians, psychologists, and PhDs in related fields, as well as medical students, residents, fellows, or doctors in practice.
+I expect that most learners will be using this book in their spare time at night and on weekends, as the health training curricula are already packed full of information, and there is no room to add skills in reproducible research to the standard curriculum. This book is designed for self-teaching, and many hints and solutions will be provided to avoid roadblocks and frustration. Many learners find themselves wanting to develop reproducible research skills after they have finished their training, and after they have become comfortable with their clinical role. This is the time when they identify and want to address problems faced by patients in their practice with the data they have before them. This book is for you.
+
+Link: [https://bookdown.org/pdr_higgins/rmrwr/](https://bookdown.org/pdr_higgins/rmrwr/)
+
+## Statistics in R for Biodiversity Conservation Paperback
+
+- Carl Smith
+- [Antonio Uzal](https://twitter.com/antonio_uzal)
+- Mark Warren
+
+A practical handbook to introduce data analysis and model fitting using
+R to ecologists and conservation biologists. The book is aimed at
+undergraduate and post-graduate students and provides access to datasets
+and RScript.
+
+Link: [https://www.amazon.co.uk/dp/B08HBLYHQL/ref=cm_sw_r_cp_apa_i_g0luFb86PXJ9Z](https://www.amazon.co.uk/dp/B08HBLYHQL/ref=cm_sw_r_cp_apa_i_g0luFb86PXJ9Z)
+
+## Using R for Bayesian Spatial and Spatio-Temporal Health Modeling
+
+- Andrew B. Lawson
+
+Progressively more and more attention has been paid to how location affects health outcomes. The area of disease mapping focusses on these problems, and the Bayesian paradigm has a major role to play in the understanding of the complex interplay of context and individual predisposition in such studies of disease. Using R for Bayesian Spatial and Spatio-Temporal Health Modeling provides a major resource for those interested in applying Bayesian methodology in small area health data studies.
+
+Link: [https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126](https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126)
+
+## WEHI Intro to Tidy R Course
+
+- [Brendan Ansell](https://brendanansell.net)
+
+A complete beginner's introduction to tidy R for data transformation, visualization and analysis automation — with applications in experimental biology.  
+This book is based on a short course developed for biomedical scientists at the WEHI Medical Research Institute. The content is designed to make learners comfortable with using R for exploratory analysis of large data sets, but does not cover statistics. The material and teaching examples draw on popular (non-biological) data sets, as well as gene expression and drug screening data types.
+
+Link: [https://bookdown.org/ansellbr/WEHI_tidyR_course_book/](https://bookdown.org/ansellbr/WEHI_tidyR_course_book/)
+
+

@@ -1,0 +1,21 @@
+# Archeology
+
+## How To Do Archaeological Science Using R
+
+- Ben Marwick (editor)
+
+Archaeological science is becoming increasingly complex, and progress in this area is slowed by critical limitation of journal articles lacking the space to communicate new methods in enough detail to allow others to reproduce and reuse new research. One solution to this is to use a programming language such as R to analyse archaeological data, with authors sharing their R code with their publications to communicate our methods. This practice is becoming widespread in many other disciplines, but few archaeologists currently know how to use R or have an opportunity to learn during their training. In this forum we tackle this problem by discussing ubiquitous research methods of immediate relevance to most archaeologists, by using interactive, live-coded demonstrations of R code by archaeologists who program with R. Topics include getting data into R, working with C14 dates, spatial analysis and map-making, conducting simulations, and exploratory data visualizations.
+
+Link: [https://benmarwick.github.io/How-To-Do-Archaeological-Science-Using-R/](https://benmarwick.github.io/How-To-Do-Archaeological-Science-Using-R/)
+
+## Quantitative Methods in Archaeology Using R
+
+- David L. Carson
+
+The first hands-on guide to using the R statistical computing system written specifically for archaeologists. It shows how to use the system to analyze many types of archaeological data. Part I includes tutorials on R, with applications to real archaeological data showing how to compute descriptive statistics, create tables, and produce a wide variety of charts and graphs. Part II addresses the major multivariate approaches used by archaeologists, including multiple regression (and the generalized linear model); multiple analysis of variance and discriminant analysis; principal components analysis; correspondence analysis; distances and scaling; and cluster analysis. Part III covers specialized topics in archaeology, including intra-site spatial analysis, seriation, and assemblage diversity.
+
+Paid: Loan or buy $100
+
+Link: [https://www.cambridge.org/core/books/quantitative-methods-in-archaeology-using-r/DEAE593FA2418EA3B8ECD538C34ED2D5?fbclid=IwAR0guclfEtttfDkVKNUJWfhQ1wgUlXSKAIA3f_6D3hS_9EkUKivSY9AyFD8](https://www.cambridge.org/core/books/quantitative-methods-in-archaeology-using-r/DEAE593FA2418EA3B8ECD538C34ED2D5?fbclid=IwAR0guclfEtttfDkVKNUJWfhQ1wgUlXSKAIA3f_6D3hS_9EkUKivSY9AyFD8)
+
+

@@ -1,0 +1,38 @@
+# Español
+
+## Cuentapalabras: Estilometría y análisis de texto con R para filólogos
+
+- José Manuel Fradejas Rueda
+
+En este libro ofrece una introducción al análisis automatizado de textos con el lenguaje de programación R. Está diseñado con el filólogo como destinatario básico, aunque es válido para cualquier especialista de humanidades que requiera analizar y procesar grandes cantidades de datos textuales, por lo que no presupone ni requiere ningún conocimiento previo, tan solo ganas de aprender nuevas técnicas para aplicarlas en la investigación textual.
+
+Link: [https://www.aic.uva.es/cuentapalabras/](https://www.aic.uva.es/cuentapalabras/)
+
+## Introducción a la Probabilidad
+
+- Oswaldo Bello
+
+Este libro es una guía para la enseñanza de la asignatura Probabilidad, esencialmente pretende ser un curso de Probabilidades Discretas aplicado con el lenguaje de programación R.
+
+Link: [https://oswaldobelloc.github.io/probabilidades/](https://oswaldobelloc.github.io/probabilidades/)
+
+## R Para Ciencia de Datos
+
+- Hadley Wickham
+- Garrett Grolemund
+
+Este es el sitio web de la versión en español de “R for Data Science”, de Hadley Wickham y Garrett Grolemund. Este texto te enseñará cómo hacer ciencia de datos con R: aprenderás a importar datos, llevarlos a la estructura más conveniente, transformarlos, visualizarlos y modelarlos. Así podrás poner en pŕactica las habilidades necesarias para hacer ciencia de datos.
+
+Link: [https://es.r4ds.hadley.nz/](https://es.r4ds.hadley.nz/)
+
+## R para epidemiología aplicada y salud pública
+
+- [Neale Batra](@neale_batra/appliedepi.org/)
+- [Alex Spina](@aspina_epi/https://www.linkedin.com/in/alexspina/)
+- [Paula Bianca Blomquist](@PBBlomquist/linkedin.com/in/paula-bianca-blomquist-53188186)
+
+EpiRhandbook es un manual de referencia de R aplicado a la epidemiología y la salud pública.
+
+Link: [https://epirhandbook.com/es/index.html](https://epirhandbook.com/es/index.html)
+
+

@@ -1,0 +1,53 @@
+# Data, Databases and Engineering
+
+## Data Management in Large-Scale Education Research
+
+- Crystal Lewis
+
+This book begins, like many other books in this subject area, by describing the research life cycle and how data management fits within the larger picture. The remaining chapters are then organized by each phase of the life cycle, with examples of best practices provided for each phase. Considerations on whether you should implement, and how to integrate those practices into your workflow will be discussed.
+
+Link: [https://datamgmtinedresearch.com/index.html](https://datamgmtinedresearch.com/index.html)
+
+## DevOps for Data Science
+
+- Alex K Gold
+
+In this book, you’ll learn about DevOps conventions, tools, and practices that can be useful to you as a data scientist. You’ll also learn how to work better with the IT/Admin team at your organization, and even how to do a little server administration of your own if you’re pressed into service.
+
+Link: [https://do4ds.com/](https://do4ds.com/)
+
+## Exploring Enterprise Databases with R: A Tidyverse Approach
+
+- John David Smith
+- Sophie Yang
+- M. Edward (Ed) Borasky
+- Jim Tyhurst
+- Scott Came
+- Mary Anne Thygesen
+
+Great resource for moving from a standard R developer to incorporating R workflows into enterprise-grade technologies using Docker and Databases.
+
+Link: [https://smithjd.github.io/sql-pet/](https://smithjd.github.io/sql-pet/)
+
+## R for Data Engineers
+
+- Greg Wilson
+
+Years ago, Patrick Burns wrote The R Inferno, a guide to R for those who think they are in hell. Upon first encountering the language after two decades of using Python, I thought Burns was an optimist—after all, hell has rules.
+
+I have since realized that R does too, and that they are no more confusing or contradictory than those of other programming languages. They only appear so because R draws on a tradition unfamiliar to those of us raised with derivatives of C. Counting from one, copying data rather than modifying it, lazy evaluation: to quote the other bard, these are not mad, just differently sane.
+
+Welcome, then, to a universe where the strange will become familiar, and everything familiar, strange. Welcome, thrice welcome, to R.
+
+Link: [https://tidynomicon.github.io/tidynomicon/](https://tidynomicon.github.io/tidynomicon/)
+
+## Reproducible Analytical Pipelines (RAP) Companion
+
+- [Matthew Gregory](https://twitter.com/mammykins_)
+- [Matthew Upson](https://twitter.com/m_a_upson)
+
+Reproducible Analytical Pipelines require a range of tools and techniques to implement that can be a challenge to overcome, and this book address some of the common knowledge gaps and hard-to-Google problems that upcoming RAP-pers face.
+
+Link: [https://ukgovdatascience.github.io/rap_companion/](https://ukgovdatascience.github.io/rap_companion/)
+
+

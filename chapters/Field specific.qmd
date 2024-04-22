@@ -1,0 +1,256 @@
+# Field specific
+
+## An Open-Source Active Learning Curriculum for Data Science in Engineering
+
+- [Zachary del Rosario](www.zdelrosario.com)
+
+This work provides open-source content for an active learning curriculum in data science. The scope of the content is sufficient for a full-semester introduction to scientifically reproducible statistical computation, data wrangling, visualization, basic statistical literacy, and data-driven modeling. The content is broken into short exercises that introduce new concepts, and longer challenges that encourage students to develop those skills in an open-ended context.
+
+Link: [https://zdelrosario.github.io/data-science-curriculum/index.html](https://zdelrosario.github.io/data-science-curriculum/index.html)
+
+## Audit Analytics with R
+
+- Jonathan Lin
+
+This is the website for Audit Analytics in R. This audience of this book is for:
+
+Audit leaders who are looking to design their environment to encourage cultivate collaboration and sustainability.
+Audit data analytics practitioners, who are looking to leverage R in their data analytics tasks.
+You will learn what tools and technologies are well suited for a modern audit analytics toolkit, as well as learn skills with R to perform data analytics tasks. Consider this book to be your roadmap of practical items to implement and follow.
+
+Link: [https://auditanalytics.jonlin.ca/](https://auditanalytics.jonlin.ca/)
+
+## Building energy statistical modelling
+
+- Simon Rouchier
+
+The topic of this book is statistical modelling and inference applied to building energy performance assessment. It has two target audiences: building energy researchers and practitioners who need a gentle introduction to statistical modelling; statisticians who may be interested in applications to energy performance.
+
+Link: [https://buildingenergygeeks.org/index.html](https://buildingenergygeeks.org/index.html)
+
+## Computer-age Calculus with R
+
+- Daniel Kaplan
+
+R is closely associated with statistics, but not with calculus. It turns
+out that R is an excellent language for doing calculus.
+
+This book shows how to do common calculus calculations using R.
+
+Link: [https://dtkaplan.github.io/RforCalculus/](https://dtkaplan.github.io/RforCalculus/)
+
+## Computing Matrix Algebra
+
+- [Mario De Toma](https://twitter.com/mariodetoma)
+
+"Nobody can be a poet without feeling strong affection for words, at the same
+time nobody can be serious about data science without becoming close friend
+to matrices."
+
+This book is actually a cheat sheet about computing matrix algebra operations such as matrix multiplication, inversion and factorization.
+
+It is written foR (aspiring) data scientists where with "foR" (capital letter R) I mean the side of data science addicted to R and its gorgeous ecosystem especially including Rcpp, RcppArmadillo and RcppEigen.
+
+Link: [https://leanpub.com/computingmatrixalgebra](https://leanpub.com/computingmatrixalgebra)
+
+## Crime by the Numbers A Criminologist’s Guide to R
+
+- [Jacob Kaplan](https://twitter.com/JacobKaplanCrim)
+
+This book introduces the programming language R and is meant for undergrads or graduate students studying criminology. R is a programming language that is well-suited to the type of work frequently done in criminology - taking messy data and turning it into useful information. While R is a useful tool for many fields of study, this book focuses on the skills criminologists should know and uses crime data for the example data sets.
+
+Link: [https://crimebythenumbers.com/](https://crimebythenumbers.com/)
+
+## Cryptocurrency Research Open Source R Tutorial
+
+- [Riccardo (Ricky) Esclapon](https://www.linkedin.com/in/esclaponriccardo/)
+- [John Chandler Johnson](https://www.linkedin.com/in/john-chandler-johnson-361a666/)
+- [Kai R. Larsen](https://www.linkedin.com/in/kai-r-larsen-4413a01/)
+
+The tutorial is in R. For those without experience programming in R
+we have a high-level version to help you learn before attempting the full version. Scroll down for a breakdown of the individual sections for an overview of what you will learn throughout.
+
+You will get more familiar with tools from the tidyverse, including dplyr, ggplot2, tibble and purrr. These tools provide an excellent complete ecosystem to do data science in R.
+
+You will learn to create machine learning models and how to fairly assess their performance.
+
+Cryptocurrency Data: You will learn these tools analyzing the latest
+cryptocurrency data. The tutorial automatically refreshes every 12 hours
+and the data is publicly available and refreshed hourly.
+
+Link: [https://cryptocurrencyresearch.org/](https://cryptocurrencyresearch.org/)
+
+## Data Science in Education Using R
+
+- Ryan A. Estrellado
+- Emily A. Bovee
+- [Jesse Mostipak](https://twitter.com/kierisi)
+- [Isabella C. Velásquez](https://twitter.com/ivelasq3)
+
+Dear Data Scientists, Educators, and Data Scientists who are Educators:
+
+This book is a warm welcome and an invitation. If you're a data
+scientist in education or an educator in data science, your role isn't
+exactly straightforward. This book is our contribution to a growing
+movement to merge the paths of data analysis and education. We wrote
+this book to make your first step on that path a little clearer and a
+little less scary.
+
+Link: [https://datascienceineducation.com/](https://datascienceineducation.com/)
+
+## Data Skills for Reproducible Science
+
+- [PsyTeachR team, University of Glasgow](https://psyteachr.github.io/)
+
+This course provides an overview of skills needed for reproducible
+research and open science using the statistical programming language R.
+Students will learn about data visualisation, data tidying and
+wrangling, archiving, iteration and functions, probability and data
+simulations, general linear models, and reproducible workflows. Learning
+is reinforced through weekly assignments that involve working with
+different types of data.
+
+Link: [https://psyteachr.github.io/msc-data-skills/](https://psyteachr.github.io/msc-data-skills/)
+
+## Discrete Data Analysis with R Visualization and Modeling Techniques for Categorical and Count Data
+
+- Michael Friendly
+- David Meyer
+
+Presents an applied treatment of modern methods for the analysis of categorical data, both discrete response data and frequency data.
+
+It explains how to use graphical methods for exploring data, spotting unusual features, visualizing fitted models, and presenting results.
+
+Link: [http://ddar.datavis.ca/](http://ddar.datavis.ca/)
+
+## Hierarchical Compartmental Reserving Models
+
+- [Markus Gesmann](https://magesblog.com)
+- Jake Morris
+
+Hierarchical compartmental reserving models provide a parametric framework for describing aggregate insurance claims processes using differential equations. We discuss how these models can be specified in a fully Bayesian modeling framework to jointly fit paid and outstanding claims development data, taking into account the random nature of claims and underlying latent process parameters. We demonstrate how modelers can utilize their expertise to describe specific development features and incorporate prior knowledge into parameter estimation. We also explore the subtle yet important difference between modeling incremental and cumulative claims payments. Finally, we discuss parameter variation across multiple dimensions and introduce an approach to incorporate market cycle data such as rate changes into the modeling process. Examples and case studies are shown using the probabilistic programming language Stan via the brms package in R.
+
+Link: [https://compartmentalmodels.gitlab.io/researchpaper/index.html](https://compartmentalmodels.gitlab.io/researchpaper/index.html)
+
+## How to be a modern scientist
+
+- [Jeffrey Leek](https://twitter.com/jtleek)
+
+A book about how to be a scientist the modern, open-source way. The face
+of academia is changing. It is no longer sufficient to just publish or
+perish. We are now in an era where Twitter, Github, Figshare, and Alt
+Metrics are regular parts of the scientific workflow. Here I give high
+level advice about which tools to use, how to use them, and what to look
+out for. This book is appropriate for scientists at all levels who want
+to stay on top of the current technological developments affecting
+modern scientific careers.
+
+Paid: Free or pay what you want $10
+
+Link: [https://leanpub.com/modernscientist](https://leanpub.com/modernscientist)
+
+## Introduction to Econometrics with R
+
+- Christoph Hanck
+- Martin Arnold
+- Alexander Gerber
+- Martin Schmelzer
+
+Beginners with little background in statistics and econometrics often have a hard time understanding the benefits of having programming skills for learning and applying Econometrics. Introduction to Econometrics with R is an interactive companion to the well-received textbook Introduction to Econometrics by James H. Stock and Mark W. Watson (2015). It gives a gentle introduction to the essentials of R programming and guides students in implementing the empirical applications presented throughout the textbook using the newly acquired skills. This is supported by interactive programming exercises and integration of interactive visualizations of central concepts which are based on the flexible JavaScript library D3.js.
+
+Link: [https://www.econometrics-with-r.org/](https://www.econometrics-with-r.org/)
+
+## Linear Algebra for Data Science with examples in R
+
+- Shaina Race Bennett
+
+This course is meant to instill a working knowledge of linear algebra terminology and to lay the foundations of advanced data mining techniques like Principal Component Analysis, Factor Analysis, Collaborative Filtering, Correspondence Analysis, Network Analysis, Support Vector Machines and many more.
+
+Link: [https://shainarace.github.io/LinearAlgebra/index.html](https://shainarace.github.io/LinearAlgebra/index.html)
+
+## Open Forensic Science in R
+
+- Sam Tyner, Ph.D (editor)
+
+This book is for anyone looking to do forensic science analysis in a data-driven and open way. Whether you are a student, teacher, or scientist, this book is for you. We take the latest research, primarily from the Center for Statistics and Applications in Forensic Evidence (CSAFE) and the National Institute of Standards and Technology (NIST) and show you how to solve forensic science problems in R.
+
+Link: [https://sctyner.github.io/OpenForSciR/](https://sctyner.github.io/OpenForSciR/)
+
+## Public Policy Analytics Code & Context for Data Science in Government
+
+- Ken Steif, Ph.D
+
+The goal of this book is to make data science accessible to social scientists and City Planners, in particular. I hope to convince readers that one with strong domain expertise plus intermediate data skills can have a greater impact in government than the sharpest computer scientist who has never studied economics, sociology, public health, political science, criminology etc.
+
+Link: [https://urbanspatial.github.io/PublicPolicyAnalytics/](https://urbanspatial.github.io/PublicPolicyAnalytics/)
+
+## R Programming with Minecraft
+
+- Brooke Anderson
+- Karl Broman
+- Gergely Daróczi
+- Mario Inchiosa
+- David Smith
+- Ali Zaidi
+
+Minecraft is awesome fun, especially in creative mode, where you can
+build all sorts of crazy stuff. But ambitious building projects can be
+really tedious to create by hand. With the miner R package, you can
+write R code to manipulate your Minecraft world and create even more
+awesome stuff.
+
+Here's an introduction Rstats NYC conference talk on it: https://www.youtube.com/watch?v=r_JgPF8MJpY
+
+Link: [https://kbroman.org/miner_book/?s=09](https://kbroman.org/miner_book/?s=09)
+
+## R for Excel users
+
+- Julie Lowndes
+- Allison Horst
+
+This course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.
+
+Link: [https://rstudio-conf-2020.github.io/r-for-excel/](https://rstudio-conf-2020.github.io/r-for-excel/)
+
+## R for SEO
+
+- [François Joly](https://twitter.com/tuf)
+
+Even though R'  is a terrific option for SEO, there are simply not enough resources out there. 
+This guide is not here to deliver a course about R, there are plenty already. This guide is meant to be as practical as possible. How things should be done in an "R-ish way" is not the purpose of this guide. Grab what you want to grab and feel free to submit your own solution.
+
+Link: [https://www.rforseo.com/](https://www.rforseo.com/)
+
+## R for Water Resources Data Science
+
+- [Ryan Peek](https://ryanpeek.org/)
+- [Rich Pauloo](https://www.richpauloo.com/)
+
+Consists of 2 courses
+
+Introductory: 
+This course is most relevant and targeted at folks who work with data, from analysts and program staff to engineers and scientists. This course provides an introduction to the power and possibility of a reproducible programming language (R) by demonstrating how to import, explore, visualize, analyze, and communicate different types of data. Using water resources based examples, this course guides participants through basic data science skills and strategies for continued learning and use of R.
+
+Intermediate:
+In this course, we will move more quickly, assume familiarity with basic R skills, and also assume that the participant has working experience with more complex workflows, operations, and code-bases. Each module in this course functions as a “stand-alone” lesson, and can be read linearly, or out of order according to your needs and interests. Each module doesn’t necessarily require familiarity with the previous module.
+
+This course emphasizes intermediate scripting skills like iteration, functional programming, writing functions, and controlling project workflows for better reproducibility and efficiency. Approaches to working with more complex data structures like lists and timeseries data, the fundamentals of building Shiny Apps, pulling water resources data from APIs, intermediate mapmaking and spatial data processing, integrating version control in projects with git.
+
+Link: [https://www.r4wrds.com/](https://www.r4wrds.com/)
+
+## Technical Foundations of Informatics
+
+- Michael Freeman
+- Joel Ross
+
+This book covers the foundation skills necessary to start writing
+computer programs to work with data using modern and reproducible
+techniques. It requires no technical background. These materials were
+developed for the INFO 201: Technical Foundations of Informatics course
+taught at the University of Washington Information School; however they
+have been structured to be an online resource for anyone hoping to learn
+to work with information using programmatic approaches.
+
+Link: [https://info201.github.io/](https://info201.github.io/)
+
+

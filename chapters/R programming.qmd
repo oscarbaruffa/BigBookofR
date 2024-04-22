@@ -1,0 +1,637 @@
+# R programming
+
+## A Survivor's Guide to R
+
+- [Kurt Taylor Gaubatz](kktg.net)
+
+A Survivor’s Guide to R provides a gentle yet thorough introduction to R. The book is structured around critical R tasks, and focuses on applied knowledge, rather than abstract concepts. The book's easy-to-read approach helps students with little or no background in statistics or programming to develop real-world R skills through straightforward coverage of R objects and functions. Focusing on real-world data, the challenges of dataset construction, and the use of R’s powerful graphing tools, the guide is written in an accessible and sympathetic style that ensures students acquire functional R skills they can use in their own projects and carry into their work beyond the classroom. A Survivor's Guide to R focusses on the challenges of learning R, rather than learning statistics.  This makes it an effective complement for those who are using other statistics texts, or who already have a statistics background.
+
+Link: [https://us.sagepub.com/en-us/nam/a-survivors-guide-to-r/book242607](https://us.sagepub.com/en-us/nam/a-survivors-guide-to-r/book242607)
+
+## A sufficient Introduction to R
+
+- Derek l. Sonderegger
+
+This book is intended to guide people that are completely new to
+programming along a path towards a useful skill level using R. I believe
+that while people can get by with just copying code chunks, that doesn't
+give them the background information to modify the code in non-trivial
+ways. Therefore we will spend more time on foundational details than a
+"crash-course" would.
+
+Link: [https://dereksonderegger.github.io/570L/](https://dereksonderegger.github.io/570L/)
+
+## Advanced Object-Oriented Programming in R
+
+- [Thomas Mailund](https://twitter.com/ThomasMailund)
+
+Learn how to write object-oriented programs in R and how to construct
+classes and class hierarchies in the three object-oriented systems
+available in R. This book gives an introduction to object-oriented
+programming in the R programming language and shows you how to use and
+apply R in an object-oriented manner. You will then be able to use this
+powerful programming style in your own statistical programming projects
+to write flexible and extendable software.
+
+Link: [https://amzn.to/2wZnBbp](https://amzn.to/2wZnBbp)
+
+## Advanced R
+
+- [Hadley Whickham](https://twitter.com/hadleywickham)
+
+This is the companion website for "Advanced R", a book in Chapman &
+Hall's R Series. The book is designed primarily for R users who want to
+improve their programming skills and understanding of the language. It
+should also be useful for programmers coming to R from other languages,
+as it explains some of R's quirks and shows how some parts that seem
+horrible do have a positive side.
+
+The book is free online. (Ignore the message redirecting you to the 2nd
+edition, this is the latest edition)
+
+Link: [https://adv-r.hadley.nz/index.html](https://adv-r.hadley.nz/index.html)
+
+## Advanced R Solutions
+
+- Malte Grosser
+- Henning Bumann
+- Hadley Wickham
+
+This book offers solutions to the exercises from Hadley Wickham's book
+Advanced R (Edition 2). It is work in progress and under active
+development. The 2nd edition of Advanced R has been published and we are
+currently working towards completion.
+
+Link: [https://advanced-r-solutions.rbind.io/](https://advanced-r-solutions.rbind.io/)
+
+## An Introduction to Data Analysis
+
+- [Michael Franke](https://twitter.com/meanwhileina)
+
+This book provides basic reading material for an introduction to data
+analysis. It uses R to handle, plot and analyze data. After covering the
+use of R for data wrangling and plotting, the book introduces key
+concepts of data analysis from a Bayesian and a frequentist tradition.
+This text is intended for use as a first introduction to statistics for
+an audience with some affinity towards programming, but no prior
+exposition to R.
+
+Link: [https://michael-franke.github.io/intro-data-analysis/index.html](https://michael-franke.github.io/intro-data-analysis/index.html)
+
+## An Introduction to R
+
+- [Alex Douglas](https://twitter.com/Scedacity)
+- [Deon Roos](https://twitter.com/DeonRoos88)
+- [Ana Couto](https://twitter.com/AnaSofiaCouto)
+- [Francesca Mancini](https://twitter.com/frances_mancini)
+- [David Lusseau](https://twitter.com/lusseau)
+
+The aim of this book is to introduce you to using R, a powerful and
+flexible interactive environment for statistical computing and research.
+R in itself is not difficult to learn, but as with learning any new
+language (spoken or computer) the initial learning curve can be a little
+steep and somewhat daunting. We have tried to simplify the content of
+this book as much as possible and have based it on our own personal
+experience of teaching (and learning) R over the last 15 years. It is
+not intended to cover everything there is to know about R - that would
+be an impossible task. Neither is it intended to be an introductory
+statistics course, although you will be using some simple statistics to
+highlight some of R's capabilities. The main aim of this book is to help
+you climb the initial learning curve and provide you with the basic
+skills and experience (and confidence!) to enable you to further your
+experience in using R.
+
+Link: [https://intro2r.com/](https://intro2r.com/)
+
+## An(other) introduction to R
+
+- [Felix Lennert](https://felix-lennert.netlify.app)
+
+In the following, you will receive a gentle introduction to R and how you can use it to work with data. This tutorial was heavily inspired by Richard Cotton’s “Learning R” (Cotton 2013) and Hadley Wickham’s and Garrett Grolemund’s “R for Data Science” (abbreviated with R4DS).
+
+Link: [https://bookdown.org/f_lennert/introduction-to-r/](https://bookdown.org/f_lennert/introduction-to-r/)
+
+## Another Book on Data Science  Learn R and Python in Parallel
+
+- Nailong Zhang
+
+There has been considerable debate over choosing R vs. Python for Data
+Science. Based on my limited knowledge/experience, both R and Python are
+great languages and are worth learning; so why not learn them together?
+
+Besides the side-by-side comparison of the two popular languages used in
+Data Science, this book also focuses on the translation from
+mathematical models to codes. In the book, the audience could find the
+applications/implementations of some important algorithms from scratch,
+such as maximum likelihood estimation, inversion sampling, copula
+simulation, simulated annealing, bootstrapping, linear regression
+(lasso/ridge regression), logistic regression, gradient boosting trees,
+etc.
+
+Link: [https://www.anotherbookondatascience.com/](https://www.anotherbookondatascience.com/)
+
+## Best Coding Practices for R
+
+- [Vikram Singh Rawat](https://twitter.com/Guru_GyanKhoji))
+
+R is a huge language and I would like to share the little knowledge I have in the subject. I don’t claim to be an expert but this book will guide you in the right path wherever possible.
+
+Most of the books about R programming language will tell you what are the possible ways to do one thing in R. This book will only tell you one way to do that thing correctly.
+
+Link: [https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/](https://bookdown.org/content/d1e53ac9-28ce-472f-bc2c-f499f18264a3/)
+
+## Book of R A First Course in Programming and Statistics
+
+- Tilman M. Davies
+
+The Book of R is a comprehensive, beginner-friendly guide to R, the world’s most popular programming language for statistical analysis. Even if you have no programming experience and little more than a grounding in the basics of mathematics, you’ll find everything you need to begin using R effectively for statistical analysis.
+
+You’ll start with the basics, like how to handle data and write simple programs, before moving on to more advanced topics, like producing statistical summaries of your data and performing statistical tests and modeling. You’ll even learn how to create impressive data visualizations with R’s basic graphics tools and contributed packages, like ggplot2 and ggvis, as well as interactive 3D visualizations using the rgl package.
+
+Link: [https://nostarch.com/bookofr](https://nostarch.com/bookofr)
+
+## Cookbook for R
+
+- Winston Chang
+
+The goal of the cookbook is to provide solutions to common tasks and
+problems in analyzing data.
+
+Not to be confused with R Cookbook
+
+Link: [http://www.cookbook-r.com/](http://www.cookbook-r.com/)
+
+## Data Analytics with R A Recipe book
+
+- [Ryan Garnett](https://twitter.com/ryangarnett78)
+
+The structure and design of this book is based on iterative learning, starting with the most basic and build by adding one new element concept. the book has been structured to be small easily consumable chunks similar to that of a recipe card. The concept for a recipe card is that they are self contained, providing all the ingredients, preparation, and instructions required to create a meal. While a cookbook may consist of many recipes, there is no expectation to read, understand, and master all the recipes in order to prepare a meal. Following this as the central theme the book, it has been designed as a number of data analytics recipes focusing on the R language.
+
+Link: [https://ryangarnett.github.io/r-recipe-book](https://ryangarnett.github.io/r-recipe-book)
+
+## Deep R Programming
+
+- [Marek Gagolewski](https://www.gagolewski.com/)
+
+A comprehensive and in-depth introductory course on one of the most popular languages for data science. It equips ambitious students, professionals, and researchers with the knowledge and skills to become independent users of this potent environment so that they can tackle any problem related to data wrangling and analytics, numerical computing, statistics, and machine learning.
+
+Link: [https://deepr.gagolewski.com/index.html](https://deepr.gagolewski.com/index.html)
+
+## Domain-Specific Languages in R
+
+- [Thomas Mailund](https://twitter.com/ThomasMailund)
+
+Gain an accelerated introduction to domain-specific languages in R,
+including coverage of regular expressions. This compact, in-depth book
+shows you how DSLs are programming languages specialized for a
+particular purpose, as opposed to general purpose programming languages.
+Along the way, you'll learn to specify tasks you want to do in a precise
+way and achieve programming goals within a domain-specific context.
+
+Domain-Specific Languages in R includes examples of DSLs including large
+data sets or matrix multiplication; pattern matching DSLs for
+application in computer vision; and DSLs for continuous time Markov
+chains and their applications in data science. After reading and using
+this book, you'll understand how to write DSLs in R and have skills you
+can extrapolate to other programming languages.
+
+Link: [https://amzn.to/2CDqhAU](https://amzn.to/2CDqhAU)
+
+## Efficient R programming
+
+- [Colin Gillespie](http://www.mas.ncl.ac.uk/~ncsg3/)
+- [Robin Lovelace](https://twitter.com/robinlovelace)
+
+This book is for anyone who wants to make their R code faster to type,
+faster to run and more scalable. These considerations generally come
+after learning the very basics of R for data analysis.
+
+Link: [https://csgillespie.github.io/efficientR/](https://csgillespie.github.io/efficientR/)
+
+## Field Guide to the R Ecosystem
+
+- Mark Sellors
+
+This field guide aims to introduce the reader to the main components of
+the R ecosystem that may be encountered in "the field".Whatever the
+reason, whilst there is a wealth of in-depth information for people
+actually using the language, I could find precious little information
+that provided the sort of overview of the ecosystem that I know I'd have
+appreciated when I first came to the language. And with that thought, a
+field guide is born...
+
+Link: [https://fg2re.sellorm.com/](https://fg2re.sellorm.com/)
+
+## Functional Data Structures in R
+
+- [Thomas Mailund](https://twitter.com/ThomasMailund)
+
+Get an introduction to functional data structures using R and write more
+effective code and gain performance for your programs. This book teaches
+you workarounds because data in functional languages is not mutable: for
+example you'll learn how to change variable-value bindings by modifying
+environments, which can be exploited to emulate pointers and implement
+traditional data structures. You'll also see how, by abandoning
+traditional data structures, you can manipulate structures by building
+new versions rather than modifying them. You'll discover how these
+so-called functional data structures are different from the traditional
+data structures you might know, but are worth understanding to do
+serious algorithmic programming in a functional language such as R.
+
+Link: [https://amzn.to/2oUG2cP](https://amzn.to/2oUG2cP)
+
+## Functional Programming
+
+- Sara Altman
+- Bill Behrman
+- Hadley Wickham
+
+This book is a practical introduction to functional programming using the tidyverse.
+
+Link: [https://dcl-prog.stanford.edu/](https://dcl-prog.stanford.edu/)
+
+## Functional Programming in R
+
+- [Thomas Mailund](https://twitter.com/ThomasMailund)
+
+Master functions and discover how to write functional programs in R. In
+this concise book, you'll make your functions pure by avoiding
+side-effects; you'll write functions that manipulate other functions,
+and you'll construct complex functions using simpler functions as
+building blocks.
+
+Link: [https://amzn.to/2wY4m11](https://amzn.to/2wY4m11)
+
+## Hands-On Programming with R
+
+- Garrett Grolemund
+
+This book will teach you how to program in R, with hands-on examples. I
+wrote it for non-programmers to provide a friendly introduction to the R
+language. You'll learn how to load data, assemble and disassemble data
+objects, navigate R's environment system, write your own functions, and
+use all of R's programming tools. Throughout the book, you'll use your
+newfound skills to solve practical data science problems.
+
+Link: [https://rstudio-education.github.io/hopr/](https://rstudio-education.github.io/hopr/)
+
+## Introduction to Programming with R
+
+- Reto Stauffer
+- Joanna Chimiak-Opoka
+- Thorsten Simon
+- Achim Zeileis
+
+A learning resource for programming novices who want to learn
+programming using the statistical programming language R. While one of
+the major strengths of R is the broad variety of packages for statistics
+and data science, this resource focuses on learning and understanding
+basic programming concepts using base R. Only a couple of additional
+packages are used and/or briefly discussed for special tasks.
+
+This online book is specifically written for participants of the course
+"Introduction to Programming: Programming in R" offered by the Digital
+Science Center at Universität Innsbruck.
+
+Link: [https://eeecon.uibk.ac.at/~discdown/rprogramming/index.html](https://eeecon.uibk.ac.at/~discdown/rprogramming/index.html)
+
+## Introduction to R - R spatial
+
+- R Spatial
+
+This document provides a concise introduction to R. It emphasizes what
+you need to know to be able to use the language in any context. There is
+no fancy statistical analysis here. We just present the basics of the R
+language itself. We do not assume that you have done any computer
+programming before (but we do assume that you think it is about time you
+did). Experienced R users obviously need not read this. But the material
+may be useful if you want to refresh your memory, if you have not used R
+much, or if you feel confused.
+
+Link: [https://rspatial.org/intr/index.html](https://rspatial.org/intr/index.html)
+
+## Mastering Software Development in R
+
+- [Roger D. Peng](https://twitter.com/rdpeng)
+- [Sean Kross](https://twitter.com/seankross)
+- [Brooke Anderson](https://twitter.com/gbwanderson)
+
+This book covers R software development for building data science tools.
+This book provides rigorous training in the R language and covers modern
+software development practices for building tools that are highly
+reusable, modular, and suitable for use in a team-based environment or a
+community of developers.
+
+Paid: Free or pay what you want $20
+
+Link: [https://leanpub.com/msdr](https://leanpub.com/msdr)
+
+## Metaprogramming in R
+
+- [Thomas Mailund](https://twitter.com/ThomasMailund)
+
+Learn how to manipulate functions and expressions to modify how the R
+language interprets itself. This book is an introduction to
+metaprogramming in the R language, so you will write programs to
+manipulate other programs. Metaprogramming in R shows you how to treat
+code as data that you can generate, analyze, or modify.
+
+Link: [https://amzn.to/2x1cYUR](https://amzn.to/2x1cYUR)
+
+## Modern R with the tidyverse
+
+- Bruno Rodrigues
+
+This book can be useful to different audiences. If you have never used R
+in your life, and want to start, start with Chapter 1 of this book.
+Chapter 1 to 3 are the very basics, and should be easy to follow up to
+Chapter 9. Starting with Chapter 9, it gets more technical, and will be
+harder to follow. But I suggest you keep on going, and do not hesitate
+to contact me for help if you struggle! Chapter 9 is also where you can
+start if you are already familiar with R and the {tidyverse}, but not
+functional programming. If you are familiar with R but not the
+{tidyverse} (or have no clue what the {tidyverse} is), then you can
+start with Chapter 4. If you are familiar with R, the {tidyverse} and
+functional programming, you might still be interested in this book,
+especially Chapter 9 and 10, which deal with package development and
+further advanced topics respectively.
+
+Link: [https://b-rodrigues.github.io/modern_R/](https://b-rodrigues.github.io/modern_R/)
+
+## R Basics
+
+- [Nick Ulle](https://github.com/nick-ulle/)
+
+An introduction to using the R programming language for reproducible data analysis and scientific computing. Topics include programming basics, how to work with tabular data, how to break down programming problems, and how to organize code for clarity and reproducibility.
+
+Link: [https://ucdavisdatalab.github.io/workshop_r_basics/](https://ucdavisdatalab.github.io/workshop_r_basics/)
+
+## R Bytecode Book
+
+- [Mikefc aka coolbutuseless](https://coolbutuseless.github.io/)
+
+This is a book about the bytecode which drives the virtual machine at the heart of R code execution. This book represents my current (and still evolving) understanding of bytecode, and I hope to use this understanding to break R in new and exciting ways.
+
+Paid: Free or paid https://leanpub.com/rbytecode $8
+
+Link: [https://coolbutuseless.github.io/book/rbytecodebook/](https://coolbutuseless.github.io/book/rbytecodebook/)
+
+## R Cookbook - 2nd edition
+
+- JD Long
+- Paul Teetor
+
+I have written software professionally in perhaps a dozen programming
+languages, and the hardest language for me to learn has been R. The
+language is actually fairly simple, but it is unconventional. These
+notes are intended to make the language easier to learn for someone used
+to more commonly used languages such as C++, Java, Perl, etc.
+
+Not to be confused with Cookbook for R
+
+Link: [https://rc2e.com/index.html](https://rc2e.com/index.html)
+
+## R Development Guide
+
+- R Contribution Working Group
+
+This guide is heavily influenced by the Python Developer Guide, and is a comprehensive resource for contributing to R Core – for both new and experienced contributors. It is maintained by the R Contribution Working Group. We welcome your contributions to R Core!
+
+Link: [https://forwards.github.io/rdevguide/](https://forwards.github.io/rdevguide/)
+
+## R for Excel users
+
+- Julie Lowndes
+- Allison Horst
+
+This course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.
+
+Link: [https://rstudio-conf-2020.github.io/r-for-excel/](https://rstudio-conf-2020.github.io/r-for-excel/)
+
+## R for Graduate Students
+
+- Y. Wendy Huynh
+
+Hello! My name is Wendy Huynh and I am a current PhD student working in the behavioral neurosciences. I began my R journey at the end of my first year of graduate school, slowly and painfully piecing together code. Although programming was never really part of my program, I now see it as an integral part of my work.
+
+Many fellow graduate students expressed interest in learning R, but didn’t know where to begin. Programming with R is still relatively niche among my cohort and there are very few formal classes teaching this subject.
+
+Although there are many amazing guides/textbooks for R out there, very few of them featured examples relevant for my specific needs and were user-friendly enough for a true beginner. In the Fall of my second year, I began teaching a new graduate student in my lab everything I knew about R. However, I quickly found that teaching R – even just to one person – was very time consuming. I decided to write up assignments as a “short” guide to R. After writing a short 11 page “first assignment” and receiving positive feedback, I began writing up a second assignment. Then a third. Soon enough, I had written enough pages that I couldn’t deny that this “short guide” had turned into a book.
+
+Link: [https://bookdown.org/yih_huynh/Guide-to-R-Book/](https://bookdown.org/yih_huynh/Guide-to-R-Book/)
+
+## R in Action, Third Edition, Data analysis and graphics with R and Tidyverse
+
+- Robert I. Kabacoff
+
+Teaches you to use the R language, including the popular tidyverse packages, through hands-on examples relevant to scientific, technical, and business developers. Focusing on practical solutions to real-world data challenges, R expert Rob Kabacoff takes you on a crash course in statistics, from dealing with messy and incomplete data to creating stunning visualisations. In this revised and expanded third edition, new coverage has been added for R’s state-of-the-art graphing capabilities with the ggplot2 package.
+
+Link: [https://www.manning.com/books/r-in-action-third-edition](https://www.manning.com/books/r-in-action-third-edition)
+
+## R language for programmers
+
+- [John D Cook](https://www.johndcook.com/blog/services-2/)
+
+I have written software professionally in perhaps a dozen programming
+languages, and the hardest language for me to learn has been R. The
+language is actually fairly simple, but it is unconventional. These
+notes are intended to make the language easier to learn for someone used
+to more commonly used languages such as C++, Java, Perl, etc.
+
+Link: [https://www.johndcook.com/blog/r_language_for_programmers/](https://www.johndcook.com/blog/r_language_for_programmers/)
+
+## Rcpp for everyone
+
+- Masaki E. Tsuda
+
+Rcpp is a package that enables you to implement R functions in C++. It
+is easy to use even without deep knowledge of C++, because it is
+implemented so as to write your C++ code in a style similar to R. And
+Rcpp does not sacrifice execution speed for the ease of use, anyone can
+get high performance outcome.
+
+This document focuses on providing necessary information to users who
+are not familiar with C++. Therefore, in some cases, I explain usage of
+Rcpp conceptually rather than describing accurately from the viewpoint
+of C++, so that I hope readers can easily understand it.
+
+Link: [https://teuder.github.io/rcpp4everyone_en/](https://teuder.github.io/rcpp4everyone_en/)
+
+## The R Inferno
+
+- Patrick Burns
+
+If R's behaviour has ever suprised you, then this book is a guide for
+many more surprises, written in the style of Dante. It's a concise
+report on number of common-errors and unexpected behaviours in R. This
+book would make more sense, if you have been programming and are
+familiar with such behaviours (not all though), as there is little time
+spent on explaining why part of behaviour. As mentioned, it's a concise
+book, 126 pages only.
+
+Link: [https://www.burns-stat.com/pages/Tutor/R_inferno.pdf](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
+
+## The R Language
+
+- [R Core team](https://stat.ethz.ch/R-manual/R-patched/doc/AUTHORS)
+
+A collection of manuals: 1. An Introduction to R 1. The R Language
+Definition 1. Writing R Extensions 1. R Installation and Administration
+1. R Data Import/Export 1. R Internals
+
+Link: [https://stat.ethz.ch/R-manual/R-patched/doc/html/](https://stat.ethz.ch/R-manual/R-patched/doc/html/)
+
+## The R Manuals
+
+- R Development Core team
+
+This is a restyled version of the R manuals, originally provided by the R Development Core team.
+
+Link: [https://rstudio.github.io/r-manuals/](https://rstudio.github.io/r-manuals/)
+
+## The Tidyverse Cookbook
+
+- Edited by Garrett Grolemund
+
+This book collects code recipes for doing data science with R's
+tidyverse. Each recipe solves a single common task, with a minimum of
+discussion.
+
+Link: [https://rstudio-education.github.io/tidyverse-cookbook/](https://rstudio-education.github.io/tidyverse-cookbook/)
+
+## The tidyverse style guide
+
+- [Hadley Whickham](https://twitter.com/hadleywickham)
+
+Good coding style is like correct punctuation: you can manage without
+it, butitsuremakesthingseasiertoread. This site describes the style used
+throughout the tidyverse. It was derived from Google's original R Style
+Guide - but Google's current guide is derived from the tidyverse style
+guide.
+
+Link: [https://style.tidyverse.org/](https://style.tidyverse.org/)
+
+## Tidy evaluation
+
+- Lionel Henry
+- Hadley Wickham
+
+This guide is now superseded by more recent efforts at documenting tidy
+evaluation in a user-friendly way. We now recommend reading:
+
+The new Programming with dplyr vignette.
+
+The Using ggplot2 in packages vignette.
+
+(Oscar's note: I'm keeping this in for my own reference)
+
+Link: [https://tidyeval.tidyverse.org/](https://tidyeval.tidyverse.org/)
+
+## Tidyverse Skills for Data Science
+
+- Carrie Wright
+- Shannon E. Ellis
+- Stephanie C. Hicks
+- Roger D. Peng
+
+Book and Course formats
+
+This course introduces a powerful set of data science tools known as the
+Tidyverse. The Tidyverse has revolutionized the way in which data
+scientists do almost every aspect of their job. We will cover the simple
+idea of "tidy data" and how this idea serves to organize data for
+analysis and modeling. We will also cover how non-tidy data can be
+transformed to tidy data, the data science project life cycle, and the
+ecosystem of Tidyverse R packages that can be used to execute a data
+science project.
+
+Book format <https://jhudatascience.org/tidyversecourse/>
+
+Ebook: <https://leanpub.com/tidyverseskillsdatascience>
+
+Course format
+<https://www.coursera.org/specializations/tidyverse-data-science-r>
+
+Link: [https://jhudatascience.org/tidyversecourse/](https://jhudatascience.org/tidyversecourse/)
+
+## Tidyverse design guide
+
+- Tidyverse team
+
+The goal of this book is to help you write better R code. It has four
+main components:
+
+1.  Design problems which lead to suboptimal outcomes.
+
+2.  Useful patterns that help solve common problems.
+
+3.  Key principles that help you balance conflicting patterns.
+
+4.  Selected case studies that help you see how all the pieces fit
+    together with real code.
+
+It is used by the tidyverse team to promote consistency across packages
+in the core tidyverse.
+
+Link: [https://design.tidyverse.org/](https://design.tidyverse.org/)
+
+## What They Forgot to Teach You About R
+
+- Jenny Bryan
+- Jim Hester
+
+The initial impetus for creating these materials is a two-day hands-on
+workshop. The target learner:
+
+Has a moderate amount of R and RStudio experience.Is largely
+self-taught.Suspects they have drifted into some idiosyncratic habits
+that may slow them down or make their work products more brittle.Is
+interested in (re)designing their R lifestyle, to be more effective and
+more self-sufficient.
+
+Link: [https://rstats.wtf/](https://rstats.wtf/)
+
+## Writing R extensions
+
+- R Core
+
+This is a guide to extending R, describing the process of creating R add-on packages, writing R documentation, R’s system and foreign language interfaces, and the R API.
+
+This manual is for R, version 3.4.2 (2017-09-28).
+
+Link: [https://colinfay.me/writing-r-extensions/index.html](https://colinfay.me/writing-r-extensions/index.html)
+
+## YaRrr! The Pirate's Guide to R
+
+- Nathaniel D. Phillips
+
+Learn R from the ground up.
+
+Let me make something very, very clear...
+
+I did not write this book.
+
+This whole story started in the Summer of 2015. I was taking a late
+night swim on the Bodensee in Konstanz and saw a rusty object sticking
+out of the water. Upon digging it out, I realized it was an ancient
+usb-stick with the word YaRrr inscribed on the side. Intrigued, I
+brought it home and plugged it into my laptop. Inside the stick, I found
+a single pdf file written entirely in pirate-speak. After watching
+several pirate movies, I learned enough pirate-speak to begin
+translating the text to English. Sure enough, the book turned out to be
+an introduction to R called The Pirate's Guide to R.
+
+Link: [https://bookdown.org/ndphillips/YaRrr/](https://bookdown.org/ndphillips/YaRrr/)
+
+## stats545 Data wrangling, exploration, and analysis with R
+
+- Jenny Bryan
+
+Learn how to: Explore, groom, visualize, and analyze data, make all of that
+reproducible, reusable, and shareable, using R. This site is about
+everything that comes up during data analysis except for statistical
+modelling and inference.
+
+Link: [https://stat545.com/](https://stat545.com/)
+
+

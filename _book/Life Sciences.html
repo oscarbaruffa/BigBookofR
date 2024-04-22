@@ -1,0 +1,1115 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.553">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Big Book of R - 21&nbsp; Life Sciences</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./Machine Learning.html" rel="next">
+<link href="./Journalism.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Life Sciences.html"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Life Sciences</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Big Book of R</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Big Book of R</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./010-start_here.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">New to R? Start here</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./015-book_clubs.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Book Clubs</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Career and Community.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Career and Community</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./API.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">API</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Archeology.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Archeology</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Art.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Art</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Big Data.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Big Data</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Blogdown.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Blogdown</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Bookdown.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Bookdown</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Data Databases and Engineering.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Data, Databases and Engineering</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Data Science.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Data Science</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Data Visualization.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Data Visualization</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Economics.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Economics</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Español.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Español</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Field specific.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Field specific</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Finance.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Finance</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Geospatial.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Geospatial</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Getting cleaning and wrangling data.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Getting, cleaning and wrangling data</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Journalism.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Journalism</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Life Sciences.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Life Sciences</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Machine Learning.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Machine Learning</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Network analysis.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Network analysis</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Packages.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Packages</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./People Analytics.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">People Analytics</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Reports.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Reports</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./R package development.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">R package development</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./R programming.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">R programming</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Shiny.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Shiny</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Social Science.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Social Science</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Sport analytics.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Sport analytics</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Statistics.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Statistics</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./summary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Summary</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Teaching.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Teaching</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Text analysis.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Text analysis</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Time Series Analysis and Forecasting.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">Time Series Analysis and Forecasting</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Version control.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">37</span>&nbsp; <span class="chapter-title">Version control</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Workflow.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">Workflow</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Other compendiums.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">39</span>&nbsp; <span class="chapter-title">Other compendiums</span></span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#a-little-book-of-r-for-bioinformatics" id="toc-a-little-book-of-r-for-bioinformatics" class="nav-link active" data-scroll-target="#a-little-book-of-r-for-bioinformatics"><span class="header-section-number">21.1</span> A Little Book of R for Bioinformatics</a></li>
+  <li><a href="#a-little-book-of-r-for-bioinformatics-2.0" id="toc-a-little-book-of-r-for-bioinformatics-2.0" class="nav-link" data-scroll-target="#a-little-book-of-r-for-bioinformatics-2.0"><span class="header-section-number">21.2</span> A Little Book of R for Bioinformatics 2.0</a></li>
+  <li><a href="#an-open-compendium-of-soil-datasets" id="toc-an-open-compendium-of-soil-datasets" class="nav-link" data-scroll-target="#an-open-compendium-of-soil-datasets"><span class="header-section-number">21.3</span> An Open Compendium of Soil Datasets</a></li>
+  <li><a href="#assigning-cell-types-with-singler" id="toc-assigning-cell-types-with-singler" class="nav-link" data-scroll-target="#assigning-cell-types-with-singler"><span class="header-section-number">21.4</span> Assigning cell types with SingleR</a></li>
+  <li><a href="#bayesian-hierarchical-models-in-ecology" id="toc-bayesian-hierarchical-models-in-ecology" class="nav-link" data-scroll-target="#bayesian-hierarchical-models-in-ecology"><span class="header-section-number">21.5</span> Bayesian Hierarchical Models in Ecology</a></li>
+  <li><a href="#biostatistics-for-biomedical-research" id="toc-biostatistics-for-biomedical-research" class="nav-link" data-scroll-target="#biostatistics-for-biomedical-research"><span class="header-section-number">21.6</span> Biostatistics for Biomedical Research</a></li>
+  <li><a href="#comparative-methods" id="toc-comparative-methods" class="nav-link" data-scroll-target="#comparative-methods"><span class="header-section-number">21.7</span> Comparative Methods</a></li>
+  <li><a href="#computational-genomics-with-r" id="toc-computational-genomics-with-r" class="nav-link" data-scroll-target="#computational-genomics-with-r"><span class="header-section-number">21.8</span> Computational Genomics with R</a></li>
+  <li><a href="#data-analysis-and-visualization-in-r-for-ecologists" id="toc-data-analysis-and-visualization-in-r-for-ecologists" class="nav-link" data-scroll-target="#data-analysis-and-visualization-in-r-for-ecologists"><span class="header-section-number">21.9</span> Data Analysis and Visualization in R for Ecologists</a></li>
+  <li><a href="#data-analysis-for-the-life-sciences" id="toc-data-analysis-for-the-life-sciences" class="nav-link" data-scroll-target="#data-analysis-for-the-life-sciences"><span class="header-section-number">21.10</span> Data Analysis for the Life Sciences</a></li>
+  <li><a href="#data-integration-manipulation-and-visualization-of-phylogenetic-trees" id="toc-data-integration-manipulation-and-visualization-of-phylogenetic-trees" class="nav-link" data-scroll-target="#data-integration-manipulation-and-visualization-of-phylogenetic-trees"><span class="header-section-number">21.11</span> Data Integration, Manipulation and Visualization of Phylogenetic Trees</a></li>
+  <li><a href="#data-science-for-the-biomedical-sciences" id="toc-data-science-for-the-biomedical-sciences" class="nav-link" data-scroll-target="#data-science-for-the-biomedical-sciences"><span class="header-section-number">21.12</span> Data Science for the Biomedical Sciences</a></li>
+  <li><a href="#experimental-design-for-laboratory-biologists-maximising-information-and-improving-reproducibility" id="toc-experimental-design-for-laboratory-biologists-maximising-information-and-improving-reproducibility" class="nav-link" data-scroll-target="#experimental-design-for-laboratory-biologists-maximising-information-and-improving-reproducibility"><span class="header-section-number">21.13</span> Experimental Design for Laboratory Biologists Maximising Information and Improving Reproducibility</a></li>
+  <li><a href="#fundamentals-of-wrangling-healthcare-data-with-r" id="toc-fundamentals-of-wrangling-healthcare-data-with-r" class="nav-link" data-scroll-target="#fundamentals-of-wrangling-healthcare-data-with-r"><span class="header-section-number">21.14</span> Fundamentals of Wrangling Healthcare Data with R</a></li>
+  <li><a href="#git-and-github-for-advanced-ecological-data-analysis" id="toc-git-and-github-for-advanced-ecological-data-analysis" class="nav-link" data-scroll-target="#git-and-github-for-advanced-ecological-data-analysis"><span class="header-section-number">21.15</span> Git and Github for Advanced Ecological Data Analysis</a></li>
+  <li><a href="#hydroinformatics-at-vt" id="toc-hydroinformatics-at-vt" class="nav-link" data-scroll-target="#hydroinformatics-at-vt"><span class="header-section-number">21.16</span> Hydroinformatics at VT</a></li>
+  <li><a href="#introduction-to-data-analysis-with-r" id="toc-introduction-to-data-analysis-with-r" class="nav-link" data-scroll-target="#introduction-to-data-analysis-with-r"><span class="header-section-number">21.17</span> Introduction to Data Analysis with R</a></li>
+  <li><a href="#little-book-of-r-for-biomedical-statistics" id="toc-little-book-of-r-for-biomedical-statistics" class="nav-link" data-scroll-target="#little-book-of-r-for-biomedical-statistics"><span class="header-section-number">21.18</span> Little Book of R for Biomedical Statistics</a></li>
+  <li><a href="#modern-statistics-for-modern-biology" id="toc-modern-statistics-for-modern-biology" class="nav-link" data-scroll-target="#modern-statistics-for-modern-biology"><span class="header-section-number">21.19</span> Modern Statistics for Modern Biology</a></li>
+  <li><a href="#numerical-ecology-with-r" id="toc-numerical-ecology-with-r" class="nav-link" data-scroll-target="#numerical-ecology-with-r"><span class="header-section-number">21.20</span> Numerical Ecology with R</a></li>
+  <li><a href="#orchestrating-single-cell-analysis-with-bioconductor" id="toc-orchestrating-single-cell-analysis-with-bioconductor" class="nav-link" data-scroll-target="#orchestrating-single-cell-analysis-with-bioconductor"><span class="header-section-number">21.21</span> Orchestrating Single-Cell Analysis with Bioconductor</a></li>
+  <li><a href="#population-health-data-science-with-r" id="toc-population-health-data-science-with-r" class="nav-link" data-scroll-target="#population-health-data-science-with-r"><span class="header-section-number">21.22</span> Population Health Data Science with R</a></li>
+  <li><a href="#practical-statistics-in-medicine-with-r" id="toc-practical-statistics-in-medicine-with-r" class="nav-link" data-scroll-target="#practical-statistics-in-medicine-with-r"><span class="header-section-number">21.23</span> Practical Statistics in Medicine with R</a></li>
+  <li><a href="#r-for-conservation-and-development-projects-a-primer-for-practitioners" id="toc-r-for-conservation-and-development-projects-a-primer-for-practitioners" class="nav-link" data-scroll-target="#r-for-conservation-and-development-projects-a-primer-for-practitioners"><span class="header-section-number">21.24</span> R for Conservation and Development Projects A Primer for Practitioners</a></li>
+  <li><a href="#r-for-health-data-science" id="toc-r-for-health-data-science" class="nav-link" data-scroll-target="#r-for-health-data-science"><span class="header-section-number">21.25</span> R for Health Data Science</a></li>
+  <li><a href="#r-for-applied-epidemiology-and-public-health" id="toc-r-for-applied-epidemiology-and-public-health" class="nav-link" data-scroll-target="#r-for-applied-epidemiology-and-public-health"><span class="header-section-number">21.26</span> R for applied epidemiology and public health</a></li>
+  <li><a href="#reproducible-medical-research-with-r" id="toc-reproducible-medical-research-with-r" class="nav-link" data-scroll-target="#reproducible-medical-research-with-r"><span class="header-section-number">21.27</span> Reproducible Medical Research with R</a></li>
+  <li><a href="#statistics-in-r-for-biodiversity-conservation-paperback" id="toc-statistics-in-r-for-biodiversity-conservation-paperback" class="nav-link" data-scroll-target="#statistics-in-r-for-biodiversity-conservation-paperback"><span class="header-section-number">21.28</span> Statistics in R for Biodiversity Conservation Paperback</a></li>
+  <li><a href="#using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling" id="toc-using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling" class="nav-link" data-scroll-target="#using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling"><span class="header-section-number">21.29</span> Using R for Bayesian Spatial and Spatio-Temporal Health Modeling</a></li>
+  <li><a href="#wehi-intro-to-tidy-r-course" id="toc-wehi-intro-to-tidy-r-course" class="nav-link" data-scroll-target="#wehi-intro-to-tidy-r-course"><span class="header-section-number">21.30</span> WEHI Intro to Tidy R Course</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+header.html
+plausible-analytics.html
+google-analytics.html
+social.html
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Life Sciences</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="a-little-book-of-r-for-bioinformatics" class="level2" data-number="21.1">
+<h2 data-number="21.1" class="anchored" data-anchor-id="a-little-book-of-r-for-bioinformatics"><span class="header-section-number">21.1</span> A Little Book of R for Bioinformatics</h2>
+<ul>
+<li><a href="https://www.researchgate.net/profile/Avril-Coghlan">Avril Coghlan</a></li>
+</ul>
+<p>This is a simple introduction to bioinformatics, with a focus on genome analysis, using the R statistics software.</p>
+<p>Link: <a href="https://a-little-book-of-r-for-bioinformatics.readthedocs.io">https://a-little-book-of-r-for-bioinformatics.readthedocs.io</a></p>
+</section>
+<section id="a-little-book-of-r-for-bioinformatics-2.0" class="level2" data-number="21.2">
+<h2 data-number="21.2" class="anchored" data-anchor-id="a-little-book-of-r-for-bioinformatics-2.0"><span class="header-section-number">21.2</span> A Little Book of R for Bioinformatics 2.0</h2>
+<ul>
+<li>Avril Coghlan</li>
+<li>Nathan L. Brouwer</li>
+</ul>
+<p>This book is based on the original A Little Book of R for Bioinformatics by Dr.&nbsp;Avril Coghlan (Hereafter “ALBRB 1.0”). Dr.&nbsp;Coghlan’s book was one of the first and most thorough introductions to using R for bioinformatics and computational biology.</p>
+<p>Link: <a href="https://brouwern.github.io/lbrb/">https://brouwern.github.io/lbrb/</a></p>
+</section>
+<section id="an-open-compendium-of-soil-datasets" class="level2" data-number="21.3">
+<h2 data-number="21.3" class="anchored" data-anchor-id="an-open-compendium-of-soil-datasets"><span class="header-section-number">21.3</span> An Open Compendium of Soil Datasets</h2>
+<ul>
+<li>Tomislav Hengl</li>
+</ul>
+<p>(Not R specific but looks really relevant)</p>
+<p>This is a public compendium of global, regional, national and sub-national soil samples and/or soil profile datasets (points with Observations and Measurements of soil properties and characteristics). Datasets listed here, assuming compatible open license, are afterwards imported into the Global compilation of soil chemical and physical properties and soil classes and eventually used to create a better open soil information across countries. The specific objectives of this initiative are:</p>
+<p>To enable data digitization, import and binding + harmonization, To accelerate research collaboration and networking, To enable development of more accurate / more usable global and regional soil property and class maps (typically published via https://OpenLandMap.org),</p>
+<p>Link: <a href="https://opengeohub.github.io/SoilSamples/">https://opengeohub.github.io/SoilSamples/</a></p>
+</section>
+<section id="assigning-cell-types-with-singler" class="level2" data-number="21.4">
+<h2 data-number="21.4" class="anchored" data-anchor-id="assigning-cell-types-with-singler"><span class="header-section-number">21.4</span> Assigning cell types with SingleR</h2>
+<ul>
+<li><a href="https://osca.bioconductor.org/contributors.html">Aaron Lun and contributors</a></li>
+</ul>
+<p>This book covers the use of SingleR, one implementation of an automated annotation method for cell type annotation.</p>
+<p>Link: <a href="https://bioconductor.org/books/3.12/SingleRBook/">https://bioconductor.org/books/3.12/SingleRBook/</a></p>
+</section>
+<section id="bayesian-hierarchical-models-in-ecology" class="level2" data-number="21.5">
+<h2 data-number="21.5" class="anchored" data-anchor-id="bayesian-hierarchical-models-in-ecology"><span class="header-section-number">21.5</span> Bayesian Hierarchical Models in Ecology</h2>
+<ul>
+<li><a href="https://www.stevemidway.com">Steve Midway</a></li>
+</ul>
+<p>Hierarchical Models in Ecology Using Bayesian Inference</p>
+<p>Link: <a href="https://bookdown.org/steve_midway/BHME/">https://bookdown.org/steve_midway/BHME/</a></p>
+</section>
+<section id="biostatistics-for-biomedical-research" class="level2" data-number="21.6">
+<h2 data-number="21.6" class="anchored" data-anchor-id="biostatistics-for-biomedical-research"><span class="header-section-number">21.6</span> Biostatistics for Biomedical Research</h2>
+<ul>
+<li>Frank E Harrell Jr</li>
+</ul>
+<p>The book is aimed at exposing biomedical researchers to modern biostatistical methods and statistical graphics, highlighting those methods that make fewer assumptions, including nonparametric statistics and robust statistical measures. In addition to covering traditional estimation and inferential techniques, the course contrasts those with the Bayesian approach, and also includes several components that have been increasingly important in the past few years, such as challenges of high-dimensional data analysis, modeling for observational treatment comparisons, analysis of differential treatment effect (heterogeneity of treatment effect), statistical methods for biomarker research, medical diagnostic research, and methods for reproducible research.</p>
+<p>Link: <a href="http://hbiostat.org/bbr/">http://hbiostat.org/bbr/</a></p>
+</section>
+<section id="comparative-methods" class="level2" data-number="21.7">
+<h2 data-number="21.7" class="anchored" data-anchor-id="comparative-methods"><span class="header-section-number">21.7</span> Comparative Methods</h2>
+<ul>
+<li><a href="https://brianomeara.info">Brian O’Meara</a></li>
+</ul>
+<p>A book for teaching people how to do comparative methods in R. Written for a biology class to analyse evolutionary trees and finding patterns of divergence and common ancestry among species.</p>
+<p>Link: <a href="https://bookdown.org/bomeara/comparative-methods/">https://bookdown.org/bomeara/comparative-methods/</a></p>
+</section>
+<section id="computational-genomics-with-r" class="level2" data-number="21.8">
+<h2 data-number="21.8" class="anchored" data-anchor-id="computational-genomics-with-r"><span class="header-section-number">21.8</span> Computational Genomics with R</h2>
+<ul>
+<li><a href="https://twitter.com/AltunaAkalin">Altuna Akalin</a></li>
+</ul>
+<p>The aim of this book is to provide the fundamentals for data analysis for genomics. We developed this book based on the computational genomics courses we are giving every year.</p>
+<p>Link: <a href="http://compgenomr.github.io/book/">http://compgenomr.github.io/book/</a></p>
+</section>
+<section id="data-analysis-and-visualization-in-r-for-ecologists" class="level2" data-number="21.9">
+<h2 data-number="21.9" class="anchored" data-anchor-id="data-analysis-and-visualization-in-r-for-ecologists"><span class="header-section-number">21.9</span> Data Analysis and Visualization in R for Ecologists</h2>
+<ul>
+<li>François Michonneau</li>
+<li>Auriel Fournier</li>
+</ul>
+<p>Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. The lessons below were designed for those interested in working with ecology data in R.</p>
+<p>This is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. The last lesson demonstrates how to work with databases directly from R.</p>
+<p>This lesson assumes no prior knowledge of R or RStudio and no programming experience.</p>
+<p>Link: <a href="https://datacarpentry.org/R-ecology-lesson/">https://datacarpentry.org/R-ecology-lesson/</a></p>
+</section>
+<section id="data-analysis-for-the-life-sciences" class="level2" data-number="21.10">
+<h2 data-number="21.10" class="anchored" data-anchor-id="data-analysis-for-the-life-sciences"><span class="header-section-number">21.10</span> Data Analysis for the Life Sciences</h2>
+<ul>
+<li>Rafael A Irizarry</li>
+<li>Michael I Love</li>
+</ul>
+<p>Data analysis is now part of practically every research project in the life sciences. In this book we use data and computer code to teach the necessary statistical concepts and programming skills to become a data analyst. Instead of showing theory first and then applying it to toy examples, we start with actual applications. http://genomicsclass.github.io/book/</p>
+<p>Paid: Free or pay what you want $40</p>
+<p>Link: <a href="https://leanpub.com/dataanalysisforthelifesciences">https://leanpub.com/dataanalysisforthelifesciences</a></p>
+</section>
+<section id="data-integration-manipulation-and-visualization-of-phylogenetic-trees" class="level2" data-number="21.11">
+<h2 data-number="21.11" class="anchored" data-anchor-id="data-integration-manipulation-and-visualization-of-phylogenetic-trees"><span class="header-section-number">21.11</span> Data Integration, Manipulation and Visualization of Phylogenetic Trees</h2>
+<ul>
+<li><a href="https://yulab-smu.top">Guangchuang Yu</a></li>
+</ul>
+<p>A guide for data integration, manipulation and visualization of phylogenetic trees using a suite of R packages, tidytree, treeio, ggtree and ggtreeExtra.</p>
+<p>Link: <a href="https://yulab-smu.top/treedata-book/">https://yulab-smu.top/treedata-book/</a></p>
+</section>
+<section id="data-science-for-the-biomedical-sciences" class="level2" data-number="21.12">
+<h2 data-number="21.12" class="anchored" data-anchor-id="data-science-for-the-biomedical-sciences"><span class="header-section-number">21.12</span> Data Science for the Biomedical Sciences</h2>
+<ul>
+<li>Daniel Chen</li>
+<li>Anne Brown</li>
+</ul>
+<p>We hope this book provides a gentle introduction to data science. The main goal is to understand how to work with spreadsheet data and how data can be manipulated for multiple purposes. If nothing else, the book hopes to help you plan how to structure your own datasets for your own analysis. Even if you never go on to program on your own, understanding the way data can be manipulated and having a plan for your own dataset in the processing pipeline, will go a long ways when leaning and doing the analysis on your own, and/or working with collegues and collaborators on a project.</p>
+<p>Link: <a href="https://ds4biomed.tech/">https://ds4biomed.tech/</a></p>
+</section>
+<section id="experimental-design-for-laboratory-biologists-maximising-information-and-improving-reproducibility" class="level2" data-number="21.13">
+<h2 data-number="21.13" class="anchored" data-anchor-id="experimental-design-for-laboratory-biologists-maximising-information-and-improving-reproducibility"><span class="header-section-number">21.13</span> Experimental Design for Laboratory Biologists Maximising Information and Improving Reproducibility</h2>
+<ul>
+<li>Stanley E. Lazic</li>
+</ul>
+<p>This practical guide shows biologists how to design reproducible experiments that have low bias, high precision, and results that are widely applicable. With specific examples using both cell cultures and model organisms, it shows how to plan a successful experiment. It demonstrates how to control biological and technical factors that can introduce bias or add noise, and covers rarely discussed topics such as graphical data exploration, choosing outcome variables, data quality control checks, and data pre-processing. It also shows how to use R for analysis, and is designed for those with no prior experience. This is an ideal guide for anyone conducting lab-based biological research.</p>
+<p>Link: <a href="https://stanlazic.github.io/EDLB.html">https://stanlazic.github.io/EDLB.html</a></p>
+</section>
+<section id="fundamentals-of-wrangling-healthcare-data-with-r" class="level2" data-number="21.14">
+<h2 data-number="21.14" class="anchored" data-anchor-id="fundamentals-of-wrangling-healthcare-data-with-r"><span class="header-section-number">21.14</span> Fundamentals of Wrangling Healthcare Data with R</h2>
+<ul>
+<li>J. Kyle Armstrong</li>
+</ul>
+<p>In this course we will review some of the tools of the trade, namely, R’s tidyverse (Wickham and Grolemund 2017; Winter 2019) - a collection of R packages designed with a common framework to aide in common data wrangling and data management tasks.</p>
+<p>Data Wrangling is one subset set of skills within the Data Science Process. We will carefully investigate how decisions made while collecting and preparing the data have down-stream effects on model performance.</p>
+<p>Link: <a href="https://bookdown.org/jkylearmstrong/jeff_data_wrangling/">https://bookdown.org/jkylearmstrong/jeff_data_wrangling/</a></p>
+</section>
+<section id="git-and-github-for-advanced-ecological-data-analysis" class="level2" data-number="21.15">
+<h2 data-number="21.15" class="anchored" data-anchor-id="git-and-github-for-advanced-ecological-data-analysis"><span class="header-section-number">21.15</span> Git and Github for Advanced Ecological Data Analysis</h2>
+<ul>
+<li>Alexa Fredston</li>
+</ul>
+<p>This material was prepared for a three-hour virtual session to teach Git and Github to a graduate-level course on Advanced Ecological Data Analysis taught at Rutgers University by Malin Pinsky and Rachael Winfree. (However, the only course-specific material is Section 4; the rest should be applicable to any reader.)</p>
+<p>Link: <a href="https://afredston.github.io/learn-git/learn-git.html">https://afredston.github.io/learn-git/learn-git.html</a></p>
+</section>
+<section id="hydroinformatics-at-vt" class="level2" data-number="21.16">
+<h2 data-number="21.16" class="anchored" data-anchor-id="hydroinformatics-at-vt"><span class="header-section-number">21.16</span> Hydroinformatics at VT</h2>
+<ul>
+<li><a href="https://twitter.com/jp_gannon">JP Gannon</a></li>
+</ul>
+<p>This bookdown contains the notes and most exercises for a course on data analysis techniques in hydrology using the programming language R. The material will be updated each time the course is taught. If new topics are added, the topics they replace will be left, in case they are useful to others.</p>
+<p>Link: <a href="https://vt-hydroinformatics.github.io/">https://vt-hydroinformatics.github.io/</a></p>
+</section>
+<section id="introduction-to-data-analysis-with-r" class="level2" data-number="21.17">
+<h2 data-number="21.17" class="anchored" data-anchor-id="introduction-to-data-analysis-with-r"><span class="header-section-number">21.17</span> Introduction to Data Analysis with R</h2>
+<ul>
+<li><a href="https://jmbuhr.de/">Jannik Buhr</a></li>
+</ul>
+<p>This is a video lecture series with accompanying lecture script that is designed to read much like a book. The lecture is held in English for biochemists at Heidelberg University, Germany, but the examples covered are no specific to life sciences in order to enable a focus on learning the techniques with R.</p>
+<p>Link: <a href="https://jmbuhr.de/dataintro/">https://jmbuhr.de/dataintro/</a></p>
+</section>
+<section id="little-book-of-r-for-biomedical-statistics" class="level2" data-number="21.18">
+<h2 data-number="21.18" class="anchored" data-anchor-id="little-book-of-r-for-biomedical-statistics"><span class="header-section-number">21.18</span> Little Book of R for Biomedical Statistics</h2>
+<ul>
+<li><a href="https://www.researchgate.net/profile/Avril-Coghlan">Avril Coghlan</a></li>
+</ul>
+<p>This is a simple introduction to biomedical statistics using the R statistics software.</p>
+<p>Link: <a href="https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io">https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io</a></p>
+</section>
+<section id="modern-statistics-for-modern-biology" class="level2" data-number="21.19">
+<h2 data-number="21.19" class="anchored" data-anchor-id="modern-statistics-for-modern-biology"><span class="header-section-number">21.19</span> Modern Statistics for Modern Biology</h2>
+<ul>
+<li>Susan Holmes</li>
+<li>Wolfgang Huber</li>
+</ul>
+<p>The aim of this book is to enable scientists working in biological research to quickly learn many of the important ideas and methods that they need to make the best of their experiments and of other available data.</p>
+<p>Link: <a href="https://www.huber.embl.de/msmb/">https://www.huber.embl.de/msmb/</a></p>
+</section>
+<section id="numerical-ecology-with-r" class="level2" data-number="21.20">
+<h2 data-number="21.20" class="anchored" data-anchor-id="numerical-ecology-with-r"><span class="header-section-number">21.20</span> Numerical Ecology with R</h2>
+<ul>
+<li>Daniel Borcard</li>
+<li>François Gillet</li>
+<li>Pierre Legendre</li>
+</ul>
+<p>This new edition of Numerical Ecology with R guides readers through an applied exploration of the major methods of multivariate data analysis, as seen through the eyes of three ecologists. It provides a bridge between a textbook of numerical ecology and the implementation of this discipline in the R language. The book begins by examining some exploratory approaches.</p>
+<p>Link: <a href="https://www.springer.com/us/book/9783319714035">https://www.springer.com/us/book/9783319714035</a></p>
+</section>
+<section id="orchestrating-single-cell-analysis-with-bioconductor" class="level2" data-number="21.21">
+<h2 data-number="21.21" class="anchored" data-anchor-id="orchestrating-single-cell-analysis-with-bioconductor"><span class="header-section-number">21.21</span> Orchestrating Single-Cell Analysis with Bioconductor</h2>
+<ul>
+<li>Aaron Lun</li>
+<li>Robert Amezquita</li>
+<li>Stephanie Hicks</li>
+<li>Raphael Gottardo</li>
+</ul>
+<p>This is the website for “Orchestrating Single-Cell Analysis with Bioconductor”, a book that teaches users some common workflows for the analysis of single-cell RNA-seq data (scRNA-seq).</p>
+<p>Link: <a href="https://osca.bioconductor.org/">https://osca.bioconductor.org/</a></p>
+</section>
+<section id="population-health-data-science-with-r" class="level2" data-number="21.22">
+<h2 data-number="21.22" class="anchored" data-anchor-id="population-health-data-science-with-r"><span class="header-section-number">21.22</span> Population Health Data Science with R</h2>
+<ul>
+<li><a href="https://publichealth.berkeley.edu/people/tomas-aragon/">Tomás J. Aragón</a></li>
+</ul>
+<p>This book is divided into two parts. First, I cover how to process, manipulate, and operate on data in R. Second, I cover basic PHDS from an epidemiologic perspective. Data science is “the art and science of transforming data into actionable knowledge.” Here is where we can build on the strengths of epidemiology (descriptive and analytic studies). However, in public health practice we need much more than this.</p>
+<p>Link: <a href="https://bookdown.org/medepi/phds/">https://bookdown.org/medepi/phds/</a></p>
+</section>
+<section id="practical-statistics-in-medicine-with-r" class="level2" data-number="21.23">
+<h2 data-number="21.23" class="anchored" data-anchor-id="practical-statistics-in-medicine-with-r"><span class="header-section-number">21.23</span> Practical Statistics in Medicine with R</h2>
+<ul>
+<li>Konstantinos I. Bougioukas, PhD</li>
+</ul>
+<p>The textbook can be used as support material for practical labs on basic statistics in medicine using R. It can also be used as a support for self-teaching for students and researchers in biomedical field. Additionally, it may be useful for (under)graduate students with a science background (engineering, mathematics) who wants to move towards biomedical sciences.</p>
+<p>Link: <a href="https://practical-stats-med-r.netlify.app/">https://practical-stats-med-r.netlify.app/</a></p>
+</section>
+<section id="r-for-conservation-and-development-projects-a-primer-for-practitioners" class="level2" data-number="21.24">
+<h2 data-number="21.24" class="anchored" data-anchor-id="r-for-conservation-and-development-projects-a-primer-for-practitioners"><span class="header-section-number">21.24</span> R for Conservation and Development Projects A Primer for Practitioners</h2>
+<ul>
+<li>Nathan Whitmore</li>
+</ul>
+<p>This book is aimed at conservation and development practitioners who need to learn and use R in a part-time professional context. It gives people with a non-technical background a set of skills to graph, map, and model in R. It also provides background on data integration in project management and covers fundamental statistical concepts. The book aims to demystify R and give practitioners the confidence to use it.</p>
+<p>Key Features:</p>
+<p>• Viewing data science as part of a greater knowledge and decision making system • Foundation sections on inference, evidence, and data integration • Plain English explanations of R functions • Relatable examples which are typical of activities undertaken by conservation and development organisations in the developing world • Worked examples showing how data analysis can be incorporated into project reports</p>
+<p>Link: <a href="https://www.routledge.com/R-for-Conservation-and-Development-Projects-A-Primer-for-Practitioners/Whitmore/p/book/9780367205485">https://www.routledge.com/R-for-Conservation-and-Development-Projects-A-Primer-for-Practitioners/Whitmore/p/book/9780367205485</a></p>
+</section>
+<section id="r-for-health-data-science" class="level2" data-number="21.25">
+<h2 data-number="21.25" class="anchored" data-anchor-id="r-for-health-data-science"><span class="header-section-number">21.25</span> R for Health Data Science</h2>
+<ul>
+<li><a href="https://twitter.com/ewenharrison">Ewen Harrison</a></li>
+<li><a href="https://twitter.com/_Riinu_">Riinu Pius</a></li>
+</ul>
+<p>In this age of information, the manipulation, analysis and interpretation of data have become a fundamental part of professional life. Nowhere more so than in the delivery of healthcare. From the understanding of disease and the development of new treatments, to the diagnosis and management of individual patients, the use of data and technology are now an integral part of the business of healthcare.</p>
+<p>Those working in healthcare interact daily with data, often without realising it. The conversion of this avalanche of information to useful knowledge is essential for high-quality patient care. An important part of this information revolution is the opportunity for everybody to become involved in data analysis. This democratisation is driven in part by the open source software movement – no longer do we require expensive specialised software to do this.</p>
+<p>The statistical programming language, R, is firmly at the heart of this.</p>
+<p>This book will take an individual with little or no experience in data science all the way through to the execution of sophisticated analyses. We emphasise the importance of truly understanding the underlying data with liberal use of plotting, rather than relying on opaque and possibly poorly understood statistical tests. There are numerous examples included that can be adapted for your own data, together with our own R packages with easy-to-use functions.</p>
+<p>Link: <a href="https://argoshare.is.ed.ac.uk/healthyr_book/">https://argoshare.is.ed.ac.uk/healthyr_book/</a></p>
+</section>
+<section id="r-for-applied-epidemiology-and-public-health" class="level2" data-number="21.26">
+<h2 data-number="21.26" class="anchored" data-anchor-id="r-for-applied-epidemiology-and-public-health"><span class="header-section-number">21.26</span> R for applied epidemiology and public health</h2>
+<ul>
+<li><a href="https://twitter.com/epiRhandbook">EpiR authors</a></li>
+</ul>
+<p>This handbook is produced by a collaboration of epidemiologists from around the world drawing upon experience with organizations including local, state, provincial, and national health agencies, the World Health Organization (WHO), Médecins Sans Frontières / Doctors without Borders (MSF), hospital systems, and academic institutions. Also check out the accompanying tutorials: https://appliedepi.org/tutorial/</p>
+<p>Written by epidemiologists, for epidemiologists.</p>
+<p>Link: <a href="https://epirhandbook.com/">https://epirhandbook.com/</a></p>
+</section>
+<section id="reproducible-medical-research-with-r" class="level2" data-number="21.27">
+<h2 data-number="21.27" class="anchored" data-anchor-id="reproducible-medical-research-with-r"><span class="header-section-number">21.27</span> Reproducible Medical Research with R</h2>
+<ul>
+<li>Peter D.R. Higgins, MD, PhD, MSc</li>
+</ul>
+<p>This is a book for anyone in the medical field interested in analyzing the data available to them to better understand health, disease, or the delivery of care. This could include nurses, dieticians, psychologists, and PhDs in related fields, as well as medical students, residents, fellows, or doctors in practice. I expect that most learners will be using this book in their spare time at night and on weekends, as the health training curricula are already packed full of information, and there is no room to add skills in reproducible research to the standard curriculum. This book is designed for self-teaching, and many hints and solutions will be provided to avoid roadblocks and frustration. Many learners find themselves wanting to develop reproducible research skills after they have finished their training, and after they have become comfortable with their clinical role. This is the time when they identify and want to address problems faced by patients in their practice with the data they have before them. This book is for you.</p>
+<p>Link: <a href="https://bookdown.org/pdr_higgins/rmrwr/">https://bookdown.org/pdr_higgins/rmrwr/</a></p>
+</section>
+<section id="statistics-in-r-for-biodiversity-conservation-paperback" class="level2" data-number="21.28">
+<h2 data-number="21.28" class="anchored" data-anchor-id="statistics-in-r-for-biodiversity-conservation-paperback"><span class="header-section-number">21.28</span> Statistics in R for Biodiversity Conservation Paperback</h2>
+<ul>
+<li>Carl Smith</li>
+<li><a href="https://twitter.com/antonio_uzal">Antonio Uzal</a></li>
+<li>Mark Warren</li>
+</ul>
+<p>A practical handbook to introduce data analysis and model fitting using R to ecologists and conservation biologists. The book is aimed at undergraduate and post-graduate students and provides access to datasets and RScript.</p>
+<p>Link: <a href="https://www.amazon.co.uk/dp/B08HBLYHQL/ref=cm_sw_r_cp_apa_i_g0luFb86PXJ9Z">https://www.amazon.co.uk/dp/B08HBLYHQL/ref=cm_sw_r_cp_apa_i_g0luFb86PXJ9Z</a></p>
+</section>
+<section id="using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling" class="level2" data-number="21.29">
+<h2 data-number="21.29" class="anchored" data-anchor-id="using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling"><span class="header-section-number">21.29</span> Using R for Bayesian Spatial and Spatio-Temporal Health Modeling</h2>
+<ul>
+<li>Andrew B. Lawson</li>
+</ul>
+<p>Progressively more and more attention has been paid to how location affects health outcomes. The area of disease mapping focusses on these problems, and the Bayesian paradigm has a major role to play in the understanding of the complex interplay of context and individual predisposition in such studies of disease. Using R for Bayesian Spatial and Spatio-Temporal Health Modeling provides a major resource for those interested in applying Bayesian methodology in small area health data studies.</p>
+<p>Link: <a href="https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126">https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126</a></p>
+</section>
+<section id="wehi-intro-to-tidy-r-course" class="level2" data-number="21.30">
+<h2 data-number="21.30" class="anchored" data-anchor-id="wehi-intro-to-tidy-r-course"><span class="header-section-number">21.30</span> WEHI Intro to Tidy R Course</h2>
+<ul>
+<li><a href="https://brendanansell.net">Brendan Ansell</a></li>
+</ul>
+<p>A complete beginner’s introduction to tidy R for data transformation, visualization and analysis automation — with applications in experimental biology.<br>
+This book is based on a short course developed for biomedical scientists at the WEHI Medical Research Institute. The content is designed to make learners comfortable with using R for exploratory analysis of large data sets, but does not cover statistics. The material and teaching examples draw on popular (non-biological) data sets, as well as gene expression and drug screening data types.</p>
+<p>Link: <a href="https://bookdown.org/ansellbr/WEHI_tidyR_course_book/">https://bookdown.org/ansellbr/WEHI_tidyR_course_book/</a></p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./Journalism.html" class="pagination-link" aria-label="Journalism">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Journalism</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./Machine Learning.html" class="pagination-link" aria-label="Machine Learning">
+        <span class="nav-page-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Machine Learning</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+footer.html
+
+
+
+
+</body></html>

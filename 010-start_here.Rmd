@@ -49,3 +49,11 @@ https://www.rscreencasts.com/
 If you prefer  step by step instructions in an interactive online environment, then have a look at the Posit Primers which will take you through very very basic of data wrangling through to an introduction to building web apps with R!
 
 https://posit.cloud/learn/primers
+
+
+### Data Science Learning Community
+
+The [Data Science Learning Community](https://dslc.io/) develops tools and resources to foster the data science community to which we want to belong. Whether we are seeking our first job as a data professional or continuing a journey years in the making, we must all constantly learn new data programming skills to keep up with a rapidly changing world. Bootcamps and courses are often expensive, and it can be difficult to maintain the motivation necessary to learn skills on our own. 
+There's a very active slack commnunity too!
+
+https://dslc.io/

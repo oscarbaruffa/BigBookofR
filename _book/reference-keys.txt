@@ -121,10 +121,15 @@ r-for-economic-research
 r-guide-to-accompany-introductory-econometrics-for-finance
 using-r-for-introductory-econometrics
 español
+analítica-urbana
+ciencia-de-datos-para-gente-sociable
 cuentapalabras-estilometría-y-análisis-de-texto-con-r-para-filólogos
+fundamentos-de-ciencia-de-datos-con-r
 introducción-a-la-probabilidad
+libro-de-cocina-para-el-análisis-de-las-clases-sociales-en-argentina
 r-para-ciencia-de-datos
 r-para-epidemiología-aplicada-y-salud-pública
+ráster-con-terra
 field-specific
 an-open-source-active-learning-curriculum-for-data-science-in-engineering
 audit-analytics-with-r

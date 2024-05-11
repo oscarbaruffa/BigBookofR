@@ -3,7 +3,6 @@ your-last-ever-bookmark
 searching
 supporting
 contributing
-contributors
 license
 live-stats
 about-me
@@ -13,9 +12,10 @@ video-course-getting-started-with-r
 video-course-data-manipulation-in-r
 watch-a-data-analyst-code-live
 posit-primers
+data-science-learning-community
 book-clubs
 nhs-r-community
-r4ds-slack-community
+data-science-learning-community-1
 r-ladies-netherlands---advanced-r-by-hadley-wickham
 career-and-community
 ace-the-data-science-interview

@@ -45,15 +45,44 @@ book:
     - chapters/Version control.qmd
     - chapters/Workflow.qmd
     - chapters/Other compendiums.qmd
-
+    
 format:
   html:
     theme: cosmo
-    toc: false
-    include-in-header: 
+    include-in-header:
       - plausible-analytics.html
       - social.html
+      - text: |
+          <style>
+          #quarto-sidebar .menu-text {
+            display: flex;
+          }
+          #quarto-sidebar .chapter-number {
+            display: block;
+            width: 1em;
+            text-align: right;
+          }
+          #quarto-sidebar .chapter-title {
+            display: block;
+            padding-left: 10px;
+            text-indent: -10px;
+            width: 100%;
+          }
+          #quarto-toc {
+            position: fixed;
+            left: 0;
+            top: 0;
+            width: 200px; /* Adjust width as needed */
+            height: 100%;
+            overflow: auto;
+          }
+          #quarto-main {
+            margin-left: 210px; /* Adjust so content does not overlap with TOC */
+          }
+          /* CSS to hide the search widget */
+          .quarto-search, .search-input {
+            display: none;
+          }
+          </style>
     include-after-body: footer.html
-
     edit: https://github.com/oscarbaruffa/BigBookofR/edit/main/%s
-

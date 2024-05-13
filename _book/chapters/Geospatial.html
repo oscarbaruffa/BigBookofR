@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.551">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -69,7 +69,7 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <script async="" defer="" data-domain="bigbookofr.com" src="https://plausible.io/js/plausible.outbound-links.js"></script>
-</head><body class="nav-sidebar floating fullcontent"><a rel="me" href="https://fosstodon.org/@OscarBaruffa"></a>
+</head><body class="nav-sidebar floating"><a rel="me" href="https://fosstodon.org/@OscarBaruffa"></a>
 
 
 <meta property="og:title" content="Big Book of R - 18&nbsp; Geospatial">
@@ -85,6 +85,37 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://www.bigbookofr.com/images/big_book_social.png">
 
+<style>
+#quarto-sidebar .menu-text {
+  display: flex;
+}
+#quarto-sidebar .chapter-number {
+  display: block;
+  width: 1em;
+  text-align: right;
+}
+#quarto-sidebar .chapter-title {
+  display: block;
+  padding-left: 10px;
+  text-indent: -10px;
+  width: 100%;
+}
+#quarto-toc {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 200px; /* Adjust width as needed */
+  height: 100%;
+  overflow: auto;
+}
+#quarto-main {
+  margin-left: 210px; /* Adjust so content does not overlap with TOC */
+}
+/* CSS to hide the search widget */
+.quarto-search, .search-input {
+  display: none;
+}
+</style>
 
 
 
@@ -356,7 +387,32 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#a-crash-course-in-geographic-information-systems-gis-using-r" id="toc-a-crash-course-in-geographic-information-systems-gis-using-r" class="nav-link active" data-scroll-target="#a-crash-course-in-geographic-information-systems-gis-using-r"><span class="header-section-number">18.1</span> A Crash Course in Geographic Information Systems (GIS) using R</a></li>
+  <li><a href="#an-introduction-to-spatial-data-analysis-and-statistics-a-course-in-r" id="toc-an-introduction-to-spatial-data-analysis-and-statistics-a-course-in-r" class="nav-link" data-scroll-target="#an-introduction-to-spatial-data-analysis-and-statistics-a-course-in-r"><span class="header-section-number">18.2</span> An Introduction to Spatial Data Analysis and Statistics: A Course in R</a></li>
+  <li><a href="#applied-microeconometrics" id="toc-applied-microeconometrics" class="nav-link" data-scroll-target="#applied-microeconometrics"><span class="header-section-number">18.3</span> Applied Microeconometrics</a></li>
+  <li><a href="#geocomputation-with-r" id="toc-geocomputation-with-r" class="nav-link" data-scroll-target="#geocomputation-with-r"><span class="header-section-number">18.4</span> Geocomputation with R</a></li>
+  <li><a href="#geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny" id="toc-geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny" class="nav-link" data-scroll-target="#geospatial-health-data-modeling-and-visualization-with-r-inla-and-shiny"><span class="header-section-number">18.5</span> Geospatial Health Data Modeling and Visualization with R-INLA and Shiny</a></li>
+  <li><a href="#intro-to-gis-and-spatial-analysis" id="toc-intro-to-gis-and-spatial-analysis" class="nav-link" data-scroll-target="#intro-to-gis-and-spatial-analysis"><span class="header-section-number">18.6</span> Intro to GIS and Spatial Analysis</a></li>
+  <li><a href="#introduction-to-spatial-data-programming-with-r" id="toc-introduction-to-spatial-data-programming-with-r" class="nav-link" data-scroll-target="#introduction-to-spatial-data-programming-with-r"><span class="header-section-number">18.7</span> Introduction to Spatial Data Programming with R</a></li>
+  <li><a href="#introduction-to-urban-accessibility" id="toc-introduction-to-urban-accessibility" class="nav-link" data-scroll-target="#introduction-to-urban-accessibility"><span class="header-section-number">18.8</span> Introduction to urban accessibility</a></li>
+  <li><a href="#predictive-soil-mapping-with-r" id="toc-predictive-soil-mapping-with-r" class="nav-link" data-scroll-target="#predictive-soil-mapping-with-r"><span class="header-section-number">18.9</span> Predictive Soil Mapping with R</a></li>
+  <li><a href="#r-for-geographic-data-science" id="toc-r-for-geographic-data-science" class="nav-link" data-scroll-target="#r-for-geographic-data-science"><span class="header-section-number">18.10</span> R for Geographic Data Science</a></li>
+  <li><a href="#spatial-data-science-with-applications-in-r" id="toc-spatial-data-science-with-applications-in-r" class="nav-link" data-scroll-target="#spatial-data-science-with-applications-in-r"><span class="header-section-number">18.11</span> Spatial Data Science With applications in R</a></li>
+  <li><a href="#spatial-data-science-with-r" id="toc-spatial-data-science-with-r" class="nav-link" data-scroll-target="#spatial-data-science-with-r"><span class="header-section-number">18.12</span> Spatial Data Science with R</a></li>
+  <li><a href="#spatial-microsimulation-with-r" id="toc-spatial-microsimulation-with-r" class="nav-link" data-scroll-target="#spatial-microsimulation-with-r"><span class="header-section-number">18.13</span> Spatial Microsimulation with R</a></li>
+  <li><a href="#spatial-modelling-for-data-scientists" id="toc-spatial-modelling-for-data-scientists" class="nav-link" data-scroll-target="#spatial-modelling-for-data-scientists"><span class="header-section-number">18.14</span> Spatial Modelling for Data Scientists</a></li>
+  <li><a href="#spatial-statistics-for-data-science-theory-and-practice-with-r" id="toc-spatial-statistics-for-data-science-theory-and-practice-with-r" class="nav-link" data-scroll-target="#spatial-statistics-for-data-science-theory-and-practice-with-r"><span class="header-section-number">18.15</span> Spatial Statistics for Data Science: Theory and Practice with R</a></li>
+  <li><a href="#spatial-sampling-with-r" id="toc-spatial-sampling-with-r" class="nav-link" data-scroll-target="#spatial-sampling-with-r"><span class="header-section-number">18.16</span> Spatial sampling with R</a></li>
+  <li><a href="#using-r-for-digital-soil-mapping" id="toc-using-r-for-digital-soil-mapping" class="nav-link" data-scroll-target="#using-r-for-digital-soil-mapping"><span class="header-section-number">18.17</span> Using R for Digital Soil Mapping</a></li>
+  <li><a href="#sits-data-analysis-and-machine-learning-on-earth-observation-data-cubes-with-satellite-image-time-series" id="toc-sits-data-analysis-and-machine-learning-on-earth-observation-data-cubes-with-satellite-image-time-series" class="nav-link" data-scroll-target="#sits-data-analysis-and-machine-learning-on-earth-observation-data-cubes-with-satellite-image-time-series"><span class="header-section-number">18.18</span> sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 

@@ -127,8 +127,10 @@ cuentapalabras-estilometría-y-análisis-de-texto-con-r-para-filólogos
 fundamentos-de-ciencia-de-datos-con-r
 introducción-a-la-probabilidad
 libro-de-cocina-para-el-análisis-de-las-clases-sociales-en-argentina
+programación-práctica-con-r
 r-para-ciencia-de-datos
 r-para-epidemiología-aplicada-y-salud-pública
+r-para-principiantes
 ráster-con-terra
 field-specific
 an-open-source-active-learning-curriculum-for-data-science-in-engineering
@@ -138,6 +140,7 @@ computer-age-calculus-with-r
 computing-matrix-algebra
 crime-by-the-numbers-a-criminologists-guide-to-r
 cryptocurrency-research-open-source-r-tutorial
+customer-intelligence-with-r
 data-science-in-education-using-r
 data-skills-for-reproducible-science
 discrete-data-analysis-with-r-visualization-and-modeling-techniques-for-categorical-and-count-data
@@ -150,6 +153,7 @@ public-policy-analytics-code-context-for-data-science-in-government
 r-for-excel-users
 r-for-seo
 r-for-water-resources-data-science
+r-programming-for-actuarial-science
 r-programming-with-minecraft
 technical-foundations-of-informatics
 finance
@@ -229,6 +233,7 @@ using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling
 wehi-intro-to-tidy-r-course
 machine-learning
 a-minimal-rtorch-book
+applied-machine-learning-for-tabular-data
 behavior-analysis-with-machine-learning-using-r
 data-science-theories-models-algorithms-and-analytics
 deep-learning-and-scientific-computing-with-r-torch
@@ -253,6 +258,7 @@ network-analysis
 awesome-network-analysis
 handbook-of-graphs-and-networks-in-people-analytics-with-examples-in-r-and-python
 network-analysis-in-r-cookbook
+r-for-social-network-analysis
 statistical-analysis-of-network-data-with-r
 packages
 a-minimal-book-example-1
@@ -294,6 +300,14 @@ handbook-of-graphs-and-networks-in-people-analytics-with-examples-in-r-and-pytho
 handbook-of-regression-modeling-in-people-analytics
 hr-analytics-in-r
 r-for-hr-an-introduction-to-human-resource-analytics-using-r
+psychology
+an-introduction-to-psychometric-theory-with-applications-in-r
+learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners
+modern-statistical-methods-for-psychology
+principles-of-psychological-assessment-with-applied-examples-in-r
+psychometrics-in-exercises-using-r-and-rstudio
+r-programming-for-psychometrics
+reproducible-statistics-for-psychologists-with-r-lab-tutorials
 r-package-development
 http-testing-in-r
 pack-your-code
@@ -372,7 +386,6 @@ shiny-app-packages-1
 shiny-production-with-aws-book
 supplement-to-shiny-in-production
 social-science
-an-introduction-to-psychometric-theory-with-applications-in-r
 an-r-exercise-in-data-collection-cleaning-and-merging-u.s.-census-data
 an-r-platform-for-social-scientists
 analyzing-us-census-data-methods-maps-and-models-in-r
@@ -386,11 +399,8 @@ computing-for-the-social-sciences
 crime-by-the-numbers-a-criminologists-guide-to-r-1
 csss-508-introduction-to-r-for-social-scientists
 introduction-to-r-for-social-scientistsa-tidy-programming-approach
-modern-statistical-methods-for-psychology
-psychometrics-in-exercises-using-r-and-rstudio
 public-policy-analytics-code-context-for-data-science-in-government-1
-r-programming-for-psychometrics
-reproducible-statistics-for-psychologists-with-r-lab-tutorials
+r-for-social-network-analysis-1
 simulation-models-of-cultural-evolution-in-r
 text-mining-for-social-scientists
 the-plain-persons-guide-to-plain-text-social-science
@@ -433,7 +443,6 @@ handbook-of-regression-modeling-in-people-analytics-1
 introduction-to-empirical-bayes-examples-from-baseball-statistics-1
 introduction-to-modern-statistics
 islr-tidymodels-labs
-learning-statistics-with-r-a-tutorial-for-psychology-students-and-other-beginners
 library-of-statistical-techniques
 mixed-models-with-r-getting-started-with-random-effects
 model-estimation-by-example-demonstrations-with-r
@@ -495,7 +504,7 @@ agile-data-science-with-r
 data-management-in-large-scale-education-research-1
 github-actions-with-r-1
 how-i-use-r
-r-without-statistics
+r-for-the-rest-of-us
 r-workflow-for-reproducible-data-analysis-and-reporting
 reproducible-analytical-pipelines---masters-of-data-science
 reproducible-analytical-pipelines-rap-companion-1

@@ -69,7 +69,7 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <script async="" defer="" data-domain="bigbookofr.com" src="https://plausible.io/js/plausible.outbound-links.js"></script>
-</head><body class="nav-sidebar floating fullcontent"><a rel="me" href="https://fosstodon.org/@OscarBaruffa"></a>
+</head><body class="nav-sidebar floating"><a rel="me" href="https://fosstodon.org/@OscarBaruffa"></a>
 
 
 <meta property="og:title" content="Big Book of R - 13&nbsp; Data Visualization">
@@ -85,6 +85,37 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://www.bigbookofr.com/images/big_book_social.png">
 
+<style>
+#quarto-sidebar .menu-text {
+  display: flex;
+}
+#quarto-sidebar .chapter-number {
+  display: block;
+  width: 1em;
+  text-align: right;
+}
+#quarto-sidebar .chapter-title {
+  display: block;
+  padding-left: 10px;
+  text-indent: -10px;
+  width: 100%;
+}
+#quarto-toc {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 200px; /* Adjust width as needed */
+  height: 100%;
+  overflow: auto;
+}
+#quarto-main {
+  margin-left: 210px; /* Adjust so content does not overlap with TOC */
+}
+/* CSS to hide the search widget */
+.quarto-search, .search-input {
+  display: none;
+}
+</style>
 
 
 
@@ -356,7 +387,33 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#a-ggplot2-tutorial-for-beautiful-plotting-in-r" id="toc-a-ggplot2-tutorial-for-beautiful-plotting-in-r" class="nav-link active" data-scroll-target="#a-ggplot2-tutorial-for-beautiful-plotting-in-r"><span class="header-section-number">13.1</span> A ggplot2 Tutorial for Beautiful Plotting in R</a></li>
+  <li><a href="#an-introduction-to-ggplot2" id="toc-an-introduction-to-ggplot2" class="nav-link" data-scroll-target="#an-introduction-to-ggplot2"><span class="header-section-number">13.2</span> An Introduction to ggplot2</a></li>
+  <li><a href="#bbc-visual-and-data-journalism-cookbook-for-r-graphics" id="toc-bbc-visual-and-data-journalism-cookbook-for-r-graphics" class="nav-link" data-scroll-target="#bbc-visual-and-data-journalism-cookbook-for-r-graphics"><span class="header-section-number">13.3</span> BBC Visual and Data Journalism cookbook for R graphics</a></li>
+  <li><a href="#data-processing-visualization" id="toc-data-processing-visualization" class="nav-link" data-scroll-target="#data-processing-visualization"><span class="header-section-number">13.4</span> Data Processing &amp; Visualization</a></li>
+  <li><a href="#data-visualization---a-practical-introduction" id="toc-data-visualization---a-practical-introduction" class="nav-link" data-scroll-target="#data-visualization---a-practical-introduction"><span class="header-section-number">13.5</span> Data Visualization - A practical introduction</a></li>
+  <li><a href="#data-visualization-in-r" id="toc-data-visualization-in-r" class="nav-link" data-scroll-target="#data-visualization-in-r"><span class="header-section-number">13.6</span> Data Visualization in R</a></li>
+  <li><a href="#data-visualization-with-r" id="toc-data-visualization-with-r" class="nav-link" data-scroll-target="#data-visualization-with-r"><span class="header-section-number">13.7</span> Data Visualization with R</a></li>
+  <li><a href="#data-wrangling-and-visualization-guide" id="toc-data-wrangling-and-visualization-guide" class="nav-link" data-scroll-target="#data-wrangling-and-visualization-guide"><span class="header-section-number">13.8</span> Data Wrangling and Visualization Guide</a></li>
+  <li><a href="#data-visualisation-using-r-for-researchers-who-dont-use-r" id="toc-data-visualisation-using-r-for-researchers-who-dont-use-r" class="nav-link" data-scroll-target="#data-visualisation-using-r-for-researchers-who-dont-use-r"><span class="header-section-number">13.9</span> Data visualisation using R, for researchers who don’t use R</a></li>
+  <li><a href="#fundamentals-of-data-visualization" id="toc-fundamentals-of-data-visualization" class="nav-link" data-scroll-target="#fundamentals-of-data-visualization"><span class="header-section-number">13.10</span> Fundamentals of Data Visualization</a></li>
+  <li><a href="#graphical-data-analysis-with-r" id="toc-graphical-data-analysis-with-r" class="nav-link" data-scroll-target="#graphical-data-analysis-with-r"><span class="header-section-number">13.11</span> Graphical Data Analysis with R</a></li>
+  <li><a href="#hands-on-data-visualization-interactive-storytelling-from-spreadsheets-to-code" id="toc-hands-on-data-visualization-interactive-storytelling-from-spreadsheets-to-code" class="nav-link" data-scroll-target="#hands-on-data-visualization-interactive-storytelling-from-spreadsheets-to-code"><span class="header-section-number">13.12</span> Hands-On Data Visualization Interactive Storytelling from Spreadsheets to Code</a></li>
+  <li><a href="#javascript-for-r" id="toc-javascript-for-r" class="nav-link" data-scroll-target="#javascript-for-r"><span class="header-section-number">13.13</span> JavaScript for R</a></li>
+  <li><a href="#r-graphics-cookbook-2nd-edition" id="toc-r-graphics-cookbook-2nd-edition" class="nav-link" data-scroll-target="#r-graphics-cookbook-2nd-edition"><span class="header-section-number">13.14</span> R Graphics Cookbook, 2nd edition</a></li>
+  <li><a href="#solutions-to-ggplot2-elegant-graphics-for-data-analysis" id="toc-solutions-to-ggplot2-elegant-graphics-for-data-analysis" class="nav-link" data-scroll-target="#solutions-to-ggplot2-elegant-graphics-for-data-analysis"><span class="header-section-number">13.15</span> Solutions to ggplot2 Elegant Graphics for Data Analysis</a></li>
+  <li><a href="#the-hitchhikers-guide-to-ggplot2" id="toc-the-hitchhikers-guide-to-ggplot2" class="nav-link" data-scroll-target="#the-hitchhikers-guide-to-ggplot2"><span class="header-section-number">13.16</span> The Hitchhiker’s Guide to Ggplot2</a></li>
+  <li><a href="#ggplot2-elegant-graphics-for-data-analysis" id="toc-ggplot2-elegant-graphics-for-data-analysis" class="nav-link" data-scroll-target="#ggplot2-elegant-graphics-for-data-analysis"><span class="header-section-number">13.17</span> ggplot2 Elegant Graphics for Data Analysis</a></li>
+  <li><a href="#ggplot2-in-2" id="toc-ggplot2-in-2" class="nav-link" data-scroll-target="#ggplot2-in-2"><span class="header-section-number">13.18</span> ggplot2 in 2</a></li>
+  <li><a href="#plotly-interactive-web-based-data-visualization-with-r-plotly-and-shiny" id="toc-plotly-interactive-web-based-data-visualization-with-r-plotly-and-shiny" class="nav-link" data-scroll-target="#plotly-interactive-web-based-data-visualization-with-r-plotly-and-shiny"><span class="header-section-number">13.19</span> plotly Interactive web-based data visualization with R, plotly, and shiny</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 

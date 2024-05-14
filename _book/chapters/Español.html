@@ -69,7 +69,7 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <script async="" defer="" data-domain="bigbookofr.com" src="https://plausible.io/js/plausible.outbound-links.js"></script>
-</head><body class="nav-sidebar floating fullcontent"><a rel="me" href="https://fosstodon.org/@OscarBaruffa"></a>
+</head><body class="nav-sidebar floating"><a rel="me" href="https://fosstodon.org/@OscarBaruffa"></a>
 
 
 <meta property="og:title" content="Big Book of R - 15&nbsp; Español">
@@ -85,6 +85,37 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://www.bigbookofr.com/images/big_book_social.png">
 
+<style>
+#quarto-sidebar .menu-text {
+  display: flex;
+}
+#quarto-sidebar .chapter-number {
+  display: block;
+  width: 1em;
+  text-align: right;
+}
+#quarto-sidebar .chapter-title {
+  display: block;
+  padding-left: 10px;
+  text-indent: -10px;
+  width: 100%;
+}
+#quarto-toc {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 200px; /* Adjust width as needed */
+  height: 100%;
+  overflow: auto;
+}
+#quarto-main {
+  margin-left: 210px; /* Adjust so content does not overlap with TOC */
+}
+/* CSS to hide the search widget */
+.quarto-search, .search-input {
+  display: none;
+}
+</style>
 
 
 
@@ -356,7 +387,18 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#cuentapalabras-estilometría-y-análisis-de-texto-con-r-para-filólogos" id="toc-cuentapalabras-estilometría-y-análisis-de-texto-con-r-para-filólogos" class="nav-link active" data-scroll-target="#cuentapalabras-estilometría-y-análisis-de-texto-con-r-para-filólogos"><span class="header-section-number">15.1</span> Cuentapalabras: Estilometría y análisis de texto con R para filólogos</a></li>
+  <li><a href="#introducción-a-la-probabilidad" id="toc-introducción-a-la-probabilidad" class="nav-link" data-scroll-target="#introducción-a-la-probabilidad"><span class="header-section-number">15.2</span> Introducción a la Probabilidad</a></li>
+  <li><a href="#r-para-ciencia-de-datos" id="toc-r-para-ciencia-de-datos" class="nav-link" data-scroll-target="#r-para-ciencia-de-datos"><span class="header-section-number">15.3</span> R Para Ciencia de Datos</a></li>
+  <li><a href="#r-para-epidemiología-aplicada-y-salud-pública" id="toc-r-para-epidemiología-aplicada-y-salud-pública" class="nav-link" data-scroll-target="#r-para-epidemiología-aplicada-y-salud-pública"><span class="header-section-number">15.4</span> R para epidemiología aplicada y salud pública</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 

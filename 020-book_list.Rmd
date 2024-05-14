@@ -15,6 +15,7 @@ library(googlesheets4)
 
 
 
+
 ```{r load data, include=FALSE}
 # Load data ---------------------------------------------------------------
 
@@ -74,7 +75,7 @@ chapters <- books_source %>%
 
 # Re-arrange "Career and Community" to be the first chapter and "Other compendiums" to be the last. 
 first <-  chapters[match("Career and Community", chapters)]
-last <-  chapters[match("Other compendiums", chapters)]
+last <-  chapters[match("Other Compendiums", chapters)]
 
 chapters <- chapters[chapters!=first]
 chapters <- chapters[chapters!=last]

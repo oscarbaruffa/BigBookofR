@@ -1,0 +1,125 @@
+# Reports
+
+## Getting used to R, RStudio, and R Markdown
+
+- Chester Ismay
+
+This resource is designed to provide new users to R, RStudio, and R
+Markdown with the introductory steps needed to begin their own
+reproducible research. A review of many of the common R errors
+encountered (and what they mean in layman's terms) will also provided be
+provided.
+
+Link: [https://bookdown.org/chesterismay/rbasics/](https://bookdown.org/chesterismay/rbasics/)
+
+## Introduction to R Markdown
+
+- Michael Clark
+
+The goal is for you to be able to get quickly started with your own
+document, and understand the possibilities available to you. You will
+get a feel for the basic mechanics at play, as well as have ideas on how
+to customize the result to your own tastes.
+
+Link: [https://m-clark.github.io/Introduction-to-Rmarkdown/](https://m-clark.github.io/Introduction-to-Rmarkdown/)
+
+## Pimp my RMD a few tips for R Markdown
+
+- Yan Holtz
+
+R markdown creates interactive reports from R code. This post provides a
+few tips I use on a daily basis to improve the appearance of output
+documents.
+
+Link: [https://holtzy.github.io/Pimp-my-rmd/](https://holtzy.github.io/Pimp-my-rmd/)
+
+## R Markdown Cookbook
+
+- [Yihui Xie](https://yihui.org/)
+- [Christophe Dervieux](https://twitter.com/chrisderv)
+- [Emily Riederer](https://twitter.com/emilyriederer)
+
+This book showcases short, practical examples of lesser-known tips and
+tricks to helps users get the most out of these tools. After reading
+this book, you will understand how R Markdown documents are transformed
+from plain text and how you may customize nearly every step of this
+processing. For example, you will learn how to dynamically create
+content from R code, reference code in other documents or chunks,
+control the formatting with customer templates, fine-tune how your code
+is processed, and incorporate multiple languages into your analysis.
+
+Link: [https://bookdown.org/yihui/rmarkdown-cookbook/](https://bookdown.org/yihui/rmarkdown-cookbook/)
+
+## R Markdown The Definitive Guide
+
+- [Yihui Xie](https://yihui.org/)
+- [J. J. Allaire](https://github.com/jjallaire)
+- [Garrett Grolemund](https://twitter.com/StatGarrett)
+
+The first official book authored by the core R Markdown developers that
+provides a comprehensive and accurate reference to the R Markdown
+ecosystem. With R Markdown, you can easily create reproducible data
+analysis reports, presentations, dashboards, interactive applications,
+books, dissertations, websites, and journal articles, while enjoying the
+simplicity of Markdown and the great power of R and other languages.
+
+Link: [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
+
+## R bookdownplus Textbook
+
+- Peng Zhao
+
+‘bookdownplus’ is an extension of ‘bookdown’. It is a collection of multiple templates, which I have been collecting since years ago on the basis of LaTeX, and have been tailoring them so that I can work happily under the umbrella of ‘bookdown’. ‘bookdownplus’ helps you (and me) write varied types of books and documents. This book you are reading at the moment was exactly produced by ‘bookdownplus’.
+
+Link: [https://bookdown.org/baydap/bookdownplus/](https://bookdown.org/baydap/bookdownplus/)
+
+## RMarkdown for Scientists
+
+- Nicholas Tierney
+
+This is a book on rmarkdown, aimed for scientists. It was initially
+developed as a 3 hour workshop, but is now developed into a resource
+that will grow and change over time as a living book.
+
+Link: [https://rmd4sci.njtierney.com/](https://rmd4sci.njtierney.com/)
+
+## Report Writing for Data Science in R
+
+- [Roger D. Peng]](https://twitter.com/rdpeng)
+
+This book teaches the fundamental concepts and tools behind reporting
+modern data analyses in a reproducible manner. As data analyses become
+increasingly complex, the need for clear and reproducible report writing
+is greater than ever.
+
+Paid: Free or pay what you want $10
+
+Link: [https://leanpub.com/reportwriting](https://leanpub.com/reportwriting)
+
+## Reproducible Research with R and RStudio
+
+- Christopher Gandrud
+
+This book present all the Tools for Gathering and Analyzing Data and
+Presenting Results Reproducible Research with R and RStudio through
+practical examples.
+
+The book can be reproduced by using the R package bookdown. You can buy a copy at:
+
+<https://www.routledge.com/Reproducible-Research-with-R-and-RStudio/Gandrud/p/book/9780367143985>
+
+Link: [https://github.com/christophergandrud/Rep-Res-Book>  Also, you can buy the copy.](https://github.com/christophergandrud/Rep-Res-Book>  Also, you can buy the copy.)
+
+## knitr
+
+- [Yihui Xie](https://yihui.org/)
+
+Dynamic documents with R and knitr!
+
+The knitr package was designed to be a transparent engine for dynamic
+report generation with R, solve some long-standing problems in Sweave,
+and combine features in other add-on packages into one package.
+
+Link: [https://yihui.org/knitr/](https://yihui.org/knitr/)
+
+

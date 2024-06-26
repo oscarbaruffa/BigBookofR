@@ -1,0 +1,25 @@
+# Art
+
+There are no books available covering art, but there are some blog posts available. This first one is is a good intro.
+
+## Art from Code
+
+- Danielle Navarro
+
+This workshop provides a hands-on introduction to generative art in R. You’ll learn artistic techniques that generative artists use regularly in their work including flow fields, iterative function systems, and more. You’ll also learn about R packages specialised for generative art.
+
+Link: [https://art-from-code.netlify.app/](https://art-from-code.netlify.app/)
+
+## Thinking Outside The Grid - A “bare bones” intro to Rtistry concepts in R using ggplot.
+
+- [Megan Harris](https://twitter.com/meghansharris)
+
+Recently I’ve discovered the courage to dive into creative coding and generative aRt in R. Something that the R community calls “Rtistry.” My Rtistry journey so far has been an amazing and tranquil expedition into a world that seemed intimidating and scary on the outside but is honestly just a bottomless pit of fun and creativity on the inside.
+
+I’m going to talk about some very basic concepts and perspectives you can think about while starting your own Rtistry journey in ggplot. This includes basics on geoms, aesthetics, layering, etc. But then I’m also going to walk you through two of my Rtistry examples and code to get you started.
+
+This article is intended for those who have some experience with ggplot building in R but may not have realized how to transition from making “regular” visuals to Rtistry. This article goes over basic concepts that more seasoned users may already know.
+
+Link: [https://thetidytrekker.com/post/thinking-outside-the-grid/thinking-outside-the-grid.html](https://thetidytrekker.com/post/thinking-outside-the-grid/thinking-outside-the-grid.html)
+
+

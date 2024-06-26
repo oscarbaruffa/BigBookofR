@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Oscar Baruffa">
-<meta name="dcterms.date" content="2024-04-11">
 
-<title>Big Book of R</title>
+<title>Big Book of R - 8&nbsp; Big Data</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,25 +23,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./010-start_here.html" rel="next">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../chapters/Blogdown.html" rel="next">
+<link href="../chapters/Art.html" rel="prev">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -79,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<meta property="og:title" content="Big Book of R">
+<meta property="og:title" content="Big Book of R - 8&nbsp; Big Data">
 
 <meta property="og:description" content="">
 
@@ -91,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<meta name="twitter:title" content="Big Book of R">
+<meta name="twitter:title" content="Big Book of R - 8&nbsp; Big Data">
 
 <meta name="twitter:card" content="summary_large_image">
 
@@ -118,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Welcome :)</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/Big Data.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Big Data</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -133,7 +132,7 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Big Book of R</a> 
+      <a href="../">Big Book of R</a> 
         <div class="sidebar-tools-main">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
@@ -148,235 +147,235 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Welcome :)</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./010-start_here.html" class="sidebar-item-text sidebar-link">
+  <a href="../010-start_here.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">New to R? Start here</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./015-book_clubs.html" class="sidebar-item-text sidebar-link">
+  <a href="../015-book_clubs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Book Clubs</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Career and Community.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Career and Community.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Career and Community</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/API.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/API.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">API</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Archeology.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Archeology.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Archeology</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Art.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Art.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Art</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Big Data.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Big Data.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Big Data</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Blogdown.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Blogdown.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Blogdown</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Bookdown.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Bookdown.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Bookdown</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Data Science.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Data Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Data Science</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Data Visualization.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Data Visualization.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Data Visualization</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Data Databases and Engineering.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Data Databases and Engineering.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Data, Databases and Engineering</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Economics.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Economics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Economics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Español.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Español.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Español</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Field Specific.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Field Specific.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Field Specific</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Finance.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Finance.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Finance</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Geospatial.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Geospatial.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Geospatial</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Getting Cleaning and Wrangling Data.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Getting Cleaning and Wrangling Data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Getting, Cleaning and Wrangling Data</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Journalism.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Journalism.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Journalism</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Life Sciences.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Life Sciences.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Life Sciences</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Machine Learning.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Machine Learning.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Machine Learning</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Network Analysis.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Network Analysis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Network Analysis</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Packages.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Packages.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Packages</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/People Analytics.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/People Analytics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">People Analytics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Psychology.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Psychology.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Psychology</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/R Package Development.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/R Package Development.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">R Package Development</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/R Programming.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/R Programming.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">R Programming</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Reports.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Reports.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Reports</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Shiny.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Shiny.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Shiny</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Social Science.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Social Science.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Social Science</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Sport Analytics.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Sport Analytics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Sport Analytics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Statistics.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Statistics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Statistics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Teaching.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Teaching.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Teaching</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Text Analysis.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Text Analysis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Text Analysis</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Time Series Analysis and Forecasting.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Time Series Analysis and Forecasting.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">Time Series Analysis and Forecasting</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Version Control.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Version Control.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">37</span>&nbsp; <span class="chapter-title">Version Control</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Workflow.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Workflow.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">Workflow</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./chapters/Other Compendiums.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Other Compendiums.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">39</span>&nbsp; <span class="chapter-title">Other Compendiums</span></span></a>
   </div>
 </li>
@@ -390,16 +389,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#your-last-ever-bookmark" id="toc-your-last-ever-bookmark" class="nav-link active" data-scroll-target="#your-last-ever-bookmark"><span class="header-section-number">1</span> Your last-ever bookmark</a>
-  <ul>
-  <li><a href="#searching" id="toc-searching" class="nav-link" data-scroll-target="#searching"><span class="header-section-number">1.1</span> Searching</a></li>
-  <li><a href="#supporting" id="toc-supporting" class="nav-link" data-scroll-target="#supporting"><span class="header-section-number">1.2</span> Supporting</a></li>
-  <li><a href="#contributing" id="toc-contributing" class="nav-link" data-scroll-target="#contributing"><span class="header-section-number">1.3</span> Contributing</a></li>
-  <li><a href="#contributors" id="toc-contributors" class="nav-link" data-scroll-target="#contributors"><span class="header-section-number">1.4</span> Contributors</a></li>
-  <li><a href="#license" id="toc-license" class="nav-link" data-scroll-target="#license"><span class="header-section-number">1.5</span> License</a></li>
-  <li><a href="#live-stats" id="toc-live-stats" class="nav-link" data-scroll-target="#live-stats"><span class="header-section-number">1.6</span> Live stats</a></li>
-  <li><a href="#about-me" id="toc-about-me" class="nav-link" data-scroll-target="#about-me"><span class="header-section-number">1.7</span> About me</a></li>
-  </ul></li>
+  <li><a href="#big-data-analytics" id="toc-big-data-analytics" class="nav-link active" data-scroll-target="#big-data-analytics"><span class="header-section-number">8.1</span> Big Data Analytics</a></li>
+  <li><a href="#big-data-with-r---exercise-book" id="toc-big-data-with-r---exercise-book" class="nav-link" data-scroll-target="#big-data-with-r---exercise-book"><span class="header-section-number">8.2</span> Big Data with R - Exercise book</a></li>
+  <li><a href="#exploring-visualizing-and-modeling-big-data-with-r" id="toc-exploring-visualizing-and-modeling-big-data-with-r" class="nav-link" data-scroll-target="#exploring-visualizing-and-modeling-big-data-with-r"><span class="header-section-number">8.3</span> Exploring, Visualizing, and Modeling Big Data with R</a></li>
+  <li><a href="#larger-than-memory-data-workflows-with-apache-arrow" id="toc-larger-than-memory-data-workflows-with-apache-arrow" class="nav-link" data-scroll-target="#larger-than-memory-data-workflows-with-apache-arrow"><span class="header-section-number">8.4</span> Larger-Than-Memory Data Workflows with Apache Arrow</a></li>
+  <li><a href="#mastering-spark-with-r" id="toc-mastering-spark-with-r" class="nav-link" data-scroll-target="#mastering-spark-with-r"><span class="header-section-number">8.5</span> Mastering Spark with R</a></li>
+  <li><a href="#using-spark-from-r-for-performance-with-arbitrary-code" id="toc-using-spark-from-r-for-performance-with-arbitrary-code" class="nav-link" data-scroll-target="#using-spark-from-r-for-performance-with-arbitrary-code"><span class="header-section-number">8.6</span> Using Spark from R for performance with arbitrary code</a></li>
   </ul>
 </nav>
     </div>
@@ -408,26 +403,14 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome :)</h1>
+<h1 class="title"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Big Data</span></h1>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Oscar Baruffa </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">2024-04-11</p>
-    </div>
-  </div>
   
     
   </div>
@@ -437,49 +420,61 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="big-data-analytics" class="level2" data-number="8.1">
+<h2 data-number="8.1" class="anchored" data-anchor-id="big-data-analytics"><span class="header-section-number">8.1</span> Big Data Analytics</h2>
+<ul>
+<li>Ulrich Matter</li>
+</ul>
+<p>This is the website of the 1st edition of “Big Data Analytics”. The book provides an introduction to Big Data Analytics for academics and practitioners</p>
+<p>Link: <a href="https://umatter.github.io/BigData/">https://umatter.github.io/BigData/</a></p>
+</section>
+<section id="big-data-with-r---exercise-book" class="level2" data-number="8.2">
+<h2 data-number="8.2" class="anchored" data-anchor-id="big-data-with-r---exercise-book"><span class="header-section-number">8.2</span> Big Data with R - Exercise book</h2>
+<ul>
+<li><a href="https://twitter.com/Blair09M">James Blair</a></li>
+</ul>
+<p>This 2-day workshop covers how to analyze large amounts of data in R. We will focus on scaling up our analyses using the same dplyr verbs that we use in our everyday work. We will use dplyr with data.table, databases, and Spark. We will also cover best practices on visualizing, modeling, and sharing against these data sources. Where applicable, we will review recommended connection settings, security best practices, and deployment options.</p>
+<p>Link: <a href="https://rstudio-conf-2020.github.io/big-data/">https://rstudio-conf-2020.github.io/big-data/</a></p>
+</section>
+<section id="exploring-visualizing-and-modeling-big-data-with-r" class="level2" data-number="8.3">
+<h2 data-number="8.3" class="anchored" data-anchor-id="exploring-visualizing-and-modeling-big-data-with-r"><span class="header-section-number">8.3</span> Exploring, Visualizing, and Modeling Big Data with R</h2>
+<ul>
+<li><a href="https://twitter.com/drokanbulut">Okan Bulut</a></li>
+<li><a href="https://github.com/cddesja">Christopher Desjardins</a></li>
+</ul>
+<p>Working with BIG DATA requires a particular suite of data analytics tools and advanced techniques, such as machine learning (ML). Many of these tools are readily and freely available in R. This full-day session will provide participants with a hands-on training on how to use data analytics tools and machine learning methods available in R to explore, visualize, and model big data.</p>
+<p>Link: <a href="https://okanbulut.github.io/bigdata/">https://okanbulut.github.io/bigdata/</a></p>
+</section>
+<section id="larger-than-memory-data-workflows-with-apache-arrow" class="level2" data-number="8.4">
+<h2 data-number="8.4" class="anchored" data-anchor-id="larger-than-memory-data-workflows-with-apache-arrow"><span class="header-section-number">8.4</span> Larger-Than-Memory Data Workflows with Apache Arrow</h2>
+<ul>
+<li><a href="https://djnavarro.net">Danielle Navarro</a></li>
+<li><a href="https://jonkeane.com">Jonathan Keane</a></li>
+<li><a href="https://twitter.com/stephhazlitt">Stephanie Hazlitt</a></li>
+</ul>
+<p>In this tutorial you will learn how to use the arrow R package to create seamless engineering-to-analysis data pipelines. You’ll learn how to use interoperable data file formats like Parquet or Feather for efficient storage and data access. You’ll learn how to exercise fine control over data types to avoid common data pipeline problems. During the tutorial you’ll be processing larger-than-memory files and multi-file datasets with familiar dplyr syntax, and working with data in cloud storage.</p>
+<p>Link: <a href="https://arrow-user2022.netlify.app">https://arrow-user2022.netlify.app</a></p>
+</section>
+<section id="mastering-spark-with-r" class="level2" data-number="8.5">
+<h2 data-number="8.5" class="anchored" data-anchor-id="mastering-spark-with-r"><span class="header-section-number">8.5</span> Mastering Spark with R</h2>
+<ul>
+<li>Javier Luraschi</li>
+<li>Kevin Kuo</li>
+<li>Edgar Ruiz</li>
+</ul>
+<p>In this book you will learn how to use Apache Spark with R. The book intends to take someone unfamiliar with Spark or R and help you become proficient by teaching you a set of tools, skills and practices applicable to large-scale data science.</p>
+<p>PS the first chapter has a Jon Snow quote ;)</p>
+<p>Link: <a href="https://therinspark.com/">https://therinspark.com/</a></p>
+</section>
+<section id="using-spark-from-r-for-performance-with-arbitrary-code" class="level2" data-number="8.6">
+<h2 data-number="8.6" class="anchored" data-anchor-id="using-spark-from-r-for-performance-with-arbitrary-code"><span class="header-section-number">8.6</span> Using Spark from R for performance with arbitrary code</h2>
+<ul>
+<li><a href="https://twitter.com/jozefhajnala">Jozef Hajnala</a></li>
+</ul>
+<p>This book provides practical insights into using the sparklyr interface to gain the benefits of Apache Spark while still retaining the ability to use R code organized in custom-built functions and packages.</p>
+<p>Link: <a href="https://sparkfromr.com">https://sparkfromr.com</a></p>
 
-<section id="your-last-ever-bookmark" class="level1" data-number="1">
-<h1 data-number="1"><span class="header-section-number">1</span> Your last-ever bookmark</h1><p><img src="cover1.png" title="Big Book of R" class="quarto-cover-image img-fluid"></p>
-<p>Thanks for stopping by. If you’re like me, you can’t help but bookmark every R-related programming book you find in the hopes that one day you, or someone you know, might find it useful.</p>
-<p>Hopefully this is the only bookmark you’ll need in future ;).</p>
-<p>When I initially released this collection in late August 2020, it contained about 100 books that I’d been collecting over the previous two years. Since then I’ve found a few more and there have been contributions from many people. The collection now stands at over 300 books.</p>
-<p>Most of these are free. Some are paid but usually quite affordable.</p>
-<section id="searching" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="searching"><span class="header-section-number">1.1</span> Searching</h2>
-<p>If there’s something specific you’re looking for, use the menu or search using the magnifying glass icon at the top of the screen.</p>
-</section>
-<section id="supporting" class="level2" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="supporting"><span class="header-section-number">1.2</span> Supporting</h2>
-<p>If you’d like to show your appreciation with a donation you’re most welcome to do so here:</p>
-<p><a href="https://ko-fi.com/I2I1K189U" target="_blank"><img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" border="0" alt="Buy Me a Coffee at ko-fi.com"></a></p>
-</section>
-<section id="contributing" class="level2" data-number="1.3">
-<h2 data-number="1.3" class="anchored" data-anchor-id="contributing"><span class="header-section-number">1.3</span> Contributing</h2>
-<p>Please feel free to contribute paid and free books - see <a href="https://github.com/oscarbaruffa/BigBookofR">GitHub.</a> or submit via the <a href="https://docs.google.com/forms/d/e/1FAIpQLScLSaVzr8dh1dOE2M338QAhfvKfDkydB7QZGMrVWI-VudhQbA/viewform">Google Form</a>.</p>
-</section>
-<section id="contributors" class="level2" data-number="1.4">
-<h2 data-number="1.4" class="anchored" data-anchor-id="contributors"><span class="header-section-number">1.4</span> Contributors</h2>
-<p>If you’ve contributed, add your name and Twitter / blog link below!</p>
-<p><a href="https://twitter.com/OscarBaruffa">Oscar Baruffa</a>, Mohit Sharma, <a href="https://twitter.com/Sciencificity">Vebash Naidoo</a>, <a href="https://twitter.com/juliasilge">Julia Silge</a>, <a href="https://twitter.com/erikgahner">Erik Gahner Larsen</a>, <a href="https://radziwill.cc">Nicole Radziwill</a>, <a href="https://twitter.com/nistara_r">Nistara Randhawa</a>, <a href="https://twitter.com/antoine_fabri">Antoine Fabri</a>, <a href="https://twitter.com/jonmcalder">Jon Calder</a>, <a href="https://twitter.com/grimbough">Mike Smith</a>, <a href="https://github.com/bbolker">Ben Bolker</a>, <a href="https://twitter.com/ma_salmon">Maëlle Salmon</a>, <a href="https://twitter.com/LittleMissData">Laura Ellis</a>, <a href="https://twitter.com/brshallo">Bryan Shalloway</a>, <a href="https://twitter.com/antonio_uzal">Antonio Uzal</a>, <a href="http://www.louisaslett.com/">Louis Aslett</a>, <a href="https://llrs.dev">Lluís Revilla Sancho</a>, <a href="https://twitter.com/_bcullen">Brendan Cullen</a>, <a href="https://twitter.com/Rami_Krispin">Rami Krispin</a>, <a href="https://twitter.com/MichaelDorman84">Michael Dorman</a>, <a href="https://twitter.com/gbganalyst">Ezekiel Adebayo Ogundepo</a>, <a href="https://twitter.com/Shmuhammadd">Shamsuddeen Hassan Muhammad</a>, <a href="https://twitter.com/erictleung">Eric Leung</a>, <a href="https://twitter.com/ivelasq3">Isabella Velásquez</a>, <a href="https://www.mattroumaya.com/">Matt Roumaya</a>, <a href="https://twitter.com/LeganaFingerhut">Legana Fingerhut</a>, <a href="https://twitter.com/InciteDecisions">Robert D. Brown III</a>, <a href="https://twitter.com/Samrit2442">Samrit Pramanik</a>, <a href="https://twitter.com/PietroMonticone">Pietro Monticone</a>, <a href="https://twitter.com/abuuAishaaa">Adejumo Ridwan Suleiman</a>, <a href="https://opop999.github.io/">Ondrej Pekacek</a></p>
-</section>
-<section id="license" class="level2" data-number="1.5">
-<h2 data-number="1.5" class="anchored" data-anchor-id="license"><span class="header-section-number">1.5</span> License</h2>
-<p>This website/book is free to use, and is licensed under the <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/us/" target="&quot;blank">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</a>.</p>
-</section>
-<section id="live-stats" class="level2" data-number="1.6">
-<h2 data-number="1.6" class="anchored" data-anchor-id="live-stats"><span class="header-section-number">1.6</span> Live stats</h2>
-<p>Who says you can’t have privacy AND transparency??</p>
-<p>I’m guessing that if you’re interested in R then you also like data ;).</p>
-<p>Note that “unique” visits will be higher in Plausible than you’d find with Google Analytics. Because Plausible is GDPR compliant and privacy focused, each user is identified for only 1 day. If someone visits the site 2 days in a row, that’s counted as 2 “uniques” whereas in Google Analytics it would only be counted as 1 unique visitor because of the presence of persistent cookies and such that allows for tracking of users.</p>
-<p>From now on, you can view the <strong><a href="https://plausible.io/bigbookofr.com?ref=BigBoofofR">LIVE site stats right here</a></strong>.</p>
-</section>
-<section id="about-me" class="level2" data-number="1.7">
-<h2 data-number="1.7" class="anchored" data-anchor-id="about-me"><span class="header-section-number">1.7</span> About me</h2>
-<p>I’m Oscar. If you like this book, feel free to say “Hi!” on <a href="https://fosstodon.org/@OscarBaruffa">Mastodon</a> or <a href="https://www.linkedin.com/in/oscarbaruffa/">LinkedIn</a>.</p>
-<p>If you want to stay in the loop on other data-related products I create, or major updates to this book, sign up to my <a href="https://oscarbaruffa.com/newsletter?utm_source=BigBookofR_index&amp;utm_content=Link">newsletter</a>.</p>
 
-
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -1078,10 +1073,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="../chapters/Art.html" class="pagination-link" aria-label="Art">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Art</span></span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./010-start_here.html" class="pagination-link" aria-label="New to R? Start here">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">New to R? Start here</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../chapters/Blogdown.html" class="pagination-link" aria-label="Blogdown">
+        <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Blogdown</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

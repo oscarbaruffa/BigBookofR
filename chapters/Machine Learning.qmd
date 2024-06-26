@@ -1,0 +1,239 @@
+# Machine Learning
+
+## A Minimal rTorch Book
+
+- Alfonso R. Reyes
+
+Practically, you can do everything you could with PyTorch within the R
+ecosystem.
+
+Link: [https://f0nzie.github.io/rtorch-minimal-book/](https://f0nzie.github.io/rtorch-minimal-book/)
+
+## Applied Machine Learning for Tabular Data
+
+- Max Kuhn
+- Kjell Johnson
+
+We want to create a practical guide to developing quality predictive models from tabular data. We’ll publish materials here as we create them and welcome community contributions in the form of discussions, suggestions, and edits. The book takes a holistic view of the predictive modeling process and focuses on a few areas that are usually left out of similar works. For example, the effectiveness of the model can be driven by how the predictors are represented. Because of this, we tightly couple feature engineering methods with machine learning models. Also, quite a lot of work happens after we have determined our best model and created the final fit. These post-modeling activities are an important part of the model development process and will be described in detail.
+
+Link: [https://aml4td.org/](https://aml4td.org/)
+
+## Behavior Analysis with Machine Learning Using R
+
+- Enrique Garcia Ceja
+
+This book aims to provide an introduction to machine learning concepts and algorithms applied to a diverse set of behavior analysis problems. It focuses on the practical aspects of solving such problems based on data collected from sensors or stored in electronic records. The included examples demonstrate how to perform several of the tasks involved during a data analysis pipeline such as: data exploration, visualization, preprocessing, representation, model training/validation, and so on. All of this, using the R programming language and real-life datasets.
+
+Link: [https://enriquegit.github.io/behavior-free/index.html#](https://enriquegit.github.io/behavior-free/index.html#)
+
+## Data Science: Theories, Models, Algorithms, and Analytics
+
+- Sanjiv Ranjan Das
+
+I developed these class notes for my Machine Learning with R course. It traces my evolution as a data scientist into redundancy, I expect I will be replaced by a machine soon!
+
+Link: [https://srdas.github.io/MLBook/](https://srdas.github.io/MLBook/)
+
+## Deep Learning and Scientific Computing with R torch
+
+- [Sigrid Keydana](https://divergences.xyz/)
+
+This is a book about torch, the R interface to PyTorch. PyTorch, as of this writing, is one of the major deep-learning and scientific-computing frameworks, widely used across industries and areas of research. With torch, you get to access its rich functionality directly from R, with no need to install, let alone learn, Python.
+
+Link: [https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/)
+
+## Explanatory Model Analysis
+
+- [Przemyslaw Biecek](https://github.com/pbiecek)
+- Tomasz Burzykowski
+
+Responsible, Fair and Explainable Predictive Modeling with examples in R
+and Python
+
+Link: [https://pbiecek.github.io/ema/](https://pbiecek.github.io/ema/)
+
+## Feature Engineering A-Z
+
+- Emil Hvitfeldt
+
+This book is written to be used as a reference guide to nearly all feature engineering methods you will encounter. This book is designed to be used by people involved in the modeling of data. These can include but are not limited to data scientists, students, professors, data analysts and machine learning engineers. The reference style nature of the book makes it useful for beginners and seasoned professionals. A background in the basics of modeling, statistics and machine learning would be helpful. Feature engineering as a practice is tightly connected to the rest of the machine learning pipeline so knowledge of the other components is key.
+
+Many educational resources skip over the finer details of feature engineering methods, which is where this book tries to fill the gap.
+
+Link: [https://feaz-book.com/](https://feaz-book.com/)
+
+## Feature Engineering and Selection A Practical Approach for Predictive Models
+
+- Max Kuhn
+- Kjell Johnson
+
+The goals of Feature Engineering and Selection are to provide tools for
+re-representing predictors, to place these tools in the context of a
+good predictive modeling framework, and to convey our experience of
+utilizing these tools in practice.
+
+Link: [http://www.feat.engineering/index.html](http://www.feat.engineering/index.html)
+
+## Hands-On Machine Learning with R
+
+- Bradley Boehmke
+- Brandon Greenwell
+
+This book provides hands-on modules for many of the most common machine
+learning methods to include:
+
+Generalized low rank models, Clustering algorithms, Autoencoders,
+Regularized models, Random forests, Gradient boosting machines, Deep
+neural networks, Stacking / super learners and more!
+
+Link: [https://bradleyboehmke.github.io/HOML/](https://bradleyboehmke.github.io/HOML/)
+
+## Interpretable Machine Learning
+
+- [Christoph Molnar](https://twitter.com/ChristophMolnar)
+
+A Guide for Making Black Box Models Explainable
+
+[Online book](https://christophm.github.io/interpretable-ml-book/)
+
+Paid: Free or pay what you want $42
+
+Link: [https://leanpub.com/interpretable-machine-learning](https://leanpub.com/interpretable-machine-learning)
+
+## Lightweight Machine Learning Classics with R Marek Gagolewski
+
+
+
+In this book we will take an unpretentious glance at the most fundamental algorithms that have stood the test of time and which form the basis for state-of-the-art solutions of modern AI, which is principally (big) data-driven.
+
+Link: [https://lmlcr.gagolewski.com/](https://lmlcr.gagolewski.com/)
+
+## Machine Learning for Factor Investing
+
+- [Guillaume Coqueret](https://twitter.com/g_coqueret)
+- [Tony Guida](https://twitter.com/TonyGUIDA_Quant)
+
+This book is intended to cover some advanced modelling techniques
+applied to equity investment strategies that are built on firm
+characteristics.
+
+Link: [http://www.mlfactor.com/](http://www.mlfactor.com/)
+
+## Mathematics and Programming for Machine Learning with R From the Ground Up 1st Edition, Kindle
+
+- [William B. Claster](https://twitter.com/BillOita?s=09)
+
+Based on the author's experience in teaching data science for more than
+10 years, Mathematics and Programming for Machine Learning with R: From
+the Ground Up reveals how machine learning algorithms do their magic and
+explains how these algorithms can be implemented in code. It is designed
+to provide readers with an understanding of the reasoning behind machine
+learning algorithms as well as how to program them. Written for novice
+programmers, the book progresses step-by-step, providing the coding
+skills needed to implement machine learning algorithms in R.
+
+Link: [https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y](https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y)
+
+## Neural Cryptography Using Keras in R
+
+- Michael Harris
+
+This book illustrates a method of using the traditional deep learning-based multi-class classification techniques to hide messages in a matrix of seemingly random numbers. This book is definitely a niche topic and is more of a fun project than something you would want to do for work. The premise is that you can represent characters as a sequence of random numbers you uniquely generate, and with the help of a neural network, a message can be embedded in a matrix of numbers. In the book, I also describe how this method can be used to embed messages in images.
+
+Paid: Free and paid $15
+
+Link: [https://www.statswithr.com/neural-cryptography-using-keras-in-r](https://www.statswithr.com/neural-cryptography-using-keras-in-r)
+
+## Neural Networks with Keras in R: A QuickStart Guide
+
+- Michael Harris
+
+I wrote this book for people who primarily use other statistical software like SPSS or SAS, and want to get started in deep learning with Keras. With this idea in mind, a sizable chuck of the book is giving people the prerequisite information they need to start using Keras. I start from the very beginning of assigning variables and end with multi-class classification with deep learning models.
+
+Paid: Free and paid $15
+
+Link: [https://www.statswithr.com/neural-networks-with-keras-in-r-a-quickstart-guide](https://www.statswithr.com/neural-networks-with-keras-in-r-a-quickstart-guide)
+
+## Supervised Machine Learning for Text Analysis in R
+
+- [Emil Hvitfeldt](https://twitter.com/Emil_Hvitfeldt)
+- [Julia Silge](https://twitter.com/juliasilge)
+
+Modeling as a statistical practice can encompass a wide variety of
+activities. This book focuses on supervised or predictive modeling for
+text, using text data to make predictions about the world around us. We
+use the tidymodels framework for modeling, a consistent and flexible
+collection of R packages developed to encourage good statistical
+practice.
+
+Link: [https://smltar.com/](https://smltar.com/)
+
+## Surrogates - Gaussian process modeling, design and optimization for the applied sciences
+
+- [Robert B. Gramacy](https://www.stat.vt.edu/people/stat-faculty/gramacy-robert.html)
+
+Surrogates is a graduate textbook, or professional handbook, on topics at the interface between machine learning, spatial statistics, computer simulation, meta-modeling (i.e., emulation), design of experiments, and optimization. Experimentation through simulation, “human out-of-the-loop” statistical support, management of dynamic processes, online and real-time analysis, automation, and practical application are at the forefront.
+
+Link: [https://bookdown.org/rbg/surrogates/](https://bookdown.org/rbg/surrogates/)
+
+## The Hitchhiker's Guide to Responsible Machine Learning
+
+- Przemyslaw Biecek
+- Anna Kozak
+- Aleksander Zawada
+
+A graphic novel approach to responsible machine learning
+
+Link: [https://betaandbit.github.io/RML/](https://betaandbit.github.io/RML/)
+
+## The caret Package
+
+- Max Kuhn
+
+The caret package (short for Classification And REgression Training) is
+a set of functions that attempt to streamline the process for creating
+predictive models.
+
+Link: [https://topepo.github.io/caret/index.html](https://topepo.github.io/caret/index.html)
+
+## Tidy Modeling with R
+
+- [Max Kuhn](https://twitter.com/topepos)
+- [Julia Silge](https://twitter.com/juliasilge)
+
+This book provides an introduction to how to use the tidymodels suite of
+packages to create models using a tidyverse approach and encourages good
+methodology and statistical practice throughout demonstrated using
+series of applied examples.
+
+Link: [https://www.tmwr.org/](https://www.tmwr.org/)
+
+## mlr3 book
+
+- [Michel Lang](https://twitter.com/michellangts)
+
+The mlr3 package and
+[ecosystem](https://github.com/mlr-org/mlr3/wiki/Extension-Packages)
+provide a generic, object-oriented, and extensible framework for
+classification, regression, survival analysis, and other machine
+learning tasks for the R language. They do not implement any learners,
+but provide a unified interface to many existing learners in R.
+
+Link: [https://mlr3book.mlr-org.com/](https://mlr3book.mlr-org.com/)
+
+## sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series
+
+- Gilberto Camara
+- Rolf Simoes
+- Felipe Souza
+- Alber Sanchez
+- Lorena Santos
+- et al
+
+Using time series derived from big Earth Observation data sets is one of the leading research trends in Land Use Science and Remote Sensing. One of the more promising uses of satellite time series is its application to classify land use and land cover. Information on land is critical for sustainable development because our growing demand for natural resources is causing significant environmental impacts. The target audience for sits is the new generation of specialists who understand the principles of remote sensing and can write scripts in R. Ideally, users should have basic knowledge of data science methods using R.
+
+This book presents sits, an open-source R package for land use and land cover classification using big Earth observation data.
+
+Link: [https://e-sensing.github.io/sitsbook/](https://e-sensing.github.io/sitsbook/)
+
+

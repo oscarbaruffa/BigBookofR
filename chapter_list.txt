@@ -1,0 +1,36 @@
+- chapters/Career and Community.qmd
+- chapters/API.qmd
+- chapters/Archeology.qmd
+- chapters/Art.qmd
+- chapters/Big Data.qmd
+- chapters/Blogdown.qmd
+- chapters/Bookdown.qmd
+- chapters/Data Science.qmd
+- chapters/Data Visualization.qmd
+- chapters/Data Databases and Engineering.qmd
+- chapters/Economics.qmd
+- chapters/Español.qmd
+- chapters/Field Specific.qmd
+- chapters/Finance.qmd
+- chapters/Geospatial.qmd
+- chapters/Getting Cleaning and Wrangling Data.qmd
+- chapters/Journalism.qmd
+- chapters/Life Sciences.qmd
+- chapters/Machine Learning.qmd
+- chapters/Network Analysis.qmd
+- chapters/Packages.qmd
+- chapters/People Analytics.qmd
+- chapters/Psychology.qmd
+- chapters/R Package Development.qmd
+- chapters/R Programming.qmd
+- chapters/Reports.qmd
+- chapters/Shiny.qmd
+- chapters/Social Science.qmd
+- chapters/Sport Analytics.qmd
+- chapters/Statistics.qmd
+- chapters/Teaching.qmd
+- chapters/Text Analysis.qmd
+- chapters/Time Series Analysis and Forecasting.qmd
+- chapters/Version Control.qmd
+- chapters/Workflow.qmd
+- chapters/Other Compendiums.qmd

@@ -1,0 +1,116 @@
+# Español
+
+## Analítica Urbana
+
+- Antonio Vazquez Brust
+- Angie Scetta
+
+Este libro fue escrito pensando en aquellas personas que trabajan, investigan y enseñan en áreas relacionadas al hábitat urbano y sus políticas públicas.
+
+Link: [https://analiticaurbana.netlify.app/](https://analiticaurbana.netlify.app/)
+
+## Ciencia de Datos para Gente Sociable
+
+- Antonio Vazquez Brust
+
+Este libro fue escrito con una audiencia en mente formada por urbanistas, sociólogos, politólogas y otros entusiastas que se acercan al tema desde las Ciencias Sociales. Aún así, y por supuesto, todas las personas y algoritmos con capacidad de procesar lenguaje son bienvenidas.
+
+Espero que el tono introductorio del texto, así como el esfuerzo puesto en explicar los conceptos con la mayor simplicidad posible, resulten de interés para un público amplio.
+
+No hace falta ningún conocimiento previo de programación; todas las herramientas necesarias serán explicadas sobre la marcha.
+
+Link: [https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/](https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/)
+
+## Cuentapalabras: Estilometría y análisis de texto con R para filólogos
+
+- José Manuel Fradejas Rueda
+
+En este libro ofrece una introducción al análisis automatizado de textos con el lenguaje de programación R. Está diseñado con el filólogo como destinatario básico, aunque es válido para cualquier especialista de humanidades que requiera analizar y procesar grandes cantidades de datos textuales, por lo que no presupone ni requiere ningún conocimiento previo, tan solo ganas de aprender nuevas técnicas para aplicarlas en la investigación textual.
+
+Link: [https://www.aic.uva.es/cuentapalabras/](https://www.aic.uva.es/cuentapalabras/)
+
+## Fundamentos de ciencia de datos con R
+
+- [coordinado por Gema Fernández-Avilés](https://blog.uclm.es/gemafaviles/)
+- José-María Montero
+
+Con la emergencia de la nueva sociedad, en la que el manejo de la ingente cantidad de información que genera se hace absolutamente necesario para circular por ella, la ciencia de datos ha venido para quedarse. Sin embargo, el mundo de la ciencia de datos es cualquier cosa menos sencillo. En él, cualquier ayuda, cualquier guía es bienvenida. Por ello, es muy recomendable que la persona que se quiera introducir en él, sea con fines de investigación o con fines profesionales, se agarre de la mano de un guía especializado que le lleve, de una manera amena, comprensible y eficiente, desde el planteamiento de su problema y la captura de la información necesaria para poderle dar una solución hasta la redacción de las conclusiones finales que ha obtenido con los modernos informes reproducibles colaborativos. Y como en la parte central de ese camino tendrá que luchar con grandes gigantes (en la actualidad denominados técnicas estadísticas y algoritmos), el guía tendrá que explicarle, de modo sencillo y ágil, en qué consiste la lucha (las técnicas y los algoritmos) y cómo llegar a la victoria lo más rápido posible, enseñándole a moverse por el mundo del software estadístico, en nuestro caso R, que le permitirá realizar los cálculos necesarios para vencer al problema planteado a una velocidad vertiginosa.
+
+Link: [https://cdr-book.github.io/index.html](https://cdr-book.github.io/index.html)
+
+## Introducción a la Probabilidad
+
+- Oswaldo Bello
+
+Este libro es una guía para la enseñanza de la asignatura Probabilidad, esencialmente pretende ser un curso de Probabilidades Discretas aplicado con el lenguaje de programación R.
+
+Link: [https://oswaldobelloc.github.io/probabilidades/](https://oswaldobelloc.github.io/probabilidades/)
+
+## Libro de Cocina para el Análisis de las Clases Sociales en Argentina
+
+- Nicolás Sacco
+- José Rodríguez de la Fuente
+- Sofia Jaime
+
+La literatura sobre las clases sociales en Argentina posee ya una larga tradición y una amplia gama de abordajes. La relevancia de este tema reside en las transformaciones recientes de la estructura social, pero también, en los desafíos, tanto teóricos como metodológicos, que el tema posee. Estudiantes, investigadores y profesionales, en fin, aquellos interesados en su estudio, se encuentran de forma frecuente con la paralizante tarea de afrontar la infinita literatura y discusión teórica sobre la cuestión, la construcción de información, o bien con el oscuro privilegio de acceso a ciertas bases de datos, en el caso de los estudios con datos cuantitativos secundarios; en definitiva, en la posibilidad de caer en las trampas de la ciencia cerrada o no-reproducible, todavía bastante frecuente.
+
+Link: [https://nsacco.github.io/clases-arg/index.html](https://nsacco.github.io/clases-arg/index.html)
+
+## Programación práctica con R
+
+- Garrett Grolemund
+
+Este es el sitio web para la versión en español de “Hands-On Programming with R” (en lo adelante “Programación Práctica con R”) de Garrett Grolemund. Este libro le enseñará cómo programar en R, con ejemplos prácticos. Fue escrito para personas que no son programadores con el objetivo de proporcionar una introducción amigable al lenguaje R. Aprenderá a cargar datos, ensamblar y desensamblar objetos de datos, navegar por el sistema de entorno de R, escribir sus propias funciones y utilizar todas las herramientas de programación de R. A lo largo del libro, utilizará sus nuevas habilidades para resolver problemas prácticos de ciencia de datos.
+
+Link: [https://davidrsch.github.io/hopres/](https://davidrsch.github.io/hopres/)
+
+## R Para Ciencia de Datos
+
+- Hadley Wickham
+- Garrett Grolemund
+
+Este es el sitio web de la versión en español de “R for Data Science”, de Hadley Wickham y Garrett Grolemund. Este texto te enseñará cómo hacer ciencia de datos con R: aprenderás a importar datos, llevarlos a la estructura más conveniente, transformarlos, visualizarlos y modelarlos. Así podrás poner en pŕactica las habilidades necesarias para hacer ciencia de datos.
+
+Link: [https://es.r4ds.hadley.nz/](https://es.r4ds.hadley.nz/)
+
+## R para epidemiología aplicada y salud pública
+
+- [Neale Batra](@neale_batra/appliedepi.org/)
+- [Alex Spina](https://www.linkedin.com/in/alexspina/)
+- [Paula Bianca Blomquist](inkedin.com/in/paula-bianca-blomquist-53188186)
+
+EpiRhandbook es un manual de referencia de R aplicado a la epidemiología y la salud pública.
+
+Link: [https://epirhandbook.com/es/index.html](https://epirhandbook.com/es/index.html)
+
+## R para principiantes
+
+- Juan Bosco Mendoza Vega
+
+R para principiantes pretende ser un materal introductorio al lenguaje de programación R, dirigído a personas que nunca han usado R o ningún otro lenguaje de programación, ni tiene conocimiento previo de probabilidad y estadística.
+
+Este libro tiene como propósito que adquieras los fundamentos del uso de R como un lenguaje de programación, desde sus conceptos más elementales, hasta la definición de funciones y generación de gráficos.
+
+Link: [https://bookdown.org/jboscomendoza/r-principiantes4/](https://bookdown.org/jboscomendoza/r-principiantes4/)
+
+## Ráster con Terra
+
+- [Danilo Verdugo Chaura](danilo.verdugo@usach.cl;dynageo@gmail.com)
+
+Los fenómenos geográficos se desarrollan de manera continua sobre una extensión de la superficie terrestre (en, sobre o bajo ella), y ha sido un desafío constante crear un modelo de representación tan simple para ser almacenado, procesado y visualizado con facilidad y tan complejo que permita perder el mínimo de información crítica y versátil que permita mantener el nivel de detalle proporcional a la riqueza del mundo real.
+
+Ese modelo se ha denominado modelo ráster y es el tema principal del presente libro, su origen, fundamentos, propiedades y algunos usos serán descritos en detalle.
+
+Para ello, se basará en el motor R, el entorno de trabajo Rstudio el paquete terra, el nuevo estándar de procesamiento de datos ráster. 
+
+Uno de los conjuntos de herramientas informáticas más poderosas en la actualidad. 
+
+Desde la instalación de las aplicaciones, pasando por una guía básica de su utilización, hasta una detallada descripción del trabajo con R de dicho modelo en diversas áreas del ámbito ‘geo’, tales como Clima, Población, Topografía y Batimetría. 
+
+También se tratan en detalle los fundamentos físicos de la teledetección y se estudian en detalle las principales misiones espaciales de resolución media: MODIS, Landsat y Sentinel. 
+ 
+El presente libro es una actualización del texto Ráster con R. Incluye actualización, mejoras y nuevos temas.
+
+Link: [https://drive.google.com/file/d/1nntBR7m2zooYxWpX_FkXbjxLmDyrjdhO/view?usp=sharing](https://drive.google.com/file/d/1nntBR7m2zooYxWpX_FkXbjxLmDyrjdhO/view?usp=sharing)
+
+

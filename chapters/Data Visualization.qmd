@@ -1,0 +1,218 @@
+# Data Visualization
+
+## A ggplot2 Tutorial for Beautiful Plotting in R
+
+- [Cédric Sherer](https://twitter.com/CedScherer)
+
+(Oscar: Not a book per se, but it should be, so I'm adding !)
+
+A mega tutorial of creating great ggplot2 visuals.
+
+Link: [https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+
+## An Introduction to ggplot2
+
+- Ozancan Ozdemir
+
+This book aims to show how you can make a well-known statistical plots by using ggplot2, and also how you can improve or customize them.
+
+Link: [https://bookdown.org/ozancanozdemir/introduction-to-ggplot2/](https://bookdown.org/ozancanozdemir/introduction-to-ggplot2/)
+
+## BBC Visual and Data Journalism cookbook for R graphics
+
+
+
+At the BBC data team, we have developed an R package and an R cookbook
+to make the process of creating publication-ready graphics in our
+in-house style using R's ggplot2 library a more reproducible process, as
+well as making it easier for people new to R to create graphics.
+
+Link: [https://bbc.github.io/rcookbook/](https://bbc.github.io/rcookbook/)
+
+## Data Processing & Visualization
+
+- [Michael Clark](https://m-clark.github.io/)
+
+This document provides some tools, demonstrations, and more to make data
+processing, programming, modeling, visualization, and presentation
+easier.While the programming language focus is on R, where applicable
+(which is most of the time), Python notebooks are also available.
+
+Link: [https://m-clark.github.io/data-processing-and-visualization/](https://m-clark.github.io/data-processing-and-visualization/)
+
+## Data Visualization - A practical introduction
+
+- [Kieran Healy](https://twitter.com/kjhealy)
+
+This book is a hands-on introduction to the principles and practice of
+looking at and presenting data using R and ggplot.
+
+Link: [https://socviz.co/](https://socviz.co/)
+
+## Data Visualization in R
+
+- Brooke Anderson
+
+Workshop for the 2019 Navy and Marine Corps Public Health Conference. I
+have based this workshop on examples for you to try yourself, because
+you won't be able to learn how to program unless you try it out. I've
+picked example data that I hope will be interesting to Navy and Marine
+Corp public health researchers and practitioners.
+
+Link: [https://geanders.github.io/navy_public_health/index.html#prerequisites](https://geanders.github.io/navy_public_health/index.html#prerequisites)
+
+## Data Visualization with R
+
+- Rob Kabakoff
+
+This book helps you create the most popular visualizations - from quick
+and dirty plots to publication-ready graphs. The text relies heavily on
+the ggplot2 package for graphics, but other approaches are covered as
+well.
+
+Link: [https://rkabacoff.github.io/datavis/](https://rkabacoff.github.io/datavis/)
+
+## Data Wrangling and Visualization Guide
+
+- Max Ricciardelli
+
+These modules are here to present a succinct guide to using R, RStudio, and R Markdown for data wrangling and visualization. This guide is meant for those who have little to no experience in programming. My purpose in designing these modules is to provide a brief yet clear guide to learning the basic theory of these tools and how to apply them in practice.
+
+Link: [https://bookdown.org/max_ricciardelli/wrangling_modules/](https://bookdown.org/max_ricciardelli/wrangling_modules/)
+
+## Data visualisation using R, for researchers who don’t use R
+
+- [Emily Nordmann](https://twitter.com/emilynordmann)
+- [Phil McAleer](https://twitter.com/McAleerP)
+- [Wilhelmiina Toivo](https://twitter.com/wtoivo1)
+- [Helena Paterson](https://twitter.com/PatersonHelena)
+- [Lisa DeBruine](https://twitter.com/LisaDeBruine)
+
+In this tutorial, we aim to provide a practical introduction to data visualisation using R, specifically aimed at researchers who have little to no prior experience of using R. First we detail the rationale for using R for data visualisation and introduce the “grammar of graphics” that underlies data visualisation using the ggplot package. The tutorial then walks the reader through how to replicate plots that are commonly available in point-and-click software such as histograms and boxplots, as well as showing how the code for these “basic” plots can be easily extended to less commonly available options such as violin-boxplots.
+
+Link: [https://psyteachr.github.io/introdataviz/](https://psyteachr.github.io/introdataviz/)
+
+## Fundamentals of Data Visualization
+
+- [Claus Wilke](https://twitter.com/ClausWilke)
+
+The book is meant as a guide to making visualizations that accurately
+reflect the data, tell a story, and look professional.
+
+Link: [https://clauswilke.com/dataviz/](https://clauswilke.com/dataviz/)
+
+## Graphical Data Analysis with R
+
+- [Antony Unwin](http://www.gradaanwr.net/author/)
+
+The main aim of the book is to show, using real datasets, what
+information graphical displays can reveal in data. The target readership
+includes anyone carrying out data analyses who wants to understand their
+data using graphics.
+
+The book is published by CRC Press and [available to
+purchase](https://www.routledge.com/Graphical-Data-Analysis-with-R/Unwin/p/book/9781498715232),
+but all the examples and code are freely available on a comprehensive
+website accompanying the text at <http://www.gradaanwr.net/>
+
+Link: [http://www.gradaanwr.net/](http://www.gradaanwr.net/)
+
+## Hands-On Data Visualization Interactive Storytelling from Spreadsheets to Code
+
+- Jack Dougherty
+- Ilya Ilyankou
+
+(Oscar: looks like am amazing resource and includes code templates!)
+
+In this book, you'll learn how to create true and meaningful data
+visualizations through chapters that blend design principles and
+step-by-step tutorials, in order to make your information-based analysis
+and arguments more insightful and compelling. Just as sentences become
+more persuasive with supporting evidence and source notes, your
+data-driven writing becomes more powerful when paired with appropriate
+tables, charts, or maps. Words tell us stories, but visualizations show
+us data stories by transforming quantitative, relational, or spatial
+patterns into images. When visualizations are well-designed, they draw
+our attention to what is most important in the data in ways that would
+be difficult to communicate through text alone.
+
+Link: [https://handsondataviz.org/](https://handsondataviz.org/)
+
+## JavaScript for R
+
+- [John Coene](https://john-coene.com)
+
+Learn how to build your own data visualisation packages, improve shiny
+with JavaScript, and use JavaScript for computations.
+
+Link: [https://javascript-for-r.com](https://javascript-for-r.com)
+
+## R Graphics Cookbook, 2nd edition
+
+- Winston Chang
+
+The goal of the cookbook is to provide solutions to common tasks and
+problems in analyzing data.
+
+Link: [https://r-graphics.org/](https://r-graphics.org/)
+
+## Solutions to ggplot2 Elegant Graphics for Data Analysis
+
+- [Howard Baek](https://twitter.com/howard_baek)
+
+This is the website for “Solutions to ggplot2: Elegant Graphics for Data Analysis,” a solution manual to the exercises in the 3rd edition of ggplot2: Elegant Graphics for Data Analysis, written by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen. While there are bookdown solution manuals to Hadley Wickham’s Advanced R and Mastering Shiny, there is no such thing for the ggplot2 book. This website is an attempt to fill this missing void.
+
+Link: [https://ggplot2-book-solutions-3ed.netlify.app/index.html](https://ggplot2-book-solutions-3ed.netlify.app/index.html)
+
+## The Hitchhiker's Guide to Ggplot2
+
+- [Mauricio Vargas Sepúlveda](https://twitter.com/pachadotdev)
+- [Jodie Burchell](https://twitter.com/t_redactyl)
+
+This book will help you master R plots the easy way. We have spent a long time creating R plots with different tools (base, lattice and ggplot2) during different academic and working positions. If you want to create highly customised plots in R, including replicating the styles of XKCD, The Economist or FiveThirtyEight, this is your book.
+
+Paid: Pay what you want, minimum $5 $10
+
+Link: [https://leanpub.com/ggplot-guide](https://leanpub.com/ggplot-guide)
+
+## ggplot2 Elegant Graphics for Data Analysis
+
+- Hadley Wickham
+
+ggplot2 is an R package for producing statistical, or data, graphics.
+Unlike most other graphics packages, ggplot2 has an underlying grammar,
+based on the Grammar of Graphics (Wilkinson 2005), that allows you to
+compose graphs by combining independent components. This makes ggplot2
+powerful. Rather than being limited to sets of pre-defined graphics, you
+can create novel graphics that are tailored to your specific problem.
+
+Link: [https://ggplot2-book.org/](https://ggplot2-book.org/)
+
+## ggplot2 in 2
+
+- Lucy D'Agostino McGowan
+
+Really good overview of ggplot2. The premise is that you'll cover the
+fundamentals in 2 hours. Oscar Baruffa made a sped-up
+[screencast](https://youtu.be/_G7_J8M9588) while working through it. It
+did take 2 hours :).
+
+Paid: Pay what you want, minimum \$4.99 $5
+
+Link: [https://leanpub.com/ggplot2in2](https://leanpub.com/ggplot2in2)
+
+## plotly Interactive web-based data visualization with R, plotly, and shiny
+
+- Carson Sievert
+
+In this book, you'll gain insight and practical skills for creating
+interactive and dynamic web graphics for data analysis from R. It makes
+heavy use of plotly for rendering graphics, but you'll also learn about
+other R packages that augment a data science workflow, such as the
+tidyverse and shiny. Along the way, you'll gain insight into best
+practices for visualization of high-dimensional data, statistical
+graphics, and graphical perception.
+
+Link: [https://plotly-r.com/](https://plotly-r.com/)
+
+

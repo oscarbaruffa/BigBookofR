@@ -1,0 +1,22 @@
+# Blogdown
+
+## Create, Publish, and Analyze Personal Websites Using R and RStudio
+
+- [Danny Morris](https://r4sites-book.netlify.app/get-help.html#connect-with-me)
+
+A free, digital handbook with step-by-step instructions for launching your own personal website using R, RStudio, and other freely available technologies including GitHub, Hugo, Netlify, and Google Analytics.
+
+Link: [https://r4sites-book.netlify.app/](https://r4sites-book.netlify.app/)
+
+## blogdown Creating Websites with R Markdown
+
+- Yihui Xie
+- Amber Thomas
+- Alison Presmanes Hill
+
+We introduce an R package, blogdown, in this short book, to teach you
+how to create websites using R Markdown and Hugo.
+
+Link: [https://bookdown.org/yihui/blogdown/](https://bookdown.org/yihui/blogdown/)
+
+

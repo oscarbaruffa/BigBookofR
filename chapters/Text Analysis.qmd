@@ -1,0 +1,65 @@
+# Text Analysis
+
+## An Introduction to Text Processing and Analysis with R
+
+- [Michael Clark](https://m-clark.github.io)
+
+Dealing with text is typically not even considered in the applied statistical training of most disciplines. This is in direct contrast with how often it has to be dealt with prior to more common analysis, or how interesting it might be to have text be the focus of analysis. This document and corresponding workshop will aim to provide a sense of the things one can do with text, and the sorts of analyses that might be useful.
+
+Link: [https://m-clark.github.io/text-analysis-with-R/](https://m-clark.github.io/text-analysis-with-R/)
+
+## Supervised Machine Learning for Text Analysis in R
+
+- [Emil Hvitfeldt](https://twitter.com/Emil_Hvitfeldt)
+- [Julia Silge](https://twitter.com/juliasilge)
+
+Modeling as a statistical practice can encompass a wide variety of
+activities. This book focuses on supervised or predictive modeling for
+text, using text data to make predictions about the world around us. We
+use the tidymodels framework for modeling, a consistent and flexible
+collection of R packages developed to encourage good statistical
+practice.
+
+Link: [https://smltar.com/](https://smltar.com/)
+
+## Text Mining With Tidy Data Principles
+
+- [Julia Silge](https://twitter.com/juliasilge)
+
+Text data sets are diverse and ubiquitous, and tidy data principles provide an approach to make text mining easier, more effective, and consistent with tools already in wide use. In this tutorial, you will develop your text mining skills using the tidytext package in R, along
+with other tidyverse tools.
+
+Link: [https://juliasilge.shinyapps.io/learntidytext/](https://juliasilge.shinyapps.io/learntidytext/)
+
+## Text Mining for Information Professionals: An Uncharted Territory
+
+- [Manika Lamba](https://twitter.com/lamba_manika)
+- [Margam Madhusudhan](https://twitter.com/drmadhusudhan)
+
+This book focuses on a basic theoretical framework dealing with the problems, solutions, and applications of text mining and its various facets in a very practical form of case studies, use cases, and stories. From understanding different types and forms of data to case studies showing the application of each text mining approach on data retrieved from various resources, this book is a must-read for all library professionals interested in text mining and its application in libraries. Additionally, this book will also be helpful to archivists, digital curators, or any other humanities and social science professionals who want to understand the basic theory behind text data, text mining, and various tools and techniques available to solve and visualize their research problems. 
+Authors' book website: https://textmining-infopros.github.io/
+
+Link: [https://www.amazon.com/Text-Mining-for-Information-Professionals_-An-Uncharted-Territory/dp/3030850846](https://www.amazon.com/Text-Mining-for-Information-Professionals_-An-Uncharted-Territory/dp/3030850846)
+
+## Text Mining for Social Scientists
+
+- [Felix Lennert](https://twitter.com/felixlennert)
+
+This script will cover the pre-processing of text, the implementation of supervised and unsupervised approaches to text, and in the end, I will briefly touch upon word embeddings and how social science can use them for inquiry.
+
+Link: [https://bookdown.org/f_lennert/text-mining-book/](https://bookdown.org/f_lennert/text-mining-book/)
+
+## Text Mining with R
+
+- [Julia Silge](https://twitter.com/juliasilge)
+- [David Robinson](https://twitter.com/drob)
+
+This book serves as an introduction of text mining using the tidytext
+package and other tidy tools in R. The functions provided by the
+tidytext package are relatively simple; what is important are the
+possible applications. Thus, this book provides compelling examples of
+real text mining problems.
+
+Link: [https://www.tidytextmining.com/](https://www.tidytextmining.com/)
+
+

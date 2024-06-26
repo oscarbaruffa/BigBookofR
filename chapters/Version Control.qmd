@@ -1,0 +1,69 @@
+# Version Control
+
+## Git and Github for Advanced Ecological Data Analysis
+
+- Alexa Fredston
+
+This material was prepared for a three-hour virtual session to teach Git
+and Github to a graduate-level course on Advanced Ecological Data
+Analysis taught at Rutgers University by Malin Pinsky and Rachael
+Winfree. (However, the only course-specific material is Section 4; the
+rest should be applicable to any reader.)
+
+Link: [https://afredston.github.io/learn-git/learn-git.html](https://afredston.github.io/learn-git/learn-git.html)
+
+## Github actions with R
+
+- Chris Brown
+- Murray Cadzow
+- Paula A Martinez
+- Rhydwyn McGuire
+- David Neuzerling
+- David Wilkinson, Saras Windecker
+
+GitHub actions allow us to trigger automated steps after we launch
+GitHub interactions such as when we push, pull, submit a pull request,
+or write an issue.
+
+Link: [https://ropenscilabs.github.io/actions_sandbox/](https://ropenscilabs.github.io/actions_sandbox/)
+
+## Github learning lab
+
+
+
+Not R specific or even a book, but looks like a good resource to learn
+git.
+
+Link: [https://github.com/apps/github-learning-lab](https://github.com/apps/github-learning-lab)
+
+## Happy Git and GitHub for the useR
+
+- Jenny Bryan
+- Jim Hester
+- the STAT 545 TAs
+
+Happy Git provides opinionated instructions on how to:
+
+Install Git and get it working smoothly with GitHub, in the shell and in the RStudio IDE. Develop a few key workflows that cover your most common tasks. Integrate Git and GitHub into your daily work with R and R Markdown.
+
+The target reader is someone who uses R for data analysis or who works on R packages, although some of the content may be useful to those working in adjacent areas.
+
+Link: [https://happygitwithr.com/](https://happygitwithr.com/)
+
+## Learn Version Control with Git
+
+- Tower
+
+Get started with Git with this beginner-friendly course. This free online book will help you learn and master version control it with ease.
+
+Link: [https://www.git-tower.com/learn/git/ebook](https://www.git-tower.com/learn/git/ebook)
+
+## The Beginner's Guide to Git and GitHub
+
+- Thomas Mailund
+
+A quick beginner's guide to using Git and GitHub.You have heard about git and GitHub and want to know what the buzz is about. That is what I am here to tell you. Or, at least, I am here to give you a quick overview of what you can do with git and GitHub. I won't be able, in the space here, to give you an exhaustive list of features---in all honesty, I don't know enough myself to be able to claim expertise with these tools. I am only a frequent user, but I can get you started and give you some pointers for where to learn more. That is what this booklet is for.
+
+Link: [https://amzn.to/2Nt0rDY](https://amzn.to/2Nt0rDY)
+
+

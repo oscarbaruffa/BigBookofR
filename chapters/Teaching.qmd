@@ -1,0 +1,62 @@
+# Teaching
+
+## An Open-Source Active Learning Curriculum for Data Science in Engineering
+
+- [Zachary del Rosario](www.zdelrosario.com)
+
+This work provides open-source content for an active learning curriculum in data science. The scope of the content is sufficient for a full-semester introduction to scientifically reproducible statistical computation, data wrangling, visualization, basic statistical literacy, and data-driven modeling. The content is broken into short exercises that introduce new concepts, and longer challenges that encourage students to develop those skills in an open-ended context.
+
+Link: [https://zdelrosario.github.io/data-science-curriculum/index.html](https://zdelrosario.github.io/data-science-curriculum/index.html)
+
+## Data Science in a Box
+
+- [Mine Çetinkaya-Rundel](https://twitter.com/minebocek)
+
+This book focuses on how to efficiently teach data science to students with little to no background in computing and statistical thinking. The core content of the course focuses on data acquisition and wrangling, exploratory data analysis, data visualization, inference, modelling, and effective communication of results.
+
+Link: [https://datasciencebox.org/](https://datasciencebox.org/)
+
+## Teaching Tech Together
+
+- Greg Wilson
+
+(Oscar's note: Not an R book per se, but comes highly recommended about how to teach
+programming.)
+
+Grassroots groups have sprung up around the world to teach programming,
+web design, robotics, and other skills to free-range learners. These groups exist so that people don't have to learn these things on their own, but ironically, their founders and teachers are often teaching themselves how to teach.
+
+There's a better way. Just as knowing a few basic facts about germs and nutrition can help you stay healthy, knowing a few things about cognitive psychology, instructional design, inclusivity, and community organization can help you be a more effective teacher. This book
+presents key ideas you can use right now, explains why we believe they are true, and points you at other resources that will help you go further
+
+Link: [http://teachtogether.tech/en/index.html](http://teachtogether.tech/en/index.html)
+
+## What they forgot to teach you about teaching R
+
+- [Desiree de Leon](https://desiree.rbind.io/)
+
+This book is offered at rstudio::global(2021), as part of the Diversity Scholars program.
+
+In this workshop, you will learn about using the RStudio IDE to its full potential for teaching R. Whether you're an educator by profession, or you do education as part of collaborations or outreach, or you want to improve your workflow for giving talks, demos, and workshops, there is something for you in this workshop. During the workshop we will cover live coding best practices, tips for using RStudio Cloud for teaching and building learnr tutorials, and R Markdown based tools for developing instructor and student facing teaching materials.
+
+Link: [https://wtf-teach.netlify.app/](https://wtf-teach.netlify.app/)
+
+## rstudio4edu
+
+- [Desirée De Leon](https://desiree.rbind.io/)
+- [Alison Hill](https://alison.rbind.io/)
+
+A book for educators in the data science space who wish to create
+educational materials that are engaging for students and inspiring to
+other educators. This book is a cookbook for generating materials for
+
+-   R Markdown lessons
+-   R packages
+-   R Markdown websites
+-   Distill sites
+-   Bookdown books
+-   Blogdown sites
+
+Link: [https://rstudio4edu.github.io/rstudio4edu-book/](https://rstudio4edu.github.io/rstudio4edu-book/)
+
+

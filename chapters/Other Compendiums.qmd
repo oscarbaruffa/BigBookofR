@@ -1,0 +1,76 @@
+# Other Compendiums
+
+## Awesome network analysis
+
+
+
+Not a book, but a compendium of resources that look really valuable.
+
+Link: [https://github.com/briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)
+
+## Bookdown archive
+
+
+
+An archive all books published via bookdown.org. It's a very very big
+repo.
+
+Link: [https://bookdown.org/home/archive/](https://bookdown.org/home/archive/)
+
+## CRAN doc collections
+
+
+
+Note these projects are frozen, but they do contain a lot of resources
+in multiple languages.
+
+Many of these are quite old publications, but it doesn't mean they're
+outdated or not useful. If you're really digging for a specific resource
+that you can't find anywhere else, it may be here. Good luck!
+
+https://cran.r-project.org/other-docs.html
+
+Link: [https://www.r-project.org/doc/bib/R-books.html](https://www.r-project.org/doc/bib/R-books.html)
+
+## Data Science with R: A Resource Compendium
+
+- [Martin Monkman](https://twitter.com/monkmanmh)
+
+This book grew out of my evergrowing collection of reference materials that was saved as an expanding array of markdown files in a github repo. By assembling it as a book, I hope that it will be more accessible and useful to other R users.
+
+Link: [https://bookdown.org/martin_monkman/DataScienceResources_book/](https://bookdown.org/martin_monkman/DataScienceResources_book/)
+
+## R on the Web
+
+- [Guillaume Coquere](https://twitter.com/g_coqueret)
+
+Useful links for people interested in R.
+
+Link: [https://github.com/shokru/rstats/blob/master/material/R_links.md](https://github.com/shokru/rstats/blob/master/material/R_links.md)
+
+## R project book compendium
+
+
+
+A searchable archive of 180+ books.
+
+Link: [https://www.r-project.org/doc/bib/R-jabref.html](https://www.r-project.org/doc/bib/R-jabref.html)
+
+## The R Series by CRC Press
+
+- A book series
+
+This book series reflects the recent rapid growth in the development and application of R, the programming language and software environment for statistical computing and graphics.
+
+Link: [https://www.routledge.com/go/the-r-series](https://www.routledge.com/go/the-r-series)
+
+## Use R! Springer series
+
+
+
+This is a collection of some 70+ books. This series of inexpensive and focused books on R will publish shorter books aimed at practitioners. Books can discuss the use of R in a particular subject area (e.g., epidemiology, econometrics, psychometrics) or as it relates to
+statistical topics (e.g., missing data, longitudinal data).
+
+Link: [https://www.springer.com/series/6991?detailsPage=titles](https://www.springer.com/series/6991?detailsPage=titles)
+
+

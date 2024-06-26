@@ -1,0 +1,51 @@
+# New to R? Start here
+
+If you're new to R and want to learn how to use it, this library might be a little daunting.
+
+> There's so much choice! 
+
+If you aren't sure where  to start, then try one  of these options:
+
+## Book: R for Data Science
+
+This book is THE most recommended resource to get started. It's an excellent introduction to R programming and gets you started with visualizing data so you see some exciting stuff, and the power of R, right away. 
+
+The book is free to read at [https://r4ds.hadley.nz/](https://r4ds.hadley.nz/)
+
+You can treat yourself to a [physical copy](https://amzn.to/3t9MyBg).
+
+There's an accompanying exercise solution book at [https://jrnold.github.io/r4ds-exercise-solutions/](https://jrnold.github.io/r4ds-exercise-solutions/)
+
+
+## Video Course: Getting started with R
+
+If you prefer video instruction with progress tracking, check out this course from "R for the Rest of Us" called Getting Started with R. It comes key components in typical workflows from start to finish.
+
+[https://rfortherestofus.com/courses/getting-started/](https://rfortherestofus.com/courses/getting-started/)
+
+
+## Video Course: Data Manipulation in R
+
+If you're looking for specific how-to's on data manipulation, this is a great paid course to consider from Statistics Globe, who also has a youtube channel filled with free content
+
+Paid course: [https://statisticsglobe.com/online-course-data-manipulation-r-dplyr-tidyverse](https://statisticsglobe.com/online-course-data-manipulation-r-dplyr-tidyverse)
+
+Free content: [https://www.youtube.com/c/statisticsglobe ](https://www.youtube.com/c/statisticsglobe) 
+
+
+## Watch a data analyst code live
+
+If you’re looking for real-world examples of live data analyses, you’ve come to the right place.
+
+David Robinson, a highly experienced Data Scientist, has recorded many screencasts where he analyses data that he’s never seen before. These are fantastic examples of how to think about approaching an analysis. You couldn’t ask for a better mentor!
+
+All analyses are done in R with over 80 hours of screencasts timestamped and annotated with detailed info. 
+
+[https://www.rscreencasts.com/](https://www.rscreencasts.com/)
+
+
+## Posit Primers
+
+If you prefer  step by step instructions in an interactive online environment, then have a look at the Posit Primers which will take you through very very basic of data wrangling through to an introduction to building web apps with R!
+
+[https://posit.cloud/learn/primers](https://posit.cloud/learn/primers)

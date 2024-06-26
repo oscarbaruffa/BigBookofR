@@ -1,0 +1,363 @@
+# Data Science
+
+## A Business Analyst’s Introduction to Business Analytics
+
+- [Adam Fleischhacker](https://twitter.com/preposterior)
+
+This textbook goes farther than just teaching you to make computational models using software or mathematical models using statistics. It teaches you how to align computational and mathematical models with real-world scenarios; empowering you to communicate with and leverage the expertise of business stakeholders while using modern software stacks and statistical workflows. In this book, you do not learn business analytics to make models; you learn business analytics to add tangible value in the real-world.
+
+Link: [https://www.causact.com/](https://www.causact.com/)
+
+Physical copy available: [https://amzn.to/4aaG5GX](https://amzn.to/4aaG5GX)
+
+## A Course in Exploratory Data Analysis
+
+- [Jim Albert](https://bayesball.github.io)
+
+This book contains the lecture notes for a course on Exploratory Data Analysis that Jim Albert taught for many years at Bowling Green State University. The book is based on John Tukey’s EDA book and illustrating with R.
+
+It comes with a R package "LearnEDAfunction" that contains all of the course datasets and functions for performing some of the EDA methods and is available on author's Github site.
+
+Link: [https://bayesball.github.io/EDA/](https://bayesball.github.io/EDA/)
+
+## APS 135 Introduction to Exploratory Data Analysis with R
+
+- Dylan Z. Childs
+
+This is the online course book for the Introduction to Exploratory Data
+Analysis with R component of APS 135, a module taught by the Department
+and Animal and Plant Sciences at the University of Sheffield. You will
+be introduced to the R ecosystem.You will learn how to use R to carry
+out data manipulation and visualisation.This book provides a foundation
+for learning statistics later on.
+
+Link: [https://dzchilds.github.io/eda-for-bio/](https://dzchilds.github.io/eda-for-bio/)
+
+## An Introduction to Data Analysis
+
+- Michael Franke
+
+This book provides basic reading material for an introduction to data analysis. It uses R to handle, plot and analyze data. After covering the use of R for data wrangling and plotting, the book introduces key concepts of data analysis from a Bayesian and a frequentist tradition. This text is intended for use as a first introduction to statistics for an audience with some affinity towards programming, but no prior exposition to R.
+
+Link: [https://michael-franke.github.io/intro-data-analysis/index.html](https://michael-franke.github.io/intro-data-analysis/index.html)
+
+## Beginning Data Science in R
+
+- [Thomas Mailund](https://twitter.com/ThomasMailund)
+
+Beginning Data Science in R details how data science is a combination of
+statistics, computational science, and machine learning. You'll see how
+to efficiently structure and mine data to extract useful patterns and
+build mathematical models. Those with some data science or analytics
+background, but not necessarily experience with the R programming
+language
+
+Link: [https://amzn.to/2Ns1HHi](https://amzn.to/2Ns1HHi)
+
+## Business Case Analysis with R - Simulation Tutorials to Support Complex Business Decisions
+
+- [Robert D. Brown III](https://twitter.com/InciteDecisions)
+
+Business case analysis, often conducted in spreadsheets, exposes decision makers to additional risks that arise just from the use of the spreadsheet environment. This book discusses how to use the statistical programming language R to develop a business case simulation and analysis. It presents a methodology that minimizes decision delay by focusing stakeholders on what matters most and suggests pathways for minimizing the risk in strategic and capital allocation decisions.
+
+Paid: Apress/Springer-Nature eBook \$24.99, Softcover \$34.99 $25
+
+Link: [https://www.apress.com/us/book/9781484234945#](https://www.apress.com/us/book/9781484234945#)
+
+## Business Intelligence with R
+
+- [Dwight Barry](https://twitter.com/healthstatsdude))
+
+A desktop reference for busy professionals, giving you fingertip access
+to a variety of BI analytic methods done in R as simply as possible.
+
+All proceeds will support mitochondrial disorder research at Seattle
+Children's Hospital.
+
+Paid: Free or up to $20 for a good cause! $20
+
+Link: [https://leanpub.com/businessintelligencewithr](https://leanpub.com/businessintelligencewithr)
+
+## Data Science A First Introduction
+
+- [Tiffany-Anne Timbers](https://twitter.com/TiffanyTimbers)
+- Trevor Campbell
+- Melissa Lee
+
+This is an open source textbook aimed at introducing undergraduate
+students to data science. It was originally written for the University
+of British Columbia's DSCI 100 - Introduction to Data Science course. In
+this book, we define data science as the study and development of
+reproducible, auditable processes to obtain value (i.e., insight) from
+data.
+
+Link: [https://ubc-dsci.github.io/introduction-to-datascience/](https://ubc-dsci.github.io/introduction-to-datascience/)
+
+## Data Science at the Command Line, 2e
+
+- Jeroen Janssens
+
+This book is about doing data science at the command line. Our aim is to make you a more efficient and productive data scientist by teaching you how to leverage the power of the command line.
+
+Link: [https://www.datascienceatthecommandline.com/2e/](https://www.datascienceatthecommandline.com/2e/)
+
+## Everyday Data Science
+
+- Andrew Carr
+
+Everyday data science is a collection of tools and techniques you can use to master data science in your day-to-day life. There are case studies, tutorials, code snippets, pictures, math, and jokes. All designed as a fun introduction to the world of data science. Some example chapters include, A/B testing to make perfect lemonade, word vectors to improve your resume, differential equations for weight loss, and how a man used statistics to qualify for the Olympics. Life is full of decisions. We, as people, have the remarkable ability to make decisions in the face of uncertainty. We, as humans, have only recently developed the ability to use computers to process vast amounts of data to improve our decision making. This innovation has led to the development of the field of Data Science. This book is written to give tools and inspiration to aspiring decision makers. You make decisions daily and the methodology of data science can help.
+
+Link: [https://gumroad.com/l/everydaydata](https://gumroad.com/l/everydaydata)
+
+## Exploratory Data Analysis with R
+
+- Roger Peng
+
+This book teaches you to use R to effectively visualize and explore
+complex datasets. Exploratory data analysis is a key part of the data
+science process because it allows you to sharpen your question and
+refine your modeling strategies. This book is based on the
+industry-leading Johns Hopkins Data Science Specialization
+
+Paid: Free or Pay what you want $15
+
+Link: [https://leanpub.com/exdata](https://leanpub.com/exdata)
+
+## Introduction to Data Science
+
+- Rafael A Irizarry
+
+The demand for skilled data science practitioners in industry, academia,
+and government is rapidly growing. This book introduces concepts and
+skills that can help you tackle real-world data analysis challenges. It
+covers concepts from probability, statistical inference, linear
+regression, and machine learning. It also helps you develop skills such
+as R programming, data wrangling with dplyr, data visualization with
+ggplot2, algorithm building with caret, file organization with
+UNIX/Linux shell, version control with Git and GitHub, and reproducible
+document preparation with knitr and R markdown.
+
+Bookdown version https://rafalab.github.io/dsbook/
+
+Paid: Free or pay what you want $50
+
+Link: [https://leanpub.com/datasciencebook](https://leanpub.com/datasciencebook)
+
+## Introduction to Data Science
+
+- Hansjörg Neth
+
+This book provides a gentle introduction to data science for students of any discipline with little or no background in data analysis or computer programming. Based on notions of representation and modeling, we examine some key data types and data structures, and then learn to clean, transform, summarize and visualize data to communicate our results.
+
+Link: [https://bookdown.org/hneth/i2ds/](https://bookdown.org/hneth/i2ds/)
+
+## Introduction to R for Data Science: A LISA 2020 Guidebook
+
+- Jacob D. Holster
+
+This guidebook aims to provide readers an opportunity to make a start towards learning R for a variety of data science tasks, include (a) data cleaning and preparation, (b) statistical analysis, (c) data visualization, (d) natural language processing, (e) network analysis, and (f) Structural Equation Modeling
+
+Link: [https://bookdown.org/jdholster1/idsr/](https://bookdown.org/jdholster1/idsr/)
+
+## Model-Based Clustering and Classification for Data Science
+
+- [Charles Bouveyron](https://twitter.com/cbouveyron)
+- [Gilles Celeux](https://www.imo.universite-paris-saclay.fr/~celeux/)
+- [T. Brendan Murphy](https://twitter.com/tbmurphy)
+- [Adrian E. Raftery](https://twitter.com/AdrianRaftery1)
+
+Among the broad field of statistical and machine learning, model-based
+techniques for clustering and classification have a central position for
+anyone interested in exploiting those data. This text book focuses on
+the recent developments in model-based clustering and classification
+while providing a comprehensive introduction to the field. It is aimed
+at advanced undergraduates, graduates or first year PhD students in data
+science, as well as researchers and practitioners.
+
+Link: [https://math.unice.fr/~cbouveyr/MBCbook/](https://math.unice.fr/~cbouveyr/MBCbook/)
+
+## Modern Data Science with R
+
+- Benjamin S. Baumer
+- Daniel T. Kaplan
+- Nicholas J. Horton
+
+This book is intended for readers who want to develop the appropriate skills to tackle complex data science projects and “think with data” (as coined by Diane Lambert of Google). The desire to solve problems using data is at the heart of our approach.
+
+We acknowledge that it is impossible to cover all these topics in any level of detail within a single book: Many of the chapters could productively form the basis for a course or series of courses. Instead, our goal is to lay a foundation for analysis of real-world data and to ensure that analysts see the power of statistics and data analysis. After reading this book, readers will have greatly expanded their skill set for working with these data, and should have a newfound confidence about their ability to learn new technologies on-the-fly.
+
+This book was originally conceived to support a one-semester, 13-week undergraduate course in data science. We have found that the book will be useful for more advanced students in related disciplines, or analysts who want to bolster their data science skills. At the same time, Part I of the book is accessible to a general audience with no programming or statistics experience.
+
+Link: [https://mdsr-book.github.io/mdsr2e/](https://mdsr-book.github.io/mdsr2e/)
+
+## Modern Statistics with R
+
+- [Måns Thulin](https://twitter.com/mansthulin)
+
+This book covers the fundamentals of data science and statistics. The
+first half deals with the basics of R and R coding, data wrangling,
+exploratory data analysis and more advandced programming. The second
+half deals with modern statistics (favouring permutation tests, the
+bootstrap and Bayesian methods over traditional asymptotic methods),
+regression models and predictive modelling. It also contains information
+about debugging and explanations of 25 commonly encountered error
+messages in R. In addition, there are 170 or so exercises with fully
+worked solutions.
+
+Link: [http://www.modernstatisticswithr.com/](http://www.modernstatisticswithr.com/)
+
+## Practical Data Science with R, Second Edition
+
+- Nina Zumel
+- John Mount
+
+Practical Data Science with R, Second Edition takes a practice-oriented
+approach to explaining basic principles in the ever expanding field of
+data science. You'll jump right to real-world use cases as you apply the
+R programming language and statistical analysis techniques to carefully
+explained examples based in marketing, business intelligence, and
+decision support.
+
+Paid: Free preview $25
+
+Link: [https://www.manning.com/books/practical-data-science-with-r-second-edition#toc](https://www.manning.com/books/practical-data-science-with-r-second-edition#toc)
+
+## R Data Science Quick Reference
+
+- [Thomas Mailund](https://twitter.com/ThomasMailund)
+
+In this book, you'll learn about the following APIs and packages that
+deal specifically with data science applications: readr, dibble,
+forecasts, lubridate, stringr, tidyr, magnittr, dplyr, purrr, ggplot2,
+modelr, and more.
+
+Link: [https://amzn.to/2WN1mQy](https://amzn.to/2WN1mQy)
+
+## R Programming for Data Science
+
+- Roger Peng
+
+This book is about the fundamentals of R programming. You will get
+started with the basics of the language, learn how to manipulate
+datasets, how to write functions, and how to debug and optimize code.
+With the fundamentals provided in this book, you will have a solid
+foundation on which to build your data science toolbox.
+
+Link: [https://bookdown.org/rdpeng/rprogdatascience/](https://bookdown.org/rdpeng/rprogdatascience/)
+
+## R for Data Science
+
+- [Hadley Wickham](https://twitter.com/hadleywickham)
+- [Garret Grolemund](https://twitter.com/StatGarrett)
+
+This book will teach you 
+how to do data science with R: You'll learn how to get your data into R,
+get it into the most useful structure, transform it, visualise it and
+model it. In this book, you will find a practicum of skills for data
+science. Just as a chemist learns how to clean test tubes and stock a
+lab, you'll learn how to clean data and draw plots---and many other
+things besides. These are the skills that allow data science to happen,
+and here you will find the best practices for doing each of these things
+with R. You'll learn how to use the grammar of graphics, literate
+programming, and reproducible research to save time. You'll also learn
+how to manage cognitive resources to facilitate discoveries when
+wrangling, visualising, and exploring data.
+
+Link: [https://r4ds.hadley.nz/](https://r4ds.hadley.nz/)
+
+Physical copy available: [https://amzn.to/4afCNC6](https://amzn.to/4afCNC6)
+
+## R for Data Science Solutions
+
+- Jeffrey B. Arnold
+
+Solutions for the hadley and Grolemund R4Ds book
+
+Link: [https://jrnold.github.io/r4ds-exercise-solutions/](https://jrnold.github.io/r4ds-exercise-solutions/)
+
+## R for data analysis
+
+- Trevor French
+
+The content will start at the very beginning by showing you how to set up your R environment and the basics of programming in R. By the end of the book, you will be able to perform intermediate analytics techniques such as linear regresion and automatic report generation.
+
+Link: [https://trevorfrench.github.io/R-for-Data-Analysis/](https://trevorfrench.github.io/R-for-Data-Analysis/)
+
+## Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem
+
+- [Mark van der Laan](https://statistics.berkeley.edu/people/mark-van-der-laan)
+- [Jeremy Coyle](https://scholar.google.com/citations?user=DyFxaxAAAAAJ)
+- [Nima Hejazi](https://nimahejazi.org)
+- [Ivana Malenica](https://imalenica.github.io)
+- [Rachael Phillips](https://scholar.google.com/citations?user=vD1fxpEAAAAJ)
+- [Alan Hubbard](https://vcresearch.berkeley.edu/faculty/alan-hubbard)
+
+It is a fully reproducible, open-source, electronic handbook for applying Targeted Learning methodology in practice using the software stack provided by the tlverse ecosystem.
+
+Link: [https://tlverse.org/tlverse-handbook/](https://tlverse.org/tlverse-handbook/)
+
+## The Art of Data Science
+
+- [Roger D. Peng](https://twitter.com/rdpeng)
+- Elizabeth Matsui
+
+A Guide for Anyone Who Works with Data
+
+This book describes the process of analyzing data. The authors have
+extensive experience both managing data analysts and conducting their
+own data analyses, and this book is a distillation of their experience
+in a format that is applicable to both practitioners and managers in
+data science.
+
+Paid: Free (excl lecture videos) or pay what you want $15
+
+Link: [https://leanpub.com/artofdatascience](https://leanpub.com/artofdatascience)
+
+## The Elements of Data Analytic Style
+
+- [Jeffrey Leek](https://twitter.com/jtleek)
+
+Data analysis is at least as much art as it is science. This book is
+focused on the details of data analysis that sometimes fall through the
+cracks in traditional statistics classes and textbooks. It is based in
+part on the authors blog posts, lecture materials, and tutorials.
+
+Paid: Free or pay what you want $10
+
+Link: [https://leanpub.com/datastyle](https://leanpub.com/datastyle)
+
+## Yet Again: R + Data Science
+
+- Albert Rapp
+
+There are one thousand and one introductory courses on data science using the statistical software R. This is another one of those. My own take at teaching a selection of topics in R and data science I 
+picked up throughout my time using R and reading a couple of those one thousand and one introductory courses.
+The corresponding lecture videos can be found on YouTube (https://www.youtube.com/playlist?list=PLBnFxG6owe1F-3y0_aphRZ5YHH06Qr1Kj)
+
+Link: [https://yards.albert-rapp.de/index.html](https://yards.albert-rapp.de/index.html)
+
+## Yet another 'R for Data Science' study guide
+
+- Bryan Shalloway
+
+This book contains my solutions and notes to Garrett Grolemund and Hadley Wickham’s excellent book, R for Data Science (Grolemund and Wickham 2017). R for Data Science (R4DS) is my go-to recommendation for people getting started in R programming, data science, or the “tidyverse”.
+
+Link: [https://brshallo.github.io/r4ds_solutions/](https://brshallo.github.io/r4ds_solutions/)
+
+## edav.info/
+
+- Zach Bogart
+- Joyce Robbins
+
+With this resource, we try to give you a curated collection of tools and
+references that will make it easier to learn how to work with data in R.
+
+In addition, we include sections on basic chart types/tools so you can
+learn by doing.
+
+There are also several walkthroughs where we work with data and discuss
+problems as well as some tips/tricks that will help you.
+
+Link: [https://edav.info/](https://edav.info/)
+
+

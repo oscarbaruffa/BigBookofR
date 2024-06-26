@@ -1,0 +1,58 @@
+# Big Data
+
+## Big Data Analytics
+
+- Ulrich Matter
+
+This is the website of the 1st edition of “Big Data Analytics”. The book provides an introduction to Big Data Analytics for academics and practitioners
+
+Link: [https://umatter.github.io/BigData/](https://umatter.github.io/BigData/)
+
+## Big Data with R - Exercise book
+
+- [James Blair](https://twitter.com/Blair09M)
+
+This 2-day workshop covers how to analyze large amounts of data in R. We will focus on scaling up our analyses using the same dplyr verbs that we use in our everyday work. We will use dplyr with data.table, databases, and Spark. We will also cover best practices on visualizing, modeling, and sharing against these data sources. Where applicable, we will review recommended connection settings, security best practices, and deployment options.
+
+Link: [https://rstudio-conf-2020.github.io/big-data/](https://rstudio-conf-2020.github.io/big-data/)
+
+## Exploring, Visualizing, and Modeling Big Data with R
+
+- [Okan Bulut](https://twitter.com/drokanbulut)
+- [Christopher Desjardins](https://github.com/cddesja)
+
+Working with BIG DATA requires a particular suite of data analytics tools and advanced techniques, such as machine learning (ML). Many of these tools are readily and freely available in R. This full-day session will provide participants with a hands-on training on how to use data analytics tools and machine learning methods available in R to explore, visualize, and model big data.
+
+Link: [https://okanbulut.github.io/bigdata/](https://okanbulut.github.io/bigdata/)
+
+## Larger-Than-Memory Data Workflows with Apache Arrow
+
+- [Danielle Navarro](https://djnavarro.net)
+- [Jonathan Keane](https://jonkeane.com)
+- [Stephanie Hazlitt](https://twitter.com/stephhazlitt)
+
+In this tutorial you will learn how to use the arrow R package to create seamless engineering-to-analysis data pipelines. You’ll learn how to use interoperable data file formats like Parquet or Feather for efficient storage and data access. You’ll learn how to exercise fine control over data types to avoid common data pipeline problems. During the tutorial you’ll be processing larger-than-memory files and multi-file datasets with familiar dplyr syntax, and working with data in cloud storage.
+
+Link: [https://arrow-user2022.netlify.app](https://arrow-user2022.netlify.app)
+
+## Mastering Spark with R
+
+- Javier Luraschi
+- Kevin Kuo
+- Edgar Ruiz
+
+In this book you will learn how to use Apache Spark with R. The book intends to take someone unfamiliar with Spark or R and help you become proficient by teaching you a set of tools, skills and practices applicable to large-scale data science.
+
+PS the first chapter has a Jon Snow quote ;)
+
+Link: [https://therinspark.com/](https://therinspark.com/)
+
+## Using Spark from R for performance with arbitrary code
+
+- [Jozef Hajnala](https://twitter.com/jozefhajnala)
+
+This book provides practical insights into using the sparklyr interface to gain the benefits of Apache Spark while still retaining the ability to use R code organized in custom-built functions and packages.
+
+Link: [https://sparkfromr.com](https://sparkfromr.com)
+
+

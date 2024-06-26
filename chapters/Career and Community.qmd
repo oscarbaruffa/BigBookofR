@@ -1,0 +1,153 @@
+# Career and Community
+
+These books aren’t all strictly R focussed, but they do have a lot of relevance for many R programmers.
+
+## Ace The Data Science Interview
+
+- Kevin Huo
+- Nick Singh
+
+Authored by two Ex-Facebook employees, Ace the Data Science Interview is the best way to prepare for Data Science, Data Analyst, and Machine Learning interviews, so that you can land your dream job at FAANG, tech startups, or Wall Street.
+
+Link: [https://www.acethedatascienceinterview.com/](https://www.acethedatascienceinterview.com/)
+
+## Build Your Career in Data Science
+
+- [Emily Robinson](https://twitter.com/robinson_es)
+- [Jacqueline Nolis](https://twitter.com/skyetetra)
+
+You are going to need more than technical knowledge to succeed as a data scientist. Build a Career in Data Science teaches you what school leaves out, from how to land your first job to the lifecycle of a data science project, and even how to become a manager.
+
+Paid: Paid $38
+
+Link: [https://amzn.to/47W51Q9](https://amzn.to/47W51Q9)
+
+Physical copy available: [https://amzn.to/47W51Q9](https://amzn.to/47W51Q9)
+
+## Conversations On Data Science
+
+- [Roger Peng](https://twitter.com/rdpeng)
+- [Hilary Parker](https://twitter.com/hspter)
+
+This book collects many of their discussions from the podcast [**Not So
+Standard Deviations**](https://soundcloud.com/nssd-podcast) and distills
+them into a readable format.
+
+Paid: Pay what you want for the ebook, minimum $0
+
+Link: [https://leanpub.com/conversationsondatascience](https://leanpub.com/conversationsondatascience)
+
+## Essays on Data Analysis
+
+- [Roger Peng](https://twitter.com/rdpeng)
+
+This book draws a complete picture of the data analysis process, filling
+out many details that are missing from previous presentations. It
+presents a new perspective on what makes for a successful data analysis
+and how the quality of data analyses can be judged.
+
+Paid: Pay what you want for the ebook, minimum $0
+
+Link: [https://leanpub.com/dataanalysisessays](https://leanpub.com/dataanalysisessays)
+
+## Executive Data Science
+
+- Brian Caffo
+- [Roger D. Peng](https://twitter.com/rdpeng)
+- [Jeffrey Leek](@jtleek)
+
+A Guide to Training and Managing the Best Data Scientists. Learn what
+you need to know to begin assembling and leading a data science
+enterprise.
+
+Paid: Pay what you want for the PDF, minimum $0
+
+Link: [https://leanpub.com/eds](https://leanpub.com/eds)
+
+## Getting Started in Data Science
+
+- [Ayodele Odubela](https://twitter.com/DataSciBae)
+
+This book is for anyone intersted in Data Science, but is unsure where
+to start. Cut through the noise and learn my best tips for understanding
+Machine Learning with insight from my 4 years of industry experience.
+Learn the math as it applies to real-life data projects and get an
+understanding of fairness, ethics, and accounability in AI.
+
+Link: [https://gumroad.com/l/getting-started-in-data-science](https://gumroad.com/l/getting-started-in-data-science)
+
+## Hiring Data Scientists and Machine Learning Engineers
+
+- [Roy Keyes](https://twitter.com/roycoding)
+
+It's quite possible that the only thing more confusing than defining data science is actually hiring data scientists. Hiring Data Scientists and Machine Learning Engineers is a concise, practical guide to cut through the confusion. Whether you're the founder of a brand new startup, the senior vice president in charge of "digital transformation" at a global industrial company, the leader of a new analytics effort at a non-profit, or a junior manager of a machine learning team at a tech giant, this book will help walk you through the important questions you need to answer to determine what role and which skills you should hire for, how to source applicants, how to assess those applicants' skills, and how to set your new hires up for success. Special emphasis is placed on in-office vs remote hiring situations.
+
+Paid: varies $25
+
+Link: [https://dshiring.com](https://dshiring.com)
+
+## Introduction to Machine Learning Interviews Book
+
+- [Chip Huyen](https://huyenchip.com/)
+
+This book is the result of the collective wisdom of many people who have sat on both sides of the table and who have spent a lot of time thinking about the hiring process. It was written with candidates in mind, but hiring managers who saw the early drafts told me that they found it helpful to learn how other companies are hiring, and to rethink their own process.
+
+The book consists of two parts. The first part provides an overview of the machine learning interview process, what types of machine learning roles are available, what skills each role requires, what kinds of questions are often asked, and how to prepare for them. This part also explains the interviewers’ mindset and what kind of signals they look for.
+
+The second part consists of over 200 knowledge questions, each noted with its level of difficulty -- interviews for more senior roles should expect harder questions -- that cover important concepts and common misconceptions in machine learning.
+
+Link: [https://huyenchip.com/ml-interviews-book/](https://huyenchip.com/ml-interviews-book/)
+
+## Project Management Fundamentals for Data Analysts
+
+- [Oscar Baruffa](https://twitter.com/OscarBaruffa)
+
+In Project Management Fundamentals for Data Analysts, I’ve boiled the concepts down to the bare essentials which can be read in under 15 minutes – you can certainly fit that into your crazy schedule (and it will help your future schedule not be so chaotic!).
+
+These concepts can be used to great effect on their own if you wish to never read another word on the topic. It’ll also provide a solid foundation if you want to dive deeper into more formal courses or sophisticated theory.
+
+Paid: Free if you sign up to my newsletter at https://oscarbaruffa.com/newsletter/ , otherwise: $12
+
+Link: [https://oscarbaruffa.com/pm/](https://oscarbaruffa.com/pm/)
+
+## Public Speaking for Data and Tech Professionals
+
+- Eva Murray
+
+Most people dread public speaking and they’re missing out on the benefits it can have for their personal and professional life and their career.
+
+Without the right tools and frameworks to improve your preparation, build your confidence and get you on stage to tell your story, public speaking is hard.
+
+This book helps you fix that.
+
+Link: [https://evamurray.gumroad.com/l/public-speaking-fundamentals](https://evamurray.gumroad.com/l/public-speaking-fundamentals)
+
+## Telling Stories With Data
+
+- [Rohan Alexander](https://twitter.com/RohanAlexander)
+
+This aim of this book is to help you learn how to tell stories with data. It establishes a foundation on which you can build and share knowledge, based on data, about an aspect of the world of interest to you.
+
+In this book we explore, prod, push, manipulate, knead, and ultimately, try to understand the implications of, data. The motto of the university from which I took my PhD is ‘Naturam primum cognoscere rerum’ or roughly ‘first to learn the nature of things,’ and we will indeed attempt to do that. But the original quote continues ‘temporis aeterni quoniam,’ or roughly ‘for eternal time,’ and it is tools, approaches, and workflows that enable you to establish lasting knowledge that I focus on in this book.
+
+Link: [https://www.tellingstorieswithdata.com/](https://www.tellingstorieswithdata.com/)
+
+## The Programmer's Brain  What every programmer needs to know about cognition
+
+- [Felienne Hermans](https://twitter.com/Felienne)
+
+Explores the way your brain works when it’s thinking about code. In it, you’ll master practical ways to apply these cognitive principles to your daily programming life. You’ll improve your code comprehension by turning confusion into a learning tool, and pick up awesome techniques for reading code and quickly memorizing syntax. This practical guide includes tips for creating your own flashcards and study resources that can be applied to any new language you want to master. By the time you’re done, you’ll not only be better at teaching yourself—you’ll be an expert at bringing new colleagues and junior programmers up to speed.
+
+Paid: Free preview $30
+
+Link: [https://www.manning.com/books/the-programmers-brain](https://www.manning.com/books/the-programmers-brain)
+
+## The Turing Way
+
+- [The Turing Way Community](http://doi.org/10.5281/zenodo.3233853)
+
+The Turing Way is a handbook to reproducible, ethical and collaborative data science. We involve and support a diverse community of contributors to make data science accessible, comprehensible and effective for everyone. Our goal is to provide all the information that researchers and data scientists in academia, industry and the public sector need at the start of their projects to ensure that they are easy to reproduce at the end.
+
+Link: [https://the-turing-way.netlify.app](https://the-turing-way.netlify.app)
+
+

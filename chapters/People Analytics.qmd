@@ -1,0 +1,48 @@
+# People Analytics
+
+## HR Analytics in R
+
+- Chester Ismay
+- Albert Y. Kim
+- Hendrik Feddersen
+
+The intention of this book is to encourage more ‘data driven’ decisions in HR. HR Analytics is not anymore a nice-to-have addon but rather the way HR practitioners should conduct HR decision making in the future. Where applicable, human judgement is ‘added’ onto a rigorous analysis of the data done in the first place.
+
+To achieve this ideal world, I need to equip you with some fundamental knowledge of R and RStudio, which are open-source tools for data scientists. I am well aware that on one side you want to do something for your career in HR, however you are most likely completely new to coding.
+
+Link: [https://hranalyticslive.netlify.app/index.html](https://hranalyticslive.netlify.app/index.html)
+
+## Handbook of Graphs and Networks in People Analytics With Examples in R and Python
+
+- [Keith McNulty](https://twitter.com/dr_keithmcnulty)
+
+The technology of graphs is all around us, and enables so many of the ways in which we live our lives today. That same technology is also available to us at no cost as an analytic tool to allow us to better understand network structures and dynamics in the fields of science, technology, economics, sociology and psychology to name just a few. It is available to academics and practitioners alike, and can be used on problems ranging from a very small network analysis which takes a few minutes on a laptop, to massive scale network mining requiring days or weeks of processing time.
+
+But here’s the problem: few people really know how to do network analysis. It is still considered by many as a deep specialism or even a ‘dark art.’ It shouldn’t be.
+
+This book aims to make the field of graph and network analysis more approachable to students and professionals by explaining the most important elements of theory and sharing common methodologies using open source programming languages like R and Python. It does so by explaining theory in as much detail as is necessary to support analytical curiosity and interpretation, and by using a wide array of example data sets and code snippets to demonstrate the specific implementation and interpretation of methodologies.
+
+Link: [https://ona-book.org/](https://ona-book.org/)
+
+## Handbook of Regression Modeling in People Analytics
+
+- [Keith McNulty](https://twitter.com/dr_keithmcnulty)
+
+It is the author's firm belief that all people analytics professionals
+should have a strong understanding of regression models and how to
+implement and interpret them in practice, and the aim with this book is
+to provide those who need it with help in getting there.
+
+For accompanying solutions to some of the questions: https://keithmcnulty.github.io/peopleanalytics-regression-book/solutions/
+
+Link: [http://peopleanalytics-regression-book.org/index.html](http://peopleanalytics-regression-book.org/index.html)
+
+## R for HR: An Introduction to Human Resource Analytics Using R
+
+- David E. Caughlin
+
+The foundation of HR analytics formed over a century ago with the emergence of disciplines like industrial and organizational (I/O) psychology. In recent decades, advances in information technology and systems have reduced the time HR professionals spend on transactional and administrative activities, thereby creating more time and opportunity for transformational activities supporting the realization of strategic organizational objectives. HR analytics has the potential to play an integral role in such transformational activities, as it can inform HR system design
+
+Link: [https://rforhr.com/](https://rforhr.com/)
+
+

@@ -5148,5 +5148,15 @@
     "crumbs": [
       "<span class='chapter-number'>39</span>  <span class='chapter-title'>Other Compendiums</span>"
     ]
+  },
+  {
+    "objectID": "index.html#big-thanks-to-fathom-data",
+    "href": "index.html#big-thanks-to-fathom-data",
+    "title": "Welcome :)",
+    "section": "1.4 Big thanks to Fathom Data",
+    "text": "1.4 Big thanks to Fathom Data\nI want to give a special thanks to the folks at Fathom Data who converted the site from bookdown to Quarto. I’ve worked with Fathom Data for many years and can highly recommend their services!",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome :)</span>"
+    ]
   }
 ]

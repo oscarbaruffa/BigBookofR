@@ -15,19 +15,14 @@ If you're one of the estimated 10 000 data analysts working in the NHS or someon
 The Community will be coordinating another book club for the R4DS book and the channel for that is #r4ds-book-club.
 
 
-## R4DS Slack Community
+## Data Science Learning Community 
 
-The [R4Ds slack Community](http://r4ds.io/join) has a number of running book clubs. Once you've joined the slack group, you can search for channels. 
+(formerly the R4DS community) 
+
+The [Data Science Learning Community](https://dslc.io/) has a number of running book clubs. Once you've joined the slack group, you can search for channels. 
 
 They also have a channel specifically for book club facilitators!
 
-They've [recorded the sessions](https://www.youtube.com/c/R4DSOnlineLearningCommunity/playlists) of cohorts so you can pick your way through one, or catch up on the current one! 
-
-## R-ladies Netherlands - Advanced R by Hadley Wickham
-
-A collaboration of multiple Netherlands-based R-ladies groups ran a club on Hadley Wickham's Advanced R book. 
-
-The [github repo](https://github.com/rladiesnl/book_club) contains all the slides from the sessions.
 
 
 

@@ -5158,5 +5158,15 @@
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome :)</span>"
     ]
+  },
+  {
+    "objectID": "015-book_clubs.html#data-science-learning-community",
+    "href": "015-book_clubs.html#data-science-learning-community",
+    "title": "3  Book Clubs",
+    "section": "3.2 Data Science Learning Community",
+    "text": "3.2 Data Science Learning Community\n(formerly the R4DS community)\nThe Data Science Learning Community has a number of running book clubs. Once you’ve joined the slack group, you can search for channels.\nThey also have a channel specifically for book club facilitators!",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Book Clubs</span>"
+    ]
   }
 ]

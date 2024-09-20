@@ -20,6 +20,14 @@ It comes with a R package "LearnEDAfunction" that contains all of the course dat
 
 Link: [https://bayesball.github.io/EDA/](https://bayesball.github.io/EDA/)
 
+## An Introduction to Data Analysis
+
+- Michael Franke
+
+This book provides basic reading material for an introduction to data analysis. It uses R to handle, plot and analyze data. After covering the use of R for data wrangling and plotting, the book introduces key concepts of data analysis from a Bayesian and a frequentist tradition. This text is intended for use as a first introduction to statistics for an audience with some affinity towards programming, but no prior exposition to R.
+
+Link: [https://michael-franke.github.io/intro-data-analysis/index.html](https://michael-franke.github.io/intro-data-analysis/index.html)
+
 ## APS 135 Introduction to Exploratory Data Analysis with R
 
 - Dylan Z. Childs
@@ -32,14 +40,6 @@ out data manipulation and visualisation.This book provides a foundation
 for learning statistics later on.
 
 Link: [https://dzchilds.github.io/eda-for-bio/](https://dzchilds.github.io/eda-for-bio/)
-
-## An Introduction to Data Analysis
-
-- Michael Franke
-
-This book provides basic reading material for an introduction to data analysis. It uses R to handle, plot and analyze data. After covering the use of R for data wrangling and plotting, the book introduces key concepts of data analysis from a Bayesian and a frequentist tradition. This text is intended for use as a first introduction to statistics for an audience with some affinity towards programming, but no prior exposition to R.
-
-Link: [https://michael-franke.github.io/intro-data-analysis/index.html](https://michael-franke.github.io/intro-data-analysis/index.html)
 
 ## Beginning Data Science in R
 
@@ -100,6 +100,22 @@ Link: [https://ubc-dsci.github.io/introduction-to-datascience/](https://ubc-dsci
 This book is about doing data science at the command line. Our aim is to make you a more efficient and productive data scientist by teaching you how to leverage the power of the command line.
 
 Link: [https://www.datascienceatthecommandline.com/2e/](https://www.datascienceatthecommandline.com/2e/)
+
+## edav.info/
+
+- Zach Bogart
+- Joyce Robbins
+
+With this resource, we try to give you a curated collection of tools and
+references that will make it easier to learn how to work with data in R.
+
+In addition, we include sections on basic chart types/tools so you can
+learn by doing.
+
+There are also several walkthroughs where we work with data and discuss
+problems as well as some tips/tricks that will help you.
+
+Link: [https://edav.info/](https://edav.info/)
 
 ## Everyday Data Science
 
@@ -233,17 +249,13 @@ modelr, and more.
 
 Link: [https://amzn.to/2WN1mQy](https://amzn.to/2WN1mQy)
 
-## R Programming for Data Science
+## R for data analysis
 
-- Roger Peng
+- Trevor French
 
-This book is about the fundamentals of R programming. You will get
-started with the basics of the language, learn how to manipulate
-datasets, how to write functions, and how to debug and optimize code.
-With the fundamentals provided in this book, you will have a solid
-foundation on which to build your data science toolbox.
+The content will start at the very beginning by showing you how to set up your R environment and the basics of programming in R. By the end of the book, you will be able to perform intermediate analytics techniques such as linear regresion and automatic report generation.
 
-Link: [https://bookdown.org/rdpeng/rprogdatascience/](https://bookdown.org/rdpeng/rprogdatascience/)
+Link: [https://trevorfrench.github.io/R-for-Data-Analysis/](https://trevorfrench.github.io/R-for-Data-Analysis/)
 
 ## R for Data Science
 
@@ -275,13 +287,17 @@ Solutions for the hadley and Grolemund R4Ds book
 
 Link: [https://jrnold.github.io/r4ds-exercise-solutions/](https://jrnold.github.io/r4ds-exercise-solutions/)
 
-## R for data analysis
+## R Programming for Data Science
 
-- Trevor French
+- Roger Peng
 
-The content will start at the very beginning by showing you how to set up your R environment and the basics of programming in R. By the end of the book, you will be able to perform intermediate analytics techniques such as linear regresion and automatic report generation.
+This book is about the fundamentals of R programming. You will get
+started with the basics of the language, learn how to manipulate
+datasets, how to write functions, and how to debug and optimize code.
+With the fundamentals provided in this book, you will have a solid
+foundation on which to build your data science toolbox.
 
-Link: [https://trevorfrench.github.io/R-for-Data-Analysis/](https://trevorfrench.github.io/R-for-Data-Analysis/)
+Link: [https://bookdown.org/rdpeng/rprogdatascience/](https://bookdown.org/rdpeng/rprogdatascience/)
 
 ## Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem
 
@@ -343,21 +359,5 @@ Link: [https://yards.albert-rapp.de/index.html](https://yards.albert-rapp.de/ind
 This book contains my solutions and notes to Garrett Grolemund and Hadley Wickham’s excellent book, R for Data Science (Grolemund and Wickham 2017). R for Data Science (R4DS) is my go-to recommendation for people getting started in R programming, data science, or the “tidyverse”.
 
 Link: [https://brshallo.github.io/r4ds_solutions/](https://brshallo.github.io/r4ds_solutions/)
-
-## edav.info/
-
-- Zach Bogart
-- Joyce Robbins
-
-With this resource, we try to give you a curated collection of tools and
-references that will make it easier to learn how to work with data in R.
-
-In addition, we include sections on basic chart types/tools so you can
-learn by doing.
-
-There are also several walkthroughs where we work with data and discuss
-problems as well as some tips/tricks that will help you.
-
-Link: [https://edav.info/](https://edav.info/)
 
 

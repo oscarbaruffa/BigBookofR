@@ -98,6 +98,14 @@ The intended audience for this book is anyone making using of Real Econometrics:
 
 Link: [https://bookdown.org/carillitony/bailey](https://bookdown.org/carillitony/bailey)
 
+## R for Economic Research
+
+- J. Renato Leripio
+
+Over the past years I’ve received a lot of messages asking what I considered to be the most important subjects one should learn in order to start a career in economic research. R for Economic Research is my contribution to those who have some knowledge of R programming but still lack the necessary tools to carry out professional economic analysis. This is an intermediate-level book where the reader will find shortcuts to start working on a variety of tasks and also valuable references to delve into the details of more complex topics.
+
+Link: [https://book.rleripio.com/](https://book.rleripio.com/)
+
 ## R Guide to Accompany Introductory Econometrics for Finance
 
 - [Robert Wichmann](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2625032)
@@ -106,14 +114,6 @@ Link: [https://bookdown.org/carillitony/bailey](https://bookdown.org/carillitony
 This free software guide for R with freely downloadable datasets brings the econometric techniques to life, showing readers how to implement the approaches presented in Introductory Econometrics for Finance using this highly popular software package. Designed to be used alongside the main textbook, the guide will give readers the confidence and skills to estimate and interpret their own models while the textbook will ensure that they have a thorough understanding of the conceptual underpinnings.
 
 Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466882](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3466882)
-
-## R for Economic Research
-
-- J. Renato Leripio
-
-Over the past years I’ve received a lot of messages asking what I considered to be the most important subjects one should learn in order to start a career in economic research. R for Economic Research is my contribution to those who have some knowledge of R programming but still lack the necessary tools to carry out professional economic analysis. This is an intermediate-level book where the reader will find shortcuts to start working on a variety of tasks and also valuable references to delve into the details of more complex topics.
-
-Link: [https://book.rleripio.com/](https://book.rleripio.com/)
 
 ## Using R for Introductory Econometrics
 

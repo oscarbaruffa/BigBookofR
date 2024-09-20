@@ -22,15 +22,6 @@ practice.
 
 Link: [https://smltar.com/](https://smltar.com/)
 
-## Text Mining With Tidy Data Principles
-
-- [Julia Silge](https://twitter.com/juliasilge)
-
-Text data sets are diverse and ubiquitous, and tidy data principles provide an approach to make text mining easier, more effective, and consistent with tools already in wide use. In this tutorial, you will develop your text mining skills using the tidytext package in R, along
-with other tidyverse tools.
-
-Link: [https://juliasilge.shinyapps.io/learntidytext/](https://juliasilge.shinyapps.io/learntidytext/)
-
 ## Text Mining for Information Professionals: An Uncharted Territory
 
 - [Manika Lamba](https://twitter.com/lamba_manika)
@@ -61,5 +52,14 @@ possible applications. Thus, this book provides compelling examples of
 real text mining problems.
 
 Link: [https://www.tidytextmining.com/](https://www.tidytextmining.com/)
+
+## Text Mining With Tidy Data Principles
+
+- [Julia Silge](https://twitter.com/juliasilge)
+
+Text data sets are diverse and ubiquitous, and tidy data principles provide an approach to make text mining easier, more effective, and consistent with tools already in wide use. In this tutorial, you will develop your text mining skills using the tidytext package in R, along
+with other tidyverse tools.
+
+Link: [https://juliasilge.shinyapps.io/learntidytext/](https://juliasilge.shinyapps.io/learntidytext/)
 
 

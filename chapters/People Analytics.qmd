@@ -1,17 +1,5 @@
 # People Analytics
 
-## HR Analytics in R
-
-- Chester Ismay
-- Albert Y. Kim
-- Hendrik Feddersen
-
-The intention of this book is to encourage more ‘data driven’ decisions in HR. HR Analytics is not anymore a nice-to-have addon but rather the way HR practitioners should conduct HR decision making in the future. Where applicable, human judgement is ‘added’ onto a rigorous analysis of the data done in the first place.
-
-To achieve this ideal world, I need to equip you with some fundamental knowledge of R and RStudio, which are open-source tools for data scientists. I am well aware that on one side you want to do something for your career in HR, however you are most likely completely new to coding.
-
-Link: [https://hranalyticslive.netlify.app/index.html](https://hranalyticslive.netlify.app/index.html)
-
 ## Handbook of Graphs and Networks in People Analytics With Examples in R and Python
 
 - [Keith McNulty](https://twitter.com/dr_keithmcnulty)
@@ -36,6 +24,18 @@ to provide those who need it with help in getting there.
 For accompanying solutions to some of the questions: https://keithmcnulty.github.io/peopleanalytics-regression-book/solutions/
 
 Link: [http://peopleanalytics-regression-book.org/index.html](http://peopleanalytics-regression-book.org/index.html)
+
+## HR Analytics in R
+
+- Chester Ismay
+- Albert Y. Kim
+- Hendrik Feddersen
+
+The intention of this book is to encourage more ‘data driven’ decisions in HR. HR Analytics is not anymore a nice-to-have addon but rather the way HR practitioners should conduct HR decision making in the future. Where applicable, human judgement is ‘added’ onto a rigorous analysis of the data done in the first place.
+
+To achieve this ideal world, I need to equip you with some fundamental knowledge of R and RStudio, which are open-source tools for data scientists. I am well aware that on one side you want to do something for your career in HR, however you are most likely completely new to coding.
+
+Link: [https://hranalyticslive.netlify.app/index.html](https://hranalyticslive.netlify.app/index.html)
 
 ## R for HR: An Introduction to Human Resource Analytics Using R
 

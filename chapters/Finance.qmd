@@ -18,10 +18,10 @@ Physical copy available: [https://amzn.to/3RBjXhN](https://amzn.to/3RBjXhN)
 
 - Jonathan Lin
 
-This is the website for Audit Analytics in R. This audience of this book is for:
-
-Audit leaders who are looking to design their environment to encourage cultivate collaboration and sustainability.
-Audit data analytics practitioners, who are looking to leverage R in their data analytics tasks.
+This is the website for Audit Analytics in R. This audience of this book is for:
+
+Audit leaders who are looking to design their environment to encourage cultivate collaboration and sustainability.
+Audit data analytics practitioners, who are looking to leverage R in their data analytics tasks.
 You will learn what tools and technologies are well suited for a modern audit analytics toolkit, as well as learn skills with R to perform data analytics tasks. Consider this book to be your roadmap of practical items to implement and follow.
 
 Link: [https://auditanalytics.jonlin.ca/](https://auditanalytics.jonlin.ca/)

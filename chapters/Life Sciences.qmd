@@ -56,6 +56,14 @@ The book is aimed at exposing biomedical researchers to modern biostatistical me
 
 Link: [http://hbiostat.org/bbr/](http://hbiostat.org/bbr/)
 
+## Cleaning Biodiversity Data in R
+
+- Atlas of Living Australia
+
+This book is a practical guide for cleaning geo-referenced biodiversity data using R. It focuses specifically on the processes and challenges you’ll face with biodiversity data. As such, this book isn’t a general guide to data cleaning but a targeted resource for those working with or interested in ecology, evolution, and geo-referenced biodiversity data.
+
+Link: [https://cleaning-data-r.ala.org.au/](https://cleaning-data-r.ala.org.au/)
+
 ## Comparative Methods
 
 - [Brian O’Meara](https://brianomeara.info)
@@ -230,6 +238,16 @@ The textbook can be used as support material for practical labs on basic statist
 
 Link: [https://practical-stats-med-r.netlify.app/](https://practical-stats-med-r.netlify.app/)
 
+## R for applied epidemiology and public health
+
+- [EpiR authors](https://twitter.com/epiRhandbook)
+
+This handbook is produced by a collaboration of epidemiologists from around the world drawing upon experience with organizations including local, state, provincial, and national health agencies, the World Health Organization (WHO), Médecins Sans Frontières / Doctors without Borders (MSF), hospital systems, and academic institutions. Also check out the accompanying tutorials: https://appliedepi.org/tutorial/ 
+
+Written by epidemiologists, for epidemiologists.
+
+Link: [https://epirhandbook.com/](https://epirhandbook.com/)
+
 ## R for Conservation and Development Projects A Primer for Practitioners
 
 - Nathan Whitmore
@@ -261,16 +279,6 @@ This book will take an individual with little or no experience in data science a
 
 Link: [https://argoshare.is.ed.ac.uk/healthyr_book/](https://argoshare.is.ed.ac.uk/healthyr_book/)
 
-## R for applied epidemiology and public health
-
-- [EpiR authors](https://twitter.com/epiRhandbook)
-
-This handbook is produced by a collaboration of epidemiologists from around the world drawing upon experience with organizations including local, state, provincial, and national health agencies, the World Health Organization (WHO), Médecins Sans Frontières / Doctors without Borders (MSF), hospital systems, and academic institutions. Also check out the accompanying tutorials: https://appliedepi.org/tutorial/ 
-
-Written by epidemiologists, for epidemiologists.
-
-Link: [https://epirhandbook.com/](https://epirhandbook.com/)
-
 ## Reproducible Medical Research with R
 
 - Peter D.R. Higgins, MD, PhD, MSc
@@ -279,6 +287,16 @@ This is a book for anyone in the medical field interested in analyzing the data 
 I expect that most learners will be using this book in their spare time at night and on weekends, as the health training curricula are already packed full of information, and there is no room to add skills in reproducible research to the standard curriculum. This book is designed for self-teaching, and many hints and solutions will be provided to avoid roadblocks and frustration. Many learners find themselves wanting to develop reproducible research skills after they have finished their training, and after they have become comfortable with their clinical role. This is the time when they identify and want to address problems faced by patients in their practice with the data they have before them. This book is for you.
 
 Link: [https://bookdown.org/pdr_higgins/rmrwr/](https://bookdown.org/pdr_higgins/rmrwr/)
+
+## Statistics in Natural Resources: Applications with R
+
+- Matthew Russell
+
+This is a book for current or aspiring natural resource professionals that are required to analyze data and perform statistical analyses in their daily work. It is especially well suited to graduate students enrolled in natural resources, agricultural, and environmental science disciplines that need a quantitative understanding of the data they collect to better communicate their research findings.
+
+More seasoned professionals that have previously had a course or two in statistics will also find the content familiar. This book can also serve as a bridge between professionals that understand statistics and want to learn how to perform analyses in R.
+
+Link: [https://stats4nr.com/](https://stats4nr.com/)
 
 ## Statistics in R for Biodiversity Conservation Paperback
 

@@ -41,8 +41,8 @@ Link: [https://arrow-user2022.netlify.app](https://arrow-user2022.netlify.app)
 - Kevin Kuo
 - Edgar Ruiz
 
-In this book you will learn how to use Apache Spark with R. The book intends to take someone unfamiliar with Spark or R and help you become proficient by teaching you a set of tools, skills and practices applicable to large-scale data science.
-
+In this book you will learn how to use Apache Spark with R. The book intends to take someone unfamiliar with Spark or R and help you become proficient by teaching you a set of tools, skills and practices applicable to large-scale data science.
+
 PS the first chapter has a Jon Snow quote ;)
 
 Link: [https://therinspark.com/](https://therinspark.com/)

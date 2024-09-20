@@ -23,6 +23,18 @@ to customize the result to your own tastes.
 
 Link: [https://m-clark.github.io/Introduction-to-Rmarkdown/](https://m-clark.github.io/Introduction-to-Rmarkdown/)
 
+## knitr
+
+- [Yihui Xie](https://yihui.org/)
+
+Dynamic documents with R and knitr!
+
+The knitr package was designed to be a transparent engine for dynamic
+report generation with R, solve some long-standing problems in Sweave,
+and combine features in other add-on packages into one package.
+
+Link: [https://yihui.org/knitr/](https://yihui.org/knitr/)
+
 ## Pimp my RMD a few tips for R Markdown
 
 - Yan Holtz
@@ -32,6 +44,14 @@ few tips I use on a daily basis to improve the appearance of output
 documents.
 
 Link: [https://holtzy.github.io/Pimp-my-rmd/](https://holtzy.github.io/Pimp-my-rmd/)
+
+## R bookdownplus Textbook
+
+- Peng Zhao
+
+‘bookdownplus’ is an extension of ‘bookdown’. It is a collection of multiple templates, which I have been collecting since years ago on the basis of LaTeX, and have been tailoring them so that I can work happily under the umbrella of ‘bookdown’. ‘bookdownplus’ helps you (and me) write varied types of books and documents. This book you are reading at the moment was exactly produced by ‘bookdownplus’.
+
+Link: [https://bookdown.org/baydap/bookdownplus/](https://bookdown.org/baydap/bookdownplus/)
 
 ## R Markdown Cookbook
 
@@ -65,24 +85,6 @@ simplicity of Markdown and the great power of R and other languages.
 
 Link: [https://bookdown.org/yihui/rmarkdown/](https://bookdown.org/yihui/rmarkdown/)
 
-## R bookdownplus Textbook
-
-- Peng Zhao
-
-‘bookdownplus’ is an extension of ‘bookdown’. It is a collection of multiple templates, which I have been collecting since years ago on the basis of LaTeX, and have been tailoring them so that I can work happily under the umbrella of ‘bookdown’. ‘bookdownplus’ helps you (and me) write varied types of books and documents. This book you are reading at the moment was exactly produced by ‘bookdownplus’.
-
-Link: [https://bookdown.org/baydap/bookdownplus/](https://bookdown.org/baydap/bookdownplus/)
-
-## RMarkdown for Scientists
-
-- Nicholas Tierney
-
-This is a book on rmarkdown, aimed for scientists. It was initially
-developed as a 3 hour workshop, but is now developed into a resource
-that will grow and change over time as a living book.
-
-Link: [https://rmd4sci.njtierney.com/](https://rmd4sci.njtierney.com/)
-
 ## Report Writing for Data Science in R
 
 - [Roger D. Peng]](https://twitter.com/rdpeng)
@@ -110,16 +112,14 @@ The book can be reproduced by using the R package bookdown. You can buy a copy a
 
 Link: [https://github.com/christophergandrud/Rep-Res-Book>  Also, you can buy the copy.](https://github.com/christophergandrud/Rep-Res-Book>  Also, you can buy the copy.)
 
-## knitr
+## RMarkdown for Scientists
 
-- [Yihui Xie](https://yihui.org/)
+- Nicholas Tierney
 
-Dynamic documents with R and knitr!
+This is a book on rmarkdown, aimed for scientists. It was initially
+developed as a 3 hour workshop, but is now developed into a resource
+that will grow and change over time as a living book.
 
-The knitr package was designed to be a transparent engine for dynamic
-report generation with R, solve some long-standing problems in Sweave,
-and combine features in other add-on packages into one package.
-
-Link: [https://yihui.org/knitr/](https://yihui.org/knitr/)
+Link: [https://rmd4sci.njtierney.com/](https://rmd4sci.njtierney.com/)
 
 

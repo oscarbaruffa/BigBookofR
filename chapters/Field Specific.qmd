@@ -12,10 +12,10 @@ Link: [https://zdelrosario.github.io/data-science-curriculum/index.html](https:/
 
 - Jonathan Lin
 
-This is the website for Audit Analytics in R. This audience of this book is for:
-
-Audit leaders who are looking to design their environment to encourage cultivate collaboration and sustainability.
-Audit data analytics practitioners, who are looking to leverage R in their data analytics tasks.
+This is the website for Audit Analytics in R. This audience of this book is for:
+
+Audit leaders who are looking to design their environment to encourage cultivate collaboration and sustainability.
+Audit data analytics practitioners, who are looking to leverage R in their data analytics tasks.
 You will learn what tools and technologies are well suited for a modern audit analytics toolkit, as well as learn skills with R to perform data analytics tasks. Consider this book to be your roadmap of practical items to implement and follow.
 
 Link: [https://auditanalytics.jonlin.ca/](https://auditanalytics.jonlin.ca/)
@@ -192,36 +192,6 @@ The goal of this book is to make data science accessible to social scientists an
 
 Link: [https://urbanspatial.github.io/PublicPolicyAnalytics/](https://urbanspatial.github.io/PublicPolicyAnalytics/)
 
-## R Programming for Actuarial Science
-
-- Alfred Kume
-- Peter McQuire
-
-Professional resource providing an introduction to R coding for actuarial and financial mathematics applications, with real-life examples
-
-R Programming for Actuarial Science provides a grounding in R programming applied to the mathematical and statistical methods that are of relevance for actuarial work.
-
-Link: [https://www.wiley.com/en-ae/R+Programming+for+Actuarial+Science-p-9781119754992](https://www.wiley.com/en-ae/R+Programming+for+Actuarial+Science-p-9781119754992)
-
-## R Programming with Minecraft
-
-- Brooke Anderson
-- Karl Broman
-- Gergely Daróczi
-- Mario Inchiosa
-- David Smith
-- Ali Zaidi
-
-Minecraft is awesome fun, especially in creative mode, where you can
-build all sorts of crazy stuff. But ambitious building projects can be
-really tedious to create by hand. With the miner R package, you can
-write R code to manipulate your Minecraft world and create even more
-awesome stuff.
-
-Here's an introduction Rstats NYC conference talk on it: https://www.youtube.com/watch?v=r_JgPF8MJpY
-
-Link: [https://kbroman.org/miner_book/?s=09](https://kbroman.org/miner_book/?s=09)
-
 ## R for Excel users
 
 - Julie Lowndes
@@ -256,6 +226,36 @@ In this course, we will move more quickly, assume familiarity with basic R skill
 This course emphasizes intermediate scripting skills like iteration, functional programming, writing functions, and controlling project workflows for better reproducibility and efficiency. Approaches to working with more complex data structures like lists and timeseries data, the fundamentals of building Shiny Apps, pulling water resources data from APIs, intermediate mapmaking and spatial data processing, integrating version control in projects with git.
 
 Link: [https://www.r4wrds.com/](https://www.r4wrds.com/)
+
+## R Programming for Actuarial Science
+
+- Alfred Kume
+- Peter McQuire
+
+Professional resource providing an introduction to R coding for actuarial and financial mathematics applications, with real-life examples
+
+R Programming for Actuarial Science provides a grounding in R programming applied to the mathematical and statistical methods that are of relevance for actuarial work.
+
+Link: [https://www.wiley.com/en-ae/R+Programming+for+Actuarial+Science-p-9781119754992](https://www.wiley.com/en-ae/R+Programming+for+Actuarial+Science-p-9781119754992)
+
+## R Programming with Minecraft
+
+- Brooke Anderson
+- Karl Broman
+- Gergely Daróczi
+- Mario Inchiosa
+- David Smith
+- Ali Zaidi
+
+Minecraft is awesome fun, especially in creative mode, where you can
+build all sorts of crazy stuff. But ambitious building projects can be
+really tedious to create by hand. With the miner R package, you can
+write R code to manipulate your Minecraft world and create even more
+awesome stuff.
+
+Here's an introduction Rstats NYC conference talk on it: https://www.youtube.com/watch?v=r_JgPF8MJpY
+
+Link: [https://kbroman.org/miner_book/?s=09](https://kbroman.org/miner_book/?s=09)
 
 ## Technical Foundations of Informatics
 

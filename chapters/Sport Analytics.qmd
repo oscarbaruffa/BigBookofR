@@ -75,8 +75,8 @@ Link: [https://rallydatajunkie.com/visualising-wrc-rally-results/](https://rally
 
 - Tony Hirst
 
-If you're attracted by F1's passion to push engineering and technology to the limit, this book will help you grab a range of Formula One datasets by the scruff of the neck and wrangle a wide variety of insights from them.
-
+If you're attracted by F1's passion to push engineering and technology to the limit, this book will help you grab a range of Formula One datasets by the scruff of the neck and wrangle a wide variety of insights from them.
+
 Using the latest in open source data analysis and visualisation techniques, you'll learn how to extract the stories that often go unnoticed from whatever Formula One data you can lay your hands on. And maybe, just maybe, you'll be able to use the skills you learn along the way outside of the F1 context...
 
 Link: [https://leanpub.com/wranglingf1datawithr](https://leanpub.com/wranglingf1datawithr)

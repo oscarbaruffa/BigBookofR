@@ -13,10 +13,10 @@ Link: [https://analiticaurbana.netlify.app/](https://analiticaurbana.netlify.app
 
 - Antonio Vazquez Brust
 
-Este libro fue escrito con una audiencia en mente formada por urbanistas, sociólogos, politólogas y otros entusiastas que se acercan al tema desde las Ciencias Sociales. Aún así, y por supuesto, todas las personas y algoritmos con capacidad de procesar lenguaje son bienvenidas.
-
-Espero que el tono introductorio del texto, así como el esfuerzo puesto en explicar los conceptos con la mayor simplicidad posible, resulten de interés para un público amplio.
-
+Este libro fue escrito con una audiencia en mente formada por urbanistas, sociólogos, politólogas y otros entusiastas que se acercan al tema desde las Ciencias Sociales. Aún así, y por supuesto, todas las personas y algoritmos con capacidad de procesar lenguaje son bienvenidas.
+
+Espero que el tono introductorio del texto, así como el esfuerzo puesto en explicar los conceptos con la mayor simplicidad posible, resulten de interés para un público amplio.
+
 No hace falta ningún conocimiento previo de programación; todas las herramientas necesarias serán explicadas sobre la marcha.
 
 Link: [https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/](https://bitsandbricks.github.io/ciencia_de_datos_gente_sociable/)
@@ -87,8 +87,8 @@ Link: [https://epirhandbook.com/es/index.html](https://epirhandbook.com/es/index
 
 - Juan Bosco Mendoza Vega
 
-R para principiantes pretende ser un materal introductorio al lenguaje de programación R, dirigído a personas que nunca han usado R o ningún otro lenguaje de programación, ni tiene conocimiento previo de probabilidad y estadística.
-
+R para principiantes pretende ser un materal introductorio al lenguaje de programación R, dirigído a personas que nunca han usado R o ningún otro lenguaje de programación, ni tiene conocimiento previo de probabilidad y estadística.
+
 Este libro tiene como propósito que adquieras los fundamentos del uso de R como un lenguaje de programación, desde sus conceptos más elementales, hasta la definición de funciones y generación de gráficos.
 
 Link: [https://bookdown.org/jboscomendoza/r-principiantes4/](https://bookdown.org/jboscomendoza/r-principiantes4/)

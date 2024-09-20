@@ -1,15 +1,5 @@
 # Social Science
 
-## APIs for social scientists: A collaborative review
-
-- Paul C. Bauer
-- Camille Landesvatter
-- many others
-
-The present online book provide a review of APIs that may be useful for social scientists. Covers a wide selection of APIs from google, Instagram, Youtube and others.  R code included.
-
-Link: [https://bookdown.org/paul/apis_for_social_scientists/](https://bookdown.org/paul/apis_for_social_scientists/)
-
 ## An R Exercise in Data Collection, Cleaning, and Merging U.S. Census Data
 
 - Sean Conner
@@ -37,6 +27,16 @@ Census data are widely used in the United States across numerous research and ap
 
 Link: [https://walker-data.com/census-r/](https://walker-data.com/census-r/)
 
+## APIs for social scientists: A collaborative review
+
+- Paul C. Bauer
+- Camille Landesvatter
+- many others
+
+The present online book provide a review of APIs that may be useful for social scientists. Covers a wide selection of APIs from google, Instagram, Youtube and others.  R code included.
+
+Link: [https://bookdown.org/paul/apis_for_social_scientists/](https://bookdown.org/paul/apis_for_social_scientists/)
+
 ## Applied Demographic Data Analysis
 
 - Corey S. Sparks, PhD
@@ -44,15 +44,6 @@ Link: [https://walker-data.com/census-r/](https://walker-data.com/census-r/)
 My goal for this book is to take the lessons I’ve learned teaching statistics to a diverse and often cursorily trained group of students who have problems they care about, that they need to bring demographic data to bear upon. This is a challenge, and I have always been a stalwart proponent of teaching statistics and data analysis in a very applied manner. As such, this book won’t be going into rigorous proofs of estimators or devoting pages to expositions of icky algebra; instead it will focus on exploring modern methods of data analysis that in used by demographers every day, but not always taught in our training programs.
 
 Link: [https://coreysparks.github.io/appdem_Book/](https://coreysparks.github.io/appdem_Book/)
-
-## CSSS 508 Introduction to R for Social Scientists
-
-- [Charles Lanfear](https://clanfear.github.io)
-- [Rebecca Ferrell](https://rferrell.wordpress.com)
-
-Course material with Youtube Video
-
-Link: [https://clanfear.github.io/CSSS508/](https://clanfear.github.io/CSSS508/)
 
 ## Complex Surveys: A Guide to Analysis Using R
 
@@ -115,6 +106,25 @@ Link: [https://cfss.uchicago.edu/notes/intro-to-course/](https://cfss.uchicago.e
 This book introduces the programming language R and is meant for undergrads or graduate students studying criminology. R is a programming language that is well-suited to the type of work frequently done in criminology - taking messy data and turning it into useful information. While R is a useful tool for many fields of study, this book focuses on the skills criminologists should know and uses crime data for the example data sets.
 
 Link: [https://crimebythenumbers.com/](https://crimebythenumbers.com/)
+
+## CSSS 508 Introduction to R for Social Scientists
+
+- [Charles Lanfear](https://clanfear.github.io)
+- [Rebecca Ferrell](https://rferrell.wordpress.com)
+
+Course material with Youtube Video
+
+Link: [https://clanfear.github.io/CSSS508/](https://clanfear.github.io/CSSS508/)
+
+## Exploring Complex Survey Data Analysis Using R
+
+- Stephanie A. Zimmer
+- Rebecca J. Powell
+- Isabella C. Velásquez
+
+We focus on R to introduce survey analysis. Our goal is to provide a comprehensive guide for individuals new to survey analysis but with some familiarity with statistics and R programming. We use a combination of the {survey} and {srvyr} packages and present the code following best practices from the tidyverse
+
+Link: [https://tidy-survey-r.github.io/tidy-survey-book/](https://tidy-survey-r.github.io/tidy-survey-book/)
 
 ## Introduction to R for Social ScientistsA Tidy Programming Approach
 

@@ -78,6 +78,14 @@ A guide for data integration, manipulation and visualization of phylogenetic tre
 
 Link: [https://yulab-smu.top/treedata-book/](https://yulab-smu.top/treedata-book/)
 
+## data.table in R The Complete Beginners Guide
+
+- Selva Prabhakaran
+
+data.table is a package is used for working with tabular data in R. It provides the efficient data.table object which is a much improved version of the default data.frame. It is super fast and has intuitive and terse syntax. If you know R language and haven’t picked up the data.table package yet, then this tutorial guide is a great place to start.
+
+Link: [https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/](https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/)
+
 ## Deep Learning and Scientific Computing with R torch
 
 - [Sigrid Keydana](https://divergences.xyz/)
@@ -93,6 +101,19 @@ Link: [https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-t
 Multiple imputation of missing data has become one of the great academic industries. Many analysts now employ multiple imputation on a regular basis as a generic solution to the omnipresent missing-data problem, and a substantial group of practitioners are doing the calculations in mice. This book aspires to combine a state-of-the-art overview of the field with a set of how-to instructions for practical data analysis.
 
 Link: [https://stefvanbuuren.name/fimd/](https://stefvanbuuren.name/fimd/)
+
+## ggplot2 Elegant Graphics for Data Analysis
+
+- Hadley Wickham
+
+ggplot2 is an R package for producing statistical, or data, graphics.
+Unlike most other graphics packages, ggplot2 has an underlying grammar,
+based on the Grammar of Graphics (Wilkinson 2005), that allows you to
+compose graphs by combining independent components. This makes ggplot2
+powerful. Rather than being limited to sets of pre-defined graphics, you
+can create novel graphics that are tailored to your specific problem.
+
+Link: [https://ggplot2-book.org/](https://ggplot2-book.org/)
 
 ## GT Cookbook
 
@@ -119,143 +140,6 @@ Link: [https://themockup.blog/static/resources/gt-cookbook-advanced.html](https:
 Highcharter is an R implementation of the highcharts javascript library, enabled by R’s htmlwidgets package. Most of the highcharts functionality is implemented through highcharter however the documentation is a little light. This guide will provide examples on how to create and customise various graphs whilst providing some tips on how to think about the package that will help you build and debug your more ambitious charts.
 
 Link: [https://www.tmbish.me/lab/highcharter-cookbook/](https://www.tmbish.me/lab/highcharter-cookbook/)
-
-## R Function a Day
-
-- [Indrajeet Patil](https://twitter.com/patilindrajeets)
-
-A book that collects (and provides an easy way to access and search) tweets from R Function A Day account that maintained for 1 year (from 24.01.2021 to 24.01.2022).
-
-Link: [https://bookdown.org/IndrajeetPatil/R-Function-A-Day-book/](https://bookdown.org/IndrajeetPatil/R-Function-A-Day-book/)
-
-## R bookdownplus Textbook
-
-- Peng Zhao
-
-‘bookdownplus’ is an extension of ‘bookdown’. It is a collection of multiple templates, which I have been collecting since years ago on the basis of LaTeX, and have been tailoring them so that I can work happily under the umbrella of ‘bookdown’. ‘bookdownplus’ helps you (and me) write varied types of books and documents. This book you are reading at the moment was exactly produced by ‘bookdownplus’.
-
-Link: [https://bookdown.org/baydap/bookdownplus/](https://bookdown.org/baydap/bookdownplus/)
-
-## Rcpp for everyone
-
-- Masaki E. Tsuda
-
-Rcpp is a package that enables you to implement R functions in C++. It
-is easy to use even without deep knowledge of C++, because it is
-implemented so as to write your C++ code in a style similar to R. And
-Rcpp does not sacrifice execution speed for the ease of use, anyone can
-get high performance outcome.
-
-This document focuses on providing necessary information to users who
-are not familiar with C++. Therefore, in some cases, I explain usage of
-Rcpp conceptually rather than describing accurately from the viewpoint
-of C++, so that I hope readers can easily understand it.
-
-Link: [https://teuder.github.io/rcpp4everyone_en/](https://teuder.github.io/rcpp4everyone_en/)
-
-## Shiny App-Packages
-
-- Martin Frigaard
-
-This book is a resource to help ‘connect the dots’ between building scalable Shiny applications and writing R packages. Adopting R package development practices in the early stages of your Shiny app will improve the reusability, maintainability, and shareability of all your hard work.
-
-Link: [https://mjfrigaard.github.io/shiny-app-pkgs/](https://mjfrigaard.github.io/shiny-app-pkgs/)
-
-## Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem
-
-- [Mark van der Laan](https://statistics.berkeley.edu/people/mark-van-der-laan)
-- [Jeremy Coyle](https://scholar.google.com/citations?user=DyFxaxAAAAAJ)
-- [Nima Hejazi](https://nimahejazi.org)
-- [Ivana Malenica](https://imalenica.github.io)
-- [Rachael Phillips](https://scholar.google.com/citations?user=vD1fxpEAAAAJ)
-- [Alan Hubbard](https://vcresearch.berkeley.edu/faculty/alan-hubbard)
-
-It is a fully reproducible, open-source, electronic handbook for applying Targeted Learning methodology in practice using the software stack provided by the tlverse ecosystem.
-
-Link: [https://tlverse.org/tlverse-handbook/](https://tlverse.org/tlverse-handbook/)
-
-## The Data Validation Cookbook
-
-- [Mark P.J. van der Loo](https://twitter.com/markvdLoo)
-
-The purposes of this book include demonstrating the main tools and workflows of the validate package, giving examples of common data validation tasks, and showing how to analyze data validation results.
-
-Link: [https://data-cleaning.github.io/validate/](https://data-cleaning.github.io/validate/)
-
-## The Grammar of Experimental Designs
-
-- [Emi Tanaka](https://emitanaka.org)
-
-An book about designing experiments using the eddible package.
-
-Link: [https://emitanaka.org/edibble-book/index.html](https://emitanaka.org/edibble-book/index.html)
-
-## The Tidyverse Cookbook
-
-- Edited by Garrett Grolemund
-
-This book collects code recipes for doing data science with R's
-tidyverse. Each recipe solves a single common task, with a minimum of
-discussion.
-
-Link: [https://rstudio-education.github.io/tidyverse-cookbook/](https://rstudio-education.github.io/tidyverse-cookbook/)
-
-## The caret Package
-
-- Max Kuhn
-
-The caret package (short for Classification And REgression Training) is
-a set of functions that attempt to streamline the process for creating
-predictive models.
-
-Link: [https://topepo.github.io/caret/index.html](https://topepo.github.io/caret/index.html)
-
-## The lidR package
-
-- Jean-Romain Roussel
-- Tristan R.H. Goodbody
-- Piotr Tompalski
-
-lidR is an R package for manipulating and visualizating airborne laser scanning (ALS) data with an emphasis on forestry applications. The package is entirely open source and is integrated within the geospatial R ecosytem (i.e. raster, sp, sf, rgdal etc.). This guide has been written to help both the ALS novice, as well as seasoned point cloud processing veterans.
-
-Link: [https://jean-romain.github.io/lidRbook/](https://jean-romain.github.io/lidRbook/)
-
-## The targets R Package Design Specification
-
-- [Will Landau](https://fosstodon.org/@landau)
-
-targets has an elaborate structure to support its advanced features while ensuring decent performance. This bookdown site is a design specification to explain the major aspects of the internal architecture, including the data storage model, object oriented design, and orchestration and branching model
-
-Link: [https://books.ropensci.org/targets-design/index.html](https://books.ropensci.org/targets-design/index.html)
-
-## The targets R Package User Manual
-
-- Will Landau
-
-The targets package is a Make-like pipeline toolkit for Statistics and data science in R. With targets, you can maintain a reproducible workflow without repeating yourself. targets learns how your pipeline fits together, skips costly runtime for tasks that are already up to date, runs only the necessary computation, supports implicit parallel computing, abstracts files as R objects, and shows tangible evidence that the results match the underlying code and data.
-
-Link: [https://books.ropensci.org/targets/](https://books.ropensci.org/targets/)
-
-## data.table in R The Complete Beginners Guide
-
-- Selva Prabhakaran
-
-data.table is a package is used for working with tabular data in R. It provides the efficient data.table object which is a much improved version of the default data.frame. It is super fast and has intuitive and terse syntax. If you know R language and haven’t picked up the data.table package yet, then this tutorial guide is a great place to start.
-
-Link: [https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/](https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/)
-
-## ggplot2 Elegant Graphics for Data Analysis
-
-- Hadley Wickham
-
-ggplot2 is an R package for producing statistical, or data, graphics.
-Unlike most other graphics packages, ggplot2 has an underlying grammar,
-based on the Grammar of Graphics (Wilkinson 2005), that allows you to
-compose graphs by combining independent components. This makes ggplot2
-powerful. Rather than being limited to sets of pre-defined graphics, you
-can create novel graphics that are tailored to your specific problem.
-
-Link: [https://ggplot2-book.org/](https://ggplot2-book.org/)
 
 ## knitr
 
@@ -298,6 +182,39 @@ pipeR is an R package that helps you better organize your code in pipeline built
 
 Link: [https://renkun-ken.github.io/pipeR-tutorial/](https://renkun-ken.github.io/pipeR-tutorial/)
 
+## R bookdownplus Textbook
+
+- Peng Zhao
+
+‘bookdownplus’ is an extension of ‘bookdown’. It is a collection of multiple templates, which I have been collecting since years ago on the basis of LaTeX, and have been tailoring them so that I can work happily under the umbrella of ‘bookdown’. ‘bookdownplus’ helps you (and me) write varied types of books and documents. This book you are reading at the moment was exactly produced by ‘bookdownplus’.
+
+Link: [https://bookdown.org/baydap/bookdownplus/](https://bookdown.org/baydap/bookdownplus/)
+
+## R Function a Day
+
+- [Indrajeet Patil](https://twitter.com/patilindrajeets)
+
+A book that collects (and provides an easy way to access and search) tweets from R Function A Day account that maintained for 1 year (from 24.01.2021 to 24.01.2022).
+
+Link: [https://bookdown.org/IndrajeetPatil/R-Function-A-Day-book/](https://bookdown.org/IndrajeetPatil/R-Function-A-Day-book/)
+
+## Rcpp for everyone
+
+- Masaki E. Tsuda
+
+Rcpp is a package that enables you to implement R functions in C++. It
+is easy to use even without deep knowledge of C++, because it is
+implemented so as to write your C++ code in a style similar to R. And
+Rcpp does not sacrifice execution speed for the ease of use, anyone can
+get high performance outcome.
+
+This document focuses on providing necessary information to users who
+are not familiar with C++. Therefore, in some cases, I explain usage of
+Rcpp conceptually rather than describing accurately from the viewpoint
+of C++, so that I hope readers can easily understand it.
+
+Link: [https://teuder.github.io/rcpp4everyone_en/](https://teuder.github.io/rcpp4everyone_en/)
+
 ## reactablefmtr Cookbook
 
 - [Kyle Cuilla](https://twitter.com/kc_analytics)
@@ -313,5 +230,88 @@ Link: [https://kcuilla.github.io/reactablefmtr/articles/reactablefmtr_cookbook.h
 rlist is a set of tools for working with list objects. Its goal is to make it easier to work with lists by providing a wide range of functions on non-tabular data stored in them. This package supports filtering, mapping, grouping, sorting, updating, searching and many other functions. It is pipe-friendly and strongly recommends functional programming style in list operations. This tutorial serves as complete guide to using rlist functionality to work with non-tabular data.
 
 Link: [https://renkun-ken.github.io/rlist-tutorial/](https://renkun-ken.github.io/rlist-tutorial/)
+
+## Shiny App-Packages
+
+- Martin Frigaard
+
+This book is a resource to help ‘connect the dots’ between building scalable Shiny applications and writing R packages. Adopting R package development practices in the early stages of your Shiny app will improve the reusability, maintainability, and shareability of all your hard work.
+
+Link: [https://mjfrigaard.github.io/shiny-app-pkgs/](https://mjfrigaard.github.io/shiny-app-pkgs/)
+
+## Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem
+
+- [Mark van der Laan](https://statistics.berkeley.edu/people/mark-van-der-laan)
+- [Jeremy Coyle](https://scholar.google.com/citations?user=DyFxaxAAAAAJ)
+- [Nima Hejazi](https://nimahejazi.org)
+- [Ivana Malenica](https://imalenica.github.io)
+- [Rachael Phillips](https://scholar.google.com/citations?user=vD1fxpEAAAAJ)
+- [Alan Hubbard](https://vcresearch.berkeley.edu/faculty/alan-hubbard)
+
+It is a fully reproducible, open-source, electronic handbook for applying Targeted Learning methodology in practice using the software stack provided by the tlverse ecosystem.
+
+Link: [https://tlverse.org/tlverse-handbook/](https://tlverse.org/tlverse-handbook/)
+
+## The caret Package
+
+- Max Kuhn
+
+The caret package (short for Classification And REgression Training) is
+a set of functions that attempt to streamline the process for creating
+predictive models.
+
+Link: [https://topepo.github.io/caret/index.html](https://topepo.github.io/caret/index.html)
+
+## The Data Validation Cookbook
+
+- [Mark P.J. van der Loo](https://twitter.com/markvdLoo)
+
+The purposes of this book include demonstrating the main tools and workflows of the validate package, giving examples of common data validation tasks, and showing how to analyze data validation results.
+
+Link: [https://data-cleaning.github.io/validate/](https://data-cleaning.github.io/validate/)
+
+## The Grammar of Experimental Designs
+
+- [Emi Tanaka](https://emitanaka.org)
+
+An book about designing experiments using the eddible package.
+
+Link: [https://emitanaka.org/edibble-book/index.html](https://emitanaka.org/edibble-book/index.html)
+
+## The lidR package
+
+- Jean-Romain Roussel
+- Tristan R.H. Goodbody
+- Piotr Tompalski
+
+lidR is an R package for manipulating and visualizating airborne laser scanning (ALS) data with an emphasis on forestry applications. The package is entirely open source and is integrated within the geospatial R ecosytem (i.e. raster, sp, sf, rgdal etc.). This guide has been written to help both the ALS novice, as well as seasoned point cloud processing veterans.
+
+Link: [https://jean-romain.github.io/lidRbook/](https://jean-romain.github.io/lidRbook/)
+
+## The targets R Package Design Specification
+
+- [Will Landau](https://fosstodon.org/@landau)
+
+targets has an elaborate structure to support its advanced features while ensuring decent performance. This bookdown site is a design specification to explain the major aspects of the internal architecture, including the data storage model, object oriented design, and orchestration and branching model
+
+Link: [https://books.ropensci.org/targets-design/index.html](https://books.ropensci.org/targets-design/index.html)
+
+## The targets R Package User Manual
+
+- Will Landau
+
+The targets package is a Make-like pipeline toolkit for Statistics and data science in R. With targets, you can maintain a reproducible workflow without repeating yourself. targets learns how your pipeline fits together, skips costly runtime for tasks that are already up to date, runs only the necessary computation, supports implicit parallel computing, abstracts files as R objects, and shows tangible evidence that the results match the underlying code and data.
+
+Link: [https://books.ropensci.org/targets/](https://books.ropensci.org/targets/)
+
+## The Tidyverse Cookbook
+
+- Edited by Garrett Grolemund
+
+This book collects code recipes for doing data science with R's
+tidyverse. Each recipe solves a single common task, with a minimum of
+discussion.
+
+Link: [https://rstudio-education.github.io/tidyverse-cookbook/](https://rstudio-education.github.io/tidyverse-cookbook/)
 
 

@@ -44,6 +44,15 @@ we will focus on statistical inference, the process of using data analysis to dr
 
 Link: [https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/](https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/)
 
+## An Introduction to Statistical and Data Sciences via R
+
+- [Chester Ismay](https://twitter.com/old_man_chester)
+- [Albert Kim](https://twitter.com/rudeboybert)
+
+An incredibly beginner friendly introduction to both datascience and statistics concepts as well as R.
+
+Link: [https://moderndive.com/](https://moderndive.com/)
+
 ## An Introduction to Statistical Learning
 
 - Gareth James
@@ -54,15 +63,6 @@ Link: [https://bookdown.org/kevin_davisross/bayesian-reasoning-and-methods/](htt
 As the scale and scope of data collection continue to increase across virtually all fields, statistical learning has become a critical toolkit for anyone who wishes to understand data. An Introduction to Statistical Learning provides a broad and less technical treatment of key topics in statistical learning. Each chapter includes an R lab. This book is appropriate for anyone who wishes to use contemporary tools for data analysis.
 
 Link: [https://www.statlearning.com/](https://www.statlearning.com/)
-
-## An Introduction to Statistical and Data Sciences via R
-
-- [Chester Ismay](https://twitter.com/old_man_chester)
-- [Albert Kim](https://twitter.com/rudeboybert)
-
-An incredibly beginner friendly introduction to both datascience and statistics concepts as well as R.
-
-Link: [https://moderndive.com/](https://moderndive.com/)
 
 ## Analysing Data using Linear Models
 
@@ -85,14 +85,6 @@ including this textbook, a lab manual, and a course website.
 
 Link: [https://crumplab.github.io/statistics/](https://crumplab.github.io/statistics/)
 
-## Applied Statistics with R
-
-- [David Dalpiaz](https://github.com/daviddalpiaz/)
-
-The book gives a basic introduction how to perform regression analysis in R. It is used in the context of an applied statistics class of University of Illinois Urbana-Champaign
-
-Link: [https://book.stat420.org](https://book.stat420.org)
-
 ## Applied longitudinal data analysis in brms and the tidyverse
 
 - [A Solomon Kurz](https://solomonkurz.netlify.app)
@@ -100,6 +92,14 @@ Link: [https://book.stat420.org](https://book.stat420.org)
 A translation of the examples and figures from Singer and Willett’s classic Applied longitudinal data analysis: Modeling change and event occurrence.
 
 Link: [https://bookdown.org/content/4253/](https://bookdown.org/content/4253/)
+
+## Applied Statistics with R
+
+- [David Dalpiaz](https://github.com/daviddalpiaz/)
+
+The book gives a basic introduction how to perform regression analysis in R. It is used in the context of an applied statistics class of University of Illinois Urbana-Champaign
+
+Link: [https://book.stat420.org](https://book.stat420.org)
 
 ## Bayes rules!
 
@@ -134,6 +134,16 @@ Link: [https://bookdown.org/roback/bookdown-BeyondMLR/](https://bookdown.org/rob
 The topic of this book is statistical modelling and inference applied to building energy performance assessment. It has two target audiences: building energy researchers and practitioners who need a gentle introduction to statistical modelling; statisticians who may be interested in applications to energy performance.
 
 Link: [https://buildingenergygeeks.org/index.html](https://buildingenergygeeks.org/index.html)
+
+## Causal Inference in R
+
+- Malcolm Barrett
+- Lucy D’Agostino McGowan
+- Travis Gerke
+
+Answering causal questions is critical for scientific and business purposes, but techniques like randomized clinical trials and A/B testing are not always practical or successful. The tools in this book will allow readers to better make causal inferences with observational data with the R programming language
+
+Link: [https://www.r-causal.org/](https://www.r-causal.org/)
 
 ## Causal Inference: The Mixtape
 
@@ -234,16 +244,6 @@ For accompanying solutions to some of the questions: https://keithmcnulty.github
 
 Link: [http://peopleanalytics-regression-book.org/index.html](http://peopleanalytics-regression-book.org/index.html)
 
-## ISLR tidymodels Labs
-
-- [Emil Hvitfeldt](https://twitter.com/Emil_Hvitfeldt)
-
-This book aims to be a complement to the 1st version An Introduction to Statistical Learning book with translations of the labs into using the tidymodels set of packages.
-
-The labs will be mirrored quite closely to stay true to the original material.
-
-Link: [https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
-
 ## Introduction to Empirical Bayes: Examples from Baseball Statistics
 
 - [David Robinson](https://twitter.com/drob)
@@ -269,6 +269,16 @@ forming a foundation of statistical thinking and methods.
     use them to learn interesting things about the\~world.
 
 Link: [https://openintro-ims.netlify.app/](https://openintro-ims.netlify.app/)
+
+## ISLR tidymodels Labs
+
+- [Emil Hvitfeldt](https://twitter.com/Emil_Hvitfeldt)
+
+This book aims to be a complement to the 1st version An Introduction to Statistical Learning book with translations of the labs into using the tidymodels set of packages.
+
+The labs will be mirrored quite closely to stay true to the original material.
+
+Link: [https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html](https://emilhvitfeldt.github.io/ISLR-tidymodels-labs/index.html)
 
 ## Library of Statistical Techniques
 
@@ -378,8 +388,8 @@ Link: [https://link.springer.com/book/10.1007/978-3-030-80519-7](https://link.sp
 - Guy Prochilo
 - Frederik Aust
 
-The goal of Superpower is to easily simulate factorial designs and empirically calculate power using a simulation approach. The R package is intended to be utilized for prospective (a priori) power analysis. Calculating post hoc power is not a useful thing to do for single studies.
-
+The goal of Superpower is to easily simulate factorial designs and empirically calculate power using a simulation approach. The R package is intended to be utilized for prospective (a priori) power analysis. Calculating post hoc power is not a useful thing to do for single studies.
+
 This package, and book, expect readers to have some familiarity with R (2020). However, we have created two Shiny apps (for the ANOVA_power & ANOVA_exact functions respectively) to help use Superpower if you are not familiar with R. Reading through the examples in this book, and reproducing them in the Shiny apps, is probably the easiest way to get started with power analyses in Superpower.
 
 Link: [https://aaroncaldwell.us/SuperpowerBook/index.html](https://aaroncaldwell.us/SuperpowerBook/index.html)
@@ -431,6 +441,16 @@ We live in a complex world, and clever people are continually coming up with new
 
 Link: [https://spacetimewithr.org/](https://spacetimewithr.org/)
 
+## Statistical inference for data science
+
+- Brian Caffo
+
+This book gives a brief, but rigorous, treatment of statistical inference intended for practicing Data Scientists.
+
+Paid: Free or pay what you want $15
+
+Link: [https://leanpub.com/LittleInferenceBook](https://leanpub.com/LittleInferenceBook)
+
 ## Statistical Rethinking
 
 
@@ -469,16 +489,6 @@ The main site below has companion sites in R and Python:
 - Python companion <https://statsthinking21.github.io/statsthinking21-python/>
 
 Link: [https://statsthinking21.github.io/statsthinking21-core-site/](https://statsthinking21.github.io/statsthinking21-core-site/)
-
-## Statistical inference for data science
-
-- Brian Caffo
-
-This book gives a brief, but rigorous, treatment of statistical inference intended for practicing Data Scientists.
-
-Paid: Free or pay what you want $15
-
-Link: [https://leanpub.com/LittleInferenceBook](https://leanpub.com/LittleInferenceBook)
 
 ## Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)
 

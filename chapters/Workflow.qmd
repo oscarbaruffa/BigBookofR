@@ -50,14 +50,6 @@ This book is my attempt to provide answers to these types of questions.
 
 Link: [https://howiuser.com/](https://howiuser.com/)
 
-## R Workflow for Reproducible Data Analysis and Reporting
-
-- Frank E Harrell Jr
-
-This work is intended to foster best practices in reproducible data documentation and manipulation, statistical analysis, graphics, and reporting. It will enable the reader to efficiently produce attractive, readable, and reproducible research reports while keeping code concise and clear. Readers are also guided in choosing statistically efficient descriptive analyses that are consonant with the type of data being analyzed.
-
-Link: [http://hbiostat.org/rflow/](http://hbiostat.org/rflow/)
-
 ## R for the Rest of Us
 
 - [David Keyes](https://twitter.com/rfortherest)
@@ -68,14 +60,21 @@ Link: [https://book.rfortherestofus.com/](https://book.rfortherestofus.com/)
 
 Physical copy available: [https://amzn.to/3RBuKbO](https://amzn.to/3RBuKbO)
 
-## Reproducible Analytical Pipelines (RAP) Companion
+## R in Production
 
-- [Matthew Gregory](https://twitter.com/mammykins_)
-- [Matthew Upson](https://twitter.com/m_a_upson)
+- Hadley Wickham
 
-Reproducible Analytical Pipelines require a range of tools and techniques to implement that can be a challenge to overcome, and this book address some of the common knowledge gaps and hard-to-Google problems that upcoming RAP-pers face.
+An assembly of notes about R in Production.
 
-Link: [https://ukgovdatascience.github.io/rap_companion/](https://ukgovdatascience.github.io/rap_companion/)
+Link: [https://r-in-production.org/](https://r-in-production.org/)
+
+## R Workflow for Reproducible Data Analysis and Reporting
+
+- Frank E Harrell Jr
+
+This work is intended to foster best practices in reproducible data documentation and manipulation, statistical analysis, graphics, and reporting. It will enable the reader to efficiently produce attractive, readable, and reproducible research reports while keeping code concise and clear. Readers are also guided in choosing statistically efficient descriptive analyses that are consonant with the type of data being analyzed.
+
+Link: [http://hbiostat.org/rflow/](http://hbiostat.org/rflow/)
 
 ## Reproducible Analytical Pipelines - Master’s of Data Science
 
@@ -88,6 +87,15 @@ The basic idea of a reproducible analytical pipeline (RAP) is to have code that 
 A well documented RAP avoids a lot of headache and is usually re-usable for other projects as well.
 
 Link: [https://rap4mads.eu/](https://rap4mads.eu/)
+
+## Reproducible Analytical Pipelines (RAP) Companion
+
+- [Matthew Gregory](https://twitter.com/mammykins_)
+- [Matthew Upson](https://twitter.com/m_a_upson)
+
+Reproducible Analytical Pipelines require a range of tools and techniques to implement that can be a challenge to overcome, and this book address some of the common knowledge gaps and hard-to-Google problems that upcoming RAP-pers face.
+
+Link: [https://ukgovdatascience.github.io/rap_companion/](https://ukgovdatascience.github.io/rap_companion/)
 
 ## The Data Validation Cookbook
 

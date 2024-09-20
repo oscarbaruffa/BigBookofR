@@ -40,6 +40,18 @@ easier.While the programming language focus is on R, where applicable
 
 Link: [https://m-clark.github.io/data-processing-and-visualization/](https://m-clark.github.io/data-processing-and-visualization/)
 
+## Data visualisation using R, for researchers who don’t use R
+
+- [Emily Nordmann](https://twitter.com/emilynordmann)
+- [Phil McAleer](https://twitter.com/McAleerP)
+- [Wilhelmiina Toivo](https://twitter.com/wtoivo1)
+- [Helena Paterson](https://twitter.com/PatersonHelena)
+- [Lisa DeBruine](https://twitter.com/LisaDeBruine)
+
+In this tutorial, we aim to provide a practical introduction to data visualisation using R, specifically aimed at researchers who have little to no prior experience of using R. First we detail the rationale for using R for data visualisation and introduce the “grammar of graphics” that underlies data visualisation using the ggplot package. The tutorial then walks the reader through how to replicate plots that are commonly available in point-and-click software such as histograms and boxplots, as well as showing how the code for these “basic” plots can be easily extended to less commonly available options such as violin-boxplots.
+
+Link: [https://psyteachr.github.io/introdataviz/](https://psyteachr.github.io/introdataviz/)
+
 ## Data Visualization - A practical introduction
 
 - [Kieran Healy](https://twitter.com/kjhealy)
@@ -80,18 +92,6 @@ These modules are here to present a succinct guide to using R, RStudio, and R Ma
 
 Link: [https://bookdown.org/max_ricciardelli/wrangling_modules/](https://bookdown.org/max_ricciardelli/wrangling_modules/)
 
-## Data visualisation using R, for researchers who don’t use R
-
-- [Emily Nordmann](https://twitter.com/emilynordmann)
-- [Phil McAleer](https://twitter.com/McAleerP)
-- [Wilhelmiina Toivo](https://twitter.com/wtoivo1)
-- [Helena Paterson](https://twitter.com/PatersonHelena)
-- [Lisa DeBruine](https://twitter.com/LisaDeBruine)
-
-In this tutorial, we aim to provide a practical introduction to data visualisation using R, specifically aimed at researchers who have little to no prior experience of using R. First we detail the rationale for using R for data visualisation and introduce the “grammar of graphics” that underlies data visualisation using the ggplot package. The tutorial then walks the reader through how to replicate plots that are commonly available in point-and-click software such as histograms and boxplots, as well as showing how the code for these “basic” plots can be easily extended to less commonly available options such as violin-boxplots.
-
-Link: [https://psyteachr.github.io/introdataviz/](https://psyteachr.github.io/introdataviz/)
-
 ## Fundamentals of Data Visualization
 
 - [Claus Wilke](https://twitter.com/ClausWilke)
@@ -100,6 +100,32 @@ The book is meant as a guide to making visualizations that accurately
 reflect the data, tell a story, and look professional.
 
 Link: [https://clauswilke.com/dataviz/](https://clauswilke.com/dataviz/)
+
+## ggplot2 Elegant Graphics for Data Analysis
+
+- Hadley Wickham
+
+ggplot2 is an R package for producing statistical, or data, graphics.
+Unlike most other graphics packages, ggplot2 has an underlying grammar,
+based on the Grammar of Graphics (Wilkinson 2005), that allows you to
+compose graphs by combining independent components. This makes ggplot2
+powerful. Rather than being limited to sets of pre-defined graphics, you
+can create novel graphics that are tailored to your specific problem.
+
+Link: [https://ggplot2-book.org/](https://ggplot2-book.org/)
+
+## ggplot2 in 2
+
+- Lucy D'Agostino McGowan
+
+Really good overview of ggplot2. The premise is that you'll cover the
+fundamentals in 2 hours. Oscar Baruffa made a sped-up
+[screencast](https://youtu.be/_G7_J8M9588) while working through it. It
+did take 2 hours :).
+
+Paid: Pay what you want, minimum \$4.99 $5
+
+Link: [https://leanpub.com/ggplot2in2](https://leanpub.com/ggplot2in2)
 
 ## Graphical Data Analysis with R
 
@@ -147,6 +173,20 @@ with JavaScript, and use JavaScript for computations.
 
 Link: [https://javascript-for-r.com](https://javascript-for-r.com)
 
+## plotly Interactive web-based data visualization with R, plotly, and shiny
+
+- Carson Sievert
+
+In this book, you'll gain insight and practical skills for creating
+interactive and dynamic web graphics for data analysis from R. It makes
+heavy use of plotly for rendering graphics, but you'll also learn about
+other R packages that augment a data science workflow, such as the
+tidyverse and shiny. Along the way, you'll gain insight into best
+practices for visualization of high-dimensional data, statistical
+graphics, and graphical perception.
+
+Link: [https://plotly-r.com/](https://plotly-r.com/)
+
 ## R Graphics Cookbook, 2nd edition
 
 - Winston Chang
@@ -174,45 +214,5 @@ This book will help you master R plots the easy way. We have spent a long time c
 Paid: Pay what you want, minimum $5 $10
 
 Link: [https://leanpub.com/ggplot-guide](https://leanpub.com/ggplot-guide)
-
-## ggplot2 Elegant Graphics for Data Analysis
-
-- Hadley Wickham
-
-ggplot2 is an R package for producing statistical, or data, graphics.
-Unlike most other graphics packages, ggplot2 has an underlying grammar,
-based on the Grammar of Graphics (Wilkinson 2005), that allows you to
-compose graphs by combining independent components. This makes ggplot2
-powerful. Rather than being limited to sets of pre-defined graphics, you
-can create novel graphics that are tailored to your specific problem.
-
-Link: [https://ggplot2-book.org/](https://ggplot2-book.org/)
-
-## ggplot2 in 2
-
-- Lucy D'Agostino McGowan
-
-Really good overview of ggplot2. The premise is that you'll cover the
-fundamentals in 2 hours. Oscar Baruffa made a sped-up
-[screencast](https://youtu.be/_G7_J8M9588) while working through it. It
-did take 2 hours :).
-
-Paid: Pay what you want, minimum \$4.99 $5
-
-Link: [https://leanpub.com/ggplot2in2](https://leanpub.com/ggplot2in2)
-
-## plotly Interactive web-based data visualization with R, plotly, and shiny
-
-- Carson Sievert
-
-In this book, you'll gain insight and practical skills for creating
-interactive and dynamic web graphics for data analysis from R. It makes
-heavy use of plotly for rendering graphics, but you'll also learn about
-other R packages that augment a data science workflow, such as the
-tidyverse and shiny. Along the way, you'll gain insight into best
-practices for visualization of high-dimensional data, statistical
-graphics, and graphical perception.
-
-Link: [https://plotly-r.com/](https://plotly-r.com/)
 
 

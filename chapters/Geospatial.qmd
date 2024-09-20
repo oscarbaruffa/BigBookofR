@@ -108,6 +108,21 @@ The materials aim to cover the necessary skills in basic programming, data wrang
 
 Link: [https://sdesabbata.github.io/r-for-geographic-data-science/index.html](https://sdesabbata.github.io/r-for-geographic-data-science/index.html)
 
+## sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series
+
+- Gilberto Camara
+- Rolf Simoes
+- Felipe Souza
+- Alber Sanchez
+- Lorena Santos
+- et al
+
+Using time series derived from big Earth Observation data sets is one of the leading research trends in Land Use Science and Remote Sensing. One of the more promising uses of satellite time series is its application to classify land use and land cover. Information on land is critical for sustainable development because our growing demand for natural resources is causing significant environmental impacts. The target audience for sits is the new generation of specialists who understand the principles of remote sensing and can write scripts in R. Ideally, users should have basic knowledge of data science methods using R.
+
+This book presents sits, an open-source R package for land use and land cover classification using big Earth observation data.
+
+Link: [https://e-sensing.github.io/sitsbook/](https://e-sensing.github.io/sitsbook/)
+
 ## Spatial Data Science With applications in R
 
 - Edzer Pebesma
@@ -148,14 +163,6 @@ This is the website for “Spatial Modeling for Data Scientists”. This is a co
 
 Link: [https://gdsl-ul.github.io/san/](https://gdsl-ul.github.io/san/)
 
-## Spatial Statistics for Data Science: Theory and Practice with R
-
-- Paula Moraga
-
-The book combines theory and practice using real-world data science examples such as disease risk mapping, air pollution prediction, species distribution modeling, crime mapping, and real state analyses.
-
-Link: [https://www.paulamoraga.com/book-spatial/index.html](https://www.paulamoraga.com/book-spatial/index.html)
-
 ## Spatial sampling with R
 
 - Dick J. Brus
@@ -163,6 +170,14 @@ Link: [https://www.paulamoraga.com/book-spatial/index.html](https://www.paulamor
 This book describes and illustrates classical, basic sampling designs for a spatial survey, as well as more recently developed, advanced sampling designs and estimators. Part I of the book is about random sampling designs for estimating a mean, total, or proportion of a population or of several subpopulations. Part II focuses on sampling designs for mapping.
 
 Link: [https://dickbrus.github.io/SpatialSamplingwithR/](https://dickbrus.github.io/SpatialSamplingwithR/)
+
+## Spatial Statistics for Data Science: Theory and Practice with R
+
+- Paula Moraga
+
+The book combines theory and practice using real-world data science examples such as disease risk mapping, air pollution prediction, species distribution modeling, crime mapping, and real state analyses.
+
+Link: [https://www.paulamoraga.com/book-spatial/index.html](https://www.paulamoraga.com/book-spatial/index.html)
 
 ## Using R for Digital Soil Mapping
 
@@ -177,20 +192,5 @@ tutorials for users to learn the fundamentals of R, but with a focus on
 how to use it for digital soil mapping
 
 Link: [https://www.springer.com/gp/book/9783319443256](https://www.springer.com/gp/book/9783319443256)
-
-## sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series
-
-- Gilberto Camara
-- Rolf Simoes
-- Felipe Souza
-- Alber Sanchez
-- Lorena Santos
-- et al
-
-Using time series derived from big Earth Observation data sets is one of the leading research trends in Land Use Science and Remote Sensing. One of the more promising uses of satellite time series is its application to classify land use and land cover. Information on land is critical for sustainable development because our growing demand for natural resources is causing significant environmental impacts. The target audience for sits is the new generation of specialists who understand the principles of remote sensing and can write scripts in R. Ideally, users should have basic knowledge of data science methods using R.
-
-This book presents sits, an open-source R package for land use and land cover classification using big Earth observation data.
-
-Link: [https://e-sensing.github.io/sitsbook/](https://e-sensing.github.io/sitsbook/)
 
 

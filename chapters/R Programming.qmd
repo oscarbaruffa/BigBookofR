@@ -1,13 +1,5 @@
 # R Programming
 
-## A Survivor's Guide to R
-
-- [Kurt Taylor Gaubatz](kktg.net)
-
-A Survivor’s Guide to R provides a gentle yet thorough introduction to R. The book is structured around critical R tasks, and focuses on applied knowledge, rather than abstract concepts. The book's easy-to-read approach helps students with little or no background in statistics or programming to develop real-world R skills through straightforward coverage of R objects and functions. Focusing on real-world data, the challenges of dataset construction, and the use of R’s powerful graphing tools, the guide is written in an accessible and sympathetic style that ensures students acquire functional R skills they can use in their own projects and carry into their work beyond the classroom. A Survivor's Guide to R focusses on the challenges of learning R, rather than learning statistics.  This makes it an effective complement for those who are using other statistics texts, or who already have a statistics background.
-
-Link: [https://us.sagepub.com/en-us/nam/a-survivors-guide-to-r/book242607](https://us.sagepub.com/en-us/nam/a-survivors-guide-to-r/book242607)
-
 ## A sufficient Introduction to R
 
 - Derek l. Sonderegger
@@ -20,6 +12,14 @@ ways. Therefore we will spend more time on foundational details than a
 "crash-course" would.
 
 Link: [https://dereksonderegger.github.io/570L/](https://dereksonderegger.github.io/570L/)
+
+## A Survivor's Guide to R
+
+- [Kurt Taylor Gaubatz](kktg.net)
+
+A Survivor’s Guide to R provides a gentle yet thorough introduction to R. The book is structured around critical R tasks, and focuses on applied knowledge, rather than abstract concepts. The book's easy-to-read approach helps students with little or no background in statistics or programming to develop real-world R skills through straightforward coverage of R objects and functions. Focusing on real-world data, the challenges of dataset construction, and the use of R’s powerful graphing tools, the guide is written in an accessible and sympathetic style that ensures students acquire functional R skills they can use in their own projects and carry into their work beyond the classroom. A Survivor's Guide to R focusses on the challenges of learning R, rather than learning statistics.  This makes it an effective complement for those who are using other statistics texts, or who already have a statistics background.
+
+Link: [https://us.sagepub.com/en-us/nam/a-survivors-guide-to-r/book242607](https://us.sagepub.com/en-us/nam/a-survivors-guide-to-r/book242607)
 
 ## Advanced Object-Oriented Programming in R
 
@@ -457,6 +457,17 @@ of C++, so that I hope readers can easily understand it.
 
 Link: [https://teuder.github.io/rcpp4everyone_en/](https://teuder.github.io/rcpp4everyone_en/)
 
+## stats545 Data wrangling, exploration, and analysis with R
+
+- Jenny Bryan
+
+Learn how to: Explore, groom, visualize, and analyze data, make all of that
+reproducible, reusable, and shareable, using R. This site is about
+everything that comes up during data analysis except for statistical
+modelling and inference.
+
+Link: [https://stat545.com/](https://stat545.com/)
+
 ## The R Inferno
 
 - Patrick Burns
@@ -527,6 +538,27 @@ The Using ggplot2 in packages vignette.
 
 Link: [https://tidyeval.tidyverse.org/](https://tidyeval.tidyverse.org/)
 
+## Tidyverse design guide
+
+- Tidyverse team
+
+The goal of this book is to help you write better R code. It has four
+main components:
+
+1.  Design problems which lead to suboptimal outcomes.
+
+2.  Useful patterns that help solve common problems.
+
+3.  Key principles that help you balance conflicting patterns.
+
+4.  Selected case studies that help you see how all the pieces fit
+    together with real code.
+
+It is used by the tidyverse team to promote consistency across packages
+in the core tidyverse.
+
+Link: [https://design.tidyverse.org/](https://design.tidyverse.org/)
+
 ## Tidyverse Skills for Data Science
 
 - Carrie Wright
@@ -554,27 +586,6 @@ Course format
 
 Link: [https://jhudatascience.org/tidyversecourse/](https://jhudatascience.org/tidyversecourse/)
 
-## Tidyverse design guide
-
-- Tidyverse team
-
-The goal of this book is to help you write better R code. It has four
-main components:
-
-1.  Design problems which lead to suboptimal outcomes.
-
-2.  Useful patterns that help solve common problems.
-
-3.  Key principles that help you balance conflicting patterns.
-
-4.  Selected case studies that help you see how all the pieces fit
-    together with real code.
-
-It is used by the tidyverse team to promote consistency across packages
-in the core tidyverse.
-
-Link: [https://design.tidyverse.org/](https://design.tidyverse.org/)
-
 ## What They Forgot to Teach You About R
 
 - Jenny Bryan
@@ -595,8 +606,8 @@ Link: [https://rstats.wtf/](https://rstats.wtf/)
 
 - R Core
 
-This is a guide to extending R, describing the process of creating R add-on packages, writing R documentation, R’s system and foreign language interfaces, and the R API.
-
+This is a guide to extending R, describing the process of creating R add-on packages, writing R documentation, R’s system and foreign language interfaces, and the R API.
+
 This manual is for R, version 3.4.2 (2017-09-28).
 
 Link: [https://colinfay.me/writing-r-extensions/index.html](https://colinfay.me/writing-r-extensions/index.html)
@@ -622,16 +633,5 @@ translating the text to English. Sure enough, the book turned out to be
 an introduction to R called The Pirate's Guide to R.
 
 Link: [https://bookdown.org/ndphillips/YaRrr/](https://bookdown.org/ndphillips/YaRrr/)
-
-## stats545 Data wrangling, exploration, and analysis with R
-
-- Jenny Bryan
-
-Learn how to: Explore, groom, visualize, and analyze data, make all of that
-reproducible, reusable, and shareable, using R. This site is about
-everything that comes up during data analysis except for statistical
-modelling and inference.
-
-Link: [https://stat545.com/](https://stat545.com/)
 
 

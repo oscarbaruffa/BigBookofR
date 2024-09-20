@@ -16,6 +16,24 @@ This book focuses on how to efficiently teach data science to students with litt
 
 Link: [https://datasciencebox.org/](https://datasciencebox.org/)
 
+## rstudio4edu
+
+- [Desirée De Leon](https://desiree.rbind.io/)
+- [Alison Hill](https://alison.rbind.io/)
+
+A book for educators in the data science space who wish to create
+educational materials that are engaging for students and inspiring to
+other educators. This book is a cookbook for generating materials for
+
+-   R Markdown lessons
+-   R packages
+-   R Markdown websites
+-   Distill sites
+-   Bookdown books
+-   Blogdown sites
+
+Link: [https://rstudio4edu.github.io/rstudio4edu-book/](https://rstudio4edu.github.io/rstudio4edu-book/)
+
 ## Teaching Tech Together
 
 - Greg Wilson
@@ -40,23 +58,5 @@ This book is offered at rstudio::global(2021), as part of the Diversity Scholars
 In this workshop, you will learn about using the RStudio IDE to its full potential for teaching R. Whether you're an educator by profession, or you do education as part of collaborations or outreach, or you want to improve your workflow for giving talks, demos, and workshops, there is something for you in this workshop. During the workshop we will cover live coding best practices, tips for using RStudio Cloud for teaching and building learnr tutorials, and R Markdown based tools for developing instructor and student facing teaching materials.
 
 Link: [https://wtf-teach.netlify.app/](https://wtf-teach.netlify.app/)
-
-## rstudio4edu
-
-- [Desirée De Leon](https://desiree.rbind.io/)
-- [Alison Hill](https://alison.rbind.io/)
-
-A book for educators in the data science space who wish to create
-educational materials that are engaging for students and inspiring to
-other educators. This book is a cookbook for generating materials for
-
--   R Markdown lessons
--   R packages
--   R Markdown websites
--   Distill sites
--   Bookdown books
--   Blogdown sites
-
-Link: [https://rstudio4edu.github.io/rstudio4edu-book/](https://rstudio4edu.github.io/rstudio4edu-book/)
 
 

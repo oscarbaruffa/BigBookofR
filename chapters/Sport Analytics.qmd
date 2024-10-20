@@ -31,6 +31,14 @@ appropriate format to visualizing the data via graphs to performing a statistica
 
 Link: [https://baseballwithr.wordpress.com/about/](https://baseballwithr.wordpress.com/about/)
 
+## Fantasy Football Analytics: Statistics, Prediction, and Empiricism Using R
+
+- Isaac T. Petersen
+
+This book is about learning statistics, prediction, and empiricism through the lens of fantasy football. It teaches readers how to use the free software R to perform fantasy football data analysis.
+
+Link: [https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook/](https://isaactpetersen.github.io/Fantasy-Football-Analytics-Textbook/)
+
 ## Introduction to Empirical Bayes: Examples from Baseball Statistics
 
 - [David Robinson](https://twitter.com/drob)

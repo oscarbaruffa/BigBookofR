@@ -113,6 +113,14 @@ with other tidyverse tools.
 
 Link: [https://juliasilge.shinyapps.io/learntidytext/](https://juliasilge.shinyapps.io/learntidytext/)
 
+## The Data Preparation Journey: Finding Your Way With R
+
+- Martin Monkman
+
+The book will introduce the principles of data preparation, framed in a systematic approach that follows a typical data science or statistical workflow. With that context, readers will then work through practical solutions to resolving problems in data using the statistical and data science programming language R. These solutions will include examples of complex real-world data.
+
+Link: [https://bookdown.org/martin_monkman/DataPreparationJourney/](https://bookdown.org/martin_monkman/DataPreparationJourney/)
+
 ## Web Scraping with R
 
 - [Steve Pittard](https://github.com/steviep42)

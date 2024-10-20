@@ -36,6 +36,16 @@ Different multiple regression methods are presented including an overview of ord
 
 Link: [https://bookdown.org/chua/ber642_advanced_regression/](https://bookdown.org/chua/ber642_advanced_regression/)
 
+## An Introduction to Bayesian Data Analysis for Cognitive Science
+
+- [Bruno Nicenboim](https://bruno.nicenboim.me)
+- [Daniel Schad](https://danielschad.github.io)
+- [Shravan Vasishth](https://vasishth.github.io)
+
+Bayesian data analysis and cognitive modeling using the probabilistic programming language Stan, and the front-end to Stan called brms.
+
+Link: [https://vasishth.github.io/bayescogsci/book/](https://vasishth.github.io/bayescogsci/book/)
+
 ## An Introduction to Bayesian Reasoning and Methods
 
 - Kevin Ross

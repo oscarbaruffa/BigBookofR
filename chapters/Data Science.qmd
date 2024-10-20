@@ -117,6 +117,14 @@ problems as well as some tips/tricks that will help you.
 
 Link: [https://edav.info/](https://edav.info/)
 
+## End To End Data Science With R
+
+- Rene Essomba
+
+Great introduction to R, covering a wide range of topics. Covers exploratory data analysis, visualization, supervised learning, unsupervised learning, time-series, NLP, and image classification.
+
+Link: [https://e2e-ds-r.franckess.com/](https://e2e-ds-r.franckess.com/)
+
 ## Everyday Data Science
 
 - Andrew Carr

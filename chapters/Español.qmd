@@ -56,6 +56,24 @@ La literatura sobre las clases sociales en Argentina posee ya una larga tradici�
 
 Link: [https://nsacco.github.io/clases-arg/index.html](https://nsacco.github.io/clases-arg/index.html)
 
+## Modelado Ordenado con R
+
+- Max Kuhn
+- Julia Silge
+
+Este es el sitio web para versión en español de "Modelado Ordenado con R" de Max Kuhn & Julia Slige. El propósito de este libro es demostrar cómo tidyverse y tidymodels se pueden utilizar para producir modelos de alta calidad.
+
+Link: [https://davidrsch.github.io/TMwRes/](https://davidrsch.github.io/TMwRes/)
+
+## Paquetes de R
+
+- Hadley Wickham
+- Jenny Bryan
+
+Este es el sitio web para versión en español de "Paquetes de R" de Hadley Wickham & Jenny Bryan. En este libro aprenderá cómo convertir su código en paquetes que otros puedan descargar y usar fácilmente. Los paquetes son las unidades fundamentales del código R reproducible. Incluyen funciones R reutilizables, la documentación que describe cómo usarlas y datos de muestra. Escribir un paquete puede parecer abrumador al principio. Así que comience con lo básico y mejórelo con el tiempo. No importa si tu primera versión no es perfecta siempre y cuando la próxima versión sea mejor.
+
+Link: [https://davidrsch.github.io/r-pkgses/](https://davidrsch.github.io/r-pkgses/)
+
 ## Programación práctica con R
 
 - Garrett Grolemund
@@ -63,6 +81,14 @@ Link: [https://nsacco.github.io/clases-arg/index.html](https://nsacco.github.io/
 Este es el sitio web para la versión en español de “Hands-On Programming with R” (en lo adelante “Programación Práctica con R”) de Garrett Grolemund. Este libro le enseñará cómo programar en R, con ejemplos prácticos. Fue escrito para personas que no son programadores con el objetivo de proporcionar una introducción amigable al lenguaje R. Aprenderá a cargar datos, ensamblar y desensamblar objetos de datos, navegar por el sistema de entorno de R, escribir sus propias funciones y utilizar todas las herramientas de programación de R. A lo largo del libro, utilizará sus nuevas habilidades para resolver problemas prácticos de ciencia de datos.
 
 Link: [https://davidrsch.github.io/hopres/](https://davidrsch.github.io/hopres/)
+
+## R Avanzado
+
+- Hadley Wickham
+
+Este es el sitio web para la versión en español de R Avanzado de Hadley Wickham. El libro esta diseñado principalmente para usarios de R que quieran mejor sus habilidades de programación y entendimiento del lenguaje. También debería resultarle útil a programadores que vienen a R desde otros lenguajes, para ayudarlos a entender porque R funciona de la manera en que lo hace.
+
+Link: [https://davidrsch.github.io/adv-res/](https://davidrsch.github.io/adv-res/)
 
 ## R Para Ciencia de Datos
 
@@ -82,6 +108,18 @@ Link: [https://es.r4ds.hadley.nz/](https://es.r4ds.hadley.nz/)
 EpiRhandbook es un manual de referencia de R aplicado a la epidemiología y la salud pública.
 
 Link: [https://epirhandbook.com/es/index.html](https://epirhandbook.com/es/index.html)
+
+## R para la Ciencia de Datos 2nda edición
+
+- Hadley Wickham
+- Mine Çetinkaya-Rundel
+- Garrett Grolemund
+
+Este es el sitio web de la versión en español de "R para la Ciencia de Datos" de Hadley Wickham, Mine Çetinkaya-Rundel & Garrett Grolemund. El libro está construido usando Quarto. Este libro le enseñará cómo hacer ciencia de datos con R: aprenderá cómo obtener sus datos en R, convertirlos en la estructura más útil, transformarlos y visualizarlos.
+
+En este libro, encontrará ejercicios prácticos para aprender las habilidades necesarias para la ciencia de datos. Así como un químico aprende a limpiar tubos de ensayo y abastecer un laboratorio, usted aprenderá a limpiar datos y dibujar diagramas, y mucho más. Estas son las habilidades que hacen que exista la ciencia de datos, y aquí encontrará las mejores prácticas para hacer cada una de estas cosas con R. Aprenderá a usar la gramática de los gráficos, la programación literaria y la investigación reproducible para ahorrar tiempo. También aprenderá a administrar los recursos cognitivos para facilitar los descubrimientos al discutir, visualizar y explorar datos.
+
+Link: [https://davidrsch.github.io/r4dses/](https://davidrsch.github.io/r4dses/)
 
 ## R para principiantes
 

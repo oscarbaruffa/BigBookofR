@@ -8,6 +8,16 @@ Introduction into concepts for GIS and spatial data in R. Later chapters are not
 
 Link: [https://bookdown.org/michael_bcalles/gis-crash-course-in-r/](https://bookdown.org/michael_bcalles/gis-crash-course-in-r/)
 
+## A crash course on urban accessibility with R
+
+- Rafael H. M. Pereira
+
+outing and accessibility analyses are increasingly used in urban and transport research and planning. In this workshop, you will learn how to estimate travel time matrices and perform accessibility analyzes in multimodal transport networks using the {r5r} and {accessibility} packages in the R programming language.
+
+The workshop will also illustrate how to calculate different measures of inequality of access to opportunities and accessibility poverty, which are crucial to assess the accessibility impacts of transportation projects from a transportation equity perspective.
+
+Link: [https://ipeagit.github.io/access_workshop_eit_2024/](https://ipeagit.github.io/access_workshop_eit_2024/)
+
 ## An Introduction to Spatial Data Analysis and Statistics: A Course in R
 
 - Antonio Paez

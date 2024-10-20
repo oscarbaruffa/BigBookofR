@@ -143,6 +143,19 @@ The goal of this book is to make data science accessible to social scientists an
 
 Link: [https://urbanspatial.github.io/PublicPolicyAnalytics/](https://urbanspatial.github.io/PublicPolicyAnalytics/)
 
+## Quantitative methods in the context of education research
+
+- [Peter EJ Kemp](https://twitter.com/peterejkemp)
+- [Richard Brock](https://twitter.com/RBrockPhysics)
+- [Amy O’Brien](https://twitter.com/amyobrienuk)
+- Carla Finesilver
+- Lulu Healy
+- [David Pepper](https://twitter.com/pepspepper)
+
+This book takes the reader through the process of learning the R statistical programming language through the analysis of the 2022 PISA survey data
+
+Link: [https://peterejkemp.github.io/v3/](https://peterejkemp.github.io/v3/)
+
 ## R for Social Network Analysis
 
 - David Schoch

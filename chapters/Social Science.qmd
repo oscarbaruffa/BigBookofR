@@ -13,7 +13,7 @@ Link: [https://bookdown.org/scconner7/r_census_data_cleaning_tutorial/](https://
 - [Burak AYDIN](https://twitter.com/Burak4YD1N)
 - James ALGINA
 - Walter LEITE
-- Hakan ATILGAN
+- [Hakan ATILGAN](https://twitter.com/hakanatilgan]
 
 We aim to create a platform for the applied social scientists in which we can demonstrate basic statistical procedures using R and real data. We prefer to name this material as a platform given that (a) it is open for contribution, (b) it will have dynamic content and (c) it can serve as a mainboard for Plug-ins and Add-ons .
 

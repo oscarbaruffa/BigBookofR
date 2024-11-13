@@ -33,7 +33,7 @@ Link: [https://baseballwithr.wordpress.com/about/](https://baseballwithr.wordpre
 
 ## Fantasy Football Analytics: Statistics, Prediction, and Empiricism Using R
 
-- Isaac T. Petersen
+- [Isaac T. Petersen](https://psychology.uiowa.edu/people/isaac-petersen)
 
 This book is about learning statistics, prediction, and empiricism through the lens of fantasy football. It teaches readers how to use the free software R to perform fantasy football data analysis.
 

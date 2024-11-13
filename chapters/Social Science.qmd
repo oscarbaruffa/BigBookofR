@@ -13,7 +13,7 @@ Link: [https://bookdown.org/scconner7/r_census_data_cleaning_tutorial/](https://
 - [Burak AYDIN](https://twitter.com/Burak4YD1N)
 - James ALGINA
 - Walter LEITE
-- Hakan ATILGAN
+- [Hakan ATILGAN](https://twitter.com/hakanatilgan)
 
 We aim to create a platform for the applied social scientists in which we can demonstrate basic statistical procedures using R and real data. We prefer to name this material as a platform given that (a) it is open for contribution, (b) it will have dynamic content and (c) it can serve as a mainboard for Plug-ins and Add-ons .
 
@@ -63,13 +63,15 @@ Link: [https://bluefoxr.github.io/COINrDoc/](https://bluefoxr.github.io/COINrDoc
 
 ## Computational Analysis of Communication
 
-- [Wouter van Atteveldt](https://twitter.com/vanatteveldt)
-- Damian Trilling
+- [Wouter van Atteveldt](https://vanatteveldt.com)
+- [Damian Trilling](https://www.damiantrilling.net/)
 - Carlos Arcila Calderon
 
-Assuming little or no background in data science or computer linguistics, this accessible textbook teaches readers how to use state-of-the art computational methods to perform data-driven analyses of social science issues. A cross-disciplinary team of authors—with expertise in both the social sciences and computer science—explains how to gather and clean data, manage textual, audio-visual, and network data, conduct statistical and quantitative analysis, and interpret, summarize, and visualize the results.
+Assuming little or no background in data science or computer linguistics, this accessible textbook teaches readers how to use state-of-the art computational methods to perform data-driven analyses of social science issues. A cross-disciplinary team of authors—with expertise in both the social sciences and computer science—explains how to gather and clean data, manage textual, audio-visual, and network data, conduct statistical and quantitative analysis, and interpret, summarize, and visualize the results.  (Link to the draft 2nd ed: https://v2.cssbook.net/)
 
-Link: [https://www.wiley.com/en-us/Computational+Analysis+of+Communication-p-9781119680239](https://www.wiley.com/en-us/Computational+Analysis+of+Communication-p-9781119680239)
+Link: [http://cssbook.net/](http://cssbook.net/)
+
+Physical copy available: [https://www.wiley.com/en-us/Computational+Analysis+of+Communication-p-9781119680239](https://www.wiley.com/en-us/Computational+Analysis+of+Communication-p-9781119680239)
 
 ## Computational Social Science: Theory & Application
 

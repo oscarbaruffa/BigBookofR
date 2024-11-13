@@ -3134,7 +3134,7 @@
     "href": "chapters/R Programming.html#advanced-r",
     "title": "28  R Programming",
     "section": "28.4 Advanced R",
-    "text": "28.4 Advanced R\n\nHadley Whickham\n\nThis is the companion website for “Advanced R”, a book in Chapman & Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.\nThe book is free online. (Ignore the message redirecting you to the 2nd edition, this is the latest edition)\nLink: https://adv-r.hadley.nz/index.html",
+    "text": "28.4 Advanced R\n\nHadley Wickham\n\nThis is the companion website for “Advanced R”, a book in Chapman & Hall’s R Series. The book is designed primarily for R users who want to improve their programming skills and understanding of the language. It should also be useful for programmers coming to R from other languages, as it explains some of R’s quirks and shows how some parts that seem horrible do have a positive side.\nThe book is free online. (Ignore the message redirecting you to the 2nd edition, this is the latest edition)\nLink: https://adv-r.hadley.nz/index.html",
     "crumbs": [
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>R Programming</span>"
     ]
@@ -3494,7 +3494,7 @@
     "href": "chapters/R Programming.html#the-tidyverse-style-guide",
     "title": "28  R Programming",
     "section": "28.41 The tidyverse style guide",
-    "text": "28.41 The tidyverse style guide\n\nHadley Whickham\n\nGood coding style is like correct punctuation: you can manage without it, butitsuremakesthingseasiertoread. This site describes the style used throughout the tidyverse. It was derived from Google’s original R Style Guide - but Google’s current guide is derived from the tidyverse style guide.\nLink: https://style.tidyverse.org/",
+    "text": "28.41 The tidyverse style guide\n\nHadley Wickham\n\nGood coding style is like correct punctuation: you can manage without it, butitsuremakesthingseasiertoread. This site describes the style used throughout the tidyverse. It was derived from Google’s original R Style Guide - but Google’s current guide is derived from the tidyverse style guide.\nLink: https://style.tidyverse.org/",
     "crumbs": [
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>R Programming</span>"
     ]
@@ -3544,7 +3544,7 @@
     "href": "chapters/R Programming.html#writing-r-extensions",
     "title": "28  R Programming",
     "section": "28.46 Writing R extensions",
-    "text": "28.46 Writing R extensions\n\nR Core\n\nThis is a guide to extending R, describing the process of creating R add-on packages, writing R documentation, R’s system and foreign language interfaces, and the R API.\nThis manual is for R, version 3.4.2 (2017-09-28).\nLink: https://colinfay.me/writing-r-extensions/index.html",
+    "text": "28.46 Writing R extensions\n\nR Core\n\nThis is a guide to extending R, describing the process of creating R add-on packages, writing R documentation, R’s system and foreign language interfaces, and the R API. This manual is for R, version 3.4.2 (2017-09-28).\nLink: https://colinfay.me/writing-r-extensions/index.html",
     "crumbs": [
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>R Programming</span>"
     ]
@@ -3664,7 +3664,7 @@
     "href": "chapters/Reports.html#reproducible-research-with-r-and-rstudio",
     "title": "29  Reports",
     "section": "29.9 Reproducible Research with R and RStudio",
-    "text": "29.9 Reproducible Research with R and RStudio\n\nChristopher Gandrud\n\nThis book present all the Tools for Gathering and Analyzing Data and Presenting Results Reproducible Research with R and RStudio through practical examples.\nThe book can be reproduced by using the R package bookdown. You can buy a copy at:\nhttps://www.routledge.com/Reproducible-Research-with-R-and-RStudio/Gandrud/p/book/9780367143985\nLink: https://github.com/christophergandrud/Rep-Res-Book&gt; Also, you can buy the copy.",
+    "text": "29.9 Reproducible Research with R and RStudio\n\nChristopher Gandrud\n\nThis book present all the Tools for Gathering and Analyzing Data and Presenting Results Reproducible Research with R and RStudio through practical examples.\nThe book can be reproduced by using the R package bookdown. You can buy a copy at:\nhttps://www.routledge.com/Reproducible-Research-with-R-and-RStudio/Gandrud/p/book/9780367143985\nLink: https://christophergandrud.github.io/RepResR-RStudio/",
     "crumbs": [
       "<span class='chapter-number'>29</span>  <span class='chapter-title'>Reports</span>"
     ]
@@ -3904,7 +3904,7 @@
     "href": "chapters/Social Science.html#computational-analysis-of-communication",
     "title": "31  Social Science",
     "section": "31.8 Computational Analysis of Communication",
-    "text": "31.8 Computational Analysis of Communication\n\nWouter van Atteveldt\nDamian Trilling\nCarlos Arcila Calderon\n\nAssuming little or no background in data science or computer linguistics, this accessible textbook teaches readers how to use state-of-the art computational methods to perform data-driven analyses of social science issues. A cross-disciplinary team of authors—with expertise in both the social sciences and computer science—explains how to gather and clean data, manage textual, audio-visual, and network data, conduct statistical and quantitative analysis, and interpret, summarize, and visualize the results.\nLink: https://www.wiley.com/en-us/Computational+Analysis+of+Communication-p-9781119680239",
+    "text": "31.8 Computational Analysis of Communication\n\nWouter van Atteveldt\nDamian Trilling\nCarlos Arcila Calderon\n\nAssuming little or no background in data science or computer linguistics, this accessible textbook teaches readers how to use state-of-the art computational methods to perform data-driven analyses of social science issues. A cross-disciplinary team of authors—with expertise in both the social sciences and computer science—explains how to gather and clean data, manage textual, audio-visual, and network data, conduct statistical and quantitative analysis, and interpret, summarize, and visualize the results. (Link to the draft 2nd ed: https://v2.cssbook.net/)\nLink: http://cssbook.net/\nPhysical copy available: https://www.wiley.com/en-us/Computational+Analysis+of+Communication-p-9781119680239",
     "crumbs": [
       "<span class='chapter-number'>31</span>  <span class='chapter-title'>Social Science</span>"
     ]
@@ -5294,7 +5294,7 @@
     "href": "chapters/Geospatial.html#a-crash-course-on-urban-accessibility-with-r",
     "title": "18  Geospatial",
     "section": "18.2 A crash course on urban accessibility with R",
-    "text": "18.2 A crash course on urban accessibility with R\n\nRafael H. M. Pereira\n\nouting and accessibility analyses are increasingly used in urban and transport research and planning. In this workshop, you will learn how to estimate travel time matrices and perform accessibility analyzes in multimodal transport networks using the {r5r} and {accessibility} packages in the R programming language.\nThe workshop will also illustrate how to calculate different measures of inequality of access to opportunities and accessibility poverty, which are crucial to assess the accessibility impacts of transportation projects from a transportation equity perspective.\nLink: https://ipeagit.github.io/access_workshop_eit_2024/",
+    "text": "18.2 A crash course on urban accessibility with R\n\nRafael H. M. Pereira\n\nRouting and accessibility analyses are increasingly used in urban and transport research and planning. In this workshop, you will learn how to estimate travel time matrices and perform accessibility analyzes in multimodal transport networks using the {r5r} and {accessibility} packages in the R programming language.\nThe workshop will also illustrate how to calculate different measures of inequality of access to opportunities and accessibility poverty, which are crucial to assess the accessibility impacts of transportation projects from a transportation equity perspective.\nLink: https://ipeagit.github.io/access_workshop_eit_2024/",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Geospatial</span>"
     ]

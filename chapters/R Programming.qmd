@@ -37,7 +37,7 @@ Link: [https://amzn.to/2wZnBbp](https://amzn.to/2wZnBbp)
 
 ## Advanced R
 
-- [Hadley Whickham](https://twitter.com/hadleywickham)
+- [Hadley Wickham](https://twitter.com/hadleywickham)
 
 This is the companion website for "Advanced R", a book in Chapman &
 Hall's R Series. The book is designed primarily for R users who want to
@@ -512,7 +512,7 @@ Link: [https://rstudio-education.github.io/tidyverse-cookbook/](https://rstudio-
 
 ## The tidyverse style guide
 
-- [Hadley Whickham](https://twitter.com/hadleywickham)
+- [Hadley Wickham](https://twitter.com/hadleywickham)
 
 Good coding style is like correct punctuation: you can manage without
 it, butitsuremakesthingseasiertoread. This site describes the style used
@@ -606,9 +606,7 @@ Link: [https://rstats.wtf/](https://rstats.wtf/)
 
 - R Core
 
-This is a guide to extending R, describing the process of creating R add-on packages, writing R documentation, R’s system and foreign language interfaces, and the R API.
-
-This manual is for R, version 3.4.2 (2017-09-28).
+This is a guide to extending R, describing the process of creating R add-on packages, writing R documentation, R’s system and foreign language interfaces, and the R API. This manual is for R, version 3.4.2 (2017-09-28).
 
 Link: [https://colinfay.me/writing-r-extensions/index.html](https://colinfay.me/writing-r-extensions/index.html)
 

@@ -110,7 +110,7 @@ The book can be reproduced by using the R package bookdown. You can buy a copy a
 
 <https://www.routledge.com/Reproducible-Research-with-R-and-RStudio/Gandrud/p/book/9780367143985>
 
-Link: [https://github.com/christophergandrud/Rep-Res-Book>  Also, you can buy the copy.](https://github.com/christophergandrud/Rep-Res-Book>  Also, you can buy the copy.)
+Link: [https://christophergandrud.github.io/RepResR-RStudio/](https://christophergandrud.github.io/RepResR-RStudio/)
 
 ## RMarkdown for Scientists
 

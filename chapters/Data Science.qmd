@@ -28,6 +28,15 @@ This book provides basic reading material for an introduction to data analysis. 
 
 Link: [https://michael-franke.github.io/intro-data-analysis/index.html](https://michael-franke.github.io/intro-data-analysis/index.html)
 
+## Applied Data Skill: Processing & Presenting Data
+
+- Emily Nordmann
+- Lisa DeBruine
+
+This book provides an overview of the basic skills needed to turn raw data into informative summaries and visualisations presented in professional reports and presentations. The book will introduce learners to R (R Core Team, 2022), a programming language that can help automate working with data. The book will cover importing and processing data from spreadsheets, producing data summaries of descriptive statistics in tables, creating beautiful and informative visualisations, and constructing reports and presentations that automatically update when the underlying data changes.
+
+Link: [https://psyteachr.github.io/ads-v3/](https://psyteachr.github.io/ads-v3/)
+
 ## APS 135 Introduction to Exploratory Data Analysis with R
 
 - Dylan Z. Childs

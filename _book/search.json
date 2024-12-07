@@ -523,8 +523,8 @@
     "objectID": "chapters/Data Science.html#aps-135-introduction-to-exploratory-data-analysis-with-r",
     "href": "chapters/Data Science.html#aps-135-introduction-to-exploratory-data-analysis-with-r",
     "title": "11  Data Science",
-    "section": "11.4 APS 135 Introduction to Exploratory Data Analysis with R",
-    "text": "11.4 APS 135 Introduction to Exploratory Data Analysis with R\n\nDylan Z. Childs\n\nThis is the online course book for the Introduction to Exploratory Data Analysis with R component of APS 135, a module taught by the Department and Animal and Plant Sciences at the University of Sheffield. You will be introduced to the R ecosystem.You will learn how to use R to carry out data manipulation and visualisation.This book provides a foundation for learning statistics later on.\nLink: https://dzchilds.github.io/eda-for-bio/",
+    "section": "11.5 APS 135 Introduction to Exploratory Data Analysis with R",
+    "text": "11.5 APS 135 Introduction to Exploratory Data Analysis with R\n\nDylan Z. Childs\n\nThis is the online course book for the Introduction to Exploratory Data Analysis with R component of APS 135, a module taught by the Department and Animal and Plant Sciences at the University of Sheffield. You will be introduced to the R ecosystem.You will learn how to use R to carry out data manipulation and visualisation.This book provides a foundation for learning statistics later on.\nLink: https://dzchilds.github.io/eda-for-bio/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -543,8 +543,8 @@
     "objectID": "chapters/Data Science.html#beginning-data-science-in-r",
     "href": "chapters/Data Science.html#beginning-data-science-in-r",
     "title": "11  Data Science",
-    "section": "11.5 Beginning Data Science in R",
-    "text": "11.5 Beginning Data Science in R\n\nThomas Mailund\n\nBeginning Data Science in R details how data science is a combination of statistics, computational science, and machine learning. You’ll see how to efficiently structure and mine data to extract useful patterns and build mathematical models. Those with some data science or analytics background, but not necessarily experience with the R programming language\nLink: https://amzn.to/2Ns1HHi",
+    "section": "11.6 Beginning Data Science in R",
+    "text": "11.6 Beginning Data Science in R\n\nThomas Mailund\n\nBeginning Data Science in R details how data science is a combination of statistics, computational science, and machine learning. You’ll see how to efficiently structure and mine data to extract useful patterns and build mathematical models. Those with some data science or analytics background, but not necessarily experience with the R programming language\nLink: https://amzn.to/2Ns1HHi",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -553,8 +553,8 @@
     "objectID": "chapters/Data Science.html#business-case-analysis-with-r---simulation-tutorials-to-support-complex-business-decisions",
     "href": "chapters/Data Science.html#business-case-analysis-with-r---simulation-tutorials-to-support-complex-business-decisions",
     "title": "11  Data Science",
-    "section": "11.6 Business Case Analysis with R - Simulation Tutorials to Support Complex Business Decisions",
-    "text": "11.6 Business Case Analysis with R - Simulation Tutorials to Support Complex Business Decisions\n\nRobert D. Brown III\n\nBusiness case analysis, often conducted in spreadsheets, exposes decision makers to additional risks that arise just from the use of the spreadsheet environment. This book discusses how to use the statistical programming language R to develop a business case simulation and analysis. It presents a methodology that minimizes decision delay by focusing stakeholders on what matters most and suggests pathways for minimizing the risk in strategic and capital allocation decisions.\nPaid: Apress/Springer-Nature eBook $24.99, Softcover $34.99 $25\nLink: https://www.apress.com/us/book/9781484234945#",
+    "section": "11.7 Business Case Analysis with R - Simulation Tutorials to Support Complex Business Decisions",
+    "text": "11.7 Business Case Analysis with R - Simulation Tutorials to Support Complex Business Decisions\n\nRobert D. Brown III\n\nBusiness case analysis, often conducted in spreadsheets, exposes decision makers to additional risks that arise just from the use of the spreadsheet environment. This book discusses how to use the statistical programming language R to develop a business case simulation and analysis. It presents a methodology that minimizes decision delay by focusing stakeholders on what matters most and suggests pathways for minimizing the risk in strategic and capital allocation decisions.\nPaid: Apress/Springer-Nature eBook $24.99, Softcover $34.99 $25\nLink: https://www.apress.com/us/book/9781484234945#",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -563,8 +563,8 @@
     "objectID": "chapters/Data Science.html#business-intelligence-with-r",
     "href": "chapters/Data Science.html#business-intelligence-with-r",
     "title": "11  Data Science",
-    "section": "11.7 Business Intelligence with R",
-    "text": "11.7 Business Intelligence with R\n\nDwight Barry)\n\nA desktop reference for busy professionals, giving you fingertip access to a variety of BI analytic methods done in R as simply as possible.\nAll proceeds will support mitochondrial disorder research at Seattle Children’s Hospital.\nPaid: Free or up to $20 for a good cause! $20\nLink: https://leanpub.com/businessintelligencewithr",
+    "section": "11.8 Business Intelligence with R",
+    "text": "11.8 Business Intelligence with R\n\nDwight Barry)\n\nA desktop reference for busy professionals, giving you fingertip access to a variety of BI analytic methods done in R as simply as possible.\nAll proceeds will support mitochondrial disorder research at Seattle Children’s Hospital.\nPaid: Free or up to $20 for a good cause! $20\nLink: https://leanpub.com/businessintelligencewithr",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -573,8 +573,8 @@
     "objectID": "chapters/Data Science.html#data-science-a-first-introduction",
     "href": "chapters/Data Science.html#data-science-a-first-introduction",
     "title": "11  Data Science",
-    "section": "11.8 Data Science A First Introduction",
-    "text": "11.8 Data Science A First Introduction\n\nTiffany-Anne Timbers\nTrevor Campbell\nMelissa Lee\n\nThis is an open source textbook aimed at introducing undergraduate students to data science. It was originally written for the University of British Columbia’s DSCI 100 - Introduction to Data Science course. In this book, we define data science as the study and development of reproducible, auditable processes to obtain value (i.e., insight) from data.\nLink: https://ubc-dsci.github.io/introduction-to-datascience/",
+    "section": "11.9 Data Science A First Introduction",
+    "text": "11.9 Data Science A First Introduction\n\nTiffany-Anne Timbers\nTrevor Campbell\nMelissa Lee\n\nThis is an open source textbook aimed at introducing undergraduate students to data science. It was originally written for the University of British Columbia’s DSCI 100 - Introduction to Data Science course. In this book, we define data science as the study and development of reproducible, auditable processes to obtain value (i.e., insight) from data.\nLink: https://ubc-dsci.github.io/introduction-to-datascience/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -583,8 +583,8 @@
     "objectID": "chapters/Data Science.html#data-science-at-the-command-line-2e",
     "href": "chapters/Data Science.html#data-science-at-the-command-line-2e",
     "title": "11  Data Science",
-    "section": "11.9 Data Science at the Command Line, 2e",
-    "text": "11.9 Data Science at the Command Line, 2e\n\nJeroen Janssens\n\nThis book is about doing data science at the command line. Our aim is to make you a more efficient and productive data scientist by teaching you how to leverage the power of the command line.\nLink: https://www.datascienceatthecommandline.com/2e/",
+    "section": "11.10 Data Science at the Command Line, 2e",
+    "text": "11.10 Data Science at the Command Line, 2e\n\nJeroen Janssens\n\nThis book is about doing data science at the command line. Our aim is to make you a more efficient and productive data scientist by teaching you how to leverage the power of the command line.\nLink: https://www.datascienceatthecommandline.com/2e/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -593,8 +593,8 @@
     "objectID": "chapters/Data Science.html#everyday-data-science",
     "href": "chapters/Data Science.html#everyday-data-science",
     "title": "11  Data Science",
-    "section": "11.12 Everyday Data Science",
-    "text": "11.12 Everyday Data Science\n\nAndrew Carr\n\nEveryday data science is a collection of tools and techniques you can use to master data science in your day-to-day life. There are case studies, tutorials, code snippets, pictures, math, and jokes. All designed as a fun introduction to the world of data science. Some example chapters include, A/B testing to make perfect lemonade, word vectors to improve your resume, differential equations for weight loss, and how a man used statistics to qualify for the Olympics. Life is full of decisions. We, as people, have the remarkable ability to make decisions in the face of uncertainty. We, as humans, have only recently developed the ability to use computers to process vast amounts of data to improve our decision making. This innovation has led to the development of the field of Data Science. This book is written to give tools and inspiration to aspiring decision makers. You make decisions daily and the methodology of data science can help.\nLink: https://gumroad.com/l/everydaydata",
+    "section": "11.13 Everyday Data Science",
+    "text": "11.13 Everyday Data Science\n\nAndrew Carr\n\nEveryday data science is a collection of tools and techniques you can use to master data science in your day-to-day life. There are case studies, tutorials, code snippets, pictures, math, and jokes. All designed as a fun introduction to the world of data science. Some example chapters include, A/B testing to make perfect lemonade, word vectors to improve your resume, differential equations for weight loss, and how a man used statistics to qualify for the Olympics. Life is full of decisions. We, as people, have the remarkable ability to make decisions in the face of uncertainty. We, as humans, have only recently developed the ability to use computers to process vast amounts of data to improve our decision making. This innovation has led to the development of the field of Data Science. This book is written to give tools and inspiration to aspiring decision makers. You make decisions daily and the methodology of data science can help.\nLink: https://gumroad.com/l/everydaydata",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -603,8 +603,8 @@
     "objectID": "chapters/Data Science.html#exploratory-data-analysis-with-r",
     "href": "chapters/Data Science.html#exploratory-data-analysis-with-r",
     "title": "11  Data Science",
-    "section": "11.13 Exploratory Data Analysis with R",
-    "text": "11.13 Exploratory Data Analysis with R\n\nRoger Peng\n\nThis book teaches you to use R to effectively visualize and explore complex datasets. Exploratory data analysis is a key part of the data science process because it allows you to sharpen your question and refine your modeling strategies. This book is based on the industry-leading Johns Hopkins Data Science Specialization\nPaid: Free or Pay what you want $15\nLink: https://leanpub.com/exdata",
+    "section": "11.14 Exploratory Data Analysis with R",
+    "text": "11.14 Exploratory Data Analysis with R\n\nRoger Peng\n\nThis book teaches you to use R to effectively visualize and explore complex datasets. Exploratory data analysis is a key part of the data science process because it allows you to sharpen your question and refine your modeling strategies. This book is based on the industry-leading Johns Hopkins Data Science Specialization\nPaid: Free or Pay what you want $15\nLink: https://leanpub.com/exdata",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -613,8 +613,8 @@
     "objectID": "chapters/Data Science.html#introduction-to-data-science",
     "href": "chapters/Data Science.html#introduction-to-data-science",
     "title": "11  Data Science",
-    "section": "11.14 Introduction to Data Science",
-    "text": "11.14 Introduction to Data Science\n\nRafael A Irizarry\n\nThe demand for skilled data science practitioners in industry, academia, and government is rapidly growing. This book introduces concepts and skills that can help you tackle real-world data analysis challenges. It covers concepts from probability, statistical inference, linear regression, and machine learning. It also helps you develop skills such as R programming, data wrangling with dplyr, data visualization with ggplot2, algorithm building with caret, file organization with UNIX/Linux shell, version control with Git and GitHub, and reproducible document preparation with knitr and R markdown.\nBookdown version https://rafalab.github.io/dsbook/\nPaid: Free or pay what you want $50\nLink: https://leanpub.com/datasciencebook",
+    "section": "11.15 Introduction to Data Science",
+    "text": "11.15 Introduction to Data Science\n\nRafael A Irizarry\n\nThe demand for skilled data science practitioners in industry, academia, and government is rapidly growing. This book introduces concepts and skills that can help you tackle real-world data analysis challenges. It covers concepts from probability, statistical inference, linear regression, and machine learning. It also helps you develop skills such as R programming, data wrangling with dplyr, data visualization with ggplot2, algorithm building with caret, file organization with UNIX/Linux shell, version control with Git and GitHub, and reproducible document preparation with knitr and R markdown.\nBookdown version https://rafalab.github.io/dsbook/\nPaid: Free or pay what you want $50\nLink: https://leanpub.com/datasciencebook",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -623,8 +623,8 @@
     "objectID": "chapters/Data Science.html#introduction-to-data-science-1",
     "href": "chapters/Data Science.html#introduction-to-data-science-1",
     "title": "11  Data Science",
-    "section": "11.15 Introduction to Data Science",
-    "text": "11.15 Introduction to Data Science\n\nHansjörg Neth\n\nThis book provides a gentle introduction to data science for students of any discipline with little or no background in data analysis or computer programming. Based on notions of representation and modeling, we examine some key data types and data structures, and then learn to clean, transform, summarize and visualize data to communicate our results.\nLink: https://bookdown.org/hneth/i2ds/",
+    "section": "11.16 Introduction to Data Science",
+    "text": "11.16 Introduction to Data Science\n\nHansjörg Neth\n\nThis book provides a gentle introduction to data science for students of any discipline with little or no background in data analysis or computer programming. Based on notions of representation and modeling, we examine some key data types and data structures, and then learn to clean, transform, summarize and visualize data to communicate our results.\nLink: https://bookdown.org/hneth/i2ds/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -633,8 +633,8 @@
     "objectID": "chapters/Data Science.html#introduction-to-r-for-data-science-a-lisa-2020-guidebook",
     "href": "chapters/Data Science.html#introduction-to-r-for-data-science-a-lisa-2020-guidebook",
     "title": "11  Data Science",
-    "section": "11.16 Introduction to R for Data Science: A LISA 2020 Guidebook",
-    "text": "11.16 Introduction to R for Data Science: A LISA 2020 Guidebook\n\nJacob D. Holster\n\nThis guidebook aims to provide readers an opportunity to make a start towards learning R for a variety of data science tasks, include (a) data cleaning and preparation, (b) statistical analysis, (c) data visualization, (d) natural language processing, (e) network analysis, and (f) Structural Equation Modeling\nLink: https://bookdown.org/jdholster1/idsr/",
+    "section": "11.17 Introduction to R for Data Science: A LISA 2020 Guidebook",
+    "text": "11.17 Introduction to R for Data Science: A LISA 2020 Guidebook\n\nJacob D. Holster\n\nThis guidebook aims to provide readers an opportunity to make a start towards learning R for a variety of data science tasks, include (a) data cleaning and preparation, (b) statistical analysis, (c) data visualization, (d) natural language processing, (e) network analysis, and (f) Structural Equation Modeling\nLink: https://bookdown.org/jdholster1/idsr/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -643,8 +643,8 @@
     "objectID": "chapters/Data Science.html#model-based-clustering-and-classification-for-data-science",
     "href": "chapters/Data Science.html#model-based-clustering-and-classification-for-data-science",
     "title": "11  Data Science",
-    "section": "11.17 Model-Based Clustering and Classification for Data Science",
-    "text": "11.17 Model-Based Clustering and Classification for Data Science\n\nCharles Bouveyron\nGilles Celeux\nT. Brendan Murphy\nAdrian E. Raftery\n\nAmong the broad field of statistical and machine learning, model-based techniques for clustering and classification have a central position for anyone interested in exploiting those data. This text book focuses on the recent developments in model-based clustering and classification while providing a comprehensive introduction to the field. It is aimed at advanced undergraduates, graduates or first year PhD students in data science, as well as researchers and practitioners.\nLink: https://math.unice.fr/~cbouveyr/MBCbook/",
+    "section": "11.18 Model-Based Clustering and Classification for Data Science",
+    "text": "11.18 Model-Based Clustering and Classification for Data Science\n\nCharles Bouveyron\nGilles Celeux\nT. Brendan Murphy\nAdrian E. Raftery\n\nAmong the broad field of statistical and machine learning, model-based techniques for clustering and classification have a central position for anyone interested in exploiting those data. This text book focuses on the recent developments in model-based clustering and classification while providing a comprehensive introduction to the field. It is aimed at advanced undergraduates, graduates or first year PhD students in data science, as well as researchers and practitioners.\nLink: https://math.unice.fr/~cbouveyr/MBCbook/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -653,8 +653,8 @@
     "objectID": "chapters/Data Science.html#modern-data-science-with-r",
     "href": "chapters/Data Science.html#modern-data-science-with-r",
     "title": "11  Data Science",
-    "section": "11.18 Modern Data Science with R",
-    "text": "11.18 Modern Data Science with R\n\nBenjamin S. Baumer\nDaniel T. Kaplan\nNicholas J. Horton\n\nThis book is intended for readers who want to develop the appropriate skills to tackle complex data science projects and “think with data” (as coined by Diane Lambert of Google). The desire to solve problems using data is at the heart of our approach.\nWe acknowledge that it is impossible to cover all these topics in any level of detail within a single book: Many of the chapters could productively form the basis for a course or series of courses. Instead, our goal is to lay a foundation for analysis of real-world data and to ensure that analysts see the power of statistics and data analysis. After reading this book, readers will have greatly expanded their skill set for working with these data, and should have a newfound confidence about their ability to learn new technologies on-the-fly.\nThis book was originally conceived to support a one-semester, 13-week undergraduate course in data science. We have found that the book will be useful for more advanced students in related disciplines, or analysts who want to bolster their data science skills. At the same time, Part I of the book is accessible to a general audience with no programming or statistics experience.\nLink: https://mdsr-book.github.io/mdsr2e/",
+    "section": "11.19 Modern Data Science with R",
+    "text": "11.19 Modern Data Science with R\n\nBenjamin S. Baumer\nDaniel T. Kaplan\nNicholas J. Horton\n\nThis book is intended for readers who want to develop the appropriate skills to tackle complex data science projects and “think with data” (as coined by Diane Lambert of Google). The desire to solve problems using data is at the heart of our approach.\nWe acknowledge that it is impossible to cover all these topics in any level of detail within a single book: Many of the chapters could productively form the basis for a course or series of courses. Instead, our goal is to lay a foundation for analysis of real-world data and to ensure that analysts see the power of statistics and data analysis. After reading this book, readers will have greatly expanded their skill set for working with these data, and should have a newfound confidence about their ability to learn new technologies on-the-fly.\nThis book was originally conceived to support a one-semester, 13-week undergraduate course in data science. We have found that the book will be useful for more advanced students in related disciplines, or analysts who want to bolster their data science skills. At the same time, Part I of the book is accessible to a general audience with no programming or statistics experience.\nLink: https://mdsr-book.github.io/mdsr2e/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -663,8 +663,8 @@
     "objectID": "chapters/Data Science.html#modern-statistics-with-r",
     "href": "chapters/Data Science.html#modern-statistics-with-r",
     "title": "11  Data Science",
-    "section": "11.19 Modern Statistics with R",
-    "text": "11.19 Modern Statistics with R\n\nMåns Thulin\n\nThis book covers the fundamentals of data science and statistics. The first half deals with the basics of R and R coding, data wrangling, exploratory data analysis and more advandced programming. The second half deals with modern statistics (favouring permutation tests, the bootstrap and Bayesian methods over traditional asymptotic methods), regression models and predictive modelling. It also contains information about debugging and explanations of 25 commonly encountered error messages in R. In addition, there are 170 or so exercises with fully worked solutions.\nLink: http://www.modernstatisticswithr.com/",
+    "section": "11.20 Modern Statistics with R",
+    "text": "11.20 Modern Statistics with R\n\nMåns Thulin\n\nThis book covers the fundamentals of data science and statistics. The first half deals with the basics of R and R coding, data wrangling, exploratory data analysis and more advandced programming. The second half deals with modern statistics (favouring permutation tests, the bootstrap and Bayesian methods over traditional asymptotic methods), regression models and predictive modelling. It also contains information about debugging and explanations of 25 commonly encountered error messages in R. In addition, there are 170 or so exercises with fully worked solutions.\nLink: http://www.modernstatisticswithr.com/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -673,8 +673,8 @@
     "objectID": "chapters/Data Science.html#practical-data-science-with-r-second-edition",
     "href": "chapters/Data Science.html#practical-data-science-with-r-second-edition",
     "title": "11  Data Science",
-    "section": "11.20 Practical Data Science with R, Second Edition",
-    "text": "11.20 Practical Data Science with R, Second Edition\n\nNina Zumel\nJohn Mount\n\nPractical Data Science with R, Second Edition takes a practice-oriented approach to explaining basic principles in the ever expanding field of data science. You’ll jump right to real-world use cases as you apply the R programming language and statistical analysis techniques to carefully explained examples based in marketing, business intelligence, and decision support.\nPaid: Free preview $25\nLink: https://www.manning.com/books/practical-data-science-with-r-second-edition#toc",
+    "section": "11.21 Practical Data Science with R, Second Edition",
+    "text": "11.21 Practical Data Science with R, Second Edition\n\nNina Zumel\nJohn Mount\n\nPractical Data Science with R, Second Edition takes a practice-oriented approach to explaining basic principles in the ever expanding field of data science. You’ll jump right to real-world use cases as you apply the R programming language and statistical analysis techniques to carefully explained examples based in marketing, business intelligence, and decision support.\nPaid: Free preview $25\nLink: https://www.manning.com/books/practical-data-science-with-r-second-edition#toc",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -683,8 +683,8 @@
     "objectID": "chapters/Data Science.html#r-data-science-quick-reference",
     "href": "chapters/Data Science.html#r-data-science-quick-reference",
     "title": "11  Data Science",
-    "section": "11.21 R Data Science Quick Reference",
-    "text": "11.21 R Data Science Quick Reference\n\nThomas Mailund\n\nIn this book, you’ll learn about the following APIs and packages that deal specifically with data science applications: readr, dibble, forecasts, lubridate, stringr, tidyr, magnittr, dplyr, purrr, ggplot2, modelr, and more.\nLink: https://amzn.to/2WN1mQy",
+    "section": "11.22 R Data Science Quick Reference",
+    "text": "11.22 R Data Science Quick Reference\n\nThomas Mailund\n\nIn this book, you’ll learn about the following APIs and packages that deal specifically with data science applications: readr, dibble, forecasts, lubridate, stringr, tidyr, magnittr, dplyr, purrr, ggplot2, modelr, and more.\nLink: https://amzn.to/2WN1mQy",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -693,8 +693,8 @@
     "objectID": "chapters/Data Science.html#r-programming-for-data-science",
     "href": "chapters/Data Science.html#r-programming-for-data-science",
     "title": "11  Data Science",
-    "section": "11.25 R Programming for Data Science",
-    "text": "11.25 R Programming for Data Science\n\nRoger Peng\n\nThis book is about the fundamentals of R programming. You will get started with the basics of the language, learn how to manipulate datasets, how to write functions, and how to debug and optimize code. With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox.\nLink: https://bookdown.org/rdpeng/rprogdatascience/",
+    "section": "11.26 R Programming for Data Science",
+    "text": "11.26 R Programming for Data Science\n\nRoger Peng\n\nThis book is about the fundamentals of R programming. You will get started with the basics of the language, learn how to manipulate datasets, how to write functions, and how to debug and optimize code. With the fundamentals provided in this book, you will have a solid foundation on which to build your data science toolbox.\nLink: https://bookdown.org/rdpeng/rprogdatascience/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -703,8 +703,8 @@
     "objectID": "chapters/Data Science.html#r-for-data-science",
     "href": "chapters/Data Science.html#r-for-data-science",
     "title": "11  Data Science",
-    "section": "11.23 R for Data Science",
-    "text": "11.23 R for Data Science\n\nHadley Wickham\nGarret Grolemund\n\nThis book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it. In this book, you will find a practicum of skills for data science. Just as a chemist learns how to clean test tubes and stock a lab, you’ll learn how to clean data and draw plots—and many other things besides. These are the skills that allow data science to happen, and here you will find the best practices for doing each of these things with R. You’ll learn how to use the grammar of graphics, literate programming, and reproducible research to save time. You’ll also learn how to manage cognitive resources to facilitate discoveries when wrangling, visualising, and exploring data.\nLink: https://r4ds.hadley.nz/\nPhysical copy available: https://amzn.to/4afCNC6",
+    "section": "11.24 R for Data Science",
+    "text": "11.24 R for Data Science\n\nHadley Wickham\nGarret Grolemund\n\nThis book will teach you how to do data science with R: You’ll learn how to get your data into R, get it into the most useful structure, transform it, visualise it and model it. In this book, you will find a practicum of skills for data science. Just as a chemist learns how to clean test tubes and stock a lab, you’ll learn how to clean data and draw plots—and many other things besides. These are the skills that allow data science to happen, and here you will find the best practices for doing each of these things with R. You’ll learn how to use the grammar of graphics, literate programming, and reproducible research to save time. You’ll also learn how to manage cognitive resources to facilitate discoveries when wrangling, visualising, and exploring data.\nLink: https://r4ds.hadley.nz/\nPhysical copy available: https://amzn.to/4afCNC6",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -713,8 +713,8 @@
     "objectID": "chapters/Data Science.html#r-for-data-science-solutions",
     "href": "chapters/Data Science.html#r-for-data-science-solutions",
     "title": "11  Data Science",
-    "section": "11.24 R for Data Science Solutions",
-    "text": "11.24 R for Data Science Solutions\n\nJeffrey B. Arnold\n\nSolutions for the hadley and Grolemund R4Ds book\nLink: https://jrnold.github.io/r4ds-exercise-solutions/",
+    "section": "11.25 R for Data Science Solutions",
+    "text": "11.25 R for Data Science Solutions\n\nJeffrey B. Arnold\n\nSolutions for the hadley and Grolemund R4Ds book\nLink: https://jrnold.github.io/r4ds-exercise-solutions/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -723,8 +723,8 @@
     "objectID": "chapters/Data Science.html#r-for-data-analysis",
     "href": "chapters/Data Science.html#r-for-data-analysis",
     "title": "11  Data Science",
-    "section": "11.22 R for data analysis",
-    "text": "11.22 R for data analysis\n\nTrevor French\n\nThe content will start at the very beginning by showing you how to set up your R environment and the basics of programming in R. By the end of the book, you will be able to perform intermediate analytics techniques such as linear regresion and automatic report generation.\nLink: https://trevorfrench.github.io/R-for-Data-Analysis/",
+    "section": "11.23 R for data analysis",
+    "text": "11.23 R for data analysis\n\nTrevor French\n\nThe content will start at the very beginning by showing you how to set up your R environment and the basics of programming in R. By the end of the book, you will be able to perform intermediate analytics techniques such as linear regresion and automatic report generation.\nLink: https://trevorfrench.github.io/R-for-Data-Analysis/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -733,8 +733,8 @@
     "objectID": "chapters/Data Science.html#targeted-learning-in-r-causal-data-science-with-the-tlverse-software-ecosystem",
     "href": "chapters/Data Science.html#targeted-learning-in-r-causal-data-science-with-the-tlverse-software-ecosystem",
     "title": "11  Data Science",
-    "section": "11.26 Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem",
-    "text": "11.26 Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem\n\nMark van der Laan\nJeremy Coyle\nNima Hejazi\nIvana Malenica\nRachael Phillips\nAlan Hubbard\n\nIt is a fully reproducible, open-source, electronic handbook for applying Targeted Learning methodology in practice using the software stack provided by the tlverse ecosystem.\nLink: https://tlverse.org/tlverse-handbook/",
+    "section": "11.27 Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem",
+    "text": "11.27 Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem\n\nMark van der Laan\nJeremy Coyle\nNima Hejazi\nIvana Malenica\nRachael Phillips\nAlan Hubbard\n\nIt is a fully reproducible, open-source, electronic handbook for applying Targeted Learning methodology in practice using the software stack provided by the tlverse ecosystem.\nLink: https://tlverse.org/tlverse-handbook/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -743,8 +743,8 @@
     "objectID": "chapters/Data Science.html#the-art-of-data-science",
     "href": "chapters/Data Science.html#the-art-of-data-science",
     "title": "11  Data Science",
-    "section": "11.27 The Art of Data Science",
-    "text": "11.27 The Art of Data Science\n\nRoger D. Peng\nElizabeth Matsui\n\nA Guide for Anyone Who Works with Data\nThis book describes the process of analyzing data. The authors have extensive experience both managing data analysts and conducting their own data analyses, and this book is a distillation of their experience in a format that is applicable to both practitioners and managers in data science.\nPaid: Free (excl lecture videos) or pay what you want $15\nLink: https://leanpub.com/artofdatascience",
+    "section": "11.28 The Art of Data Science",
+    "text": "11.28 The Art of Data Science\n\nRoger D. Peng\nElizabeth Matsui\n\nA Guide for Anyone Who Works with Data\nThis book describes the process of analyzing data. The authors have extensive experience both managing data analysts and conducting their own data analyses, and this book is a distillation of their experience in a format that is applicable to both practitioners and managers in data science.\nPaid: Free (excl lecture videos) or pay what you want $15\nLink: https://leanpub.com/artofdatascience",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -753,8 +753,8 @@
     "objectID": "chapters/Data Science.html#the-elements-of-data-analytic-style",
     "href": "chapters/Data Science.html#the-elements-of-data-analytic-style",
     "title": "11  Data Science",
-    "section": "11.28 The Elements of Data Analytic Style",
-    "text": "11.28 The Elements of Data Analytic Style\n\nJeffrey Leek\n\nData analysis is at least as much art as it is science. This book is focused on the details of data analysis that sometimes fall through the cracks in traditional statistics classes and textbooks. It is based in part on the authors blog posts, lecture materials, and tutorials.\nPaid: Free or pay what you want $10\nLink: https://leanpub.com/datastyle",
+    "section": "11.29 The Elements of Data Analytic Style",
+    "text": "11.29 The Elements of Data Analytic Style\n\nJeffrey Leek\n\nData analysis is at least as much art as it is science. This book is focused on the details of data analysis that sometimes fall through the cracks in traditional statistics classes and textbooks. It is based in part on the authors blog posts, lecture materials, and tutorials.\nPaid: Free or pay what you want $10\nLink: https://leanpub.com/datastyle",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -763,8 +763,8 @@
     "objectID": "chapters/Data Science.html#yet-again-r-data-science",
     "href": "chapters/Data Science.html#yet-again-r-data-science",
     "title": "11  Data Science",
-    "section": "11.29 Yet Again: R + Data Science",
-    "text": "11.29 Yet Again: R + Data Science\n\nAlbert Rapp\n\nThere are one thousand and one introductory courses on data science using the statistical software R. This is another one of those. My own take at teaching a selection of topics in R and data science I picked up throughout my time using R and reading a couple of those one thousand and one introductory courses. The corresponding lecture videos can be found on YouTube (https://www.youtube.com/playlist?list=PLBnFxG6owe1F-3y0_aphRZ5YHH06Qr1Kj)\nLink: https://yards.albert-rapp.de/index.html",
+    "section": "11.30 Yet Again: R + Data Science",
+    "text": "11.30 Yet Again: R + Data Science\n\nAlbert Rapp\n\nThere are one thousand and one introductory courses on data science using the statistical software R. This is another one of those. My own take at teaching a selection of topics in R and data science I picked up throughout my time using R and reading a couple of those one thousand and one introductory courses. The corresponding lecture videos can be found on YouTube (https://www.youtube.com/playlist?list=PLBnFxG6owe1F-3y0_aphRZ5YHH06Qr1Kj)\nLink: https://yards.albert-rapp.de/index.html",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -773,8 +773,8 @@
     "objectID": "chapters/Data Science.html#yet-another-r-for-data-science-study-guide",
     "href": "chapters/Data Science.html#yet-another-r-for-data-science-study-guide",
     "title": "11  Data Science",
-    "section": "11.30 Yet another ‘R for Data Science’ study guide",
-    "text": "11.30 Yet another ‘R for Data Science’ study guide\n\nBryan Shalloway\n\nThis book contains my solutions and notes to Garrett Grolemund and Hadley Wickham’s excellent book, R for Data Science (Grolemund and Wickham 2017). R for Data Science (R4DS) is my go-to recommendation for people getting started in R programming, data science, or the “tidyverse”.\nLink: https://brshallo.github.io/r4ds_solutions/",
+    "section": "11.31 Yet another ‘R for Data Science’ study guide",
+    "text": "11.31 Yet another ‘R for Data Science’ study guide\n\nBryan Shalloway\n\nThis book contains my solutions and notes to Garrett Grolemund and Hadley Wickham’s excellent book, R for Data Science (Grolemund and Wickham 2017). R for Data Science (R4DS) is my go-to recommendation for people getting started in R programming, data science, or the “tidyverse”.\nLink: https://brshallo.github.io/r4ds_solutions/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -783,8 +783,8 @@
     "objectID": "chapters/Data Science.html#edav.info",
     "href": "chapters/Data Science.html#edav.info",
     "title": "11  Data Science",
-    "section": "11.10 edav.info/",
-    "text": "11.10 edav.info/\n\nZach Bogart\nJoyce Robbins\n\nWith this resource, we try to give you a curated collection of tools and references that will make it easier to learn how to work with data in R.\nIn addition, we include sections on basic chart types/tools so you can learn by doing.\nThere are also several walkthroughs where we work with data and discuss problems as well as some tips/tricks that will help you.\nLink: https://edav.info/",
+    "section": "11.11 edav.info/",
+    "text": "11.11 edav.info/\n\nZach Bogart\nJoyce Robbins\n\nWith this resource, we try to give you a curated collection of tools and references that will make it easier to learn how to work with data in R.\nIn addition, we include sections on basic chart types/tools so you can learn by doing.\nThere are also several walkthroughs where we work with data and discuss problems as well as some tips/tricks that will help you.\nLink: https://edav.info/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -2413,8 +2413,8 @@
     "objectID": "chapters/Machine Learning.html#machine-learning-for-factor-investing",
     "href": "chapters/Machine Learning.html#machine-learning-for-factor-investing",
     "title": "22  Machine Learning",
-    "section": "22.12 Machine Learning for Factor Investing",
-    "text": "22.12 Machine Learning for Factor Investing\n\nGuillaume Coqueret\nTony Guida\n\nThis book is intended to cover some advanced modelling techniques applied to equity investment strategies that are built on firm characteristics.\nLink: http://www.mlfactor.com/",
+    "section": "22.13 Machine Learning for Factor Investing",
+    "text": "22.13 Machine Learning for Factor Investing\n\nGuillaume Coqueret\nTony Guida\n\nThis book is intended to cover some advanced modelling techniques applied to equity investment strategies that are built on firm characteristics.\nLink: http://www.mlfactor.com/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2423,8 +2423,8 @@
     "objectID": "chapters/Machine Learning.html#mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle",
     "href": "chapters/Machine Learning.html#mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle",
     "title": "22  Machine Learning",
-    "section": "22.13 Mathematics and Programming for Machine Learning with R From the Ground Up 1st Edition, Kindle",
-    "text": "22.13 Mathematics and Programming for Machine Learning with R From the Ground Up 1st Edition, Kindle\n\nWilliam B. Claster\n\nBased on the author’s experience in teaching data science for more than 10 years, Mathematics and Programming for Machine Learning with R: From the Ground Up reveals how machine learning algorithms do their magic and explains how these algorithms can be implemented in code. It is designed to provide readers with an understanding of the reasoning behind machine learning algorithms as well as how to program them. Written for novice programmers, the book progresses step-by-step, providing the coding skills needed to implement machine learning algorithms in R.\nLink: https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y",
+    "section": "22.14 Mathematics and Programming for Machine Learning with R From the Ground Up 1st Edition, Kindle",
+    "text": "22.14 Mathematics and Programming for Machine Learning with R From the Ground Up 1st Edition, Kindle\n\nWilliam B. Claster\n\nBased on the author’s experience in teaching data science for more than 10 years, Mathematics and Programming for Machine Learning with R: From the Ground Up reveals how machine learning algorithms do their magic and explains how these algorithms can be implemented in code. It is designed to provide readers with an understanding of the reasoning behind machine learning algorithms as well as how to program them. Written for novice programmers, the book progresses step-by-step, providing the coding skills needed to implement machine learning algorithms in R.\nLink: https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2433,8 +2433,8 @@
     "objectID": "chapters/Machine Learning.html#neural-cryptography-using-keras-in-r",
     "href": "chapters/Machine Learning.html#neural-cryptography-using-keras-in-r",
     "title": "22  Machine Learning",
-    "section": "22.15 Neural Cryptography Using Keras in R",
-    "text": "22.15 Neural Cryptography Using Keras in R\n\nMichael Harris\n\nThis book illustrates a method of using the traditional deep learning-based multi-class classification techniques to hide messages in a matrix of seemingly random numbers. This book is definitely a niche topic and is more of a fun project than something you would want to do for work. The premise is that you can represent characters as a sequence of random numbers you uniquely generate, and with the help of a neural network, a message can be embedded in a matrix of numbers. In the book, I also describe how this method can be used to embed messages in images.\nPaid: Free and paid $15\nLink: https://www.statswithr.com/neural-cryptography-using-keras-in-r",
+    "section": "22.17 Neural Cryptography Using Keras in R",
+    "text": "22.17 Neural Cryptography Using Keras in R\n\nMichael Harris\n\nThis book illustrates a method of using the traditional deep learning-based multi-class classification techniques to hide messages in a matrix of seemingly random numbers. This book is definitely a niche topic and is more of a fun project than something you would want to do for work. The premise is that you can represent characters as a sequence of random numbers you uniquely generate, and with the help of a neural network, a message can be embedded in a matrix of numbers. In the book, I also describe how this method can be used to embed messages in images.\nPaid: Free and paid $15\nLink: https://www.statswithr.com/neural-cryptography-using-keras-in-r",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2443,8 +2443,8 @@
     "objectID": "chapters/Machine Learning.html#neural-networks-with-keras-in-r-a-quickstart-guide",
     "href": "chapters/Machine Learning.html#neural-networks-with-keras-in-r-a-quickstart-guide",
     "title": "22  Machine Learning",
-    "section": "22.16 Neural Networks with Keras in R: A QuickStart Guide",
-    "text": "22.16 Neural Networks with Keras in R: A QuickStart Guide\n\nMichael Harris\n\nI wrote this book for people who primarily use other statistical software like SPSS or SAS, and want to get started in deep learning with Keras. With this idea in mind, a sizable chuck of the book is giving people the prerequisite information they need to start using Keras. I start from the very beginning of assigning variables and end with multi-class classification with deep learning models.\nPaid: Free and paid $15\nLink: https://www.statswithr.com/neural-networks-with-keras-in-r-a-quickstart-guide",
+    "section": "22.18 Neural Networks with Keras in R: A QuickStart Guide",
+    "text": "22.18 Neural Networks with Keras in R: A QuickStart Guide\n\nMichael Harris\n\nI wrote this book for people who primarily use other statistical software like SPSS or SAS, and want to get started in deep learning with Keras. With this idea in mind, a sizable chuck of the book is giving people the prerequisite information they need to start using Keras. I start from the very beginning of assigning variables and end with multi-class classification with deep learning models.\nPaid: Free and paid $15\nLink: https://www.statswithr.com/neural-networks-with-keras-in-r-a-quickstart-guide",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2453,8 +2453,8 @@
     "objectID": "chapters/Machine Learning.html#supervised-machine-learning-for-text-analysis-in-r",
     "href": "chapters/Machine Learning.html#supervised-machine-learning-for-text-analysis-in-r",
     "title": "22  Machine Learning",
-    "section": "22.18 Supervised Machine Learning for Text Analysis in R",
-    "text": "22.18 Supervised Machine Learning for Text Analysis in R\n\nEmil Hvitfeldt\nJulia Silge\n\nModeling as a statistical practice can encompass a wide variety of activities. This book focuses on supervised or predictive modeling for text, using text data to make predictions about the world around us. We use the tidymodels framework for modeling, a consistent and flexible collection of R packages developed to encourage good statistical practice.\nLink: https://smltar.com/",
+    "section": "22.20 Supervised Machine Learning for Text Analysis in R",
+    "text": "22.20 Supervised Machine Learning for Text Analysis in R\n\nEmil Hvitfeldt\nJulia Silge\n\nModeling as a statistical practice can encompass a wide variety of activities. This book focuses on supervised or predictive modeling for text, using text data to make predictions about the world around us. We use the tidymodels framework for modeling, a consistent and flexible collection of R packages developed to encourage good statistical practice.\nLink: https://smltar.com/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2463,8 +2463,8 @@
     "objectID": "chapters/Machine Learning.html#surrogates---gaussian-process-modeling-design-and-optimization-for-the-applied-sciences",
     "href": "chapters/Machine Learning.html#surrogates---gaussian-process-modeling-design-and-optimization-for-the-applied-sciences",
     "title": "22  Machine Learning",
-    "section": "22.19 Surrogates - Gaussian process modeling, design and optimization for the applied sciences",
-    "text": "22.19 Surrogates - Gaussian process modeling, design and optimization for the applied sciences\n\nRobert B. Gramacy\n\nSurrogates is a graduate textbook, or professional handbook, on topics at the interface between machine learning, spatial statistics, computer simulation, meta-modeling (i.e., emulation), design of experiments, and optimization. Experimentation through simulation, “human out-of-the-loop” statistical support, management of dynamic processes, online and real-time analysis, automation, and practical application are at the forefront.\nLink: https://bookdown.org/rbg/surrogates/",
+    "section": "22.21 Surrogates - Gaussian process modeling, design and optimization for the applied sciences",
+    "text": "22.21 Surrogates - Gaussian process modeling, design and optimization for the applied sciences\n\nRobert B. Gramacy\n\nSurrogates is a graduate textbook, or professional handbook, on topics at the interface between machine learning, spatial statistics, computer simulation, meta-modeling (i.e., emulation), design of experiments, and optimization. Experimentation through simulation, “human out-of-the-loop” statistical support, management of dynamic processes, online and real-time analysis, automation, and practical application are at the forefront.\nLink: https://bookdown.org/rbg/surrogates/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2473,8 +2473,8 @@
     "objectID": "chapters/Machine Learning.html#the-hitchhikers-guide-to-responsible-machine-learning",
     "href": "chapters/Machine Learning.html#the-hitchhikers-guide-to-responsible-machine-learning",
     "title": "22  Machine Learning",
-    "section": "22.21 The Hitchhiker’s Guide to Responsible Machine Learning",
-    "text": "22.21 The Hitchhiker’s Guide to Responsible Machine Learning\n\nPrzemyslaw Biecek\nAnna Kozak\nAleksander Zawada\n\nA graphic novel approach to responsible machine learning\nLink: https://betaandbit.github.io/RML/",
+    "section": "22.23 The Hitchhiker’s Guide to Responsible Machine Learning",
+    "text": "22.23 The Hitchhiker’s Guide to Responsible Machine Learning\n\nPrzemyslaw Biecek\nAnna Kozak\nAleksander Zawada\n\nA graphic novel approach to responsible machine learning\nLink: https://betaandbit.github.io/RML/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2483,8 +2483,8 @@
     "objectID": "chapters/Machine Learning.html#the-caret-package",
     "href": "chapters/Machine Learning.html#the-caret-package",
     "title": "22  Machine Learning",
-    "section": "22.20 The caret Package",
-    "text": "22.20 The caret Package\n\nMax Kuhn\n\nThe caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models.\nLink: https://topepo.github.io/caret/index.html",
+    "section": "22.22 The caret Package",
+    "text": "22.22 The caret Package\n\nMax Kuhn\n\nThe caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models.\nLink: https://topepo.github.io/caret/index.html",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2493,8 +2493,8 @@
     "objectID": "chapters/Machine Learning.html#tidy-modeling-with-r",
     "href": "chapters/Machine Learning.html#tidy-modeling-with-r",
     "title": "22  Machine Learning",
-    "section": "22.22 Tidy Modeling with R",
-    "text": "22.22 Tidy Modeling with R\n\nMax Kuhn\nJulia Silge\n\nThis book provides an introduction to how to use the tidymodels suite of packages to create models using a tidyverse approach and encourages good methodology and statistical practice throughout demonstrated using series of applied examples.\nLink: https://www.tmwr.org/",
+    "section": "22.24 Tidy Modeling with R",
+    "text": "22.24 Tidy Modeling with R\n\nMax Kuhn\nJulia Silge\n\nThis book provides an introduction to how to use the tidymodels suite of packages to create models using a tidyverse approach and encourages good methodology and statistical practice throughout demonstrated using series of applied examples.\nLink: https://www.tmwr.org/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2503,8 +2503,8 @@
     "objectID": "chapters/Machine Learning.html#mlr3-book",
     "href": "chapters/Machine Learning.html#mlr3-book",
     "title": "22  Machine Learning",
-    "section": "22.14 mlr3 book",
-    "text": "22.14 mlr3 book\n\nMichel Lang\n\nThe mlr3 package and ecosystem provide a generic, object-oriented, and extensible framework for classification, regression, survival analysis, and other machine learning tasks for the R language. They do not implement any learners, but provide a unified interface to many existing learners in R.\nLink: https://mlr3book.mlr-org.com/",
+    "section": "22.15 mlr3 book",
+    "text": "22.15 mlr3 book\n\nMichel Lang\n\nThe mlr3 package and ecosystem provide a generic, object-oriented, and extensible framework for classification, regression, survival analysis, and other machine learning tasks for the R language. They do not implement any learners, but provide a unified interface to many existing learners in R.\nLink: https://mlr3book.mlr-org.com/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2513,8 +2513,8 @@
     "objectID": "chapters/Machine Learning.html#sits-data-analysis-and-machine-learning-on-earth-observation-data-cubes-with-satellite-image-time-series",
     "href": "chapters/Machine Learning.html#sits-data-analysis-and-machine-learning-on-earth-observation-data-cubes-with-satellite-image-time-series",
     "title": "22  Machine Learning",
-    "section": "22.17 sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series",
-    "text": "22.17 sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series\n\nGilberto Camara\nRolf Simoes\nFelipe Souza\nAlber Sanchez\nLorena Santos\net al\n\nUsing time series derived from big Earth Observation data sets is one of the leading research trends in Land Use Science and Remote Sensing. One of the more promising uses of satellite time series is its application to classify land use and land cover. Information on land is critical for sustainable development because our growing demand for natural resources is causing significant environmental impacts. The target audience for sits is the new generation of specialists who understand the principles of remote sensing and can write scripts in R. Ideally, users should have basic knowledge of data science methods using R.\nThis book presents sits, an open-source R package for land use and land cover classification using big Earth observation data.\nLink: https://e-sensing.github.io/sitsbook/",
+    "section": "22.19 sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series",
+    "text": "22.19 sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series\n\nGilberto Camara\nRolf Simoes\nFelipe Souza\nAlber Sanchez\nLorena Santos\net al\n\nUsing time series derived from big Earth Observation data sets is one of the leading research trends in Land Use Science and Remote Sensing. One of the more promising uses of satellite time series is its application to classify land use and land cover. Information on land is critical for sustainable development because our growing demand for natural resources is causing significant environmental impacts. The target audience for sits is the new generation of specialists who understand the principles of remote sensing and can write scripts in R. Ideally, users should have basic knowledge of data science methods using R.\nThis book presents sits, an open-source R package for land use and land cover classification using big Earth observation data.\nLink: https://e-sensing.github.io/sitsbook/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2643,8 +2643,8 @@
     "objectID": "chapters/Packages.html#create-publish-and-analyze-personal-websites-using-r-and-rstudio",
     "href": "chapters/Packages.html#create-publish-and-analyze-personal-websites-using-r-and-rstudio",
     "title": "24  Packages",
-    "section": "24.8 Create, Publish, and Analyze Personal Websites Using R and RStudio",
-    "text": "24.8 Create, Publish, and Analyze Personal Websites Using R and RStudio\n\nDanny Morris\n\nA free, digital handbook with step-by-step instructions for launching your own personal website using R, RStudio, and other freely available technologies including GitHub, Hugo, Netlify, and Google Analytics.\nLink: https://r4sites-book.netlify.app/",
+    "section": "24.10 Create, Publish, and Analyze Personal Websites Using R and RStudio",
+    "text": "24.10 Create, Publish, and Analyze Personal Websites Using R and RStudio\n\nDanny Morris\n\nA free, digital handbook with step-by-step instructions for launching your own personal website using R, RStudio, and other freely available technologies including GitHub, Hugo, Netlify, and Google Analytics.\nLink: https://r4sites-book.netlify.app/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2653,8 +2653,8 @@
     "objectID": "chapters/Packages.html#data-integration-manipulation-and-visualization-of-phylogenetic-trees",
     "href": "chapters/Packages.html#data-integration-manipulation-and-visualization-of-phylogenetic-trees",
     "title": "24  Packages",
-    "section": "24.9 Data Integration, Manipulation and Visualization of Phylogenetic Trees",
-    "text": "24.9 Data Integration, Manipulation and Visualization of Phylogenetic Trees\n\nGuangchuang Yu\n\nA guide for data integration, manipulation and visualization of phylogenetic trees using a suite of R packages, tidytree, treeio, ggtree and ggtreeExtra.\nLink: https://yulab-smu.top/treedata-book/",
+    "section": "24.11 Data Integration, Manipulation and Visualization of Phylogenetic Trees",
+    "text": "24.11 Data Integration, Manipulation and Visualization of Phylogenetic Trees\n\nGuangchuang Yu\n\nA guide for data integration, manipulation and visualization of phylogenetic trees using a suite of R packages, tidytree, treeio, ggtree and ggtreeExtra.\nLink: https://yulab-smu.top/treedata-book/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2663,8 +2663,8 @@
     "objectID": "chapters/Packages.html#deep-learning-and-scientific-computing-with-r-torch",
     "href": "chapters/Packages.html#deep-learning-and-scientific-computing-with-r-torch",
     "title": "24  Packages",
-    "section": "24.11 Deep Learning and Scientific Computing with R torch",
-    "text": "24.11 Deep Learning and Scientific Computing with R torch\n\nSigrid Keydana\n\nThis is a book about torch, the R interface to PyTorch. PyTorch, as of this writing, is one of the major deep-learning and scientific-computing frameworks, widely used across industries and areas of research. With torch, you get to access its rich functionality directly from R, with no need to install, let alone learn, Python.\nLink: https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/",
+    "section": "24.13 Deep Learning and Scientific Computing with R torch",
+    "text": "24.13 Deep Learning and Scientific Computing with R torch\n\nSigrid Keydana\n\nThis is a book about torch, the R interface to PyTorch. PyTorch, as of this writing, is one of the major deep-learning and scientific-computing frameworks, widely used across industries and areas of research. With torch, you get to access its rich functionality directly from R, with no need to install, let alone learn, Python.\nLink: https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2673,8 +2673,8 @@
     "objectID": "chapters/Packages.html#flexible-imputation-of-missing-data",
     "href": "chapters/Packages.html#flexible-imputation-of-missing-data",
     "title": "24  Packages",
-    "section": "24.12 Flexible Imputation of Missing Data",
-    "text": "24.12 Flexible Imputation of Missing Data\n\nStef van Buuren\n\nMultiple imputation of missing data has become one of the great academic industries. Many analysts now employ multiple imputation on a regular basis as a generic solution to the omnipresent missing-data problem, and a substantial group of practitioners are doing the calculations in mice. This book aspires to combine a state-of-the-art overview of the field with a set of how-to instructions for practical data analysis.\nLink: https://stefvanbuuren.name/fimd/",
+    "section": "24.14 Flexible Imputation of Missing Data",
+    "text": "24.14 Flexible Imputation of Missing Data\n\nStef van Buuren\n\nMultiple imputation of missing data has become one of the great academic industries. Many analysts now employ multiple imputation on a regular basis as a generic solution to the omnipresent missing-data problem, and a substantial group of practitioners are doing the calculations in mice. This book aspires to combine a state-of-the-art overview of the field with a set of how-to instructions for practical data analysis.\nLink: https://stefvanbuuren.name/fimd/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2683,8 +2683,8 @@
     "objectID": "chapters/Packages.html#gt-cookbook",
     "href": "chapters/Packages.html#gt-cookbook",
     "title": "24  Packages",
-    "section": "24.14 GT Cookbook",
-    "text": "24.14 GT Cookbook\n\nThomas Mock\n\nThis cookbook attempts to walk through many of the example usecases for gt, and provide useful commentary around the use of the various gt functions. The full gt documentation has other more succinct examples and full function arguments.\nFor advanced use cases, make sure to check out the Advanced Cookbook\nLink: https://themockup.blog/static/resources/gt-cookbook.html",
+    "section": "24.16 GT Cookbook",
+    "text": "24.16 GT Cookbook\n\nThomas Mock\n\nThis cookbook attempts to walk through many of the example usecases for gt, and provide useful commentary around the use of the various gt functions. The full gt documentation has other more succinct examples and full function arguments.\nFor advanced use cases, make sure to check out the Advanced Cookbook\nLink: https://themockup.blog/static/resources/gt-cookbook.html",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2693,8 +2693,8 @@
     "objectID": "chapters/Packages.html#gt-cookbook-advanced",
     "href": "chapters/Packages.html#gt-cookbook-advanced",
     "title": "24  Packages",
-    "section": "24.15 GT Cookbook Advanced",
-    "text": "24.15 GT Cookbook Advanced\n\nThomas Mock\n\nThis cookbook attempts to walk through many of the advanced applications for gt, and provide useful commentary around the use of the various gt functions. The full gt documentation has other more succinct examples and full function arguments.\nLink: https://themockup.blog/static/resources/gt-cookbook-advanced.html",
+    "section": "24.17 GT Cookbook Advanced",
+    "text": "24.17 GT Cookbook Advanced\n\nThomas Mock\n\nThis cookbook attempts to walk through many of the advanced applications for gt, and provide useful commentary around the use of the various gt functions. The full gt documentation has other more succinct examples and full function arguments.\nLink: https://themockup.blog/static/resources/gt-cookbook-advanced.html",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2703,8 +2703,8 @@
     "objectID": "chapters/Packages.html#highcharter-cookbook",
     "href": "chapters/Packages.html#highcharter-cookbook",
     "title": "24  Packages",
-    "section": "24.16 Highcharter Cookbook",
-    "text": "24.16 Highcharter Cookbook\n\nTom Bishop\n\nHighcharter is an R implementation of the highcharts javascript library, enabled by R’s htmlwidgets package. Most of the highcharts functionality is implemented through highcharter however the documentation is a little light. This guide will provide examples on how to create and customise various graphs whilst providing some tips on how to think about the package that will help you build and debug your more ambitious charts.\nLink: https://www.tmbish.me/lab/highcharter-cookbook/",
+    "section": "24.18 Highcharter Cookbook",
+    "text": "24.18 Highcharter Cookbook\n\nTom Bishop\n\nHighcharter is an R implementation of the highcharts javascript library, enabled by R’s htmlwidgets package. Most of the highcharts functionality is implemented through highcharter however the documentation is a little light. This guide will provide examples on how to create and customise various graphs whilst providing some tips on how to think about the package that will help you build and debug your more ambitious charts.\nLink: https://www.tmbish.me/lab/highcharter-cookbook/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2713,8 +2713,8 @@
     "objectID": "chapters/Packages.html#r-function-a-day",
     "href": "chapters/Packages.html#r-function-a-day",
     "title": "24  Packages",
-    "section": "24.22 R Function a Day",
-    "text": "24.22 R Function a Day\n\nIndrajeet Patil\n\nA book that collects (and provides an easy way to access and search) tweets from R Function A Day account that maintained for 1 year (from 24.01.2021 to 24.01.2022).\nLink: https://bookdown.org/IndrajeetPatil/R-Function-A-Day-book/",
+    "section": "24.25 R Function a Day",
+    "text": "24.25 R Function a Day\n\nIndrajeet Patil\n\nA book that collects (and provides an easy way to access and search) tweets from R Function A Day account that maintained for 1 year (from 24.01.2021 to 24.01.2022).\nLink: https://bookdown.org/IndrajeetPatil/R-Function-A-Day-book/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2723,8 +2723,8 @@
     "objectID": "chapters/Packages.html#r-bookdownplus-textbook",
     "href": "chapters/Packages.html#r-bookdownplus-textbook",
     "title": "24  Packages",
-    "section": "24.21 R bookdownplus Textbook",
-    "text": "24.21 R bookdownplus Textbook\n\nPeng Zhao\n\n‘bookdownplus’ is an extension of ‘bookdown’. It is a collection of multiple templates, which I have been collecting since years ago on the basis of LaTeX, and have been tailoring them so that I can work happily under the umbrella of ‘bookdown’. ‘bookdownplus’ helps you (and me) write varied types of books and documents. This book you are reading at the moment was exactly produced by ‘bookdownplus’.\nLink: https://bookdown.org/baydap/bookdownplus/",
+    "section": "24.24 R bookdownplus Textbook",
+    "text": "24.24 R bookdownplus Textbook\n\nPeng Zhao\n\n‘bookdownplus’ is an extension of ‘bookdown’. It is a collection of multiple templates, which I have been collecting since years ago on the basis of LaTeX, and have been tailoring them so that I can work happily under the umbrella of ‘bookdown’. ‘bookdownplus’ helps you (and me) write varied types of books and documents. This book you are reading at the moment was exactly produced by ‘bookdownplus’.\nLink: https://bookdown.org/baydap/bookdownplus/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2733,8 +2733,8 @@
     "objectID": "chapters/Packages.html#rcpp-for-everyone",
     "href": "chapters/Packages.html#rcpp-for-everyone",
     "title": "24  Packages",
-    "section": "24.23 Rcpp for everyone",
-    "text": "24.23 Rcpp for everyone\n\nMasaki E. Tsuda\n\nRcpp is a package that enables you to implement R functions in C++. It is easy to use even without deep knowledge of C++, because it is implemented so as to write your C++ code in a style similar to R. And Rcpp does not sacrifice execution speed for the ease of use, anyone can get high performance outcome.\nThis document focuses on providing necessary information to users who are not familiar with C++. Therefore, in some cases, I explain usage of Rcpp conceptually rather than describing accurately from the viewpoint of C++, so that I hope readers can easily understand it.\nLink: https://teuder.github.io/rcpp4everyone_en/",
+    "section": "24.26 Rcpp for everyone",
+    "text": "24.26 Rcpp for everyone\n\nMasaki E. Tsuda\n\nRcpp is a package that enables you to implement R functions in C++. It is easy to use even without deep knowledge of C++, because it is implemented so as to write your C++ code in a style similar to R. And Rcpp does not sacrifice execution speed for the ease of use, anyone can get high performance outcome.\nThis document focuses on providing necessary information to users who are not familiar with C++. Therefore, in some cases, I explain usage of Rcpp conceptually rather than describing accurately from the viewpoint of C++, so that I hope readers can easily understand it.\nLink: https://teuder.github.io/rcpp4everyone_en/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2743,8 +2743,8 @@
     "objectID": "chapters/Packages.html#shiny-app-packages",
     "href": "chapters/Packages.html#shiny-app-packages",
     "title": "24  Packages",
-    "section": "24.26 Shiny App-Packages",
-    "text": "24.26 Shiny App-Packages\n\nMartin Frigaard\n\nThis book is a resource to help ‘connect the dots’ between building scalable Shiny applications and writing R packages. Adopting R package development practices in the early stages of your Shiny app will improve the reusability, maintainability, and shareability of all your hard work.\nLink: https://mjfrigaard.github.io/shiny-app-pkgs/",
+    "section": "24.29 Shiny App-Packages",
+    "text": "24.29 Shiny App-Packages\n\nMartin Frigaard\n\nThis book is a resource to help ‘connect the dots’ between building scalable Shiny applications and writing R packages. Adopting R package development practices in the early stages of your Shiny app will improve the reusability, maintainability, and shareability of all your hard work.\nLink: https://mjfrigaard.github.io/shiny-app-pkgs/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2753,8 +2753,8 @@
     "objectID": "chapters/Packages.html#targeted-learning-in-r-causal-data-science-with-the-tlverse-software-ecosystem",
     "href": "chapters/Packages.html#targeted-learning-in-r-causal-data-science-with-the-tlverse-software-ecosystem",
     "title": "24  Packages",
-    "section": "24.27 Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem",
-    "text": "24.27 Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem\n\nMark van der Laan\nJeremy Coyle\nNima Hejazi\nIvana Malenica\nRachael Phillips\nAlan Hubbard\n\nIt is a fully reproducible, open-source, electronic handbook for applying Targeted Learning methodology in practice using the software stack provided by the tlverse ecosystem.\nLink: https://tlverse.org/tlverse-handbook/",
+    "section": "24.30 Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem",
+    "text": "24.30 Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem\n\nMark van der Laan\nJeremy Coyle\nNima Hejazi\nIvana Malenica\nRachael Phillips\nAlan Hubbard\n\nIt is a fully reproducible, open-source, electronic handbook for applying Targeted Learning methodology in practice using the software stack provided by the tlverse ecosystem.\nLink: https://tlverse.org/tlverse-handbook/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2763,8 +2763,8 @@
     "objectID": "chapters/Packages.html#the-data-validation-cookbook",
     "href": "chapters/Packages.html#the-data-validation-cookbook",
     "title": "24  Packages",
-    "section": "24.29 The Data Validation Cookbook",
-    "text": "24.29 The Data Validation Cookbook\n\nMark P.J. van der Loo\n\nThe purposes of this book include demonstrating the main tools and workflows of the validate package, giving examples of common data validation tasks, and showing how to analyze data validation results.\nLink: https://data-cleaning.github.io/validate/",
+    "section": "24.32 The Data Validation Cookbook",
+    "text": "24.32 The Data Validation Cookbook\n\nMark P.J. van der Loo\n\nThe purposes of this book include demonstrating the main tools and workflows of the validate package, giving examples of common data validation tasks, and showing how to analyze data validation results.\nLink: https://data-cleaning.github.io/validate/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2773,8 +2773,8 @@
     "objectID": "chapters/Packages.html#the-grammar-of-experimental-designs",
     "href": "chapters/Packages.html#the-grammar-of-experimental-designs",
     "title": "24  Packages",
-    "section": "24.30 The Grammar of Experimental Designs",
-    "text": "24.30 The Grammar of Experimental Designs\n\nEmi Tanaka\n\nAn book about designing experiments using the eddible package.\nLink: https://emitanaka.org/edibble-book/index.html",
+    "section": "24.33 The Grammar of Experimental Designs",
+    "text": "24.33 The Grammar of Experimental Designs\n\nEmi Tanaka\n\nAn book about designing experiments using the eddible package.\nLink: https://emitanaka.org/edibble-book/index.html",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2783,8 +2783,8 @@
     "objectID": "chapters/Packages.html#the-tidyverse-cookbook",
     "href": "chapters/Packages.html#the-tidyverse-cookbook",
     "title": "24  Packages",
-    "section": "24.34 The Tidyverse Cookbook",
-    "text": "24.34 The Tidyverse Cookbook\n\nEdited by Garrett Grolemund\n\nThis book collects code recipes for doing data science with R’s tidyverse. Each recipe solves a single common task, with a minimum of discussion.\nLink: https://rstudio-education.github.io/tidyverse-cookbook/",
+    "section": "24.37 The Tidyverse Cookbook",
+    "text": "24.37 The Tidyverse Cookbook\n\nEdited by Garrett Grolemund\n\nThis book collects code recipes for doing data science with R’s tidyverse. Each recipe solves a single common task, with a minimum of discussion.\nLink: https://rstudio-education.github.io/tidyverse-cookbook/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2793,8 +2793,8 @@
     "objectID": "chapters/Packages.html#the-caret-package",
     "href": "chapters/Packages.html#the-caret-package",
     "title": "24  Packages",
-    "section": "24.28 The caret Package",
-    "text": "24.28 The caret Package\n\nMax Kuhn\n\nThe caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models.\nLink: https://topepo.github.io/caret/index.html",
+    "section": "24.31 The caret Package",
+    "text": "24.31 The caret Package\n\nMax Kuhn\n\nThe caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models.\nLink: https://topepo.github.io/caret/index.html",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2803,8 +2803,8 @@
     "objectID": "chapters/Packages.html#the-lidr-package",
     "href": "chapters/Packages.html#the-lidr-package",
     "title": "24  Packages",
-    "section": "24.31 The lidR package",
-    "text": "24.31 The lidR package\n\nJean-Romain Roussel\nTristan R.H. Goodbody\nPiotr Tompalski\n\nlidR is an R package for manipulating and visualizating airborne laser scanning (ALS) data with an emphasis on forestry applications. The package is entirely open source and is integrated within the geospatial R ecosytem (i.e. raster, sp, sf, rgdal etc.). This guide has been written to help both the ALS novice, as well as seasoned point cloud processing veterans.\nLink: https://jean-romain.github.io/lidRbook/",
+    "section": "24.34 The lidR package",
+    "text": "24.34 The lidR package\n\nJean-Romain Roussel\nTristan R.H. Goodbody\nPiotr Tompalski\n\nlidR is an R package for manipulating and visualizating airborne laser scanning (ALS) data with an emphasis on forestry applications. The package is entirely open source and is integrated within the geospatial R ecosytem (i.e. raster, sp, sf, rgdal etc.). This guide has been written to help both the ALS novice, as well as seasoned point cloud processing veterans.\nLink: https://jean-romain.github.io/lidRbook/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2813,8 +2813,8 @@
     "objectID": "chapters/Packages.html#the-targets-r-package-design-specification",
     "href": "chapters/Packages.html#the-targets-r-package-design-specification",
     "title": "24  Packages",
-    "section": "24.32 The targets R Package Design Specification",
-    "text": "24.32 The targets R Package Design Specification\n\nWill Landau\n\ntargets has an elaborate structure to support its advanced features while ensuring decent performance. This bookdown site is a design specification to explain the major aspects of the internal architecture, including the data storage model, object oriented design, and orchestration and branching model\nLink: https://books.ropensci.org/targets-design/index.html",
+    "section": "24.35 The targets R Package Design Specification",
+    "text": "24.35 The targets R Package Design Specification\n\nWill Landau\n\ntargets has an elaborate structure to support its advanced features while ensuring decent performance. This bookdown site is a design specification to explain the major aspects of the internal architecture, including the data storage model, object oriented design, and orchestration and branching model\nLink: https://books.ropensci.org/targets-design/index.html",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2823,8 +2823,8 @@
     "objectID": "chapters/Packages.html#the-targets-r-package-user-manual",
     "href": "chapters/Packages.html#the-targets-r-package-user-manual",
     "title": "24  Packages",
-    "section": "24.33 The targets R Package User Manual",
-    "text": "24.33 The targets R Package User Manual\n\nWill Landau\n\nThe targets package is a Make-like pipeline toolkit for Statistics and data science in R. With targets, you can maintain a reproducible workflow without repeating yourself. targets learns how your pipeline fits together, skips costly runtime for tasks that are already up to date, runs only the necessary computation, supports implicit parallel computing, abstracts files as R objects, and shows tangible evidence that the results match the underlying code and data.\nLink: https://books.ropensci.org/targets/",
+    "section": "24.36 The targets R Package User Manual",
+    "text": "24.36 The targets R Package User Manual\n\nWill Landau\n\nThe targets package is a Make-like pipeline toolkit for Statistics and data science in R. With targets, you can maintain a reproducible workflow without repeating yourself. targets learns how your pipeline fits together, skips costly runtime for tasks that are already up to date, runs only the necessary computation, supports implicit parallel computing, abstracts files as R objects, and shows tangible evidence that the results match the underlying code and data.\nLink: https://books.ropensci.org/targets/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2833,8 +2833,8 @@
     "objectID": "chapters/Packages.html#data.table-in-r-the-complete-beginners-guide",
     "href": "chapters/Packages.html#data.table-in-r-the-complete-beginners-guide",
     "title": "24  Packages",
-    "section": "24.10 data.table in R The Complete Beginners Guide",
-    "text": "24.10 data.table in R The Complete Beginners Guide\n\nSelva Prabhakaran\n\ndata.table is a package is used for working with tabular data in R. It provides the efficient data.table object which is a much improved version of the default data.frame. It is super fast and has intuitive and terse syntax. If you know R language and haven’t picked up the data.table package yet, then this tutorial guide is a great place to start.\nLink: https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/",
+    "section": "24.12 data.table in R The Complete Beginners Guide",
+    "text": "24.12 data.table in R The Complete Beginners Guide\n\nSelva Prabhakaran\n\ndata.table is a package is used for working with tabular data in R. It provides the efficient data.table object which is a much improved version of the default data.frame. It is super fast and has intuitive and terse syntax. If you know R language and haven’t picked up the data.table package yet, then this tutorial guide is a great place to start.\nLink: https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2843,8 +2843,8 @@
     "objectID": "chapters/Packages.html#ggplot2-elegant-graphics-for-data-analysis",
     "href": "chapters/Packages.html#ggplot2-elegant-graphics-for-data-analysis",
     "title": "24  Packages",
-    "section": "24.13 ggplot2 Elegant Graphics for Data Analysis",
-    "text": "24.13 ggplot2 Elegant Graphics for Data Analysis\n\nHadley Wickham\n\nggplot2 is an R package for producing statistical, or data, graphics. Unlike most other graphics packages, ggplot2 has an underlying grammar, based on the Grammar of Graphics (Wilkinson 2005), that allows you to compose graphs by combining independent components. This makes ggplot2 powerful. Rather than being limited to sets of pre-defined graphics, you can create novel graphics that are tailored to your specific problem.\nLink: https://ggplot2-book.org/",
+    "section": "24.15 ggplot2 Elegant Graphics for Data Analysis",
+    "text": "24.15 ggplot2 Elegant Graphics for Data Analysis\n\nHadley Wickham\n\nggplot2 is an R package for producing statistical, or data, graphics. Unlike most other graphics packages, ggplot2 has an underlying grammar, based on the Grammar of Graphics (Wilkinson 2005), that allows you to compose graphs by combining independent components. This makes ggplot2 powerful. Rather than being limited to sets of pre-defined graphics, you can create novel graphics that are tailored to your specific problem.\nLink: https://ggplot2-book.org/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2853,8 +2853,8 @@
     "objectID": "chapters/Packages.html#knitr",
     "href": "chapters/Packages.html#knitr",
     "title": "24  Packages",
-    "section": "24.17 knitr",
-    "text": "24.17 knitr\n\nYihui Xie\n\nDynamic documents with R and knitr!\nThe knitr package was designed to be a transparent engine for dynamic report generation with R, solve some long-standing problems in Sweave, and combine features in other add-on packages into one package.\nLink: https://yihui.org/knitr/",
+    "section": "24.19 knitr",
+    "text": "24.19 knitr\n\nYihui Xie\n\nDynamic documents with R and knitr!\nThe knitr package was designed to be a transparent engine for dynamic report generation with R, solve some long-standing problems in Sweave, and combine features in other add-on packages into one package.\nLink: https://yihui.org/knitr/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2863,8 +2863,8 @@
     "objectID": "chapters/Packages.html#mlr3-book",
     "href": "chapters/Packages.html#mlr3-book",
     "title": "24  Packages",
-    "section": "24.18 mlr3 book",
-    "text": "24.18 mlr3 book\n\nMichel Lang\n\nThe mlr3 package and ecosystem provide a generic, object-oriented, and extensible framework for classification, regression, survival analysis, and other machine learning tasks for the R language. They do not implement any learners, but provide a unified interface to many existing learners in R.\nLink: https://mlr3book.mlr-org.com/",
+    "section": "24.20 mlr3 book",
+    "text": "24.20 mlr3 book\n\nMichel Lang\n\nThe mlr3 package and ecosystem provide a generic, object-oriented, and extensible framework for classification, regression, survival analysis, and other machine learning tasks for the R language. They do not implement any learners, but provide a unified interface to many existing learners in R.\nLink: https://mlr3book.mlr-org.com/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2873,8 +2873,8 @@
     "objectID": "chapters/Packages.html#officeverse",
     "href": "chapters/Packages.html#officeverse",
     "title": "24  Packages",
-    "section": "24.19 officeverse",
-    "text": "24.19 officeverse\n\nDavid Gohel\n\nThis book deals with reporting from R with the packages {officer}, {officedown}, {flextable}, {rvg} and {mschart}. These packages have been developed to facilitate the production of Word documents and PowerPoint presentations from and with R. It was written specifically to offer a competitive solution to SAS ODS for tabular and graphical reporting.\nLink: https://ardata-fr.github.io/officeverse/",
+    "section": "24.22 officeverse",
+    "text": "24.22 officeverse\n\nDavid Gohel\n\nThis book deals with reporting from R with the packages {officer}, {officedown}, {flextable}, {rvg} and {mschart}. These packages have been developed to facilitate the production of Word documents and PowerPoint presentations from and with R. It was written specifically to offer a competitive solution to SAS ODS for tabular and graphical reporting.\nLink: https://ardata-fr.github.io/officeverse/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2883,8 +2883,8 @@
     "objectID": "chapters/Packages.html#piper-tutorial",
     "href": "chapters/Packages.html#piper-tutorial",
     "title": "24  Packages",
-    "section": "24.20 pipeR Tutorial",
-    "text": "24.20 pipeR Tutorial\n\nKun Ren\n\npipeR is an R package that helps you better organize your code in pipeline built with %&gt;&gt;%, Pipe() or pipeline(), which is much easier to read, write, and maintain.\nLink: https://renkun-ken.github.io/pipeR-tutorial/",
+    "section": "24.23 pipeR Tutorial",
+    "text": "24.23 pipeR Tutorial\n\nKun Ren\n\npipeR is an R package that helps you better organize your code in pipeline built with %&gt;&gt;%, Pipe() or pipeline(), which is much easier to read, write, and maintain.\nLink: https://renkun-ken.github.io/pipeR-tutorial/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2893,8 +2893,8 @@
     "objectID": "chapters/Packages.html#reactablefmtr-cookbook",
     "href": "chapters/Packages.html#reactablefmtr-cookbook",
     "title": "24  Packages",
-    "section": "24.24 reactablefmtr Cookbook",
-    "text": "24.24 reactablefmtr Cookbook\n\nKyle Cuilla\n\nA high-level overview of the functions and styling customization options available in {reactablefmtr}.\nLink: https://kcuilla.github.io/reactablefmtr/articles/reactablefmtr_cookbook.html",
+    "section": "24.27 reactablefmtr Cookbook",
+    "text": "24.27 reactablefmtr Cookbook\n\nKyle Cuilla\n\nA high-level overview of the functions and styling customization options available in {reactablefmtr}.\nLink: https://kcuilla.github.io/reactablefmtr/articles/reactablefmtr_cookbook.html",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2903,8 +2903,8 @@
     "objectID": "chapters/Packages.html#rlist-tutorial",
     "href": "chapters/Packages.html#rlist-tutorial",
     "title": "24  Packages",
-    "section": "24.25 rlist Tutorial",
-    "text": "24.25 rlist Tutorial\n\nKun Ren\n\nrlist is a set of tools for working with list objects. Its goal is to make it easier to work with lists by providing a wide range of functions on non-tabular data stored in them. This package supports filtering, mapping, grouping, sorting, updating, searching and many other functions. It is pipe-friendly and strongly recommends functional programming style in list operations. This tutorial serves as complete guide to using rlist functionality to work with non-tabular data.\nLink: https://renkun-ken.github.io/rlist-tutorial/",
+    "section": "24.28 rlist Tutorial",
+    "text": "24.28 rlist Tutorial\n\nKun Ren\n\nrlist is a set of tools for working with list objects. Its goal is to make it easier to work with lists by providing a wide range of functions on non-tabular data stored in them. This package supports filtering, mapping, grouping, sorting, updating, searching and many other functions. It is pipe-friendly and strongly recommends functional programming style in list operations. This tutorial serves as complete guide to using rlist functionality to work with non-tabular data.\nLink: https://renkun-ken.github.io/rlist-tutorial/",
     "crumbs": [
       "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -5043,8 +5043,8 @@
     "objectID": "chapters/Workflow.html#the-data-validation-cookbook",
     "href": "chapters/Workflow.html#the-data-validation-cookbook",
     "title": "38  Workflow",
-    "section": "38.10 The Data Validation Cookbook",
-    "text": "38.10 The Data Validation Cookbook\n\nMark P.J. van der Loo\n\nThe purposes of this book include demonstrating the main tools and workflows of the validate package, giving examples of common data validation tasks, and showing how to analyze data validation results.\nLink: https://data-cleaning.github.io/validate/",
+    "section": "38.11 The Data Validation Cookbook",
+    "text": "38.11 The Data Validation Cookbook\n\nMark P.J. van der Loo\n\nThe purposes of this book include demonstrating the main tools and workflows of the validate package, giving examples of common data validation tasks, and showing how to analyze data validation results.\nLink: https://data-cleaning.github.io/validate/",
     "crumbs": [
       "<span class='chapter-number'>38</span>  <span class='chapter-title'>Workflow</span>"
     ]
@@ -5053,8 +5053,8 @@
     "objectID": "chapters/Workflow.html#the-targets-r-package-design-specification",
     "href": "chapters/Workflow.html#the-targets-r-package-design-specification",
     "title": "38  Workflow",
-    "section": "38.11 The targets R Package Design Specification",
-    "text": "38.11 The targets R Package Design Specification\n\nWill Landau\n\ntargets has an elaborate structure to support its advanced features while ensuring decent performance. This bookdown site is a design specification to explain the major aspects of the internal architecture, including the data storage model, object oriented design, and orchestration and branching model\nLink: https://books.ropensci.org/targets-design/index.html",
+    "section": "38.12 The targets R Package Design Specification",
+    "text": "38.12 The targets R Package Design Specification\n\nWill Landau\n\ntargets has an elaborate structure to support its advanced features while ensuring decent performance. This bookdown site is a design specification to explain the major aspects of the internal architecture, including the data storage model, object oriented design, and orchestration and branching model\nLink: https://books.ropensci.org/targets-design/index.html",
     "crumbs": [
       "<span class='chapter-number'>38</span>  <span class='chapter-title'>Workflow</span>"
     ]
@@ -5063,8 +5063,8 @@
     "objectID": "chapters/Workflow.html#the-targets-r-package-user-manual",
     "href": "chapters/Workflow.html#the-targets-r-package-user-manual",
     "title": "38  Workflow",
-    "section": "38.12 The targets R Package User Manual",
-    "text": "38.12 The targets R Package User Manual\n\nWill Landau\n\nThe targets package is a Make-like pipeline toolkit for Statistics and data science in R. With targets, you can maintain a reproducible workflow without repeating yourself. targets learns how your pipeline fits together, skips costly runtime for tasks that are already up to date, runs only the necessary computation, supports implicit parallel computing, abstracts files as R objects, and shows tangible evidence that the results match the underlying code and data.\nLink: https://books.ropensci.org/targets/",
+    "section": "38.13 The targets R Package User Manual",
+    "text": "38.13 The targets R Package User Manual\n\nWill Landau\n\nThe targets package is a Make-like pipeline toolkit for Statistics and data science in R. With targets, you can maintain a reproducible workflow without repeating yourself. targets learns how your pipeline fits together, skips costly runtime for tasks that are already up to date, runs only the necessary computation, supports implicit parallel computing, abstracts files as R objects, and shows tangible evidence that the results match the underlying code and data.\nLink: https://books.ropensci.org/targets/",
     "crumbs": [
       "<span class='chapter-number'>38</span>  <span class='chapter-title'>Workflow</span>"
     ]
@@ -5233,8 +5233,8 @@
     "objectID": "chapters/Data Science.html#end-to-end-data-science-with-r",
     "href": "chapters/Data Science.html#end-to-end-data-science-with-r",
     "title": "11  Data Science",
-    "section": "11.11 End To End Data Science With R",
-    "text": "11.11 End To End Data Science With R\n\nRene Essomba\n\nGreat introduction to R, covering a wide range of topics. Covers exploratory data analysis, visualization, supervised learning, unsupervised learning, time-series, NLP, and image classification.\nLink: https://e2e-ds-r.franckess.com/",
+    "section": "11.12 End To End Data Science With R",
+    "text": "11.12 End To End Data Science With R\n\nRene Essomba\n\nGreat introduction to R, covering a wide range of topics. Covers exploratory data analysis, visualization, supervised learning, unsupervised learning, time-series, NLP, and image classification.\nLink: https://e2e-ds-r.franckess.com/",
     "crumbs": [
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
     ]
@@ -5337,6 +5337,76 @@
     "text": "33.5 An Introduction to Bayesian Data Analysis for Cognitive Science\n\nBruno Nicenboim\nDaniel Schad\nShravan Vasishth\n\nBayesian data analysis and cognitive modeling using the probabilistic programming language Stan, and the front-end to Stan called brms.\nLink: https://vasishth.github.io/bayescogsci/book/",
     "crumbs": [
       "<span class='chapter-number'>33</span>  <span class='chapter-title'>Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Data Science.html#applied-data-skill-processing-presenting-data",
+    "href": "chapters/Data Science.html#applied-data-skill-processing-presenting-data",
+    "title": "11  Data Science",
+    "section": "11.4 Applied Data Skill: Processing & Presenting Data",
+    "text": "11.4 Applied Data Skill: Processing & Presenting Data\n\nEmily Nordmann\nLisa DeBruine\n\nThis book provides an overview of the basic skills needed to turn raw data into informative summaries and visualisations presented in professional reports and presentations. The book will introduce learners to R (R Core Team, 2022), a programming language that can help automate working with data. The book will cover importing and processing data from spreadsheets, producing data summaries of descriptive statistics in tables, creating beautiful and informative visualisations, and constructing reports and presentations that automatically update when the underlying data changes.\nLink: https://psyteachr.github.io/ads-v3/",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Data Science</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Machine Learning.html#machine-learning-based-causal-inference-tutorial",
+    "href": "chapters/Machine Learning.html#machine-learning-based-causal-inference-tutorial",
+    "title": "22  Machine Learning",
+    "section": "22.12 Machine Learning-based Causal Inference Tutorial",
+    "text": "22.12 Machine Learning-based Causal Inference Tutorial\n\nGolub Capital Social Impact Lab\n\nThis book/tutorial will introduce key concepts in machine learning-based causal inference.\nLink: https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/",
+    "crumbs": [
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Machine Learning.html#model-based-clustering-classification-and-density-estimation-using-mclust-in-r",
+    "href": "chapters/Machine Learning.html#model-based-clustering-classification-and-density-estimation-using-mclust-in-r",
+    "title": "22  Machine Learning",
+    "section": "22.16 Model-Based Clustering, Classification, and Density Estimation Using mclust in R",
+    "text": "22.16 Model-Based Clustering, Classification, and Density Estimation Using mclust in R\n\nLuca Scrucca\nChris Fraley\nT. Brendan Murphy\nAdrian E. Raftery\n\nThis book presents a systematic statistical approach to clustering, classification, and density estimation via Gaussian mixture modeling. This model-based framework allows the problems of choosing or developing an appropriate clustering or classification method to be understood within the context of statistical modeling. The mclust package for the statistical environment R is a widely adopted platform implementing these model-based strategies. The package includes both summary and visual functionality, complementing procedures for estimating and choosing models.\nLink: https://mclust-org.github.io/mclust-book/",
+    "crumbs": [
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Packages.html#cookbook-polars-for-r",
+    "href": "chapters/Packages.html#cookbook-polars-for-r",
+    "title": "24  Packages",
+    "section": "24.8 Cookbook Polars for R",
+    "text": "24.8 Cookbook Polars for R\n\nDamien Dotta\n\nThe goal of the cookbook is to provide solutions to common tasks and problems in using Polars with R. It allows R users using their usual packages to quickly get the syntax required to use Polars with R.\nIt is structured around side-by-side comparisons between polars, R base, dplyr, tidyr and data.table.\nLink: https://ddotta.github.io/cookbook-rpolars/",
+    "crumbs": [
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Packages.html#cran-cookbook",
+    "href": "chapters/Packages.html#cran-cookbook",
+    "title": "24  Packages",
+    "section": "24.9 CRAN Cookbook",
+    "text": "24.9 CRAN Cookbook\n\nJasmine Daly\nBeni Altmann\n\nYour go-to guide for solving common (and often recurring) issues spotted by CRAN volunteers during package submissions and re-submissions. Here, you’ll find practical “recipes” organized by different parts of the package structure.\nLink: https://contributor.r-project.org/cran-cookbook/",
+    "crumbs": [
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Packages.html#multi-state-modelling-with-msm-a-practical-course",
+    "href": "chapters/Packages.html#multi-state-modelling-with-msm-a-practical-course",
+    "title": "24  Packages",
+    "section": "24.21 Multi-state modelling with msm: a practical course",
+    "text": "24.21 Multi-state modelling with msm: a practical course\n\nChristopher Jackson\n\nAn introduction to the use of the msm R package for fitting and predicting from multi-state models for intermittently observed data, in typical medical applications.\nLink: https://chjackson.github.io/msm/msmcourse/",
+    "crumbs": [
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>Packages</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Workflow.html#research-software-engineering",
+    "href": "chapters/Workflow.html#research-software-engineering",
+    "title": "38  Workflow",
+    "section": "38.10 Research Software Engineering",
+    "text": "38.10 Research Software Engineering\n\nMatthias Bannert\n\nOverview open source software and gives R examples in automation and reproducibility.\nLink: https://rse-book.github.io/",
+    "crumbs": [
+      "<span class='chapter-number'>38</span>  <span class='chapter-title'>Workflow</span>"
     ]
   }
 ]

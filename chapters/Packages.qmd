@@ -62,6 +62,25 @@ create your own complex heatmap data vizualization.
 
 Link: [https://jokergoo.github.io/ComplexHeatmap-reference/book/](https://jokergoo.github.io/ComplexHeatmap-reference/book/)
 
+## Cookbook Polars for R
+
+- Damien Dotta
+
+The goal of the cookbook is to provide solutions to common tasks and problems in using Polars with R. It allows R users using their usual packages to quickly get the syntax required to use Polars with R.
+
+It is structured around side-by-side comparisons between polars, R base, dplyr, tidyr and data.table.
+
+Link: [https://ddotta.github.io/cookbook-rpolars/](https://ddotta.github.io/cookbook-rpolars/)
+
+## CRAN Cookbook
+
+- Jasmine Daly
+- Beni Altmann
+
+Your go-to guide for solving common (and often recurring) issues spotted by CRAN volunteers during package submissions and re-submissions. Here, you’ll find practical “recipes” organized by different parts of the package structure.
+
+Link: [https://contributor.r-project.org/cran-cookbook/](https://contributor.r-project.org/cran-cookbook/)
+
 ## Create, Publish, and Analyze Personal Websites Using R and RStudio
 
 - [Danny Morris](https://r4sites-book.netlify.app/get-help.html#connect-with-me)
@@ -165,6 +184,14 @@ learning tasks for the R language. They do not implement any learners,
 but provide a unified interface to many existing learners in R.
 
 Link: [https://mlr3book.mlr-org.com/](https://mlr3book.mlr-org.com/)
+
+## Multi-state modelling with msm: a practical course
+
+- [Christopher Jackson](https://chjackson.github.io)
+
+An introduction to the use of the msm R package for fitting and predicting from multi-state models for intermittently observed data, in typical medical applications.
+
+Link: [https://chjackson.github.io/msm/msmcourse/](https://chjackson.github.io/msm/msmcourse/)
 
 ## officeverse
 

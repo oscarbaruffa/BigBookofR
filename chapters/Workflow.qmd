@@ -97,6 +97,14 @@ Reproducible Analytical Pipelines require a range of tools and techniques to imp
 
 Link: [https://ukgovdatascience.github.io/rap_companion/](https://ukgovdatascience.github.io/rap_companion/)
 
+## Research Software Engineering
+
+- [Matthias Bannert](https://github.com/mbannert)
+
+Overview open source software and gives R examples in automation and reproducibility.
+
+Link: [https://rse-book.github.io/](https://rse-book.github.io/)
+
 ## The Data Validation Cookbook
 
 - [Mark P.J. van der Loo](https://twitter.com/markvdLoo)

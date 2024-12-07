@@ -108,6 +108,14 @@ In this book we will take an unpretentious glance at the most fundamental algori
 
 Link: [https://lmlcr.gagolewski.com/](https://lmlcr.gagolewski.com/)
 
+## Machine Learning-based Causal Inference Tutorial
+
+- [Golub Capital Social Impact Lab](https://www.gsb.stanford.edu/faculty-research/labs-initiatives/sil)
+
+This book/tutorial will introduce key concepts in machine learning-based causal inference.
+
+Link: [https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/](https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/)
+
 ## Machine Learning for Factor Investing
 
 - [Guillaume Coqueret](https://twitter.com/g_coqueret)
@@ -146,6 +154,17 @@ learning tasks for the R language. They do not implement any learners,
 but provide a unified interface to many existing learners in R.
 
 Link: [https://mlr3book.mlr-org.com/](https://mlr3book.mlr-org.com/)
+
+## Model-Based Clustering, Classification, and Density Estimation Using mclust in R
+
+- Luca Scrucca
+- Chris Fraley
+- T. Brendan Murphy
+- Adrian E. Raftery
+
+This book presents a systematic statistical approach to clustering, classification, and density estimation via Gaussian mixture modeling. This model-based framework allows the problems of choosing or developing an appropriate clustering or classification method to be understood within the context of statistical modeling. The mclust package for the statistical environment R is a widely adopted platform implementing these model-based strategies. The package includes both summary and visual functionality, complementing procedures for estimating and choosing models.
+
+Link: [https://mclust-org.github.io/mclust-book/](https://mclust-org.github.io/mclust-book/)
 
 ## Neural Cryptography Using Keras in R
 

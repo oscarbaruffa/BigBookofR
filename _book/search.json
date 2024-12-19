@@ -3513,8 +3513,8 @@
     "objectID": "chapters/R Programming.html#tidyverse-skills-for-data-science",
     "href": "chapters/R Programming.html#tidyverse-skills-for-data-science",
     "title": "28  R Programming",
-    "section": "28.44 Tidyverse Skills for Data Science",
-    "text": "28.44 Tidyverse Skills for Data Science\n\nCarrie Wright\nShannon E. Ellis\nStephanie C. Hicks\nRoger D. Peng\n\nBook and Course formats\nThis course introduces a powerful set of data science tools known as the Tidyverse. The Tidyverse has revolutionized the way in which data scientists do almost every aspect of their job. We will cover the simple idea of “tidy data” and how this idea serves to organize data for analysis and modeling. We will also cover how non-tidy data can be transformed to tidy data, the data science project life cycle, and the ecosystem of Tidyverse R packages that can be used to execute a data science project.\nBook format https://jhudatascience.org/tidyversecourse/\nEbook: https://leanpub.com/tidyverseskillsdatascience\nCourse format https://www.coursera.org/specializations/tidyverse-data-science-r\nLink: https://jhudatascience.org/tidyversecourse/",
+    "section": "28.43 Tidyverse Skills for Data Science",
+    "text": "28.43 Tidyverse Skills for Data Science\n\nCarrie Wright\nShannon E. Ellis\nStephanie C. Hicks\nRoger D. Peng\n\nBook and Course formats\nThis course introduces a powerful set of data science tools known as the Tidyverse. The Tidyverse has revolutionized the way in which data scientists do almost every aspect of their job. We will cover the simple idea of “tidy data” and how this idea serves to organize data for analysis and modeling. We will also cover how non-tidy data can be transformed to tidy data, the data science project life cycle, and the ecosystem of Tidyverse R packages that can be used to execute a data science project.\nBook format https://jhudatascience.org/tidyversecourse/\nEbook: https://leanpub.com/tidyverseskillsdatascience\nCourse format https://www.coursera.org/specializations/tidyverse-data-science-r\nLink: https://jhudatascience.org/tidyversecourse/",
     "crumbs": [
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>R Programming</span>"
     ]
@@ -3523,8 +3523,8 @@
     "objectID": "chapters/R Programming.html#tidyverse-design-guide",
     "href": "chapters/R Programming.html#tidyverse-design-guide",
     "title": "28  R Programming",
-    "section": "28.43 Tidyverse design guide",
-    "text": "28.43 Tidyverse design guide\n\nTidyverse team\n\nThe goal of this book is to help you write better R code. It has four main components:\n\nDesign problems which lead to suboptimal outcomes.\nUseful patterns that help solve common problems.\nKey principles that help you balance conflicting patterns.\nSelected case studies that help you see how all the pieces fit together with real code.\n\nIt is used by the tidyverse team to promote consistency across packages in the core tidyverse.\nLink: https://design.tidyverse.org/",
+    "section": "28.42 Tidyverse design guide",
+    "text": "28.42 Tidyverse design guide\n\nTidyverse team\n\nThe goal of this book is to help you write better R code. It has four main components:\n\nDesign problems which lead to suboptimal outcomes.\nUseful patterns that help solve common problems.\nKey principles that help you balance conflicting patterns.\nSelected case studies that help you see how all the pieces fit together with real code.\n\nIt is used by the tidyverse team to promote consistency across packages in the core tidyverse.\nLink: https://design.tidyverse.org/",
     "crumbs": [
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>R Programming</span>"
     ]
@@ -3533,8 +3533,8 @@
     "objectID": "chapters/R Programming.html#what-they-forgot-to-teach-you-about-r",
     "href": "chapters/R Programming.html#what-they-forgot-to-teach-you-about-r",
     "title": "28  R Programming",
-    "section": "28.45 What They Forgot to Teach You About R",
-    "text": "28.45 What They Forgot to Teach You About R\n\nJenny Bryan\nJim Hester\n\nThe initial impetus for creating these materials is a two-day hands-on workshop. The target learner:\nHas a moderate amount of R and RStudio experience.Is largely self-taught.Suspects they have drifted into some idiosyncratic habits that may slow them down or make their work products more brittle.Is interested in (re)designing their R lifestyle, to be more effective and more self-sufficient.\nLink: https://rstats.wtf/",
+    "section": "28.44 What They Forgot to Teach You About R",
+    "text": "28.44 What They Forgot to Teach You About R\n\nJenny Bryan\nJim Hester\n\nThe initial impetus for creating these materials is a two-day hands-on workshop. The target learner:\nHas a moderate amount of R and RStudio experience.Is largely self-taught.Suspects they have drifted into some idiosyncratic habits that may slow them down or make their work products more brittle.Is interested in (re)designing their R lifestyle, to be more effective and more self-sufficient.\nLink: https://rstats.wtf/",
     "crumbs": [
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>R Programming</span>"
     ]
@@ -3543,8 +3543,8 @@
     "objectID": "chapters/R Programming.html#writing-r-extensions",
     "href": "chapters/R Programming.html#writing-r-extensions",
     "title": "28  R Programming",
-    "section": "28.46 Writing R extensions",
-    "text": "28.46 Writing R extensions\n\nR Core\n\nThis is a guide to extending R, describing the process of creating R add-on packages, writing R documentation, R’s system and foreign language interfaces, and the R API. This manual is for R, version 3.4.2 (2017-09-28).\nLink: https://colinfay.me/writing-r-extensions/index.html",
+    "section": "28.45 Writing R extensions",
+    "text": "28.45 Writing R extensions\n\nR Core\n\nThis is a guide to extending R, describing the process of creating R add-on packages, writing R documentation, R’s system and foreign language interfaces, and the R API. This manual is for R, version 3.4.2 (2017-09-28).\nLink: https://colinfay.me/writing-r-extensions/index.html",
     "crumbs": [
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>R Programming</span>"
     ]
@@ -3553,8 +3553,8 @@
     "objectID": "chapters/R Programming.html#yarrr-the-pirates-guide-to-r",
     "href": "chapters/R Programming.html#yarrr-the-pirates-guide-to-r",
     "title": "28  R Programming",
-    "section": "28.47 YaRrr! The Pirate’s Guide to R",
-    "text": "28.47 YaRrr! The Pirate’s Guide to R\n\nNathaniel D. Phillips\n\nLearn R from the ground up.\nLet me make something very, very clear…\nI did not write this book.\nThis whole story started in the Summer of 2015. I was taking a late night swim on the Bodensee in Konstanz and saw a rusty object sticking out of the water. Upon digging it out, I realized it was an ancient usb-stick with the word YaRrr inscribed on the side. Intrigued, I brought it home and plugged it into my laptop. Inside the stick, I found a single pdf file written entirely in pirate-speak. After watching several pirate movies, I learned enough pirate-speak to begin translating the text to English. Sure enough, the book turned out to be an introduction to R called The Pirate’s Guide to R.\nLink: https://bookdown.org/ndphillips/YaRrr/",
+    "section": "28.46 YaRrr! The Pirate’s Guide to R",
+    "text": "28.46 YaRrr! The Pirate’s Guide to R\n\nNathaniel D. Phillips\n\nLearn R from the ground up.\nLet me make something very, very clear…\nI did not write this book.\nThis whole story started in the Summer of 2015. I was taking a late night swim on the Bodensee in Konstanz and saw a rusty object sticking out of the water. Upon digging it out, I realized it was an ancient usb-stick with the word YaRrr inscribed on the side. Intrigued, I brought it home and plugged it into my laptop. Inside the stick, I found a single pdf file written entirely in pirate-speak. After watching several pirate movies, I learned enough pirate-speak to begin translating the text to English. Sure enough, the book turned out to be an introduction to R called The Pirate’s Guide to R.\nLink: https://bookdown.org/ndphillips/YaRrr/",
     "crumbs": [
       "<span class='chapter-number'>28</span>  <span class='chapter-title'>R Programming</span>"
     ]

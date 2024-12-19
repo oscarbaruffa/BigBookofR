@@ -522,22 +522,6 @@ guide.
 
 Link: [https://style.tidyverse.org/](https://style.tidyverse.org/)
 
-## Tidy evaluation
-
-- Lionel Henry
-- Hadley Wickham
-
-This guide is now superseded by more recent efforts at documenting tidy
-evaluation in a user-friendly way. We now recommend reading:
-
-The new Programming with dplyr vignette.
-
-The Using ggplot2 in packages vignette.
-
-(Oscar's note: I'm keeping this in for my own reference)
-
-Link: [https://tidyeval.tidyverse.org/](https://tidyeval.tidyverse.org/)
-
 ## Tidyverse design guide
 
 - Tidyverse team

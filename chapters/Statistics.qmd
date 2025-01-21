@@ -340,13 +340,13 @@ Link: [https://www.cambridge.org/in/academic/subjects/physics/astronomy-general/
 
 ## Modern Statistics with R
 
-- [Måns Thulin](https://twitter.com/mansthulin)
+- [Måns Thulin](https://www.mansthulin.se)
 
-This book covers the fundamentals of data science and statistics. The first half deals with the basics of R and R coding, data wrangling, exploratory data analysis and more advandced programming. The second half deals with modern statistics (favouring permutation tests, the bootstrap and Bayesian methods over traditional asymptotic methods), regression models and predictive modelling. It also contains information about debugging and explanations of 25 commonly encountered error messages in R. In addition, there are 170 or so exercises with fully worked solutions.
+This book covers the fundamentals of data science and statistics. The first half deals with the basics of R and R coding, data wrangling, visualisation, exploratory data analysis and more advanced programming. The second half deals with modern statistics (favouring permutation tests, the bootstrap and Bayesian methods over traditional asymptotic methods), simulation, regression models, survival analysis and machine learning. It also contains information about debugging and explanations of 25 commonly encountered error messages in R. In addition, there more than 200 exercises with fully worked solutions.
 
 Link: [http://www.modernstatisticswithr.com/](http://www.modernstatisticswithr.com/)
 
-Physical copy available: [https://amzn.to/3RytIxc](https://amzn.to/3RytIxc)
+Physical copy available: [https://a.co/d/aeIyTXh](https://a.co/d/aeIyTXh)
 
 ## One Way ANOVA with R Completely Randomized Design - Between Groups
 
@@ -398,8 +398,10 @@ Link: [https://link.springer.com/book/10.1007/978-3-030-80519-7](https://link.sp
 - Guy Prochilo
 - Frederik Aust
 
-The goal of Superpower is to easily simulate factorial designs and empirically calculate power using a simulation approach. The R package is intended to be utilized for prospective (a priori) power analysis. Calculating post hoc power is not a useful thing to do for single studies.
-
+The goal of Superpower is to easily simulate factorial designs and empirically calculate power using a simulation approach. The R package is intended to be utilized for prospective (a priori) power analysis. Calculating post hoc power is not a useful thing to do for single studies.
+
+
+
 This package, and book, expect readers to have some familiarity with R (2020). However, we have created two Shiny apps (for the ANOVA_power & ANOVA_exact functions respectively) to help use Superpower if you are not familiar with R. Reading through the examples in this book, and reproducing them in the Shiny apps, is probably the easiest way to get started with power analyses in Superpower.
 
 Link: [https://aaroncaldwell.us/SuperpowerBook/index.html](https://aaroncaldwell.us/SuperpowerBook/index.html)

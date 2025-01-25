@@ -1383,8 +1383,8 @@
     "objectID": "chapters/Field Specific.html#customer-intelligence-with-r",
     "href": "chapters/Field Specific.html#customer-intelligence-with-r",
     "title": "16  Field Specific",
-    "section": "16.8 Customer Intelligence with R",
-    "text": "16.8 Customer Intelligence with R\nCustomer Intelligence with R’ (CI with R) is for learning the basic application of customer activation, development, retention, and segmentation (CADRS) with R. It is aimed to be educational outside of the academia.\nLink: https://ciwr-businessintelligenceservices-7059ba5c59c64196a9a6337d14fc5.gitlab.io/",
+    "section": "16.7 Customer Intelligence with R",
+    "text": "16.7 Customer Intelligence with R\nCustomer Intelligence with R’ (CI with R) is for learning the basic application of customer activation, development, retention, and segmentation (CADRS) with R. It is aimed to be educational outside of the academia.\nLink: https://ciwr-businessintelligenceservices-7059ba5c59c64196a9a6337d14fc5.gitlab.io/",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1393,8 +1393,8 @@
     "objectID": "chapters/Field Specific.html#data-science-in-education-using-r",
     "href": "chapters/Field Specific.html#data-science-in-education-using-r",
     "title": "16  Field Specific",
-    "section": "16.9 Data Science in Education Using R",
-    "text": "16.9 Data Science in Education Using R\n\nRyan A. Estrellado\nEmily A. Bovee\nJesse Mostipak\nIsabella C. Velásquez\n\nDear Data Scientists, Educators, and Data Scientists who are Educators:\nThis book is a warm welcome and an invitation. If you’re a data scientist in education or an educator in data science, your role isn’t exactly straightforward. This book is our contribution to a growing movement to merge the paths of data analysis and education. We wrote this book to make your first step on that path a little clearer and a little less scary.\nLink: https://datascienceineducation.com/",
+    "section": "16.8 Data Science in Education Using R",
+    "text": "16.8 Data Science in Education Using R\n\nRyan A. Estrellado\nEmily A. Bovee\nJesse Mostipak\nIsabella C. Velásquez\n\nDear Data Scientists, Educators, and Data Scientists who are Educators:\nThis book is a warm welcome and an invitation. If you’re a data scientist in education or an educator in data science, your role isn’t exactly straightforward. This book is our contribution to a growing movement to merge the paths of data analysis and education. We wrote this book to make your first step on that path a little clearer and a little less scary.\nLink: https://datascienceineducation.com/",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1403,8 +1403,8 @@
     "objectID": "chapters/Field Specific.html#data-skills-for-reproducible-science",
     "href": "chapters/Field Specific.html#data-skills-for-reproducible-science",
     "title": "16  Field Specific",
-    "section": "16.10 Data Skills for Reproducible Science",
-    "text": "16.10 Data Skills for Reproducible Science\n\nPsyTeachR team, University of Glasgow\n\nThis course provides an overview of skills needed for reproducible research and open science using the statistical programming language R. Students will learn about data visualisation, data tidying and wrangling, archiving, iteration and functions, probability and data simulations, general linear models, and reproducible workflows. Learning is reinforced through weekly assignments that involve working with different types of data.\nLink: https://psyteachr.github.io/msc-data-skills/",
+    "section": "16.9 Data Skills for Reproducible Science",
+    "text": "16.9 Data Skills for Reproducible Science\n\nPsyTeachR team, University of Glasgow\n\nThis course provides an overview of skills needed for reproducible research and open science using the statistical programming language R. Students will learn about data visualisation, data tidying and wrangling, archiving, iteration and functions, probability and data simulations, general linear models, and reproducible workflows. Learning is reinforced through weekly assignments that involve working with different types of data.\nLink: https://psyteachr.github.io/msc-data-skills/",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1413,8 +1413,8 @@
     "objectID": "chapters/Field Specific.html#discrete-data-analysis-with-r-visualization-and-modeling-techniques-for-categorical-and-count-data",
     "href": "chapters/Field Specific.html#discrete-data-analysis-with-r-visualization-and-modeling-techniques-for-categorical-and-count-data",
     "title": "16  Field Specific",
-    "section": "16.11 Discrete Data Analysis with R Visualization and Modeling Techniques for Categorical and Count Data",
-    "text": "16.11 Discrete Data Analysis with R Visualization and Modeling Techniques for Categorical and Count Data\n\nMichael Friendly\nDavid Meyer\n\nPresents an applied treatment of modern methods for the analysis of categorical data, both discrete response data and frequency data.\nIt explains how to use graphical methods for exploring data, spotting unusual features, visualizing fitted models, and presenting results.\nLink: http://ddar.datavis.ca/",
+    "section": "16.10 Discrete Data Analysis with R Visualization and Modeling Techniques for Categorical and Count Data",
+    "text": "16.10 Discrete Data Analysis with R Visualization and Modeling Techniques for Categorical and Count Data\n\nMichael Friendly\nDavid Meyer\n\nPresents an applied treatment of modern methods for the analysis of categorical data, both discrete response data and frequency data.\nIt explains how to use graphical methods for exploring data, spotting unusual features, visualizing fitted models, and presenting results.\nLink: http://ddar.datavis.ca/",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1423,8 +1423,8 @@
     "objectID": "chapters/Field Specific.html#hierarchical-compartmental-reserving-models",
     "href": "chapters/Field Specific.html#hierarchical-compartmental-reserving-models",
     "title": "16  Field Specific",
-    "section": "16.12 Hierarchical Compartmental Reserving Models",
-    "text": "16.12 Hierarchical Compartmental Reserving Models\n\nMarkus Gesmann\nJake Morris\n\nHierarchical compartmental reserving models provide a parametric framework for describing aggregate insurance claims processes using differential equations. We discuss how these models can be specified in a fully Bayesian modeling framework to jointly fit paid and outstanding claims development data, taking into account the random nature of claims and underlying latent process parameters. We demonstrate how modelers can utilize their expertise to describe specific development features and incorporate prior knowledge into parameter estimation. We also explore the subtle yet important difference between modeling incremental and cumulative claims payments. Finally, we discuss parameter variation across multiple dimensions and introduce an approach to incorporate market cycle data such as rate changes into the modeling process. Examples and case studies are shown using the probabilistic programming language Stan via the brms package in R.\nLink: https://compartmentalmodels.gitlab.io/researchpaper/index.html",
+    "section": "16.11 Hierarchical Compartmental Reserving Models",
+    "text": "16.11 Hierarchical Compartmental Reserving Models\n\nMarkus Gesmann\nJake Morris\n\nHierarchical compartmental reserving models provide a parametric framework for describing aggregate insurance claims processes using differential equations. We discuss how these models can be specified in a fully Bayesian modeling framework to jointly fit paid and outstanding claims development data, taking into account the random nature of claims and underlying latent process parameters. We demonstrate how modelers can utilize their expertise to describe specific development features and incorporate prior knowledge into parameter estimation. We also explore the subtle yet important difference between modeling incremental and cumulative claims payments. Finally, we discuss parameter variation across multiple dimensions and introduce an approach to incorporate market cycle data such as rate changes into the modeling process. Examples and case studies are shown using the probabilistic programming language Stan via the brms package in R.\nLink: https://compartmentalmodels.gitlab.io/researchpaper/index.html",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1433,8 +1433,8 @@
     "objectID": "chapters/Field Specific.html#how-to-be-a-modern-scientist",
     "href": "chapters/Field Specific.html#how-to-be-a-modern-scientist",
     "title": "16  Field Specific",
-    "section": "16.13 How to be a modern scientist",
-    "text": "16.13 How to be a modern scientist\n\nJeffrey Leek\n\nA book about how to be a scientist the modern, open-source way. The face of academia is changing. It is no longer sufficient to just publish or perish. We are now in an era where Twitter, Github, Figshare, and Alt Metrics are regular parts of the scientific workflow. Here I give high level advice about which tools to use, how to use them, and what to look out for. This book is appropriate for scientists at all levels who want to stay on top of the current technological developments affecting modern scientific careers.\nPaid: Free or pay what you want $10\nLink: https://leanpub.com/modernscientist",
+    "section": "16.12 How to be a modern scientist",
+    "text": "16.12 How to be a modern scientist\n\nJeffrey Leek\n\nA book about how to be a scientist the modern, open-source way. The face of academia is changing. It is no longer sufficient to just publish or perish. We are now in an era where Twitter, Github, Figshare, and Alt Metrics are regular parts of the scientific workflow. Here I give high level advice about which tools to use, how to use them, and what to look out for. This book is appropriate for scientists at all levels who want to stay on top of the current technological developments affecting modern scientific careers.\nPaid: Free or pay what you want $10\nLink: https://leanpub.com/modernscientist",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1443,8 +1443,8 @@
     "objectID": "chapters/Field Specific.html#introduction-to-econometrics-with-r",
     "href": "chapters/Field Specific.html#introduction-to-econometrics-with-r",
     "title": "16  Field Specific",
-    "section": "16.14 Introduction to Econometrics with R",
-    "text": "16.14 Introduction to Econometrics with R\n\nChristoph Hanck\nMartin Arnold\nAlexander Gerber\nMartin Schmelzer\n\nBeginners with little background in statistics and econometrics often have a hard time understanding the benefits of having programming skills for learning and applying Econometrics. Introduction to Econometrics with R is an interactive companion to the well-received textbook Introduction to Econometrics by James H. Stock and Mark W. Watson (2015). It gives a gentle introduction to the essentials of R programming and guides students in implementing the empirical applications presented throughout the textbook using the newly acquired skills. This is supported by interactive programming exercises and integration of interactive visualizations of central concepts which are based on the flexible JavaScript library D3.js.\nLink: https://www.econometrics-with-r.org/",
+    "section": "16.13 Introduction to Econometrics with R",
+    "text": "16.13 Introduction to Econometrics with R\n\nChristoph Hanck\nMartin Arnold\nAlexander Gerber\nMartin Schmelzer\n\nBeginners with little background in statistics and econometrics often have a hard time understanding the benefits of having programming skills for learning and applying Econometrics. Introduction to Econometrics with R is an interactive companion to the well-received textbook Introduction to Econometrics by James H. Stock and Mark W. Watson (2015). It gives a gentle introduction to the essentials of R programming and guides students in implementing the empirical applications presented throughout the textbook using the newly acquired skills. This is supported by interactive programming exercises and integration of interactive visualizations of central concepts which are based on the flexible JavaScript library D3.js.\nLink: https://www.econometrics-with-r.org/",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1453,8 +1453,8 @@
     "objectID": "chapters/Field Specific.html#linear-algebra-for-data-science-with-examples-in-r",
     "href": "chapters/Field Specific.html#linear-algebra-for-data-science-with-examples-in-r",
     "title": "16  Field Specific",
-    "section": "16.15 Linear Algebra for Data Science with examples in R",
-    "text": "16.15 Linear Algebra for Data Science with examples in R\n\nShaina Race Bennett\n\nThis course is meant to instill a working knowledge of linear algebra terminology and to lay the foundations of advanced data mining techniques like Principal Component Analysis, Factor Analysis, Collaborative Filtering, Correspondence Analysis, Network Analysis, Support Vector Machines and many more.\nLink: https://shainarace.github.io/LinearAlgebra/index.html",
+    "section": "16.14 Linear Algebra for Data Science with examples in R",
+    "text": "16.14 Linear Algebra for Data Science with examples in R\n\nShaina Race Bennett\n\nThis course is meant to instill a working knowledge of linear algebra terminology and to lay the foundations of advanced data mining techniques like Principal Component Analysis, Factor Analysis, Collaborative Filtering, Correspondence Analysis, Network Analysis, Support Vector Machines and many more.\nLink: https://shainarace.github.io/LinearAlgebra/index.html",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1463,8 +1463,8 @@
     "objectID": "chapters/Field Specific.html#open-forensic-science-in-r",
     "href": "chapters/Field Specific.html#open-forensic-science-in-r",
     "title": "16  Field Specific",
-    "section": "16.16 Open Forensic Science in R",
-    "text": "16.16 Open Forensic Science in R\n\nSam Tyner, Ph.D (editor)\n\nThis book is for anyone looking to do forensic science analysis in a data-driven and open way. Whether you are a student, teacher, or scientist, this book is for you. We take the latest research, primarily from the Center for Statistics and Applications in Forensic Evidence (CSAFE) and the National Institute of Standards and Technology (NIST) and show you how to solve forensic science problems in R.\nLink: https://sctyner.github.io/OpenForSciR/",
+    "section": "16.15 Open Forensic Science in R",
+    "text": "16.15 Open Forensic Science in R\n\nSam Tyner, Ph.D (editor)\n\nThis book is for anyone looking to do forensic science analysis in a data-driven and open way. Whether you are a student, teacher, or scientist, this book is for you. We take the latest research, primarily from the Center for Statistics and Applications in Forensic Evidence (CSAFE) and the National Institute of Standards and Technology (NIST) and show you how to solve forensic science problems in R.\nLink: https://sctyner.github.io/OpenForSciR/",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1473,8 +1473,8 @@
     "objectID": "chapters/Field Specific.html#public-policy-analytics-code-context-for-data-science-in-government",
     "href": "chapters/Field Specific.html#public-policy-analytics-code-context-for-data-science-in-government",
     "title": "16  Field Specific",
-    "section": "16.17 Public Policy Analytics Code & Context for Data Science in Government",
-    "text": "16.17 Public Policy Analytics Code & Context for Data Science in Government\n\nKen Steif, Ph.D\n\nThe goal of this book is to make data science accessible to social scientists and City Planners, in particular. I hope to convince readers that one with strong domain expertise plus intermediate data skills can have a greater impact in government than the sharpest computer scientist who has never studied economics, sociology, public health, political science, criminology etc.\nLink: https://urbanspatial.github.io/PublicPolicyAnalytics/",
+    "section": "16.16 Public Policy Analytics Code & Context for Data Science in Government",
+    "text": "16.16 Public Policy Analytics Code & Context for Data Science in Government\n\nKen Steif, Ph.D\n\nThe goal of this book is to make data science accessible to social scientists and City Planners, in particular. I hope to convince readers that one with strong domain expertise plus intermediate data skills can have a greater impact in government than the sharpest computer scientist who has never studied economics, sociology, public health, political science, criminology etc.\nLink: https://urbanspatial.github.io/PublicPolicyAnalytics/",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1483,8 +1483,8 @@
     "objectID": "chapters/Field Specific.html#r-programming-for-actuarial-science",
     "href": "chapters/Field Specific.html#r-programming-for-actuarial-science",
     "title": "16  Field Specific",
-    "section": "16.22 R Programming for Actuarial Science",
-    "text": "16.22 R Programming for Actuarial Science\n\nAlfred Kume\nPeter McQuire\n\nProfessional resource providing an introduction to R coding for actuarial and financial mathematics applications, with real-life examples\nR Programming for Actuarial Science provides a grounding in R programming applied to the mathematical and statistical methods that are of relevance for actuarial work.\nLink: https://www.wiley.com/en-ae/R+Programming+for+Actuarial+Science-p-9781119754992",
+    "section": "16.21 R Programming for Actuarial Science",
+    "text": "16.21 R Programming for Actuarial Science\n\nAlfred Kume\nPeter McQuire\n\nProfessional resource providing an introduction to R coding for actuarial and financial mathematics applications, with real-life examples\nR Programming for Actuarial Science provides a grounding in R programming applied to the mathematical and statistical methods that are of relevance for actuarial work.\nLink: https://www.wiley.com/en-ae/R+Programming+for+Actuarial+Science-p-9781119754992",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1493,8 +1493,8 @@
     "objectID": "chapters/Field Specific.html#r-programming-with-minecraft",
     "href": "chapters/Field Specific.html#r-programming-with-minecraft",
     "title": "16  Field Specific",
-    "section": "16.23 R Programming with Minecraft",
-    "text": "16.23 R Programming with Minecraft\n\nBrooke Anderson\nKarl Broman\nGergely Daróczi\nMario Inchiosa\nDavid Smith\nAli Zaidi\n\nMinecraft is awesome fun, especially in creative mode, where you can build all sorts of crazy stuff. But ambitious building projects can be really tedious to create by hand. With the miner R package, you can write R code to manipulate your Minecraft world and create even more awesome stuff.\nHere’s an introduction Rstats NYC conference talk on it: https://www.youtube.com/watch?v=r_JgPF8MJpY\nLink: https://kbroman.org/miner_book/?s=09",
+    "section": "16.22 R Programming with Minecraft",
+    "text": "16.22 R Programming with Minecraft\n\nBrooke Anderson\nKarl Broman\nGergely Daróczi\nMario Inchiosa\nDavid Smith\nAli Zaidi\n\nMinecraft is awesome fun, especially in creative mode, where you can build all sorts of crazy stuff. But ambitious building projects can be really tedious to create by hand. With the miner R package, you can write R code to manipulate your Minecraft world and create even more awesome stuff.\nHere’s an introduction Rstats NYC conference talk on it: https://www.youtube.com/watch?v=r_JgPF8MJpY\nLink: https://kbroman.org/miner_book/?s=09",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1503,8 +1503,8 @@
     "objectID": "chapters/Field Specific.html#r-for-excel-users",
     "href": "chapters/Field Specific.html#r-for-excel-users",
     "title": "16  Field Specific",
-    "section": "16.19 R for Excel users",
-    "text": "16.19 R for Excel users\n\nJulie Lowndes\nAllison Horst\n\nThis course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.\nLink: https://rstudio-conf-2020.github.io/r-for-excel/",
+    "section": "16.18 R for Excel users",
+    "text": "16.18 R for Excel users\n\nJulie Lowndes\nAllison Horst\n\nThis course is for Excel users who want to add or integrate R and RStudio into their existing data analysis toolkit. It is a friendly intro to becoming a modern R user, full of tidyverse, RMarkdown, GitHub, collaboration & reproducibility.\nLink: https://rstudio-conf-2020.github.io/r-for-excel/",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1513,8 +1513,8 @@
     "objectID": "chapters/Field Specific.html#r-for-seo",
     "href": "chapters/Field Specific.html#r-for-seo",
     "title": "16  Field Specific",
-    "section": "16.20 R for SEO",
-    "text": "16.20 R for SEO\n\nFrançois Joly\n\nEven though R’ is a terrific option for SEO, there are simply not enough resources out there. This guide is not here to deliver a course about R, there are plenty already. This guide is meant to be as practical as possible. How things should be done in an “R-ish way” is not the purpose of this guide. Grab what you want to grab and feel free to submit your own solution.\nLink: https://www.rforseo.com/",
+    "section": "16.19 R for SEO",
+    "text": "16.19 R for SEO\n\nFrançois Joly\n\nEven though R’ is a terrific option for SEO, there are simply not enough resources out there. This guide is not here to deliver a course about R, there are plenty already. This guide is meant to be as practical as possible. How things should be done in an “R-ish way” is not the purpose of this guide. Grab what you want to grab and feel free to submit your own solution.\nLink: https://www.rforseo.com/",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1523,8 +1523,8 @@
     "objectID": "chapters/Field Specific.html#r-for-water-resources-data-science",
     "href": "chapters/Field Specific.html#r-for-water-resources-data-science",
     "title": "16  Field Specific",
-    "section": "16.21 R for Water Resources Data Science",
-    "text": "16.21 R for Water Resources Data Science\n\nRyan Peek\nRich Pauloo\n\nConsists of 2 courses\nIntroductory: This course is most relevant and targeted at folks who work with data, from analysts and program staff to engineers and scientists. This course provides an introduction to the power and possibility of a reproducible programming language (R) by demonstrating how to import, explore, visualize, analyze, and communicate different types of data. Using water resources based examples, this course guides participants through basic data science skills and strategies for continued learning and use of R.\nIntermediate: In this course, we will move more quickly, assume familiarity with basic R skills, and also assume that the participant has working experience with more complex workflows, operations, and code-bases. Each module in this course functions as a “stand-alone” lesson, and can be read linearly, or out of order according to your needs and interests. Each module doesn’t necessarily require familiarity with the previous module.\nThis course emphasizes intermediate scripting skills like iteration, functional programming, writing functions, and controlling project workflows for better reproducibility and efficiency. Approaches to working with more complex data structures like lists and timeseries data, the fundamentals of building Shiny Apps, pulling water resources data from APIs, intermediate mapmaking and spatial data processing, integrating version control in projects with git.\nLink: https://www.r4wrds.com/",
+    "section": "16.20 R for Water Resources Data Science",
+    "text": "16.20 R for Water Resources Data Science\n\nRyan Peek\nRich Pauloo\n\nConsists of 2 courses\nIntroductory: This course is most relevant and targeted at folks who work with data, from analysts and program staff to engineers and scientists. This course provides an introduction to the power and possibility of a reproducible programming language (R) by demonstrating how to import, explore, visualize, analyze, and communicate different types of data. Using water resources based examples, this course guides participants through basic data science skills and strategies for continued learning and use of R.\nIntermediate: In this course, we will move more quickly, assume familiarity with basic R skills, and also assume that the participant has working experience with more complex workflows, operations, and code-bases. Each module in this course functions as a “stand-alone” lesson, and can be read linearly, or out of order according to your needs and interests. Each module doesn’t necessarily require familiarity with the previous module.\nThis course emphasizes intermediate scripting skills like iteration, functional programming, writing functions, and controlling project workflows for better reproducibility and efficiency. Approaches to working with more complex data structures like lists and timeseries data, the fundamentals of building Shiny Apps, pulling water resources data from APIs, intermediate mapmaking and spatial data processing, integrating version control in projects with git.\nLink: https://www.r4wrds.com/",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1533,8 +1533,8 @@
     "objectID": "chapters/Field Specific.html#technical-foundations-of-informatics",
     "href": "chapters/Field Specific.html#technical-foundations-of-informatics",
     "title": "16  Field Specific",
-    "section": "16.24 Technical Foundations of Informatics",
-    "text": "16.24 Technical Foundations of Informatics\n\nMichael Freeman\nJoel Ross\n\nThis book covers the foundation skills necessary to start writing computer programs to work with data using modern and reproducible techniques. It requires no technical background. These materials were developed for the INFO 201: Technical Foundations of Informatics course taught at the University of Washington Information School; however they have been structured to be an online resource for anyone hoping to learn to work with information using programmatic approaches.\nLink: https://info201.github.io/",
+    "section": "16.23 Technical Foundations of Informatics",
+    "text": "16.23 Technical Foundations of Informatics\n\nMichael Freeman\nJoel Ross\n\nThis book covers the foundation skills necessary to start writing computer programs to work with data using modern and reproducible techniques. It requires no technical background. These materials were developed for the INFO 201: Technical Foundations of Informatics course taught at the University of Washington Information School; however they have been structured to be an online resource for anyone hoping to learn to work with information using programmatic approaches.\nLink: https://info201.github.io/",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -1863,8 +1863,8 @@
     "objectID": "chapters/Getting Cleaning and Wrangling Data.html#data-wrangling-essentials",
     "href": "chapters/Getting Cleaning and Wrangling Data.html#data-wrangling-essentials",
     "title": "19  Getting, Cleaning and Wrangling Data",
-    "section": "19.5 Data Wrangling Essentials",
-    "text": "19.5 Data Wrangling Essentials\n\nMark Banghart\n\nThe R and Python communities have developed a set of tools in the tidyverse and the pandas packages respectively designed to wrangle table data. The intuitive nature of these packages makes learning to use them easy and the code easy to read and understand. These tools allow researchers to quickly and accurately complete data preparation for a wide variety of analysis. It is the application of these packages and their approaches to wrangling that are the subject of this book.\nThe Data Wrangling Essentials title was chosen to emphasize both the use of these new tools and the importance of the work of gathering and preparing data.\nLink: https://www.ssc.wisc.edu/sscc/pubs/DWE/book/",
+    "section": "19.6 Data Wrangling Essentials",
+    "text": "19.6 Data Wrangling Essentials\n\nMark Banghart\n\nThe R and Python communities have developed a set of tools in the tidyverse and the pandas packages respectively designed to wrangle table data. The intuitive nature of these packages makes learning to use them easy and the code easy to read and understand. These tools allow researchers to quickly and accurately complete data preparation for a wide variety of analysis. It is the application of these packages and their approaches to wrangling that are the subject of this book.\nThe Data Wrangling Essentials title was chosen to emphasize both the use of these new tools and the importance of the work of gathering and preparing data.\nLink: https://www.ssc.wisc.edu/sscc/pubs/DWE/book/",
     "crumbs": [
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Getting, Cleaning and Wrangling Data</span>"
     ]
@@ -1873,8 +1873,8 @@
     "objectID": "chapters/Getting Cleaning and Wrangling Data.html#data-wrangling-and-visualization-guide",
     "href": "chapters/Getting Cleaning and Wrangling Data.html#data-wrangling-and-visualization-guide",
     "title": "19  Getting, Cleaning and Wrangling Data",
-    "section": "19.4 Data Wrangling and Visualization Guide",
-    "text": "19.4 Data Wrangling and Visualization Guide\n\nMax Ricciardelli\n\nThese modules are here to present a succinct guide to using R, RStudio, and R Markdown for data wrangling and visualization. This guide is meant for those who have little to no experience in programming. My purpose in designing these modules is to provide a brief yet clear guide to learning the basic theory of these tools and how to apply them in practice.\nLink: https://bookdown.org/max_ricciardelli/wrangling_modules/",
+    "section": "19.5 Data Wrangling and Visualization Guide",
+    "text": "19.5 Data Wrangling and Visualization Guide\n\nMax Ricciardelli\n\nThese modules are here to present a succinct guide to using R, RStudio, and R Markdown for data wrangling and visualization. This guide is meant for those who have little to no experience in programming. My purpose in designing these modules is to provide a brief yet clear guide to learning the basic theory of these tools and how to apply them in practice.\nLink: https://bookdown.org/max_ricciardelli/wrangling_modules/",
     "crumbs": [
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Getting, Cleaning and Wrangling Data</span>"
     ]
@@ -1883,8 +1883,8 @@
     "objectID": "chapters/Getting Cleaning and Wrangling Data.html#flexible-imputation-of-missing-data",
     "href": "chapters/Getting Cleaning and Wrangling Data.html#flexible-imputation-of-missing-data",
     "title": "19  Getting, Cleaning and Wrangling Data",
-    "section": "19.6 Flexible Imputation of Missing Data",
-    "text": "19.6 Flexible Imputation of Missing Data\n\nStef van Buuren\n\nMultiple imputation of missing data has become one of the great academic industries. Many analysts now employ multiple imputation on a regular basis as a generic solution to the omnipresent missing-data problem, and a substantial group of practitioners are doing the calculations in mice. This book aspires to combine a state-of-the-art overview of the field with a set of how-to instructions for practical data analysis.\nLink: https://stefvanbuuren.name/fimd/",
+    "section": "19.7 Flexible Imputation of Missing Data",
+    "text": "19.7 Flexible Imputation of Missing Data\n\nStef van Buuren\n\nMultiple imputation of missing data has become one of the great academic industries. Many analysts now employ multiple imputation on a regular basis as a generic solution to the omnipresent missing-data problem, and a substantial group of practitioners are doing the calculations in mice. This book aspires to combine a state-of-the-art overview of the field with a set of how-to instructions for practical data analysis.\nLink: https://stefvanbuuren.name/fimd/",
     "crumbs": [
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Getting, Cleaning and Wrangling Data</span>"
     ]
@@ -1893,8 +1893,8 @@
     "objectID": "chapters/Getting Cleaning and Wrangling Data.html#fundamentals-of-wrangling-healthcare-data-with-r",
     "href": "chapters/Getting Cleaning and Wrangling Data.html#fundamentals-of-wrangling-healthcare-data-with-r",
     "title": "19  Getting, Cleaning and Wrangling Data",
-    "section": "19.7 Fundamentals of Wrangling Healthcare Data with R",
-    "text": "19.7 Fundamentals of Wrangling Healthcare Data with R\n\nJ. Kyle Armstrong\n\nIn this course we will review some of the tools of the trade, namely, R’s tidyverse (Wickham and Grolemund 2017; Winter 2019) - a collection of R packages designed with a common framework to aide in common data wrangling and data management tasks.\nData Wrangling is one subset set of skills within the Data Science Process. We will carefully investigate how decisions made while collecting and preparing the data have down-stream effects on model performance.\nLink: https://bookdown.org/jkylearmstrong/jeff_data_wrangling/",
+    "section": "19.8 Fundamentals of Wrangling Healthcare Data with R",
+    "text": "19.8 Fundamentals of Wrangling Healthcare Data with R\n\nJ. Kyle Armstrong\n\nIn this course we will review some of the tools of the trade, namely, R’s tidyverse (Wickham and Grolemund 2017; Winter 2019) - a collection of R packages designed with a common framework to aide in common data wrangling and data management tasks.\nData Wrangling is one subset set of skills within the Data Science Process. We will carefully investigate how decisions made while collecting and preparing the data have down-stream effects on model performance.\nLink: https://bookdown.org/jkylearmstrong/jeff_data_wrangling/",
     "crumbs": [
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Getting, Cleaning and Wrangling Data</span>"
     ]
@@ -1903,8 +1903,8 @@
     "objectID": "chapters/Getting Cleaning and Wrangling Data.html#handling-strings-with-r",
     "href": "chapters/Getting Cleaning and Wrangling Data.html#handling-strings-with-r",
     "title": "19  Getting, Cleaning and Wrangling Data",
-    "section": "19.8 Handling Strings With R",
-    "text": "19.8 Handling Strings With R\n\nGaston Sanchez\n\nHandling character strings in R? Wait a second… you exclaim, R is not a scripting language like Perl, Python, or Ruby. Why would you want to use R for handling and processing text? Well, because sooner or later (I would say sooner than later) you will have to deal with some kind of string manipulation for your data analysis. So it’s better to be prepared for such tasks and know how to perform them inside the R environment.\nPaid: Free preview of first 4 chapters $20\nLink: https://www.gastonsanchez.com/r4strings/",
+    "section": "19.9 Handling Strings With R",
+    "text": "19.9 Handling Strings With R\n\nGaston Sanchez\n\nHandling character strings in R? Wait a second… you exclaim, R is not a scripting language like Perl, Python, or Ruby. Why would you want to use R for handling and processing text? Well, because sooner or later (I would say sooner than later) you will have to deal with some kind of string manipulation for your data analysis. So it’s better to be prepared for such tasks and know how to perform them inside the R environment.\nPaid: Free preview of first 4 chapters $20\nLink: https://www.gastonsanchez.com/r4strings/",
     "crumbs": [
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Getting, Cleaning and Wrangling Data</span>"
     ]
@@ -1913,8 +1913,8 @@
     "objectID": "chapters/Getting Cleaning and Wrangling Data.html#spreadsheet-munging-strategies",
     "href": "chapters/Getting Cleaning and Wrangling Data.html#spreadsheet-munging-strategies",
     "title": "19  Getting, Cleaning and Wrangling Data",
-    "section": "19.9 Spreadsheet Munging Strategies",
-    "text": "19.9 Spreadsheet Munging Strategies\n\nDuncan Garmonsway\n\nThis is a work-in-progress book about getting data out of spreadsheets, no matter how peculiar. The book is designed primarily for R users who have to extract data from spreadsheets and who are already familiar with the tidyverse. It has a cookbook structure, and can be used as a reference, but readers who begin in the middle might have to work backwards from time to time.\nLink: https://nacnudus.github.io/spreadsheet-munging-strategies/",
+    "section": "19.10 Spreadsheet Munging Strategies",
+    "text": "19.10 Spreadsheet Munging Strategies\n\nDuncan Garmonsway\n\nThis is a work-in-progress book about getting data out of spreadsheets, no matter how peculiar. The book is designed primarily for R users who have to extract data from spreadsheets and who are already familiar with the tidyverse. It has a cookbook structure, and can be used as a reference, but readers who begin in the middle might have to work backwards from time to time.\nLink: https://nacnudus.github.io/spreadsheet-munging-strategies/",
     "crumbs": [
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Getting, Cleaning and Wrangling Data</span>"
     ]
@@ -1923,8 +1923,8 @@
     "objectID": "chapters/Getting Cleaning and Wrangling Data.html#text-mining-with-tidy-data-principles",
     "href": "chapters/Getting Cleaning and Wrangling Data.html#text-mining-with-tidy-data-principles",
     "title": "19  Getting, Cleaning and Wrangling Data",
-    "section": "19.11 Text Mining With Tidy Data Principles",
-    "text": "19.11 Text Mining With Tidy Data Principles\n\nJulia Silge\n\nText data sets are diverse and ubiquitous, and tidy data principles provide an approach to make text mining easier, more effective, and consistent with tools already in wide use. In this tutorial, you will develop your text mining skills using the tidytext package in R, along with other tidyverse tools.\nLink: https://juliasilge.shinyapps.io/learntidytext/",
+    "section": "19.12 Text Mining With Tidy Data Principles",
+    "text": "19.12 Text Mining With Tidy Data Principles\n\nJulia Silge\n\nText data sets are diverse and ubiquitous, and tidy data principles provide an approach to make text mining easier, more effective, and consistent with tools already in wide use. In this tutorial, you will develop your text mining skills using the tidytext package in R, along with other tidyverse tools.\nLink: https://juliasilge.shinyapps.io/learntidytext/",
     "crumbs": [
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Getting, Cleaning and Wrangling Data</span>"
     ]
@@ -1933,8 +1933,8 @@
     "objectID": "chapters/Getting Cleaning and Wrangling Data.html#text-mining-with-r",
     "href": "chapters/Getting Cleaning and Wrangling Data.html#text-mining-with-r",
     "title": "19  Getting, Cleaning and Wrangling Data",
-    "section": "19.10 Text Mining with R",
-    "text": "19.10 Text Mining with R\n\nJulia Silge\nDavid Robinson\n\nThis book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.\nLink: https://www.tidytextmining.com/",
+    "section": "19.11 Text Mining with R",
+    "text": "19.11 Text Mining with R\n\nJulia Silge\nDavid Robinson\n\nThis book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.\nLink: https://www.tidytextmining.com/",
     "crumbs": [
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Getting, Cleaning and Wrangling Data</span>"
     ]
@@ -1943,8 +1943,8 @@
     "objectID": "chapters/Getting Cleaning and Wrangling Data.html#web-scraping-with-r",
     "href": "chapters/Getting Cleaning and Wrangling Data.html#web-scraping-with-r",
     "title": "19  Getting, Cleaning and Wrangling Data",
-    "section": "19.13 Web Scraping with R",
-    "text": "19.13 Web Scraping with R\n\nSteve Pittard\n\nWeb Scraping with R. . A rich source of examples and instruction.\nLink: https://steviep42.github.io/webscraping/book/",
+    "section": "19.14 Web Scraping with R",
+    "text": "19.14 Web Scraping with R\n\nSteve Pittard\n\nWeb Scraping with R. . A rich source of examples and instruction.\nLink: https://steviep42.github.io/webscraping/book/",
     "crumbs": [
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Getting, Cleaning and Wrangling Data</span>"
     ]
@@ -2043,8 +2043,8 @@
     "objectID": "chapters/Life Sciences.html#biostatistics-for-biomedical-research",
     "href": "chapters/Life Sciences.html#biostatistics-for-biomedical-research",
     "title": "21  Life Sciences",
-    "section": "21.6 Biostatistics for Biomedical Research",
-    "text": "21.6 Biostatistics for Biomedical Research\n\nFrank E Harrell Jr\n\nThe book is aimed at exposing biomedical researchers to modern biostatistical methods and statistical graphics, highlighting those methods that make fewer assumptions, including nonparametric statistics and robust statistical measures. In addition to covering traditional estimation and inferential techniques, the course contrasts those with the Bayesian approach, and also includes several components that have been increasingly important in the past few years, such as challenges of high-dimensional data analysis, modeling for observational treatment comparisons, analysis of differential treatment effect (heterogeneity of treatment effect), statistical methods for biomarker research, medical diagnostic research, and methods for reproducible research.\nLink: http://hbiostat.org/bbr/",
+    "section": "21.7 Biostatistics for Biomedical Research",
+    "text": "21.7 Biostatistics for Biomedical Research\n\nFrank E Harrell Jr\n\nThe book is aimed at exposing biomedical researchers to modern biostatistical methods and statistical graphics, highlighting those methods that make fewer assumptions, including nonparametric statistics and robust statistical measures. In addition to covering traditional estimation and inferential techniques, the course contrasts those with the Bayesian approach, and also includes several components that have been increasingly important in the past few years, such as challenges of high-dimensional data analysis, modeling for observational treatment comparisons, analysis of differential treatment effect (heterogeneity of treatment effect), statistical methods for biomarker research, medical diagnostic research, and methods for reproducible research.\nLink: http://hbiostat.org/bbr/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2053,8 +2053,8 @@
     "objectID": "chapters/Life Sciences.html#comparative-methods",
     "href": "chapters/Life Sciences.html#comparative-methods",
     "title": "21  Life Sciences",
-    "section": "21.8 Comparative Methods",
-    "text": "21.8 Comparative Methods\n\nBrian O’Meara\n\nA book for teaching people how to do comparative methods in R. Written for a biology class to analyse evolutionary trees and finding patterns of divergence and common ancestry among species.\nLink: https://bookdown.org/bomeara/comparative-methods/",
+    "section": "21.9 Comparative Methods",
+    "text": "21.9 Comparative Methods\n\nBrian O’Meara\n\nA book for teaching people how to do comparative methods in R. Written for a biology class to analyse evolutionary trees and finding patterns of divergence and common ancestry among species.\nLink: https://bookdown.org/bomeara/comparative-methods/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2063,8 +2063,8 @@
     "objectID": "chapters/Life Sciences.html#computational-genomics-with-r",
     "href": "chapters/Life Sciences.html#computational-genomics-with-r",
     "title": "21  Life Sciences",
-    "section": "21.9 Computational Genomics with R",
-    "text": "21.9 Computational Genomics with R\n\nAltuna Akalin\n\nThe aim of this book is to provide the fundamentals for data analysis for genomics. We developed this book based on the computational genomics courses we are giving every year.\nLink: http://compgenomr.github.io/book/",
+    "section": "21.10 Computational Genomics with R",
+    "text": "21.10 Computational Genomics with R\n\nAltuna Akalin\n\nThe aim of this book is to provide the fundamentals for data analysis for genomics. We developed this book based on the computational genomics courses we are giving every year.\nLink: http://compgenomr.github.io/book/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2073,8 +2073,8 @@
     "objectID": "chapters/Life Sciences.html#data-analysis-and-visualization-in-r-for-ecologists",
     "href": "chapters/Life Sciences.html#data-analysis-and-visualization-in-r-for-ecologists",
     "title": "21  Life Sciences",
-    "section": "21.10 Data Analysis and Visualization in R for Ecologists",
-    "text": "21.10 Data Analysis and Visualization in R for Ecologists\n\nFrançois Michonneau\nAuriel Fournier\n\nData Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. The lessons below were designed for those interested in working with ecology data in R.\nThis is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. The last lesson demonstrates how to work with databases directly from R.\nThis lesson assumes no prior knowledge of R or RStudio and no programming experience.\nLink: https://datacarpentry.org/R-ecology-lesson/",
+    "section": "21.11 Data Analysis and Visualization in R for Ecologists",
+    "text": "21.11 Data Analysis and Visualization in R for Ecologists\n\nFrançois Michonneau\nAuriel Fournier\n\nData Carpentry’s aim is to teach researchers basic concepts, skills, and tools for working with data so that they can get more done in less time, and with less pain. The lessons below were designed for those interested in working with ecology data in R.\nThis is an introduction to R designed for participants with no programming experience. These lessons can be taught in a day (~ 6 hours). They start with some basic information about R syntax, the RStudio interface, and move through how to import CSV files, the structure of data frames, how to deal with factors, how to add/remove rows and columns, how to calculate summary statistics from a data frame, and a brief introduction to plotting. The last lesson demonstrates how to work with databases directly from R.\nThis lesson assumes no prior knowledge of R or RStudio and no programming experience.\nLink: https://datacarpentry.org/R-ecology-lesson/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2083,8 +2083,8 @@
     "objectID": "chapters/Life Sciences.html#data-analysis-for-the-life-sciences",
     "href": "chapters/Life Sciences.html#data-analysis-for-the-life-sciences",
     "title": "21  Life Sciences",
-    "section": "21.11 Data Analysis for the Life Sciences",
-    "text": "21.11 Data Analysis for the Life Sciences\n\nRafael A Irizarry\nMichael I Love\n\nData analysis is now part of practically every research project in the life sciences. In this book we use data and computer code to teach the necessary statistical concepts and programming skills to become a data analyst. Instead of showing theory first and then applying it to toy examples, we start with actual applications. http://genomicsclass.github.io/book/\nPaid: Free or pay what you want $40\nLink: https://leanpub.com/dataanalysisforthelifesciences",
+    "section": "21.12 Data Analysis for the Life Sciences",
+    "text": "21.12 Data Analysis for the Life Sciences\n\nRafael A Irizarry\nMichael I Love\n\nData analysis is now part of practically every research project in the life sciences. In this book we use data and computer code to teach the necessary statistical concepts and programming skills to become a data analyst. Instead of showing theory first and then applying it to toy examples, we start with actual applications. http://genomicsclass.github.io/book/\nPaid: Free or pay what you want $40\nLink: https://leanpub.com/dataanalysisforthelifesciences",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2093,8 +2093,8 @@
     "objectID": "chapters/Life Sciences.html#data-integration-manipulation-and-visualization-of-phylogenetic-trees",
     "href": "chapters/Life Sciences.html#data-integration-manipulation-and-visualization-of-phylogenetic-trees",
     "title": "21  Life Sciences",
-    "section": "21.12 Data Integration, Manipulation and Visualization of Phylogenetic Trees",
-    "text": "21.12 Data Integration, Manipulation and Visualization of Phylogenetic Trees\n\nGuangchuang Yu\n\nA guide for data integration, manipulation and visualization of phylogenetic trees using a suite of R packages, tidytree, treeio, ggtree and ggtreeExtra.\nLink: https://yulab-smu.top/treedata-book/",
+    "section": "21.13 Data Integration, Manipulation and Visualization of Phylogenetic Trees",
+    "text": "21.13 Data Integration, Manipulation and Visualization of Phylogenetic Trees\n\nGuangchuang Yu\n\nA guide for data integration, manipulation and visualization of phylogenetic trees using a suite of R packages, tidytree, treeio, ggtree and ggtreeExtra.\nLink: https://yulab-smu.top/treedata-book/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2103,8 +2103,8 @@
     "objectID": "chapters/Life Sciences.html#data-science-for-the-biomedical-sciences",
     "href": "chapters/Life Sciences.html#data-science-for-the-biomedical-sciences",
     "title": "21  Life Sciences",
-    "section": "21.13 Data Science for the Biomedical Sciences",
-    "text": "21.13 Data Science for the Biomedical Sciences\n\nDaniel Chen\nAnne Brown\n\nWe hope this book provides a gentle introduction to data science. The main goal is to understand how to work with spreadsheet data and how data can be manipulated for multiple purposes. If nothing else, the book hopes to help you plan how to structure your own datasets for your own analysis. Even if you never go on to program on your own, understanding the way data can be manipulated and having a plan for your own dataset in the processing pipeline, will go a long ways when leaning and doing the analysis on your own, and/or working with collegues and collaborators on a project.\nLink: https://ds4biomed.tech/",
+    "section": "21.14 Data Science for the Biomedical Sciences",
+    "text": "21.14 Data Science for the Biomedical Sciences\n\nDaniel Chen\nAnne Brown\n\nWe hope this book provides a gentle introduction to data science. The main goal is to understand how to work with spreadsheet data and how data can be manipulated for multiple purposes. If nothing else, the book hopes to help you plan how to structure your own datasets for your own analysis. Even if you never go on to program on your own, understanding the way data can be manipulated and having a plan for your own dataset in the processing pipeline, will go a long ways when leaning and doing the analysis on your own, and/or working with collegues and collaborators on a project.\nLink: https://ds4biomed.tech/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2113,8 +2113,8 @@
     "objectID": "chapters/Life Sciences.html#experimental-design-for-laboratory-biologists-maximising-information-and-improving-reproducibility",
     "href": "chapters/Life Sciences.html#experimental-design-for-laboratory-biologists-maximising-information-and-improving-reproducibility",
     "title": "21  Life Sciences",
-    "section": "21.14 Experimental Design for Laboratory Biologists Maximising Information and Improving Reproducibility",
-    "text": "21.14 Experimental Design for Laboratory Biologists Maximising Information and Improving Reproducibility\n\nStanley E. Lazic\n\nThis practical guide shows biologists how to design reproducible experiments that have low bias, high precision, and results that are widely applicable. With specific examples using both cell cultures and model organisms, it shows how to plan a successful experiment. It demonstrates how to control biological and technical factors that can introduce bias or add noise, and covers rarely discussed topics such as graphical data exploration, choosing outcome variables, data quality control checks, and data pre-processing. It also shows how to use R for analysis, and is designed for those with no prior experience. This is an ideal guide for anyone conducting lab-based biological research.\nLink: https://stanlazic.github.io/EDLB.html",
+    "section": "21.15 Experimental Design for Laboratory Biologists Maximising Information and Improving Reproducibility",
+    "text": "21.15 Experimental Design for Laboratory Biologists Maximising Information and Improving Reproducibility\n\nStanley E. Lazic\n\nThis practical guide shows biologists how to design reproducible experiments that have low bias, high precision, and results that are widely applicable. With specific examples using both cell cultures and model organisms, it shows how to plan a successful experiment. It demonstrates how to control biological and technical factors that can introduce bias or add noise, and covers rarely discussed topics such as graphical data exploration, choosing outcome variables, data quality control checks, and data pre-processing. It also shows how to use R for analysis, and is designed for those with no prior experience. This is an ideal guide for anyone conducting lab-based biological research.\nLink: https://stanlazic.github.io/EDLB.html",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2123,8 +2123,8 @@
     "objectID": "chapters/Life Sciences.html#fundamentals-of-wrangling-healthcare-data-with-r",
     "href": "chapters/Life Sciences.html#fundamentals-of-wrangling-healthcare-data-with-r",
     "title": "21  Life Sciences",
-    "section": "21.15 Fundamentals of Wrangling Healthcare Data with R",
-    "text": "21.15 Fundamentals of Wrangling Healthcare Data with R\n\nJ. Kyle Armstrong\n\nIn this course we will review some of the tools of the trade, namely, R’s tidyverse (Wickham and Grolemund 2017; Winter 2019) - a collection of R packages designed with a common framework to aide in common data wrangling and data management tasks.\nData Wrangling is one subset set of skills within the Data Science Process. We will carefully investigate how decisions made while collecting and preparing the data have down-stream effects on model performance.\nLink: https://bookdown.org/jkylearmstrong/jeff_data_wrangling/",
+    "section": "21.16 Fundamentals of Wrangling Healthcare Data with R",
+    "text": "21.16 Fundamentals of Wrangling Healthcare Data with R\n\nJ. Kyle Armstrong\n\nIn this course we will review some of the tools of the trade, namely, R’s tidyverse (Wickham and Grolemund 2017; Winter 2019) - a collection of R packages designed with a common framework to aide in common data wrangling and data management tasks.\nData Wrangling is one subset set of skills within the Data Science Process. We will carefully investigate how decisions made while collecting and preparing the data have down-stream effects on model performance.\nLink: https://bookdown.org/jkylearmstrong/jeff_data_wrangling/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2133,8 +2133,8 @@
     "objectID": "chapters/Life Sciences.html#git-and-github-for-advanced-ecological-data-analysis",
     "href": "chapters/Life Sciences.html#git-and-github-for-advanced-ecological-data-analysis",
     "title": "21  Life Sciences",
-    "section": "21.16 Git and Github for Advanced Ecological Data Analysis",
-    "text": "21.16 Git and Github for Advanced Ecological Data Analysis\n\nAlexa Fredston\n\nThis material was prepared for a three-hour virtual session to teach Git and Github to a graduate-level course on Advanced Ecological Data Analysis taught at Rutgers University by Malin Pinsky and Rachael Winfree. (However, the only course-specific material is Section 4; the rest should be applicable to any reader.)\nLink: https://afredston.github.io/learn-git/learn-git.html",
+    "section": "21.17 Git and Github for Advanced Ecological Data Analysis",
+    "text": "21.17 Git and Github for Advanced Ecological Data Analysis\n\nAlexa Fredston\n\nThis material was prepared for a three-hour virtual session to teach Git and Github to a graduate-level course on Advanced Ecological Data Analysis taught at Rutgers University by Malin Pinsky and Rachael Winfree. (However, the only course-specific material is Section 4; the rest should be applicable to any reader.)\nLink: https://afredston.github.io/learn-git/learn-git.html",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2143,8 +2143,8 @@
     "objectID": "chapters/Life Sciences.html#hydroinformatics-at-vt",
     "href": "chapters/Life Sciences.html#hydroinformatics-at-vt",
     "title": "21  Life Sciences",
-    "section": "21.17 Hydroinformatics at VT",
-    "text": "21.17 Hydroinformatics at VT\n\nJP Gannon\n\nThis bookdown contains the notes and most exercises for a course on data analysis techniques in hydrology using the programming language R. The material will be updated each time the course is taught. If new topics are added, the topics they replace will be left, in case they are useful to others.\nLink: https://vt-hydroinformatics.github.io/",
+    "section": "21.18 Hydroinformatics at VT",
+    "text": "21.18 Hydroinformatics at VT\n\nJP Gannon\n\nThis bookdown contains the notes and most exercises for a course on data analysis techniques in hydrology using the programming language R. The material will be updated each time the course is taught. If new topics are added, the topics they replace will be left, in case they are useful to others.\nLink: https://vt-hydroinformatics.github.io/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2153,8 +2153,8 @@
     "objectID": "chapters/Life Sciences.html#introduction-to-data-analysis-with-r",
     "href": "chapters/Life Sciences.html#introduction-to-data-analysis-with-r",
     "title": "21  Life Sciences",
-    "section": "21.18 Introduction to Data Analysis with R",
-    "text": "21.18 Introduction to Data Analysis with R\n\nJannik Buhr\n\nThis is a video lecture series with accompanying lecture script that is designed to read much like a book. The lecture is held in English for biochemists at Heidelberg University, Germany, but the examples covered are no specific to life sciences in order to enable a focus on learning the techniques with R.\nLink: https://jmbuhr.de/dataintro/",
+    "section": "21.19 Introduction to Data Analysis with R",
+    "text": "21.19 Introduction to Data Analysis with R\n\nJannik Buhr\n\nThis is a video lecture series with accompanying lecture script that is designed to read much like a book. The lecture is held in English for biochemists at Heidelberg University, Germany, but the examples covered are no specific to life sciences in order to enable a focus on learning the techniques with R.\nLink: https://jmbuhr.de/dataintro/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2163,8 +2163,8 @@
     "objectID": "chapters/Life Sciences.html#little-book-of-r-for-biomedical-statistics",
     "href": "chapters/Life Sciences.html#little-book-of-r-for-biomedical-statistics",
     "title": "21  Life Sciences",
-    "section": "21.19 Little Book of R for Biomedical Statistics",
-    "text": "21.19 Little Book of R for Biomedical Statistics\n\nAvril Coghlan\n\nThis is a simple introduction to biomedical statistics using the R statistics software.\nLink: https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io",
+    "section": "21.20 Little Book of R for Biomedical Statistics",
+    "text": "21.20 Little Book of R for Biomedical Statistics\n\nAvril Coghlan\n\nThis is a simple introduction to biomedical statistics using the R statistics software.\nLink: https://a-little-book-of-r-for-biomedical-statistics.readthedocs.io",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2173,8 +2173,8 @@
     "objectID": "chapters/Life Sciences.html#modern-statistics-for-modern-biology",
     "href": "chapters/Life Sciences.html#modern-statistics-for-modern-biology",
     "title": "21  Life Sciences",
-    "section": "21.20 Modern Statistics for Modern Biology",
-    "text": "21.20 Modern Statistics for Modern Biology\n\nSusan Holmes\nWolfgang Huber\n\nThe aim of this book is to enable scientists working in biological research to quickly learn many of the important ideas and methods that they need to make the best of their experiments and of other available data.\nLink: https://www.huber.embl.de/msmb/",
+    "section": "21.21 Modern Statistics for Modern Biology",
+    "text": "21.21 Modern Statistics for Modern Biology\n\nSusan Holmes\nWolfgang Huber\n\nThe aim of this book is to enable scientists working in biological research to quickly learn many of the important ideas and methods that they need to make the best of their experiments and of other available data.\nLink: https://www.huber.embl.de/msmb/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2183,8 +2183,8 @@
     "objectID": "chapters/Life Sciences.html#numerical-ecology-with-r",
     "href": "chapters/Life Sciences.html#numerical-ecology-with-r",
     "title": "21  Life Sciences",
-    "section": "21.21 Numerical Ecology with R",
-    "text": "21.21 Numerical Ecology with R\n\nDaniel Borcard\nFrançois Gillet\nPierre Legendre\n\nThis new edition of Numerical Ecology with R guides readers through an applied exploration of the major methods of multivariate data analysis, as seen through the eyes of three ecologists. It provides a bridge between a textbook of numerical ecology and the implementation of this discipline in the R language. The book begins by examining some exploratory approaches.\nLink: https://www.springer.com/us/book/9783319714035",
+    "section": "21.22 Numerical Ecology with R",
+    "text": "21.22 Numerical Ecology with R\n\nDaniel Borcard\nFrançois Gillet\nPierre Legendre\n\nThis new edition of Numerical Ecology with R guides readers through an applied exploration of the major methods of multivariate data analysis, as seen through the eyes of three ecologists. It provides a bridge between a textbook of numerical ecology and the implementation of this discipline in the R language. The book begins by examining some exploratory approaches.\nLink: https://www.springer.com/us/book/9783319714035",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2193,8 +2193,8 @@
     "objectID": "chapters/Life Sciences.html#orchestrating-single-cell-analysis-with-bioconductor",
     "href": "chapters/Life Sciences.html#orchestrating-single-cell-analysis-with-bioconductor",
     "title": "21  Life Sciences",
-    "section": "21.22 Orchestrating Single-Cell Analysis with Bioconductor",
-    "text": "21.22 Orchestrating Single-Cell Analysis with Bioconductor\n\nAaron Lun\nRobert Amezquita\nStephanie Hicks\nRaphael Gottardo\n\nThis is the website for “Orchestrating Single-Cell Analysis with Bioconductor”, a book that teaches users some common workflows for the analysis of single-cell RNA-seq data (scRNA-seq).\nLink: https://osca.bioconductor.org/",
+    "section": "21.23 Orchestrating Single-Cell Analysis with Bioconductor",
+    "text": "21.23 Orchestrating Single-Cell Analysis with Bioconductor\n\nAaron Lun\nRobert Amezquita\nStephanie Hicks\nRaphael Gottardo\n\nThis is the website for “Orchestrating Single-Cell Analysis with Bioconductor”, a book that teaches users some common workflows for the analysis of single-cell RNA-seq data (scRNA-seq).\nLink: https://osca.bioconductor.org/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2203,8 +2203,8 @@
     "objectID": "chapters/Life Sciences.html#population-health-data-science-with-r",
     "href": "chapters/Life Sciences.html#population-health-data-science-with-r",
     "title": "21  Life Sciences",
-    "section": "21.23 Population Health Data Science with R",
-    "text": "21.23 Population Health Data Science with R\n\nTomás J. Aragón\n\nThis book is divided into two parts. First, I cover how to process, manipulate, and operate on data in R. Second, I cover basic PHDS from an epidemiologic perspective. Data science is “the art and science of transforming data into actionable knowledge.” Here is where we can build on the strengths of epidemiology (descriptive and analytic studies). However, in public health practice we need much more than this.\nLink: https://bookdown.org/medepi/phds/",
+    "section": "21.24 Population Health Data Science with R",
+    "text": "21.24 Population Health Data Science with R\n\nTomás J. Aragón\n\nThis book is divided into two parts. First, I cover how to process, manipulate, and operate on data in R. Second, I cover basic PHDS from an epidemiologic perspective. Data science is “the art and science of transforming data into actionable knowledge.” Here is where we can build on the strengths of epidemiology (descriptive and analytic studies). However, in public health practice we need much more than this.\nLink: https://bookdown.org/medepi/phds/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2213,8 +2213,8 @@
     "objectID": "chapters/Life Sciences.html#practical-statistics-in-medicine-with-r",
     "href": "chapters/Life Sciences.html#practical-statistics-in-medicine-with-r",
     "title": "21  Life Sciences",
-    "section": "21.24 Practical Statistics in Medicine with R",
-    "text": "21.24 Practical Statistics in Medicine with R\n\nKonstantinos I. Bougioukas, PhD\n\nThe textbook can be used as support material for practical labs on basic statistics in medicine using R. It can also be used as a support for self-teaching for students and researchers in biomedical field. Additionally, it may be useful for (under)graduate students with a science background (engineering, mathematics) who wants to move towards biomedical sciences.\nLink: https://practical-stats-med-r.netlify.app/",
+    "section": "21.25 Practical Statistics in Medicine with R",
+    "text": "21.25 Practical Statistics in Medicine with R\n\nKonstantinos I. Bougioukas, PhD\n\nThe textbook can be used as support material for practical labs on basic statistics in medicine using R. It can also be used as a support for self-teaching for students and researchers in biomedical field. Additionally, it may be useful for (under)graduate students with a science background (engineering, mathematics) who wants to move towards biomedical sciences.\nLink: https://practical-stats-med-r.netlify.app/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2223,8 +2223,8 @@
     "objectID": "chapters/Life Sciences.html#r-for-conservation-and-development-projects-a-primer-for-practitioners",
     "href": "chapters/Life Sciences.html#r-for-conservation-and-development-projects-a-primer-for-practitioners",
     "title": "21  Life Sciences",
-    "section": "21.26 R for Conservation and Development Projects A Primer for Practitioners",
-    "text": "21.26 R for Conservation and Development Projects A Primer for Practitioners\n\nNathan Whitmore\n\nThis book is aimed at conservation and development practitioners who need to learn and use R in a part-time professional context. It gives people with a non-technical background a set of skills to graph, map, and model in R. It also provides background on data integration in project management and covers fundamental statistical concepts. The book aims to demystify R and give practitioners the confidence to use it.\nKey Features:\n• Viewing data science as part of a greater knowledge and decision making system • Foundation sections on inference, evidence, and data integration • Plain English explanations of R functions • Relatable examples which are typical of activities undertaken by conservation and development organisations in the developing world • Worked examples showing how data analysis can be incorporated into project reports\nLink: https://www.routledge.com/R-for-Conservation-and-Development-Projects-A-Primer-for-Practitioners/Whitmore/p/book/9780367205485",
+    "section": "21.27 R for Conservation and Development Projects A Primer for Practitioners",
+    "text": "21.27 R for Conservation and Development Projects A Primer for Practitioners\n\nNathan Whitmore\n\nThis book is aimed at conservation and development practitioners who need to learn and use R in a part-time professional context. It gives people with a non-technical background a set of skills to graph, map, and model in R. It also provides background on data integration in project management and covers fundamental statistical concepts. The book aims to demystify R and give practitioners the confidence to use it.\nKey Features:\n• Viewing data science as part of a greater knowledge and decision making system • Foundation sections on inference, evidence, and data integration • Plain English explanations of R functions • Relatable examples which are typical of activities undertaken by conservation and development organisations in the developing world • Worked examples showing how data analysis can be incorporated into project reports\nLink: https://www.routledge.com/R-for-Conservation-and-Development-Projects-A-Primer-for-Practitioners/Whitmore/p/book/9780367205485",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2233,8 +2233,8 @@
     "objectID": "chapters/Life Sciences.html#r-for-health-data-science",
     "href": "chapters/Life Sciences.html#r-for-health-data-science",
     "title": "21  Life Sciences",
-    "section": "21.27 R for Health Data Science",
-    "text": "21.27 R for Health Data Science\n\nEwen Harrison\nRiinu Pius\n\nIn this age of information, the manipulation, analysis and interpretation of data have become a fundamental part of professional life. Nowhere more so than in the delivery of healthcare. From the understanding of disease and the development of new treatments, to the diagnosis and management of individual patients, the use of data and technology are now an integral part of the business of healthcare.\nThose working in healthcare interact daily with data, often without realising it. The conversion of this avalanche of information to useful knowledge is essential for high-quality patient care. An important part of this information revolution is the opportunity for everybody to become involved in data analysis. This democratisation is driven in part by the open source software movement – no longer do we require expensive specialised software to do this.\nThe statistical programming language, R, is firmly at the heart of this.\nThis book will take an individual with little or no experience in data science all the way through to the execution of sophisticated analyses. We emphasise the importance of truly understanding the underlying data with liberal use of plotting, rather than relying on opaque and possibly poorly understood statistical tests. There are numerous examples included that can be adapted for your own data, together with our own R packages with easy-to-use functions.\nLink: https://argoshare.is.ed.ac.uk/healthyr_book/",
+    "section": "21.28 R for Health Data Science",
+    "text": "21.28 R for Health Data Science\n\nEwen Harrison\nRiinu Pius\n\nIn this age of information, the manipulation, analysis and interpretation of data have become a fundamental part of professional life. Nowhere more so than in the delivery of healthcare. From the understanding of disease and the development of new treatments, to the diagnosis and management of individual patients, the use of data and technology are now an integral part of the business of healthcare.\nThose working in healthcare interact daily with data, often without realising it. The conversion of this avalanche of information to useful knowledge is essential for high-quality patient care. An important part of this information revolution is the opportunity for everybody to become involved in data analysis. This democratisation is driven in part by the open source software movement – no longer do we require expensive specialised software to do this.\nThe statistical programming language, R, is firmly at the heart of this.\nThis book will take an individual with little or no experience in data science all the way through to the execution of sophisticated analyses. We emphasise the importance of truly understanding the underlying data with liberal use of plotting, rather than relying on opaque and possibly poorly understood statistical tests. There are numerous examples included that can be adapted for your own data, together with our own R packages with easy-to-use functions.\nLink: https://argoshare.is.ed.ac.uk/healthyr_book/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2243,8 +2243,8 @@
     "objectID": "chapters/Life Sciences.html#r-for-applied-epidemiology-and-public-health",
     "href": "chapters/Life Sciences.html#r-for-applied-epidemiology-and-public-health",
     "title": "21  Life Sciences",
-    "section": "21.25 R for applied epidemiology and public health",
-    "text": "21.25 R for applied epidemiology and public health\n\nEpiR authors\n\nThis handbook is produced by a collaboration of epidemiologists from around the world drawing upon experience with organizations including local, state, provincial, and national health agencies, the World Health Organization (WHO), Médecins Sans Frontières / Doctors without Borders (MSF), hospital systems, and academic institutions. Also check out the accompanying tutorials: https://appliedepi.org/tutorial/\nWritten by epidemiologists, for epidemiologists.\nLink: https://epirhandbook.com/",
+    "section": "21.26 R for applied epidemiology and public health",
+    "text": "21.26 R for applied epidemiology and public health\n\nEpiR authors\n\nThis handbook is produced by a collaboration of epidemiologists from around the world drawing upon experience with organizations including local, state, provincial, and national health agencies, the World Health Organization (WHO), Médecins Sans Frontières / Doctors without Borders (MSF), hospital systems, and academic institutions. Also check out the accompanying tutorials: https://appliedepi.org/tutorial/\nWritten by epidemiologists, for epidemiologists.\nLink: https://epirhandbook.com/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2253,8 +2253,8 @@
     "objectID": "chapters/Life Sciences.html#reproducible-medical-research-with-r",
     "href": "chapters/Life Sciences.html#reproducible-medical-research-with-r",
     "title": "21  Life Sciences",
-    "section": "21.28 Reproducible Medical Research with R",
-    "text": "21.28 Reproducible Medical Research with R\n\nPeter D.R. Higgins, MD, PhD, MSc\n\nThis is a book for anyone in the medical field interested in analyzing the data available to them to better understand health, disease, or the delivery of care. This could include nurses, dieticians, psychologists, and PhDs in related fields, as well as medical students, residents, fellows, or doctors in practice. I expect that most learners will be using this book in their spare time at night and on weekends, as the health training curricula are already packed full of information, and there is no room to add skills in reproducible research to the standard curriculum. This book is designed for self-teaching, and many hints and solutions will be provided to avoid roadblocks and frustration. Many learners find themselves wanting to develop reproducible research skills after they have finished their training, and after they have become comfortable with their clinical role. This is the time when they identify and want to address problems faced by patients in their practice with the data they have before them. This book is for you.\nLink: https://bookdown.org/pdr_higgins/rmrwr/",
+    "section": "21.29 Reproducible Medical Research with R",
+    "text": "21.29 Reproducible Medical Research with R\n\nPeter D.R. Higgins, MD, PhD, MSc\n\nThis is a book for anyone in the medical field interested in analyzing the data available to them to better understand health, disease, or the delivery of care. This could include nurses, dieticians, psychologists, and PhDs in related fields, as well as medical students, residents, fellows, or doctors in practice. I expect that most learners will be using this book in their spare time at night and on weekends, as the health training curricula are already packed full of information, and there is no room to add skills in reproducible research to the standard curriculum. This book is designed for self-teaching, and many hints and solutions will be provided to avoid roadblocks and frustration. Many learners find themselves wanting to develop reproducible research skills after they have finished their training, and after they have become comfortable with their clinical role. This is the time when they identify and want to address problems faced by patients in their practice with the data they have before them. This book is for you.\nLink: https://bookdown.org/pdr_higgins/rmrwr/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2263,8 +2263,8 @@
     "objectID": "chapters/Life Sciences.html#statistics-in-r-for-biodiversity-conservation-paperback",
     "href": "chapters/Life Sciences.html#statistics-in-r-for-biodiversity-conservation-paperback",
     "title": "21  Life Sciences",
-    "section": "21.30 Statistics in R for Biodiversity Conservation Paperback",
-    "text": "21.30 Statistics in R for Biodiversity Conservation Paperback\n\nCarl Smith\nAntonio Uzal\nMark Warren\n\nA practical handbook to introduce data analysis and model fitting using R to ecologists and conservation biologists. The book is aimed at undergraduate and post-graduate students and provides access to datasets and RScript.\nLink: https://www.amazon.co.uk/dp/B08HBLYHQL/ref=cm_sw_r_cp_apa_i_g0luFb86PXJ9Z",
+    "section": "21.31 Statistics in R for Biodiversity Conservation Paperback",
+    "text": "21.31 Statistics in R for Biodiversity Conservation Paperback\n\nCarl Smith\nAntonio Uzal\nMark Warren\n\nA practical handbook to introduce data analysis and model fitting using R to ecologists and conservation biologists. The book is aimed at undergraduate and post-graduate students and provides access to datasets and RScript.\nLink: https://www.amazon.co.uk/dp/B08HBLYHQL/ref=cm_sw_r_cp_apa_i_g0luFb86PXJ9Z",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2273,8 +2273,8 @@
     "objectID": "chapters/Life Sciences.html#using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling",
     "href": "chapters/Life Sciences.html#using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling",
     "title": "21  Life Sciences",
-    "section": "21.31 Using R for Bayesian Spatial and Spatio-Temporal Health Modeling",
-    "text": "21.31 Using R for Bayesian Spatial and Spatio-Temporal Health Modeling\n\nAndrew B. Lawson\n\nProgressively more and more attention has been paid to how location affects health outcomes. The area of disease mapping focusses on these problems, and the Bayesian paradigm has a major role to play in the understanding of the complex interplay of context and individual predisposition in such studies of disease. Using R for Bayesian Spatial and Spatio-Temporal Health Modeling provides a major resource for those interested in applying Bayesian methodology in small area health data studies.\nLink: https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126",
+    "section": "21.32 Using R for Bayesian Spatial and Spatio-Temporal Health Modeling",
+    "text": "21.32 Using R for Bayesian Spatial and Spatio-Temporal Health Modeling\n\nAndrew B. Lawson\n\nProgressively more and more attention has been paid to how location affects health outcomes. The area of disease mapping focusses on these problems, and the Bayesian paradigm has a major role to play in the understanding of the complex interplay of context and individual predisposition in such studies of disease. Using R for Bayesian Spatial and Spatio-Temporal Health Modeling provides a major resource for those interested in applying Bayesian methodology in small area health data studies.\nLink: https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2283,8 +2283,8 @@
     "objectID": "chapters/Life Sciences.html#wehi-intro-to-tidy-r-course",
     "href": "chapters/Life Sciences.html#wehi-intro-to-tidy-r-course",
     "title": "21  Life Sciences",
-    "section": "21.32 WEHI Intro to Tidy R Course",
-    "text": "21.32 WEHI Intro to Tidy R Course\n\nBrendan Ansell\n\nA complete beginner’s introduction to tidy R for data transformation, visualization and analysis automation — with applications in experimental biology.\nThis book is based on a short course developed for biomedical scientists at the WEHI Medical Research Institute. The content is designed to make learners comfortable with using R for exploratory analysis of large data sets, but does not cover statistics. The material and teaching examples draw on popular (non-biological) data sets, as well as gene expression and drug screening data types.\nLink: https://bookdown.org/ansellbr/WEHI_tidyR_course_book/",
+    "section": "21.33 WEHI Intro to Tidy R Course",
+    "text": "21.33 WEHI Intro to Tidy R Course\n\nBrendan Ansell\n\nA complete beginner’s introduction to tidy R for data transformation, visualization and analysis automation — with applications in experimental biology.\nThis book is based on a short course developed for biomedical scientists at the WEHI Medical Research Institute. The content is designed to make learners comfortable with using R for exploratory analysis of large data sets, but does not cover statistics. The material and teaching examples draw on popular (non-biological) data sets, as well as gene expression and drug screening data types.\nLink: https://bookdown.org/ansellbr/WEHI_tidyR_course_book/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -4434,7 +4434,7 @@
     "href": "chapters/Statistics.html#modern-statistics-with-r",
     "title": "33  Statistics",
     "section": "33.33 Modern Statistics with R",
-    "text": "33.33 Modern Statistics with R\n\nMåns Thulin\n\nThis book covers the fundamentals of data science and statistics. The first half deals with the basics of R and R coding, data wrangling, exploratory data analysis and more advandced programming. The second half deals with modern statistics (favouring permutation tests, the bootstrap and Bayesian methods over traditional asymptotic methods), regression models and predictive modelling. It also contains information about debugging and explanations of 25 commonly encountered error messages in R. In addition, there are 170 or so exercises with fully worked solutions.\nLink: http://www.modernstatisticswithr.com/\nPhysical copy available: https://amzn.to/3RytIxc",
+    "text": "33.33 Modern Statistics with R\n\nMåns Thulin\n\nThis book covers the fundamentals of data science and statistics. The first half deals with the basics of R and R coding, data wrangling, visualisation, exploratory data analysis and more advanced programming. The second half deals with modern statistics (favouring permutation tests, the bootstrap and Bayesian methods over traditional asymptotic methods), simulation, regression models, survival analysis and machine learning. It also contains information about debugging and explanations of 25 commonly encountered error messages in R. In addition, there more than 200 exercises with fully worked solutions.\nLink: http://www.modernstatisticswithr.com/\nPhysical copy available: https://amzn.to/42MbdeP",
     "crumbs": [
       "<span class='chapter-number'>33</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -5173,8 +5173,8 @@
     "objectID": "chapters/Getting Cleaning and Wrangling Data.html#cleaning-biodiversity-data-in-r",
     "href": "chapters/Getting Cleaning and Wrangling Data.html#cleaning-biodiversity-data-in-r",
     "title": "19  Getting, Cleaning and Wrangling Data",
-    "section": "19.3 Cleaning Biodiversity Data in R",
-    "text": "19.3 Cleaning Biodiversity Data in R\n\nAtlas of Living Australia\n\nThis book is a practical guide for cleaning geo-referenced biodiversity data using R. It focuses specifically on the processes and challenges you’ll face with biodiversity data. As such, this book isn’t a general guide to data cleaning but a targeted resource for those working with or interested in ecology, evolution, and geo-referenced biodiversity data.\nLink: https://cleaning-data-r.ala.org.au/",
+    "section": "19.4 Cleaning Biodiversity Data in R",
+    "text": "19.4 Cleaning Biodiversity Data in R\n\nAtlas of Living Australia\n\nThis book is a practical guide for cleaning geo-referenced biodiversity data using R. It focuses specifically on the processes and challenges you’ll face with biodiversity data. As such, this book isn’t a general guide to data cleaning but a targeted resource for those working with or interested in ecology, evolution, and geo-referenced biodiversity data.\nLink: https://cleaning-data-r.ala.org.au/",
     "crumbs": [
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Getting, Cleaning and Wrangling Data</span>"
     ]
@@ -5183,8 +5183,8 @@
     "objectID": "chapters/Life Sciences.html#cleaning-biodiversity-data-in-r",
     "href": "chapters/Life Sciences.html#cleaning-biodiversity-data-in-r",
     "title": "21  Life Sciences",
-    "section": "21.7 Cleaning Biodiversity Data in R",
-    "text": "21.7 Cleaning Biodiversity Data in R\n\nAtlas of Living Australia\n\nThis book is a practical guide for cleaning geo-referenced biodiversity data using R. It focuses specifically on the processes and challenges you’ll face with biodiversity data. As such, this book isn’t a general guide to data cleaning but a targeted resource for those working with or interested in ecology, evolution, and geo-referenced biodiversity data.\nLink: https://cleaning-data-r.ala.org.au/",
+    "section": "21.8 Cleaning Biodiversity Data in R",
+    "text": "21.8 Cleaning Biodiversity Data in R\n\nAtlas of Living Australia\n\nThis book is a practical guide for cleaning geo-referenced biodiversity data using R. It focuses specifically on the processes and challenges you’ll face with biodiversity data. As such, this book isn’t a general guide to data cleaning but a targeted resource for those working with or interested in ecology, evolution, and geo-referenced biodiversity data.\nLink: https://cleaning-data-r.ala.org.au/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -5193,8 +5193,8 @@
     "objectID": "chapters/Life Sciences.html#statistics-in-natural-resources-applications-with-r",
     "href": "chapters/Life Sciences.html#statistics-in-natural-resources-applications-with-r",
     "title": "21  Life Sciences",
-    "section": "21.29 Statistics in Natural Resources: Applications with R",
-    "text": "21.29 Statistics in Natural Resources: Applications with R\n\nMatthew Russell\n\nThis is a book for current or aspiring natural resource professionals that are required to analyze data and perform statistical analyses in their daily work. It is especially well suited to graduate students enrolled in natural resources, agricultural, and environmental science disciplines that need a quantitative understanding of the data they collect to better communicate their research findings.\nMore seasoned professionals that have previously had a course or two in statistics will also find the content familiar. This book can also serve as a bridge between professionals that understand statistics and want to learn how to perform analyses in R.\nLink: https://stats4nr.com/",
+    "section": "21.30 Statistics in Natural Resources: Applications with R",
+    "text": "21.30 Statistics in Natural Resources: Applications with R\n\nMatthew Russell\n\nThis is a book for current or aspiring natural resource professionals that are required to analyze data and perform statistical analyses in their daily work. It is especially well suited to graduate students enrolled in natural resources, agricultural, and environmental science disciplines that need a quantitative understanding of the data they collect to better communicate their research findings.\nMore seasoned professionals that have previously had a course or two in statistics will also find the content familiar. This book can also serve as a bridge between professionals that understand statistics and want to learn how to perform analyses in R.\nLink: https://stats4nr.com/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -5283,8 +5283,8 @@
     "objectID": "chapters/Field Specific.html#quantitative-methods-in-the-context-of-education-research",
     "href": "chapters/Field Specific.html#quantitative-methods-in-the-context-of-education-research",
     "title": "16  Field Specific",
-    "section": "16.18 Quantitative methods in the context of education research",
-    "text": "16.18 Quantitative methods in the context of education research\n\nPeter EJ Kemp\nRichard Brock\nAmy O’Brien\nCarla Finesilver\nLulu Healy\nDavid Pepper\n\nThis book takes the reader through the process of learning the R statistical programming language through the analysis of the 2022 PISA survey data\nLink: https://peterejkemp.github.io/v3/",
+    "section": "16.17 Quantitative methods in the context of education research",
+    "text": "16.17 Quantitative methods in the context of education research\n\nPeter EJ Kemp\nRichard Brock\nAmy O’Brien\nCarla Finesilver\nLulu Healy\nDavid Pepper\n\nThis book takes the reader through the process of learning the R statistical programming language through the analysis of the 2022 PISA survey data\nLink: https://peterejkemp.github.io/v3/",
     "crumbs": [
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Field Specific</span>"
     ]
@@ -5303,8 +5303,8 @@
     "objectID": "chapters/Getting Cleaning and Wrangling Data.html#the-data-preparation-journey-finding-your-way-with-r",
     "href": "chapters/Getting Cleaning and Wrangling Data.html#the-data-preparation-journey-finding-your-way-with-r",
     "title": "19  Getting, Cleaning and Wrangling Data",
-    "section": "19.12 The Data Preparation Journey: Finding Your Way With R",
-    "text": "19.12 The Data Preparation Journey: Finding Your Way With R\n\nMartin Monkman\n\nThe book will introduce the principles of data preparation, framed in a systematic approach that follows a typical data science or statistical workflow. With that context, readers will then work through practical solutions to resolving problems in data using the statistical and data science programming language R. These solutions will include examples of complex real-world data.\nLink: https://bookdown.org/martin_monkman/DataPreparationJourney/",
+    "section": "19.13 The Data Preparation Journey: Finding Your Way With R",
+    "text": "19.13 The Data Preparation Journey: Finding Your Way With R\n\nMartin Monkman\n\nThe book will introduce the principles of data preparation, framed in a systematic approach that follows a typical data science or statistical workflow. With that context, readers will then work through practical solutions to resolving problems in data using the statistical and data science programming language R. These solutions will include examples of complex real-world data.\nLink: https://bookdown.org/martin_monkman/DataPreparationJourney/",
     "crumbs": [
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Getting, Cleaning and Wrangling Data</span>"
     ]
@@ -5407,6 +5407,26 @@
     "text": "38.10 Research Software Engineering\n\nMatthias Bannert\n\nOverview open source software and gives R examples in automation and reproducibility.\nLink: https://rse-book.github.io/",
     "crumbs": [
       "<span class='chapter-number'>38</span>  <span class='chapter-title'>Workflow</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Getting Cleaning and Wrangling Data.html#biological-data-science-with-r",
+    "href": "chapters/Getting Cleaning and Wrangling Data.html#biological-data-science-with-r",
+    "title": "19  Getting, Cleaning and Wrangling Data",
+    "section": "19.3 Biological Data Science with R",
+    "text": "19.3 Biological Data Science with R\n\nStephen Turner\n\nIntroductory R book with a focus on tidy data analysis principles applied to life sciences.\nLink: https://bdsr.stephenturner.us/",
+    "crumbs": [
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Getting, Cleaning and Wrangling Data</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Life Sciences.html#biological-data-science-with-r",
+    "href": "chapters/Life Sciences.html#biological-data-science-with-r",
+    "title": "21  Life Sciences",
+    "section": "21.6 Biological Data Science with R",
+    "text": "21.6 Biological Data Science with R\n\nStephen Turner\n\nIntroductory R book with a focus on tidy data analysis principles applied to life sciences.\nLink: https://bdsr.stephenturner.us/",
+    "crumbs": [
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
   }
 ]

@@ -48,6 +48,14 @@ Hierarchical Models in Ecology Using Bayesian Inference
 
 Link: [https://bookdown.org/steve_midway/BHME/](https://bookdown.org/steve_midway/BHME/)
 
+## Biological Data Science with R
+
+- [Stephen Turner](https://blog.stephenturner.us/)
+
+Introductory R book with a focus on tidy data analysis principles applied to life sciences.
+
+Link: [https://bdsr.stephenturner.us/](https://bdsr.stephenturner.us/)
+
 ## Biostatistics for Biomedical Research
 
 - Frank E Harrell Jr

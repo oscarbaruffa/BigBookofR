@@ -61,25 +61,6 @@ This book introduces the programming language R and is meant for undergrads or g
 
 Link: [https://crimebythenumbers.com/](https://crimebythenumbers.com/)
 
-## Cryptocurrency Research Open Source R Tutorial
-
-- [Riccardo (Ricky) Esclapon](https://www.linkedin.com/in/esclaponriccardo/)
-- [John Chandler Johnson](https://www.linkedin.com/in/john-chandler-johnson-361a666/)
-- [Kai R. Larsen](https://www.linkedin.com/in/kai-r-larsen-4413a01/)
-
-The tutorial is in R. For those without experience programming in R
-we have a high-level version to help you learn before attempting the full version. Scroll down for a breakdown of the individual sections for an overview of what you will learn throughout.
-
-You will get more familiar with tools from the tidyverse, including dplyr, ggplot2, tibble and purrr. These tools provide an excellent complete ecosystem to do data science in R.
-
-You will learn to create machine learning models and how to fairly assess their performance.
-
-Cryptocurrency Data: You will learn these tools analyzing the latest
-cryptocurrency data. The tutorial automatically refreshes every 12 hours
-and the data is publicly available and refreshed hourly.
-
-Link: [https://cryptocurrencyresearch.org/](https://cryptocurrencyresearch.org/)
-
 ## Customer Intelligence with R
 
 

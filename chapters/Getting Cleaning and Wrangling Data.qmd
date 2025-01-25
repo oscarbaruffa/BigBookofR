@@ -24,6 +24,14 @@ saving yourself a lot of time.
 
 Link: [https://b-greve.gitbook.io/beginners-guide-to-clean-data/](https://b-greve.gitbook.io/beginners-guide-to-clean-data/)
 
+## Biological Data Science with R
+
+- [Stephen Turner](https://blog.stephenturner.us/)
+
+Introductory R book with a focus on tidy data analysis principles applied to life sciences.
+
+Link: [https://bdsr.stephenturner.us/](https://bdsr.stephenturner.us/)
+
 ## Cleaning Biodiversity Data in R
 
 - Atlas of Living Australia

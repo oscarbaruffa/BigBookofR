@@ -1,7 +1,7 @@
 ---
 title: "Welcome :)"
 author: "Oscar Baruffa"
-date: "2024-12-19"
+date: "2025-02-08"
 ---
 # Your last-ever bookmark
 Thanks for stopping by. If you're like me, you can't help but bookmark every R-related programming book you find in the hopes that one day you, or someone you know, might find it useful.

@@ -1,5 +1,13 @@
 # Text Analysis
 
+## An Introduction to Quantitative Text Analysis for Linguistics
+
+- Jerid Francom
+
+By the end of this textbook, readers will be able to identify, interpret and evaluate data analysis procedures and results to support research questions within language science. Additionally, readers will gain experience in designing and implementing research projects that involve processing and analyzing textual data employing modern programming strategies. This textbook aims to instill a strong sense of reproducible research practices, which are critical for promoting transparency, verification, and sharing of research findings.
+
+Link: [https://qtalr.com/book/](https://qtalr.com/book/)
+
 ## An Introduction to Text Processing and Analysis with R
 
 - [Michael Clark](https://m-clark.github.io)

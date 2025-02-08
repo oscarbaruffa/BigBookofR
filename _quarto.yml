@@ -13,11 +13,11 @@ book:
     style: floating
     collapse-level: 1
     border: true
-  
-  page-footer: 
+
+  page-footer:
     border: false
     background: light
-    left: | 
+    left: |
       Big Book of R - Oscar Baruffa
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
@@ -46,10 +46,10 @@ book:
     - chapters/Life Sciences.qmd
     - chapters/Machine Learning.qmd
     - chapters/Network Analysis.qmd
+    - chapters/Package Development.qmd
     - chapters/Packages.qmd
     - chapters/People Analytics.qmd
     - chapters/Psychology.qmd
-    - chapters/R Package Development.qmd
     - chapters/R Programming.qmd
     - chapters/Reports.qmd
     - chapters/Shiny.qmd
@@ -62,7 +62,7 @@ book:
     - chapters/Version Control.qmd
     - chapters/Workflow.qmd
     - chapters/Other Compendiums.qmd
-  
+
 format:
   html:
     toc: true

@@ -172,6 +172,14 @@ and combine features in other add-on packages into one package.
 
 Link: [https://yihui.org/knitr/](https://yihui.org/knitr/)
 
+## Marginal Effects Zoo
+
+- [Vincent Arel-Bundock](https://arelbundock.com)
+
+It includes over 30 chapters overs a wide range of topics, including how the marginaleffects package can facilitate the analysis of: Experiments, Observational data, Causal inference with G-Computation, Machine learning models, Bayesian modeling, Multilevel regression with post-stratification (MRP), Missing data, Matching, Inverse probability weighting, and Conformal prediction.
+
+Link: [https://marginaleffects.com](https://marginaleffects.com)
+
 ## mlr3 book
 
 - [Michel Lang](https://twitter.com/michellangts)
@@ -257,6 +265,16 @@ Link: [https://kcuilla.github.io/reactablefmtr/articles/reactablefmtr_cookbook.h
 rlist is a set of tools for working with list objects. Its goal is to make it easier to work with lists by providing a wide range of functions on non-tabular data stored in them. This package supports filtering, mapping, grouping, sorting, updating, searching and many other functions. It is pipe-friendly and strongly recommends functional programming style in list operations. This tutorial serves as complete guide to using rlist functionality to work with non-tabular data.
 
 Link: [https://renkun-ken.github.io/rlist-tutorial/](https://renkun-ken.github.io/rlist-tutorial/)
+
+## Scaling Up With R and Arrow
+
+- [Nic Crane](https://thisisnic.github.io/about/)
+- [Jonathan Keane](https://twitter.com/jonkeane?lang=en)
+- [Neal Richardson](https://github.com/nealrichardson)
+
+Arrow allows you to work with larger-than-memory data directly from R without needing to set up additional infrastructure. It implements the dplyr API, which means that if you are familiar with dplyr functions, you can use those same functions with arrow and don’t have to learn a whole new framework.
+
+Link: [https://arrowrbook.com/](https://arrowrbook.com/)
 
 ## Shiny App-Packages
 

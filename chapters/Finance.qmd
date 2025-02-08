@@ -14,6 +14,14 @@ Link: [https://www.msperlin.com/afedR/](https://www.msperlin.com/afedR/)
 
 Physical copy available: [https://amzn.to/3RBjXhN](https://amzn.to/3RBjXhN)
 
+## Applied Data Science for Credit Risk: A Practical Guide in R and Python
+
+- [Andrija Djurovic](https://bsky.app/profile/andrija-djurovic.bsky.social)
+
+This book provides a practical guide to critical data science methods, focusing on their application in credit risk management. Using examples in R and Python, it presents step-by-step processes for applying various analytical techniques while highlighting the importance of aligning methods with the specific characteristics of the data. Designed for practitioners and those with foundational data science and banking knowledge, the book bridges theory and practice with real-world examples.
+
+Link: [https://leanpub.com/adsfcr](https://leanpub.com/adsfcr)
+
 ## Audit Analytics with R
 
 - Jonathan Lin
@@ -62,6 +70,14 @@ applied to equity investment strategies that are built on firm
 characteristics.
 
 Link: [http://www.mlfactor.com/](http://www.mlfactor.com/)
+
+## Probability of Default Rating Modeling with R: Comprehensive overview of the modeling processes, principles, and design
+
+- [Andrija Djurovic](https://bsky.app/profile/andrija-djurovic.bsky.social)
+
+This book bridges theory and practice in PD rating modeling, offering practical steps, real-world examples, and a focus on design. It enables readers to shape customized solutions for diverse institutions, transforming the landscape of credit risk modeling.
+
+Link: [https://leanpub.com/pdrmwr](https://leanpub.com/pdrmwr)
 
 ## Reproducible Finance with R: Code Flows and Shiny Apps for Portfolio Analysis
 

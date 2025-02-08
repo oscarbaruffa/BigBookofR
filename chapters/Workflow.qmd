@@ -32,24 +32,6 @@ or write an issue.
 
 Link: [https://ropenscilabs.github.io/actions_sandbox/](https://ropenscilabs.github.io/actions_sandbox/)
 
-## How I Use R
-
-- David Keyes
-
-There are many great learning resources at the beginner stage and some incredible tutorials to master complex tasks in R. But, drawing from a concept in urban planning, there are far fewer resources in the middle. 
-Stretching the metaphor perhaps to its breaking point, new R users at the "detached single-family home" stage can't get to the advanced "mid-rise" level without going through the middle stage. The "missing middle" in the R neighborhood is the lack of resources to that answer the types of nuts and bolts questions that new R users often have.
-
-Things like:
-
-How should I organize my file structure when creating a new project?
-Should I do data cleaning in an RMarkdown file or an R script file? How
-do I find packages? How do I know if the packages I find are high
-quality?
-
-This book is my attempt to provide answers to these types of questions.
-
-Link: [https://howiuser.com/](https://howiuser.com/)
-
 ## R for the Rest of Us
 
 - [David Keyes](https://twitter.com/rfortherest)

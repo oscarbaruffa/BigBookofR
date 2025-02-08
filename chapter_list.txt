@@ -18,10 +18,10 @@
 - chapters/Life Sciences.qmd
 - chapters/Machine Learning.qmd
 - chapters/Network Analysis.qmd
+- chapters/Package Development.qmd
 - chapters/Packages.qmd
 - chapters/People Analytics.qmd
 - chapters/Psychology.qmd
-- chapters/R Package Development.qmd
 - chapters/R Programming.qmd
 - chapters/Reports.qmd
 - chapters/Shiny.qmd

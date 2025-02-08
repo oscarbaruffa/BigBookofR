@@ -285,26 +285,26 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../chapters/Package Development.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Package Development</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../chapters/Packages.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Packages</span></span></a>
+ <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Packages</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/People Analytics.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">People Analytics</span></span></a>
+ <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">People Analytics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/Psychology.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Psychology</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../chapters/R Package Development.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">R Package Development</span></span></a>
+ <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Psychology</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -389,12 +389,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#an-introduction-to-text-processing-and-analysis-with-r" id="toc-an-introduction-to-text-processing-and-analysis-with-r" class="nav-link active" data-scroll-target="#an-introduction-to-text-processing-and-analysis-with-r"><span class="header-section-number">35.1</span> An Introduction to Text Processing and Analysis with R</a></li>
-  <li><a href="#supervised-machine-learning-for-text-analysis-in-r" id="toc-supervised-machine-learning-for-text-analysis-in-r" class="nav-link" data-scroll-target="#supervised-machine-learning-for-text-analysis-in-r"><span class="header-section-number">35.2</span> Supervised Machine Learning for Text Analysis in R</a></li>
-  <li><a href="#text-mining-for-information-professionals-an-uncharted-territory" id="toc-text-mining-for-information-professionals-an-uncharted-territory" class="nav-link" data-scroll-target="#text-mining-for-information-professionals-an-uncharted-territory"><span class="header-section-number">35.3</span> Text Mining for Information Professionals: An Uncharted Territory</a></li>
-  <li><a href="#text-mining-for-social-scientists" id="toc-text-mining-for-social-scientists" class="nav-link" data-scroll-target="#text-mining-for-social-scientists"><span class="header-section-number">35.4</span> Text Mining for Social Scientists</a></li>
-  <li><a href="#text-mining-with-r" id="toc-text-mining-with-r" class="nav-link" data-scroll-target="#text-mining-with-r"><span class="header-section-number">35.5</span> Text Mining with R</a></li>
-  <li><a href="#text-mining-with-tidy-data-principles" id="toc-text-mining-with-tidy-data-principles" class="nav-link" data-scroll-target="#text-mining-with-tidy-data-principles"><span class="header-section-number">35.6</span> Text Mining With Tidy Data Principles</a></li>
+  <li><a href="#an-introduction-to-quantitative-text-analysis-for-linguistics" id="toc-an-introduction-to-quantitative-text-analysis-for-linguistics" class="nav-link active" data-scroll-target="#an-introduction-to-quantitative-text-analysis-for-linguistics"><span class="header-section-number">35.1</span> An Introduction to Quantitative Text Analysis for Linguistics</a></li>
+  <li><a href="#an-introduction-to-text-processing-and-analysis-with-r" id="toc-an-introduction-to-text-processing-and-analysis-with-r" class="nav-link" data-scroll-target="#an-introduction-to-text-processing-and-analysis-with-r"><span class="header-section-number">35.2</span> An Introduction to Text Processing and Analysis with R</a></li>
+  <li><a href="#supervised-machine-learning-for-text-analysis-in-r" id="toc-supervised-machine-learning-for-text-analysis-in-r" class="nav-link" data-scroll-target="#supervised-machine-learning-for-text-analysis-in-r"><span class="header-section-number">35.3</span> Supervised Machine Learning for Text Analysis in R</a></li>
+  <li><a href="#text-mining-for-information-professionals-an-uncharted-territory" id="toc-text-mining-for-information-professionals-an-uncharted-territory" class="nav-link" data-scroll-target="#text-mining-for-information-professionals-an-uncharted-territory"><span class="header-section-number">35.4</span> Text Mining for Information Professionals: An Uncharted Territory</a></li>
+  <li><a href="#text-mining-for-social-scientists" id="toc-text-mining-for-social-scientists" class="nav-link" data-scroll-target="#text-mining-for-social-scientists"><span class="header-section-number">35.5</span> Text Mining for Social Scientists</a></li>
+  <li><a href="#text-mining-with-r" id="toc-text-mining-with-r" class="nav-link" data-scroll-target="#text-mining-with-r"><span class="header-section-number">35.6</span> Text Mining with R</a></li>
+  <li><a href="#text-mining-with-tidy-data-principles" id="toc-text-mining-with-tidy-data-principles" class="nav-link" data-scroll-target="#text-mining-with-tidy-data-principles"><span class="header-section-number">35.7</span> Text Mining With Tidy Data Principles</a></li>
   </ul>
 </nav>
     </div>
@@ -420,16 +421,24 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="an-introduction-to-text-processing-and-analysis-with-r" class="level2" data-number="35.1">
-<h2 data-number="35.1" class="anchored" data-anchor-id="an-introduction-to-text-processing-and-analysis-with-r"><span class="header-section-number">35.1</span> An Introduction to Text Processing and Analysis with R</h2>
+<section id="an-introduction-to-quantitative-text-analysis-for-linguistics" class="level2" data-number="35.1">
+<h2 data-number="35.1" class="anchored" data-anchor-id="an-introduction-to-quantitative-text-analysis-for-linguistics"><span class="header-section-number">35.1</span> An Introduction to Quantitative Text Analysis for Linguistics</h2>
+<ul>
+<li>Jerid Francom</li>
+</ul>
+<p>By the end of this textbook, readers will be able to identify, interpret and evaluate data analysis procedures and results to support research questions within language science. Additionally, readers will gain experience in designing and implementing research projects that involve processing and analyzing textual data employing modern programming strategies. This textbook aims to instill a strong sense of reproducible research practices, which are critical for promoting transparency, verification, and sharing of research findings.</p>
+<p>Link: <a href="https://qtalr.com/book/">https://qtalr.com/book/</a></p>
+</section>
+<section id="an-introduction-to-text-processing-and-analysis-with-r" class="level2" data-number="35.2">
+<h2 data-number="35.2" class="anchored" data-anchor-id="an-introduction-to-text-processing-and-analysis-with-r"><span class="header-section-number">35.2</span> An Introduction to Text Processing and Analysis with R</h2>
 <ul>
 <li><a href="https://m-clark.github.io">Michael Clark</a></li>
 </ul>
 <p>Dealing with text is typically not even considered in the applied statistical training of most disciplines. This is in direct contrast with how often it has to be dealt with prior to more common analysis, or how interesting it might be to have text be the focus of analysis. This document and corresponding workshop will aim to provide a sense of the things one can do with text, and the sorts of analyses that might be useful.</p>
 <p>Link: <a href="https://m-clark.github.io/text-analysis-with-R/">https://m-clark.github.io/text-analysis-with-R/</a></p>
 </section>
-<section id="supervised-machine-learning-for-text-analysis-in-r" class="level2" data-number="35.2">
-<h2 data-number="35.2" class="anchored" data-anchor-id="supervised-machine-learning-for-text-analysis-in-r"><span class="header-section-number">35.2</span> Supervised Machine Learning for Text Analysis in R</h2>
+<section id="supervised-machine-learning-for-text-analysis-in-r" class="level2" data-number="35.3">
+<h2 data-number="35.3" class="anchored" data-anchor-id="supervised-machine-learning-for-text-analysis-in-r"><span class="header-section-number">35.3</span> Supervised Machine Learning for Text Analysis in R</h2>
 <ul>
 <li><a href="https://twitter.com/Emil_Hvitfeldt">Emil Hvitfeldt</a></li>
 <li><a href="https://twitter.com/juliasilge">Julia Silge</a></li>
@@ -437,8 +446,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Modeling as a statistical practice can encompass a wide variety of activities. This book focuses on supervised or predictive modeling for text, using text data to make predictions about the world around us. We use the tidymodels framework for modeling, a consistent and flexible collection of R packages developed to encourage good statistical practice.</p>
 <p>Link: <a href="https://smltar.com/">https://smltar.com/</a></p>
 </section>
-<section id="text-mining-for-information-professionals-an-uncharted-territory" class="level2" data-number="35.3">
-<h2 data-number="35.3" class="anchored" data-anchor-id="text-mining-for-information-professionals-an-uncharted-territory"><span class="header-section-number">35.3</span> Text Mining for Information Professionals: An Uncharted Territory</h2>
+<section id="text-mining-for-information-professionals-an-uncharted-territory" class="level2" data-number="35.4">
+<h2 data-number="35.4" class="anchored" data-anchor-id="text-mining-for-information-professionals-an-uncharted-territory"><span class="header-section-number">35.4</span> Text Mining for Information Professionals: An Uncharted Territory</h2>
 <ul>
 <li><a href="https://twitter.com/lamba_manika">Manika Lamba</a></li>
 <li><a href="https://twitter.com/drmadhusudhan">Margam Madhusudhan</a></li>
@@ -446,16 +455,16 @@ ul.task-list li input[type="checkbox"] {
 <p>This book focuses on a basic theoretical framework dealing with the problems, solutions, and applications of text mining and its various facets in a very practical form of case studies, use cases, and stories. From understanding different types and forms of data to case studies showing the application of each text mining approach on data retrieved from various resources, this book is a must-read for all library professionals interested in text mining and its application in libraries. Additionally, this book will also be helpful to archivists, digital curators, or any other humanities and social science professionals who want to understand the basic theory behind text data, text mining, and various tools and techniques available to solve and visualize their research problems. Authors’ book website: https://textmining-infopros.github.io/</p>
 <p>Link: <a href="https://www.amazon.com/Text-Mining-for-Information-Professionals_-An-Uncharted-Territory/dp/3030850846">https://www.amazon.com/Text-Mining-for-Information-Professionals_-An-Uncharted-Territory/dp/3030850846</a></p>
 </section>
-<section id="text-mining-for-social-scientists" class="level2" data-number="35.4">
-<h2 data-number="35.4" class="anchored" data-anchor-id="text-mining-for-social-scientists"><span class="header-section-number">35.4</span> Text Mining for Social Scientists</h2>
+<section id="text-mining-for-social-scientists" class="level2" data-number="35.5">
+<h2 data-number="35.5" class="anchored" data-anchor-id="text-mining-for-social-scientists"><span class="header-section-number">35.5</span> Text Mining for Social Scientists</h2>
 <ul>
 <li><a href="https://twitter.com/felixlennert">Felix Lennert</a></li>
 </ul>
 <p>This script will cover the pre-processing of text, the implementation of supervised and unsupervised approaches to text, and in the end, I will briefly touch upon word embeddings and how social science can use them for inquiry.</p>
 <p>Link: <a href="https://bookdown.org/f_lennert/text-mining-book/">https://bookdown.org/f_lennert/text-mining-book/</a></p>
 </section>
-<section id="text-mining-with-r" class="level2" data-number="35.5">
-<h2 data-number="35.5" class="anchored" data-anchor-id="text-mining-with-r"><span class="header-section-number">35.5</span> Text Mining with R</h2>
+<section id="text-mining-with-r" class="level2" data-number="35.6">
+<h2 data-number="35.6" class="anchored" data-anchor-id="text-mining-with-r"><span class="header-section-number">35.6</span> Text Mining with R</h2>
 <ul>
 <li><a href="https://twitter.com/juliasilge">Julia Silge</a></li>
 <li><a href="https://twitter.com/drob">David Robinson</a></li>
@@ -463,8 +472,8 @@ ul.task-list li input[type="checkbox"] {
 <p>This book serves as an introduction of text mining using the tidytext package and other tidy tools in R. The functions provided by the tidytext package are relatively simple; what is important are the possible applications. Thus, this book provides compelling examples of real text mining problems.</p>
 <p>Link: <a href="https://www.tidytextmining.com/">https://www.tidytextmining.com/</a></p>
 </section>
-<section id="text-mining-with-tidy-data-principles" class="level2" data-number="35.6">
-<h2 data-number="35.6" class="anchored" data-anchor-id="text-mining-with-tidy-data-principles"><span class="header-section-number">35.6</span> Text Mining With Tidy Data Principles</h2>
+<section id="text-mining-with-tidy-data-principles" class="level2" data-number="35.7">
+<h2 data-number="35.7" class="anchored" data-anchor-id="text-mining-with-tidy-data-principles"><span class="header-section-number">35.7</span> Text Mining With Tidy Data Principles</h2>
 <ul>
 <li><a href="https://twitter.com/juliasilge">Julia Silge</a></li>
 </ul>

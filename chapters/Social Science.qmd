@@ -208,4 +208,14 @@ Our goal for this document is to illustrate the importance of good data analysis
 
 Link: [https://bookdown.org/bean_jerry/using_r_for_social_work_research/](https://bookdown.org/bean_jerry/using_r_for_social_work_research/)
 
+## Visualization for Social Data Science
+
+- [Roger Beecham](https://www.roger-beecham.com/)
+
+vis4sds provides end-to-end skills in visual data analysis. The book demonstrates how data graphics and modern statistics can be used in tandem to process, explore, model and communicate data-driven social science. It is packed with detailed data analysis examples, pushing you to do visual data analysis. As well as introducing, and demonstrating with code, a wide range of data visualizations for exploring patterns in data, Visualization for Social Data Science shows how models can be integrated with graphics to emphasise important structure and de-emphasise spurious structure and the role of data graphics in scientific communication -- in building trust and integrity. Many of the book’s influences are from data journalism, as well as information visualization and cartography.
+
+The book is being published by Chapman Hall/CRC Press in 2025, but the online development version will remain and be maintained by the author.
+
+Link: [https://vis4sds.github.io/vis4sds/](https://vis4sds.github.io/vis4sds/)
+
 

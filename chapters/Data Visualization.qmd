@@ -92,6 +92,14 @@ These modules are here to present a succinct guide to using R, RStudio, and R Ma
 
 Link: [https://bookdown.org/max_ricciardelli/wrangling_modules/](https://bookdown.org/max_ricciardelli/wrangling_modules/)
 
+## DataViz protocols: An introduction to data visualization protocols for wet lab scientists
+
+- [Joachim Goedhart](https://bsky.app/profile/joachimgoedhart.bsky.social)
+
+This book aims to lower the barrier for wet lab scientists to use R and ggplot2 for data visualization. First, by explaining some basic principles in data processing and visualization. Second, by providing example protocols, which can be applied to your own data, and I hope that the protocols serve as inspiration and a starting point for new and improved protocols.
+
+Link: [https://joachimgoedhart.github.io/DataViz-protocols/](https://joachimgoedhart.github.io/DataViz-protocols/)
+
 ## Fundamentals of Data Visualization
 
 - [Claus Wilke](https://twitter.com/ClausWilke)
@@ -214,5 +222,15 @@ This book will help you master R plots the easy way. We have spent a long time c
 Paid: Pay what you want, minimum $5 $10
 
 Link: [https://leanpub.com/ggplot-guide](https://leanpub.com/ggplot-guide)
+
+## Visualization for Social Data Science
+
+- [Roger Beecham](https://www.roger-beecham.com/)
+
+vis4sds provides end-to-end skills in visual data analysis. The book demonstrates how data graphics and modern statistics can be used in tandem to process, explore, model and communicate data-driven social science. It is packed with detailed data analysis examples, pushing you to do visual data analysis. As well as introducing, and demonstrating with code, a wide range of data visualizations for exploring patterns in data, Visualization for Social Data Science shows how models can be integrated with graphics to emphasise important structure and de-emphasise spurious structure and the role of data graphics in scientific communication -- in building trust and integrity. Many of the book’s influences are from data journalism, as well as information visualization and cartography.
+
+The book is being published by Chapman Hall/CRC Press in 2025, but the online development version will remain and be maintained by the author.
+
+Link: [https://vis4sds.github.io/vis4sds/](https://vis4sds.github.io/vis4sds/)
 
 

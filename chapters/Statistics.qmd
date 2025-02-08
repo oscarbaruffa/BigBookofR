@@ -305,6 +305,14 @@ For each of those techniques, the LOST page will contain code for performing tha
 
 Link: [https://lost-stats.github.io/](https://lost-stats.github.io/)
 
+## Marginal Effects Zoo
+
+- [Vincent Arel-Bundock](https://arelbundock.com)
+
+It includes over 30 chapters overs a wide range of topics, including how the marginaleffects package can facilitate the analysis of: Experiments, Observational data, Causal inference with G-Computation, Machine learning models, Bayesian modeling, Multilevel regression with post-stratification (MRP), Missing data, Matching, Inverse probability weighting, and Conformal prediction.
+
+Link: [https://marginaleffects.com](https://marginaleffects.com)
+
 ## Mixed Models with R  Getting started with random effects
 
 - [Michael Clark](https://m-clark.github.io/)

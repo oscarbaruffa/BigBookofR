@@ -47,6 +47,16 @@ PS the first chapter has a Jon Snow quote ;)
 
 Link: [https://therinspark.com/](https://therinspark.com/)
 
+## Scaling Up With R and Arrow
+
+- [Nic Crane](https://thisisnic.github.io/about/)
+- [Jonathan Keane](https://twitter.com/jonkeane?lang=en)
+- [Neal Richardson](https://github.com/nealrichardson)
+
+Arrow allows you to work with larger-than-memory data directly from R without needing to set up additional infrastructure. It implements the dplyr API, which means that if you are familiar with dplyr functions, you can use those same functions with arrow and don’t have to learn a whole new framework.
+
+Link: [https://arrowrbook.com/](https://arrowrbook.com/)
+
 ## Using Spark from R for performance with arbitrary code
 
 - [Jozef Hajnala](https://twitter.com/jozefhajnala)

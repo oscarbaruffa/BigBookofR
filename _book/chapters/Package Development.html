@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Big Book of R - 8&nbsp; Big Data</title>
+<title>Big Book of R - 24&nbsp; Package Development</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../chapters/Blogdown.html" rel="next">
-<link href="../chapters/Art.html" rel="prev">
+<link href="../chapters/Packages.html" rel="next">
+<link href="../chapters/Network Analysis.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -78,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<meta property="og:title" content="Big Book of R - 8&nbsp; Big Data">
+<meta property="og:title" content="Big Book of R - 24&nbsp; Package Development">
 
 <meta property="og:description" content="">
 
@@ -90,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<meta name="twitter:title" content="Big Book of R - 8&nbsp; Big Data">
+<meta name="twitter:title" content="Big Book of R - 24&nbsp; Package Development">
 
 <meta name="twitter:card" content="summary_large_image">
 
@@ -117,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/Big Data.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Big Data</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/Package Development.html"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Package Development</span></a></li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -189,7 +189,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../chapters/Big Data.html" class="sidebar-item-text sidebar-link active">
+  <a href="../chapters/Big Data.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Big Data</span></span></a>
   </div>
 </li>
@@ -285,7 +285,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../chapters/Package Development.html" class="sidebar-item-text sidebar-link">
+  <a href="../chapters/Package Development.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Package Development</span></span></a>
   </div>
 </li>
@@ -389,13 +389,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#big-data-analytics" id="toc-big-data-analytics" class="nav-link active" data-scroll-target="#big-data-analytics"><span class="header-section-number">8.1</span> Big Data Analytics</a></li>
-  <li><a href="#big-data-with-r---exercise-book" id="toc-big-data-with-r---exercise-book" class="nav-link" data-scroll-target="#big-data-with-r---exercise-book"><span class="header-section-number">8.2</span> Big Data with R - Exercise book</a></li>
-  <li><a href="#exploring-visualizing-and-modeling-big-data-with-r" id="toc-exploring-visualizing-and-modeling-big-data-with-r" class="nav-link" data-scroll-target="#exploring-visualizing-and-modeling-big-data-with-r"><span class="header-section-number">8.3</span> Exploring, Visualizing, and Modeling Big Data with R</a></li>
-  <li><a href="#larger-than-memory-data-workflows-with-apache-arrow" id="toc-larger-than-memory-data-workflows-with-apache-arrow" class="nav-link" data-scroll-target="#larger-than-memory-data-workflows-with-apache-arrow"><span class="header-section-number">8.4</span> Larger-Than-Memory Data Workflows with Apache Arrow</a></li>
-  <li><a href="#mastering-spark-with-r" id="toc-mastering-spark-with-r" class="nav-link" data-scroll-target="#mastering-spark-with-r"><span class="header-section-number">8.5</span> Mastering Spark with R</a></li>
-  <li><a href="#scaling-up-with-r-and-arrow" id="toc-scaling-up-with-r-and-arrow" class="nav-link" data-scroll-target="#scaling-up-with-r-and-arrow"><span class="header-section-number">8.6</span> Scaling Up With R and Arrow</a></li>
-  <li><a href="#using-spark-from-r-for-performance-with-arbitrary-code" id="toc-using-spark-from-r-for-performance-with-arbitrary-code" class="nav-link" data-scroll-target="#using-spark-from-r-for-performance-with-arbitrary-code"><span class="header-section-number">8.7</span> Using Spark from R for performance with arbitrary code</a></li>
+  <li><a href="#coding-club-creating-an-r-package" id="toc-coding-club-creating-an-r-package" class="nav-link active" data-scroll-target="#coding-club-creating-an-r-package"><span class="header-section-number">24.1</span> Coding Club: Creating an R Package</a></li>
+  <li><a href="#http-testing-in-r" id="toc-http-testing-in-r" class="nav-link" data-scroll-target="#http-testing-in-r"><span class="header-section-number">24.2</span> HTTP testing in R</a></li>
+  <li><a href="#pack-your-code" id="toc-pack-your-code" class="nav-link" data-scroll-target="#pack-your-code"><span class="header-section-number">24.3</span> Pack YouR Code</a></li>
+  <li><a href="#r-packages" id="toc-r-packages" class="nav-link" data-scroll-target="#r-packages"><span class="header-section-number">24.4</span> R packages</a></li>
+  <li><a href="#ropensci-packages-development-maintenance-and-peer-review" id="toc-ropensci-packages-development-maintenance-and-peer-review" class="nav-link" data-scroll-target="#ropensci-packages-development-maintenance-and-peer-review"><span class="header-section-number">24.5</span> rOpenSci Packages Development, Maintenance, and Peer Review</a></li>
   </ul>
 </nav>
     </div>
@@ -404,7 +402,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Big Data</span></h1>
+<h1 class="title"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Package Development</span></h1>
 </div>
 
 
@@ -421,69 +419,49 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="big-data-analytics" class="level2" data-number="8.1">
-<h2 data-number="8.1" class="anchored" data-anchor-id="big-data-analytics"><span class="header-section-number">8.1</span> Big Data Analytics</h2>
+<section id="coding-club-creating-an-r-package" class="level2" data-number="24.1">
+<h2 data-number="24.1" class="anchored" data-anchor-id="coding-club-creating-an-r-package"><span class="header-section-number">24.1</span> Coding Club: Creating an R Package</h2>
 <ul>
-<li>Ulrich Matter</li>
+<li><a href="https://debruine.github.io/">Lisa DeBruine</a></li>
 </ul>
-<p>This is the website of the 1st edition of “Big Data Analytics”. The book provides an introduction to Big Data Analytics for academics and practitioners</p>
-<p>Link: <a href="https://umatter.github.io/BigData/">https://umatter.github.io/BigData/</a></p>
+<p>Making an R package develops generic coding skills and gives you valuable insight to how R works. We’ll cover setting up a package project, creating functions, documenting them with roxygen, creating vignettes, unit testing, package testing, version control with git, and distribution with github.</p>
+<p>You will need only very basic R skills and a willingness to learn. The only people this would not be suitable for are those with zero previous experience in R (unless you know you pick up coding languages quickly). If you can install packages and have written an analysis script, you’ll be fine.</p>
+<p>Link: <a href="https://psyteachr.github.io/intro-r-pkgs/">https://psyteachr.github.io/intro-r-pkgs/</a></p>
 </section>
-<section id="big-data-with-r---exercise-book" class="level2" data-number="8.2">
-<h2 data-number="8.2" class="anchored" data-anchor-id="big-data-with-r---exercise-book"><span class="header-section-number">8.2</span> Big Data with R - Exercise book</h2>
+<section id="http-testing-in-r" class="level2" data-number="24.2">
+<h2 data-number="24.2" class="anchored" data-anchor-id="http-testing-in-r"><span class="header-section-number">24.2</span> HTTP testing in R</h2>
 <ul>
-<li><a href="https://twitter.com/Blair09M">James Blair</a></li>
+<li><a href="https://twitter.com/sckottie">Scott Chamberlain</a></li>
+<li><a href="https://twitter.com/ma_salmon">Maëlle Salmon</a></li>
 </ul>
-<p>This 2-day workshop covers how to analyze large amounts of data in R. We will focus on scaling up our analyses using the same dplyr verbs that we use in our everyday work. We will use dplyr with data.table, databases, and Spark. We will also cover best practices on visualizing, modeling, and sharing against these data sources. Where applicable, we will review recommended connection settings, security best practices, and deployment options.</p>
-<p>Link: <a href="https://rstudio-conf-2020.github.io/big-data/">https://rstudio-conf-2020.github.io/big-data/</a></p>
+<p>This book is meant to be a free, central reference for developers of R packages accessing web resources, to help them have a faster and more robust development. Our aim is to develop an useful guidance to go with the great recent tools that vcr, webmockr, httptest and presser are.</p>
+<p>Link: <a href="https://books.ropensci.org/http-testing/">https://books.ropensci.org/http-testing/</a></p>
 </section>
-<section id="exploring-visualizing-and-modeling-big-data-with-r" class="level2" data-number="8.3">
-<h2 data-number="8.3" class="anchored" data-anchor-id="exploring-visualizing-and-modeling-big-data-with-r"><span class="header-section-number">8.3</span> Exploring, Visualizing, and Modeling Big Data with R</h2>
+<section id="pack-your-code" class="level2" data-number="24.3">
+<h2 data-number="24.3" class="anchored" data-anchor-id="pack-your-code"><span class="header-section-number">24.3</span> Pack YouR Code</h2>
 <ul>
-<li><a href="https://twitter.com/drokanbulut">Okan Bulut</a></li>
-<li><a href="https://github.com/cddesja">Christopher Desjardins</a></li>
+<li><a href="https://www.gastonsanchez.com">Gaston Sanchez</a></li>
 </ul>
-<p>Working with BIG DATA requires a particular suite of data analytics tools and advanced techniques, such as machine learning (ML). Many of these tools are readily and freely available in R. This full-day session will provide participants with a hands-on training on how to use data analytics tools and machine learning methods available in R to explore, visualize, and model big data.</p>
-<p>Link: <a href="https://okanbulut.github.io/bigdata/">https://okanbulut.github.io/bigdata/</a></p>
+<p>The ultimate goal of this book is to teach you how to create a relatively simple R package based on the so-called S3 classes.</p>
+<p>Paid: Free preview of first 4 chapters $13</p>
+<p>Link: <a href="http://www.gastonsanchez.com/packyourcode/">http://www.gastonsanchez.com/packyourcode/</a></p>
 </section>
-<section id="larger-than-memory-data-workflows-with-apache-arrow" class="level2" data-number="8.4">
-<h2 data-number="8.4" class="anchored" data-anchor-id="larger-than-memory-data-workflows-with-apache-arrow"><span class="header-section-number">8.4</span> Larger-Than-Memory Data Workflows with Apache Arrow</h2>
+<section id="r-packages" class="level2" data-number="24.4">
+<h2 data-number="24.4" class="anchored" data-anchor-id="r-packages"><span class="header-section-number">24.4</span> R packages</h2>
 <ul>
-<li><a href="https://djnavarro.net">Danielle Navarro</a></li>
-<li><a href="https://jonkeane.com">Jonathan Keane</a></li>
-<li><a href="https://twitter.com/stephhazlitt">Stephanie Hazlitt</a></li>
+<li><a href="https://twitter.com/hadleywickham">Hadley Wickham</a></li>
+<li><a href="https://twitter.com/JennyBryan">Jenny Bryan</a></li>
 </ul>
-<p>In this tutorial you will learn how to use the arrow R package to create seamless engineering-to-analysis data pipelines. You’ll learn how to use interoperable data file formats like Parquet or Feather for efficient storage and data access. You’ll learn how to exercise fine control over data types to avoid common data pipeline problems. During the tutorial you’ll be processing larger-than-memory files and multi-file datasets with familiar dplyr syntax, and working with data in cloud storage.</p>
-<p>Link: <a href="https://arrow-user2022.netlify.app">https://arrow-user2022.netlify.app</a></p>
+<p>Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this section you’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.</p>
+<p>Link: <a href="https://r-pkgs.org/">https://r-pkgs.org/</a></p>
 </section>
-<section id="mastering-spark-with-r" class="level2" data-number="8.5">
-<h2 data-number="8.5" class="anchored" data-anchor-id="mastering-spark-with-r"><span class="header-section-number">8.5</span> Mastering Spark with R</h2>
+<section id="ropensci-packages-development-maintenance-and-peer-review" class="level2" data-number="24.5">
+<h2 data-number="24.5" class="anchored" data-anchor-id="ropensci-packages-development-maintenance-and-peer-review"><span class="header-section-number">24.5</span> rOpenSci Packages Development, Maintenance, and Peer Review</h2>
 <ul>
-<li>Javier Luraschi</li>
-<li>Kevin Kuo</li>
-<li>Edgar Ruiz</li>
+<li><a href="https://twitter.com/ropensci">rOpenSci software review editorial team</a></li>
 </ul>
-<p>In this book you will learn how to use Apache Spark with R. The book intends to take someone unfamiliar with Spark or R and help you become proficient by teaching you a set of tools, skills and practices applicable to large-scale data science.</p>
-<p>PS the first chapter has a Jon Snow quote ;)</p>
-<p>Link: <a href="https://therinspark.com/">https://therinspark.com/</a></p>
-</section>
-<section id="scaling-up-with-r-and-arrow" class="level2" data-number="8.6">
-<h2 data-number="8.6" class="anchored" data-anchor-id="scaling-up-with-r-and-arrow"><span class="header-section-number">8.6</span> Scaling Up With R and Arrow</h2>
-<ul>
-<li><a href="https://thisisnic.github.io/about/">Nic Crane</a></li>
-<li><a href="https://twitter.com/jonkeane?lang=en">Jonathan Keane</a></li>
-<li><a href="https://github.com/nealrichardson">Neal Richardson</a></li>
-</ul>
-<p>Arrow allows you to work with larger-than-memory data directly from R without needing to set up additional infrastructure. It implements the dplyr API, which means that if you are familiar with dplyr functions, you can use those same functions with arrow and don’t have to learn a whole new framework.</p>
-<p>Link: <a href="https://arrowrbook.com/">https://arrowrbook.com/</a></p>
-</section>
-<section id="using-spark-from-r-for-performance-with-arbitrary-code" class="level2" data-number="8.7">
-<h2 data-number="8.7" class="anchored" data-anchor-id="using-spark-from-r-for-performance-with-arbitrary-code"><span class="header-section-number">8.7</span> Using Spark from R for performance with arbitrary code</h2>
-<ul>
-<li><a href="https://twitter.com/jozefhajnala">Jozef Hajnala</a></li>
-</ul>
-<p>This book provides practical insights into using the sparklyr interface to gain the benefits of Apache Spark while still retaining the ability to use R code organized in custom-built functions and packages.</p>
-<p>Link: <a href="https://sparkfromr.com">https://sparkfromr.com</a></p>
+<p>This book is a package development guide for authors, maintainers, reviewers and editors of rOpenSci.</p>
+<p>Link: <a href="https://devguide.ropensci.org/index.html">https://devguide.ropensci.org/index.html</a></p>
 
 
 </section>
@@ -1084,13 +1062,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../chapters/Art.html" class="pagination-link" aria-label="Art">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Art</span></span>
+      <a href="../chapters/Network Analysis.html" class="pagination-link" aria-label="Network Analysis">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Network Analysis</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../chapters/Blogdown.html" class="pagination-link" aria-label="Blogdown">
-        <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Blogdown</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../chapters/Packages.html" class="pagination-link" aria-label="Packages">
+        <span class="nav-page-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Packages</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

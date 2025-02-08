@@ -1,4 +1,14 @@
-# R Package Development
+# Package Development
+
+## Coding Club: Creating an R Package
+
+- [Lisa DeBruine](https://debruine.github.io/)
+
+Making an R package develops generic coding skills and gives you valuable insight to how R works. We’ll cover setting up a package project, creating functions, documenting them with roxygen, creating vignettes, unit testing, package testing, version control with git, and distribution with github.
+
+You will need only very basic R skills and a willingness to learn. The only people this would not be suitable for are those with zero previous experience in R (unless you know you pick up coding languages quickly). If you can install packages and have written an analysis script, you’ll be fine.
+
+Link: [https://psyteachr.github.io/intro-r-pkgs/](https://psyteachr.github.io/intro-r-pkgs/)
 
 ## HTTP testing in R
 

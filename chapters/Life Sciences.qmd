@@ -135,6 +135,14 @@ We hope this book provides a gentle introduction to data science. The main goal 
 
 Link: [https://ds4biomed.tech/](https://ds4biomed.tech/)
 
+## DataViz protocols: An introduction to data visualization protocols for wet lab scientists
+
+- [Joachim Goedhart](https://bsky.app/profile/joachimgoedhart.bsky.social)
+
+This book aims to lower the barrier for wet lab scientists to use R and ggplot2 for data visualization. First, by explaining some basic principles in data processing and visualization. Second, by providing example protocols, which can be applied to your own data, and I hope that the protocols serve as inspiration and a starting point for new and improved protocols.
+
+Link: [https://joachimgoedhart.github.io/DataViz-protocols/](https://joachimgoedhart.github.io/DataViz-protocols/)
+
 ## Experimental Design for Laboratory Biologists Maximising Information and Improving Reproducibility
 
 - Stanley E. Lazic

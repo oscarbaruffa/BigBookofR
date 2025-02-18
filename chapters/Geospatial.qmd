@@ -45,7 +45,7 @@ Link: [https://www.paulamoraga.com/book-spatial/index.html](https://www.paulamor
 This is the online home of Geocomputation with R, a book on geographic
 data analysis, visualization and modeling.
 
-Link: [https://geocompr.robinlovelace.net/](https://geocompr.robinlovelace.net/)
+Link: [https://r.geocompx.org/](https://r.geocompx.org/)
 
 ## Geospatial Health Data Modeling and Visualization with R-INLA and Shiny
 
@@ -127,8 +127,10 @@ Link: [https://sdesabbata.github.io/r-for-geographic-data-science/index.html](ht
 - Lorena Santos
 - et al
 
-Using time series derived from big Earth Observation data sets is one of the leading research trends in Land Use Science and Remote Sensing. One of the more promising uses of satellite time series is its application to classify land use and land cover. Information on land is critical for sustainable development because our growing demand for natural resources is causing significant environmental impacts. The target audience for sits is the new generation of specialists who understand the principles of remote sensing and can write scripts in R. Ideally, users should have basic knowledge of data science methods using R.
-
+Using time series derived from big Earth Observation data sets is one of the leading research trends in Land Use Science and Remote Sensing. One of the more promising uses of satellite time series is its application to classify land use and land cover. Information on land is critical for sustainable development because our growing demand for natural resources is causing significant environmental impacts. The target audience for sits is the new generation of specialists who understand the principles of remote sensing and can write scripts in R. Ideally, users should have basic knowledge of data science methods using R.
+
+
+
 This book presents sits, an open-source R package for land use and land cover classification using big Earth observation data.
 
 Link: [https://e-sensing.github.io/sitsbook/](https://e-sensing.github.io/sitsbook/)

@@ -60,6 +60,21 @@ Tradução do original em inglês, Statistics with R for Linguistics, de Stefan 
 
 Link: [Even3 - Editora](https://publicacoes.even3.com.br/book/estatistica-com-r-para-a-linguistica-112125)
 
+## Manual de R para Epidemiologistas
+
+Este manual é um guia de referência rápida para o uso do R em epidemiologia aplicada e saúde pública, com exemplos práticos voltados para problemas epidemiológicos comuns. Criado por epidemiologistas para epidemiologistas, já foi utilizado por milhões de pessoas ao redor do mundo e está disponível em diversos idiomas, incluindo português. Além do material online, há versões off-line e treinamentos ao vivo. O projeto é mantido de forma colaborativa por profissionais de saúde de diversas instituições globais.
+
+Link: [https://www.epirhandbook.com/pt/index.pt.html](https://www.epirhandbook.com/pt/index.pt.html)
+
+## Previsão: Princípios e prática
+
+- Rob J Hyndman
+- George Athanasopoulos
+
+Este livro oferece uma introdução acessível aos métodos de previsão, com foco na aplicação prática em negócios e estudos acadêmicos. Destinado a leitores com conhecimentos básicos de estatística, apresenta técnicas utilizando R, sem aprofundar em teoria avançada. Cada capítulo inclui sugestões de leitura complementar para quem deseja se aprofundar.
+
+Link: [https://otexts.com/fpppg/](https://otexts.com/fpppg/)
+
 ## R para Ciência de Dados (2ª edição)
 
 A tradução para o português da 2ª edição do [R for Data Science](https://www.bigbookofr.com/chapters/data%20science#r-for-data-analysis) é um projeto colaborativo da comunidade de R no Brasil, tornando o livro mais acessível. Coordenado por Beatriz Milz, contou com a participação de diversos voluntários, incluindo a adaptação dos conjuntos de dados no pacote [{dados}](https://cienciadedatos.github.io/dados/). O livro cobre desde importação e transformação até visualização e comunicação de dados.

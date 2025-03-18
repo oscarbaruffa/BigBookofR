@@ -21,6 +21,7 @@
 - chapters/Package Development.qmd
 - chapters/Packages.qmd
 - chapters/People Analytics.qmd
+- chapters/Português.qmd
 - chapters/Psychology.qmd
 - chapters/R Programming.qmd
 - chapters/Reports.qmd

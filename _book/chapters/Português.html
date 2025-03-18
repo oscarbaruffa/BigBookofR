@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.554">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Big Book of R - 27&nbsp; R Package Development</title>
+<title>27&nbsp; Português – Big Book of R</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,19 +30,19 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../chapters/R Programming.html" rel="next">
-<link href="../chapters/Psychology.html" rel="prev">
+<link href="../chapters/Psychology.html" rel="next">
+<link href="../chapters/People Analytics.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b53751a350365c71b6c909e95f209ed1.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-5bbe395c1282cdd8b46ace5b1a5c8a87.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-431e6d0365ab7de4b4794799ce94b2f3.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -78,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<meta property="og:title" content="Big Book of R - 27&nbsp; R Package Development">
+<meta property="og:title" content="27&nbsp; Português – Big Book of R">
 
 <meta property="og:description" content="">
 
@@ -90,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<meta name="twitter:title" content="Big Book of R - 27&nbsp; R Package Development">
+<meta name="twitter:title" content="27&nbsp; Português – Big Book of R">
 
 <meta name="twitter:card" content="summary_large_image">
 
@@ -114,13 +114,13 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/R Package Development.html"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">R Package Development</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/Português.html"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Português</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -285,98 +285,104 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../chapters/Package Development.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Package Development</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../chapters/Packages.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Packages</span></span></a>
+ <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Packages</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/People Analytics.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">People Analytics</span></span></a>
+ <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">People Analytics</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapters/Português.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Português</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/Psychology.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Psychology</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../chapters/R Package Development.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">R Package Development</span></span></a>
+ <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Psychology</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/R Programming.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">R Programming</span></span></a>
+ <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">R Programming</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/Reports.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Reports</span></span></a>
+ <span class="menu-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Reports</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/Shiny.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Shiny</span></span></a>
+ <span class="menu-text"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Shiny</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/Social Science.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Social Science</span></span></a>
+ <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Social Science</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/Sport Analytics.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Sport Analytics</span></span></a>
+ <span class="menu-text"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Sport Analytics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/Statistics.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Statistics</span></span></a>
+ <span class="menu-text"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Statistics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/Teaching.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Teaching</span></span></a>
+ <span class="menu-text"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Teaching</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/Text Analysis.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Text Analysis</span></span></a>
+ <span class="menu-text"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">Text Analysis</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/Time Series Analysis and Forecasting.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">Time Series Analysis and Forecasting</span></span></a>
+ <span class="menu-text"><span class="chapter-number">37</span>&nbsp; <span class="chapter-title">Time Series Analysis and Forecasting</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/Version Control.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">37</span>&nbsp; <span class="chapter-title">Version Control</span></span></a>
+ <span class="menu-text"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">Version Control</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/Workflow.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">Workflow</span></span></a>
+ <span class="menu-text"><span class="chapter-number">39</span>&nbsp; <span class="chapter-title">Workflow</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../chapters/Other Compendiums.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">39</span>&nbsp; <span class="chapter-title">Other Compendiums</span></span></a>
+ <span class="menu-text"><span class="chapter-number">40</span>&nbsp; <span class="chapter-title">Other Compendiums</span></span></a>
   </div>
 </li>
     </ul>
@@ -389,10 +395,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#http-testing-in-r" id="toc-http-testing-in-r" class="nav-link active" data-scroll-target="#http-testing-in-r"><span class="header-section-number">27.1</span> HTTP testing in R</a></li>
-  <li><a href="#pack-your-code" id="toc-pack-your-code" class="nav-link" data-scroll-target="#pack-your-code"><span class="header-section-number">27.2</span> Pack YouR Code</a></li>
-  <li><a href="#r-packages" id="toc-r-packages" class="nav-link" data-scroll-target="#r-packages"><span class="header-section-number">27.3</span> R packages</a></li>
-  <li><a href="#ropensci-packages-development-maintenance-and-peer-review" id="toc-ropensci-packages-development-maintenance-and-peer-review" class="nav-link" data-scroll-target="#ropensci-packages-development-maintenance-and-peer-review"><span class="header-section-number">27.4</span> rOpenSci Packages Development, Maintenance, and Peer Review</a></li>
+  <li><a href="#análises-ecológicas-no-r" id="toc-análises-ecológicas-no-r" class="nav-link active" data-scroll-target="#análises-ecológicas-no-r"><span class="header-section-number">27.1</span> Análises Ecológicas no R</a></li>
+  <li><a href="#análise-estatística-com-r-para-leigos" id="toc-análise-estatística-com-r-para-leigos" class="nav-link" data-scroll-target="#análise-estatística-com-r-para-leigos"><span class="header-section-number">27.2</span> Análise Estatística com R Para Leigos</a></li>
+  <li><a href="#análise-espacial-com-r" id="toc-análise-espacial-com-r" class="nav-link" data-scroll-target="#análise-espacial-com-r"><span class="header-section-number">27.3</span> Análise Espacial com R</a></li>
+  <li><a href="#análise-preditiva-com-azure-machine-learning-e-r" id="toc-análise-preditiva-com-azure-machine-learning-e-r" class="nav-link" data-scroll-target="#análise-preditiva-com-azure-machine-learning-e-r"><span class="header-section-number">27.4</span> Análise Preditiva com Azure Machine Learning e R</a></li>
+  <li><a href="#ciência-de-dados-em-r" id="toc-ciência-de-dados-em-r" class="nav-link" data-scroll-target="#ciência-de-dados-em-r"><span class="header-section-number">27.5</span> Ciência de Dados em R</a></li>
+  <li><a href="#estatística-com-r-para-a-linguística" id="toc-estatística-com-r-para-a-linguística" class="nav-link" data-scroll-target="#estatística-com-r-para-a-linguística"><span class="header-section-number">27.6</span> Estatística com R para a Linguística</a></li>
+  <li><a href="#r-para-ciência-de-dados-2ª-edição" id="toc-r-para-ciência-de-dados-2ª-edição" class="nav-link" data-scroll-target="#r-para-ciência-de-dados-2ª-edição"><span class="header-section-number">27.7</span> R para Ciência de Dados (2ª edição)</a></li>
   </ul>
 </nav>
     </div>
@@ -401,7 +410,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">R Package Development</span></h1>
+<h1 class="title"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Português</span></h1>
 </div>
 
 
@@ -418,40 +427,69 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="http-testing-in-r" class="level2" data-number="27.1">
-<h2 data-number="27.1" class="anchored" data-anchor-id="http-testing-in-r"><span class="header-section-number">27.1</span> HTTP testing in R</h2>
+<section id="análises-ecológicas-no-r" class="level2" data-number="27.1">
+<h2 data-number="27.1" class="anchored" data-anchor-id="análises-ecológicas-no-r"><span class="header-section-number">27.1</span> Análises Ecológicas no R</h2>
 <ul>
-<li><a href="https://twitter.com/sckottie">Scott Chamberlain</a></li>
-<li><a href="https://twitter.com/ma_salmon">Maëlle Salmon</a></li>
+<li>Fernando Rodrigues da Silva</li>
+<li>Thiago Gonçalves-Souza</li>
+<li>Gustavo Brant Paterno</li>
+<li>Diogo Borges Provete</li>
+<li>Maurício Humberto Vancine</li>
 </ul>
-<p>This book is meant to be a free, central reference for developers of R packages accessing web resources, to help them have a faster and more robust development. Our aim is to develop an useful guidance to go with the great recent tools that vcr, webmockr, httptest and presser are.</p>
-<p>Link: <a href="https://books.ropensci.org/http-testing/">https://books.ropensci.org/http-testing/</a></p>
+<p>Este é um livro introdutório que cobre desde a instalação do R até análises avançadas em ecologia, incluindo manipulação de dados, estatística básica, diversidade ecológica e visualização geoespacial. Destinado a estudantes de graduação e pós-graduação, ele facilita a escolha de testes estatísticos com base em hipóteses bem definidas. Cada capítulo traz exercícios, recomendações de leitura e links especializados, além de sugestões para uso em grupos de estudo.</p>
+<p>Link: <a href="https://analises-ecologicas.netlify.app">https://analises-ecologicas.netlify.app</a></p>
 </section>
-<section id="pack-your-code" class="level2" data-number="27.2">
-<h2 data-number="27.2" class="anchored" data-anchor-id="pack-your-code"><span class="header-section-number">27.2</span> Pack YouR Code</h2>
+<section id="análise-estatística-com-r-para-leigos" class="level2" data-number="27.2">
+<h2 data-number="27.2" class="anchored" data-anchor-id="análise-estatística-com-r-para-leigos"><span class="header-section-number">27.2</span> Análise Estatística com R Para Leigos</h2>
 <ul>
-<li><a href="https://www.gastonsanchez.com">Gaston Sanchez</a></li>
+<li>Joseph Schmuller Tradução: Samantha Batista</li>
 </ul>
-<p>The ultimate goal of this book is to teach you how to create a relatively simple R package based on the so-called S3 classes.</p>
-<p>Paid: Free preview of first 4 chapters $13</p>
-<p>Link: <a href="http://www.gastonsanchez.com/packyourcode/">http://www.gastonsanchez.com/packyourcode/</a></p>
+<p>O livro combina Estatística e R de forma prática, ensinando conceitos enquanto demonstra sua aplicação. Evita ser apenas teórico ou um manual de comandos, tornando o aprendizado mais intuitivo. A organização permite acesso rápido às informações, sendo útil tanto para iniciantes quanto para consultas pontuais.</p>
+<p>Link: <a href="https://www.ufrb.edu.br/ccaab/images/AEPE/Divulga%C3%A7%C3%A3o/LIVROS/An%C3%A1lise_Estat%C3%ADstica_com_R_para_Leigos_-_2%C2%AA_Edi%C3%A7%C3%A3o_-_Joseph_Schmuller_-_2019.pdf">Universidade Federal do Recôncavo da Bahia</a></p>
 </section>
-<section id="r-packages" class="level2" data-number="27.3">
-<h2 data-number="27.3" class="anchored" data-anchor-id="r-packages"><span class="header-section-number">27.3</span> R packages</h2>
+<section id="análise-espacial-com-r" class="level2" data-number="27.3">
+<h2 data-number="27.3" class="anchored" data-anchor-id="análise-espacial-com-r"><span class="header-section-number">27.3</span> Análise Espacial com R</h2>
 <ul>
-<li><a href="https://twitter.com/hadleywickham">Hadley Wickham</a></li>
-<li><a href="https://twitter.com/JennyBryan">Jenny Bryan</a></li>
+<li>Jean-François Mas</li>
+<li>Marise Barreiros Horta</li>
+<li>Rodrigo Nogueira de Vasconcelos</li>
+<li>Elaine Cristina Barbosa Cambui</li>
 </ul>
-<p>Packages are the fundamental units of reproducible R code. They include reusable R functions, the documentation that describes how to use them, and sample data. In this section you’ll learn how to turn your code into packages that others can easily download and use. Writing a package can seem overwhelming at first. So start with the basics and improve it over time. It doesn’t matter if your first version isn’t perfect as long as the next version is better.</p>
-<p>Link: <a href="https://r-pkgs.org/">https://r-pkgs.org/</a></p>
+<p>O livro introduz o uso do R para análise espacial de forma progressiva. Começa com a instalação e o uso básico da linguagem, passando pela estruturação e manipulação de dados espaciais, operações SIG e geoestatísticas, até a criação de mapas e integração com outros softwares como QGIS.</p>
+<p>Link: <a href="https://www.researchgate.net/profile/Jean-Mas/publication/332865022_Analise_espacial_com_R/links/5cce03cc92851c4eab83513a/Analise-espacial-com-R.pdf">ResearchGate - Jean-François Mas</a></p>
 </section>
-<section id="ropensci-packages-development-maintenance-and-peer-review" class="level2" data-number="27.4">
-<h2 data-number="27.4" class="anchored" data-anchor-id="ropensci-packages-development-maintenance-and-peer-review"><span class="header-section-number">27.4</span> rOpenSci Packages Development, Maintenance, and Peer Review</h2>
+<section id="análise-preditiva-com-azure-machine-learning-e-r" class="level2" data-number="27.4">
+<h2 data-number="27.4" class="anchored" data-anchor-id="análise-preditiva-com-azure-machine-learning-e-r"><span class="header-section-number">27.4</span> Análise Preditiva com Azure Machine Learning e R</h2>
 <ul>
-<li><a href="https://twitter.com/ropensci">rOpenSci software review editorial team</a></li>
+<li>Diego Nogare</li>
+<li>Thiago Zavaschi</li>
 </ul>
-<p>This book is a package development guide for authors, maintainers, reviewers and editors of rOpenSci.</p>
-<p>Link: <a href="https://devguide.ropensci.org/index.html">https://devguide.ropensci.org/index.html</a></p>
+<p>Este livro é a primeira publicação em português sobre Análise Preditiva com Azure Machine Learning e R. Com uma abordagem prática, ensina desde conceitos básicos até a criação, validação e exposição de modelos preditivos, incluindo o uso de R e visualização de dados.</p>
+<p>Link: <a href="https://livrosdonogare.com.br/produto/analise-preditiva-com-azure-machine-learning-e-r-ebook/">Site do autor</a></p>
+</section>
+<section id="ciência-de-dados-em-r" class="level2" data-number="27.5">
+<h2 data-number="27.5" class="anchored" data-anchor-id="ciência-de-dados-em-r"><span class="header-section-number">27.5</span> Ciência de Dados em R</h2>
+<p>Este é um livro gratuito e aberto da Curso-R, cobrindo todas as etapas de uma análise de dados, desde importação e manipulação até visualização e modelagem.</p>
+<p>Link: <a href="https://livro.curso-r.com">https://livro.curso-r.com</a></p>
+</section>
+<section id="estatística-com-r-para-a-linguística" class="level2" data-number="27.6">
+<h2 data-number="27.6" class="anchored" data-anchor-id="estatística-com-r-para-a-linguística"><span class="header-section-number">27.6</span> Estatística com R para a Linguística</h2>
+<ul>
+<li>Heliana Mello<br>
+</li>
+<li>Stefan Gries<br>
+</li>
+<li>Crysttian Arantes Paixão</li>
+<li>Júlia Zara</li>
+<li>André Luiz Souza</li>
+</ul>
+<p>Tradução do original em inglês, Statistics with R for Linguistics, de Stefan Gries. É um livro dedicado aos linguistas que desejam aprender a desenvolver seus códigos em R para tratamento estatístico de dados linguísticos.</p>
+<p>Link: <a href="https://publicacoes.even3.com.br/book/estatistica-com-r-para-a-linguistica-112125">Even3 - Editora</a></p>
+</section>
+<section id="r-para-ciência-de-dados-2ª-edição" class="level2" data-number="27.7">
+<h2 data-number="27.7" class="anchored" data-anchor-id="r-para-ciência-de-dados-2ª-edição"><span class="header-section-number">27.7</span> R para Ciência de Dados (2ª edição)</h2>
+<p>A tradução para o português da 2ª edição do <a href="https://www.bigbookofr.com/chapters/data%20science#r-for-data-analysis">R for Data Science</a> é um projeto colaborativo da comunidade de R no Brasil, tornando o livro mais acessível. Coordenado por Beatriz Milz, contou com a participação de diversos voluntários, incluindo a adaptação dos conjuntos de dados no pacote <a href="https://cienciadedatos.github.io/dados/">{dados}</a>. O livro cobre desde importação e transformação até visualização e comunicação de dados.</p>
+<p>Link: <a href="https://pt.r4ds.hadley.nz">https://pt.r4ds.hadley.nz</a></p>
 
 
 </section>
@@ -676,18 +714,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -719,7 +746,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
@@ -727,7 +774,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -824,7 +871,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -1052,13 +1098,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../chapters/Psychology.html" class="pagination-link" aria-label="Psychology">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Psychology</span></span>
+      <a href="../chapters/People Analytics.html" class="pagination-link" aria-label="People Analytics">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">People Analytics</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../chapters/R Programming.html" class="pagination-link" aria-label="R Programming">
-        <span class="nav-page-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">R Programming</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../chapters/Psychology.html" class="pagination-link" aria-label="Psychology">
+        <span class="nav-page-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Psychology</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

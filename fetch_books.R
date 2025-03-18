@@ -33,21 +33,21 @@ sorted_chapters <- sort(chapters[chapters != "Career and Community" & chapters !
 for (chapter in c("Career and Community", sorted_chapters, "Other Compendiums")) {
   chapter_content <- books_source %>%
     filter(chapters == chapter)
-  
+
   # Start creating the content for the .qmd file
   qmd_content <- paste0("# ", chapter, "\n\n")
-  
+
   # Add the introduction for the chapter
   if (chapter %in% chapter_info$chapters) {
     qmd_content <- paste0(qmd_content, chapter_info %>%
                             filter(chapters == chapter) %>%
                             pull(introduction), "\n\n")
   }
-  
+
   # Loop through each entry in the chapter
   for (entry in seq_len(nrow(chapter_content))) {
     qmd_content <- paste0(qmd_content, "## ", chapter_content$title[entry], "\n\n")
-    
+
     # Add authors
     authors_info <- c()
     for (i in 1:6) {
@@ -60,7 +60,7 @@ for (chapter in c("Career and Community", sorted_chapters, "Other Compendiums"))
       }
     }
     qmd_content <- paste0(qmd_content, paste(authors_info, collapse = "\n"), "\n\n")
-    
+
     # Add other details
     if (!is.na(chapter_content$description[entry])) {
       qmd_content <- paste0(qmd_content, chapter_content$description[entry], "\n\n")
@@ -75,17 +75,17 @@ for (chapter in c("Career and Community", sorted_chapters, "Other Compendiums"))
       qmd_content <- paste0(qmd_content, "Physical copy available: [", chapter_content$physical[entry], "](", chapter_content$physical[entry], ")\n\n")
     }
   }
-  
+
   # Define the filename for the .qmd file
   file_name <- paste0("chapters/", gsub("[^[:alnum:] ]", "", chapter), ".qmd")
-  
+
   # Write to the .qmd file
   writeLines(qmd_content, con = file_name)
 }
 
 # Save the chapter list with file paths as a text file
 output_file <- "chapter_list.txt"
-chapter_paths <- c(paste0("- chapters/Career and Community.qmd"), 
+chapter_paths <- c(paste0("- chapters/Career and Community.qmd"),
                    paste0("- chapters/", gsub("[^[:alnum:] ]", "", sorted_chapters), ".qmd"),
                    paste0("- chapters/Other Compendiums.qmd"))
 writeLines(chapter_paths, output_file)

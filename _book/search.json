@@ -3340,11 +3340,21 @@
     ]
   },
   {
+    "objectID": "chapters/Português.html#introdução-à-linguagem-r---seus-fundamentos-e-sua-prática",
+    "href": "chapters/Português.html#introdução-à-linguagem-r---seus-fundamentos-e-sua-prática",
+    "title": "27  Português",
+    "section": "27.7 Introdução à Linguagem R - seus fundamentos e sua prática",
+    "text": "27.7 Introdução à Linguagem R - seus fundamentos e sua prática\n\nPedro Duarte Faria\n\nEste livro ensina os fundamentos da linguagem R e sua aplicação prática em análise de dados, abordando temas como estruturas e tipos de dados, importação, manipulação de tabelas, gráficos, controle de fluxo e funções. Surgiu como material de apoio para um curso introdutório de R na Fundação João Pinheiro e, desde então, evoluiu para sua 5ª edição, refletindo os padrões modernos da linguagem\nLink: https://pedropark99.github.io/Introducao_R/",
+    "crumbs": [
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Português</span>"
+    ]
+  },
+  {
     "objectID": "chapters/Português.html#manual-de-r-para-epidemiologistas",
     "href": "chapters/Português.html#manual-de-r-para-epidemiologistas",
     "title": "27  Português",
-    "section": "27.7 Manual de R para Epidemiologistas",
-    "text": "27.7 Manual de R para Epidemiologistas\nEste manual é um guia de referência rápida para o uso do R em epidemiologia aplicada e saúde pública, com exemplos práticos voltados para problemas epidemiológicos comuns. Criado por epidemiologistas para epidemiologistas, já foi utilizado por milhões de pessoas ao redor do mundo e está disponível em diversos idiomas, incluindo português. Além do material online, há versões off-line e treinamentos ao vivo. O projeto é mantido de forma colaborativa por profissionais de saúde de diversas instituições globais.\nLink: https://www.epirhandbook.com/pt/index.pt.html",
+    "section": "27.8 Manual de R para Epidemiologistas",
+    "text": "27.8 Manual de R para Epidemiologistas\nEste manual é um guia de referência rápida para o uso do R em epidemiologia aplicada e saúde pública, com exemplos práticos voltados para problemas epidemiológicos comuns. Criado por epidemiologistas para epidemiologistas, já foi utilizado por milhões de pessoas ao redor do mundo e está disponível em diversos idiomas, incluindo português. Além do material online, há versões off-line e treinamentos ao vivo. O projeto é mantido de forma colaborativa por profissionais de saúde de diversas instituições globais.\nLink: https://www.epirhandbook.com/pt/index.pt.html",
     "crumbs": [
       "<span class='chapter-number'>27</span>  <span class='chapter-title'>Português</span>"
     ]
@@ -3353,8 +3363,8 @@
     "objectID": "chapters/Português.html#previsão-princípios-e-prática",
     "href": "chapters/Português.html#previsão-princípios-e-prática",
     "title": "27  Português",
-    "section": "27.8 Previsão: Princípios e prática",
-    "text": "27.8 Previsão: Princípios e prática\n\nRob J Hyndman\nGeorge Athanasopoulos\n\nEste livro oferece uma introdução acessível aos métodos de previsão, com foco na aplicação prática em negócios e estudos acadêmicos. Destinado a leitores com conhecimentos básicos de estatística, apresenta técnicas utilizando R, sem aprofundar em teoria avançada. Cada capítulo inclui sugestões de leitura complementar para quem deseja se aprofundar.\nLink: https://otexts.com/fpppg/",
+    "section": "27.9 Previsão: Princípios e prática",
+    "text": "27.9 Previsão: Princípios e prática\n\nRob J Hyndman\nGeorge Athanasopoulos\n\nEste livro oferece uma introdução acessível aos métodos de previsão, com foco na aplicação prática em negócios e estudos acadêmicos. Destinado a leitores com conhecimentos básicos de estatística, apresenta técnicas utilizando R, sem aprofundar em teoria avançada. Cada capítulo inclui sugestões de leitura complementar para quem deseja se aprofundar.\nLink: https://otexts.com/fpppg/",
     "crumbs": [
       "<span class='chapter-number'>27</span>  <span class='chapter-title'>Português</span>"
     ]
@@ -3363,8 +3373,8 @@
     "objectID": "chapters/Português.html#r-para-ciência-de-dados-2ª-edição",
     "href": "chapters/Português.html#r-para-ciência-de-dados-2ª-edição",
     "title": "27  Português",
-    "section": "27.9 R para Ciência de Dados (2ª edição)",
-    "text": "27.9 R para Ciência de Dados (2ª edição)\nA tradução para o português da 2ª edição do R for Data Science é um projeto colaborativo da comunidade de R no Brasil, tornando o livro mais acessível. Coordenado por Beatriz Milz, contou com a participação de diversos voluntários, incluindo a adaptação dos conjuntos de dados no pacote {dados}. O livro cobre desde importação e transformação até visualização e comunicação de dados.\nLink: https://pt.r4ds.hadley.nz",
+    "section": "27.10 R para Ciência de Dados (2ª edição)",
+    "text": "27.10 R para Ciência de Dados (2ª edição)\nA tradução para o português da 2ª edição do R for Data Science é um projeto colaborativo da comunidade de R no Brasil, tornando o livro mais acessível. Coordenado por Beatriz Milz, contou com a participação de diversos voluntários, incluindo a adaptação dos conjuntos de dados no pacote {dados}. O livro cobre desde importação e transformação até visualização e comunicação de dados.\nLink: https://pt.r4ds.hadley.nz",
     "crumbs": [
       "<span class='chapter-number'>27</span>  <span class='chapter-title'>Português</span>"
     ]

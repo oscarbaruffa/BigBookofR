@@ -60,6 +60,14 @@ Tradução do original em inglês, Statistics with R for Linguistics, de Stefan 
 
 Link: [Even3 - Editora](https://publicacoes.even3.com.br/book/estatistica-com-r-para-a-linguistica-112125)
 
+## Introdução à Linguagem R - seus fundamentos e sua prática
+
+- Pedro Duarte Faria
+
+Este livro ensina os fundamentos da linguagem R e sua aplicação prática em análise de dados, abordando temas como estruturas e tipos de dados, importação, manipulação de tabelas, gráficos, controle de fluxo e funções. Surgiu como material de apoio para um curso introdutório de R na Fundação João Pinheiro e, desde então, evoluiu para sua 5ª edição, refletindo os padrões modernos da linguagem
+
+Link: [https://pedropark99.github.io/Introducao_R/](https://pedropark99.github.io/Introducao_R/)
+
 ## Manual de R para Epidemiologistas
 
 Este manual é um guia de referência rápida para o uso do R em epidemiologia aplicada e saúde pública, com exemplos práticos voltados para problemas epidemiológicos comuns. Criado por epidemiologistas para epidemiologistas, já foi utilizado por milhões de pessoas ao redor do mundo e está disponível em diversos idiomas, incluindo português. Além do material online, há versões off-line e treinamentos ao vivo. O projeto é mantido de forma colaborativa por profissionais de saúde de diversas instituições globais.

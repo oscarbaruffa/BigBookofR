@@ -1,0 +1,90 @@
+# Português
+
+## Análises Ecológicas no R
+
+- Fernando Rodrigues da Silva
+- Thiago Gonçalves-Souza
+- Gustavo Brant Paterno
+- Diogo Borges Provete
+- Maurício Humberto Vancine
+
+Este é um livro introdutório que cobre desde a instalação do R até análises avançadas em ecologia, incluindo manipulação de dados, estatística básica, diversidade ecológica e visualização geoespacial. Destinado a estudantes de graduação e pós-graduação, ele facilita a escolha de testes estatísticos com base em hipóteses bem definidas. Cada capítulo traz exercícios, recomendações de leitura e links especializados, além de sugestões para uso em grupos de estudo.
+
+Link: [https://analises-ecologicas.netlify.app](https://analises-ecologicas.netlify.app)
+
+## Análise Estatística com R Para Leigos
+
+- Joseph Schmuller
+Tradução: Samantha Batista
+
+O livro combina Estatística e R de forma prática, ensinando conceitos enquanto demonstra sua aplicação. Evita ser apenas teórico ou um manual de comandos, tornando o aprendizado mais intuitivo. A organização permite acesso rápido às informações, sendo útil tanto para iniciantes quanto para consultas pontuais.
+
+Link: [Universidade Federal do Recôncavo da Bahia](https://www.ufrb.edu.br/ccaab/images/AEPE/Divulga%C3%A7%C3%A3o/LIVROS/An%C3%A1lise_Estat%C3%ADstica_com_R_para_Leigos_-_2%C2%AA_Edi%C3%A7%C3%A3o_-_Joseph_Schmuller_-_2019.pdf)
+
+
+## Análise Espacial com R
+
+- Jean-François Mas
+- Marise Barreiros Horta
+- Rodrigo Nogueira de Vasconcelos
+- Elaine Cristina Barbosa Cambui
+
+O livro introduz o uso do R para análise espacial de forma progressiva. Começa com a instalação e o uso básico da linguagem, passando pela estruturação e manipulação de dados espaciais, operações SIG e geoestatísticas, até a criação de mapas e integração com outros softwares como QGIS.
+
+Link: [ResearchGate - Jean-François Mas](https://www.researchgate.net/profile/Jean-Mas/publication/332865022_Analise_espacial_com_R/links/5cce03cc92851c4eab83513a/Analise-espacial-com-R.pdf)
+
+## Análise Preditiva com Azure Machine Learning e R
+
+- Diego Nogare
+- Thiago Zavaschi
+
+Este livro é a primeira publicação em português sobre Análise Preditiva com Azure Machine Learning e R. Com uma abordagem prática, ensina desde conceitos básicos até a criação, validação e exposição de modelos preditivos, incluindo o uso de R e visualização de dados.
+
+Link: [Site do autor](https://livrosdonogare.com.br/produto/analise-preditiva-com-azure-machine-learning-e-r-ebook/)
+
+## Ciência de Dados em R
+
+Este é um livro gratuito e aberto da Curso-R, cobrindo todas as etapas de uma análise de dados, desde importação e manipulação até visualização e modelagem.
+
+Link: [https://livro.curso-r.com](https://livro.curso-r.com)
+
+## Estatística com R para a Linguística
+
+- Heliana Mello  
+- Stefan Gries  
+- Crysttian Arantes Paixão
+- Júlia Zara
+- André Luiz Souza
+
+Tradução do original em inglês, Statistics with R for Linguistics, de Stefan Gries. É um livro dedicado aos linguistas que desejam aprender a desenvolver seus códigos em R para tratamento estatístico de dados linguísticos.
+
+Link: [Even3 - Editora](https://publicacoes.even3.com.br/book/estatistica-com-r-para-a-linguistica-112125)
+
+## Introdução à Linguagem R - seus fundamentos e sua prática
+
+- Pedro Duarte Faria
+
+Este livro ensina os fundamentos da linguagem R e sua aplicação prática em análise de dados, abordando temas como estruturas e tipos de dados, importação, manipulação de tabelas, gráficos, controle de fluxo e funções. Surgiu como material de apoio para um curso introdutório de R na Fundação João Pinheiro e, desde então, evoluiu para sua 5ª edição, refletindo os padrões modernos da linguagem
+
+Link: [https://pedropark99.github.io/Introducao_R/](https://pedropark99.github.io/Introducao_R/)
+
+## Manual de R para Epidemiologistas
+
+Este manual é um guia de referência rápida para o uso do R em epidemiologia aplicada e saúde pública, com exemplos práticos voltados para problemas epidemiológicos comuns. Criado por epidemiologistas para epidemiologistas, já foi utilizado por milhões de pessoas ao redor do mundo e está disponível em diversos idiomas, incluindo português. Além do material online, há versões off-line e treinamentos ao vivo. O projeto é mantido de forma colaborativa por profissionais de saúde de diversas instituições globais.
+
+Link: [https://www.epirhandbook.com/pt/index.pt.html](https://www.epirhandbook.com/pt/index.pt.html)
+
+## Previsão: Princípios e prática
+
+- Rob J Hyndman
+- George Athanasopoulos
+
+Este livro oferece uma introdução acessível aos métodos de previsão, com foco na aplicação prática em negócios e estudos acadêmicos. Destinado a leitores com conhecimentos básicos de estatística, apresenta técnicas utilizando R, sem aprofundar em teoria avançada. Cada capítulo inclui sugestões de leitura complementar para quem deseja se aprofundar.
+
+Link: [https://otexts.com/fpppg/](https://otexts.com/fpppg/)
+
+## R para Ciência de Dados (2ª edição)
+
+A tradução para o português da 2ª edição do [R for Data Science](https://www.bigbookofr.com/chapters/data%20science#r-for-data-analysis) é um projeto colaborativo da comunidade de R no Brasil, tornando o livro mais acessível. Coordenado por Beatriz Milz, contou com a participação de diversos voluntários, incluindo a adaptação dos conjuntos de dados no pacote [{dados}](https://cienciadedatos.github.io/dados/). O livro cobre desde importação e transformação até visualização e comunicação de dados.
+
+Link: [https://pt.r4ds.hadley.nz](https://pt.r4ds.hadley.nz)

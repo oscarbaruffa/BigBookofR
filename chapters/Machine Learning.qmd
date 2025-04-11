@@ -142,16 +142,23 @@ skills needed to implement machine learning algorithms in R.
 
 Link: [https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y](https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y)
 
-## mlr3 book
+## Applied Machine Learning Using mlr3 in R
 
+- [Bernd Bischl](https://www.slds.stat.uni-muenchen.de/people/bischl/)
+- [Raphael Sonabend](https://github.com/RaphaelS1)
+- [Lars Kotthoff](https://www.cs.uwyo.edu/~larsko/)
 - [Michel Lang](https://twitter.com/michellangts)
 
 The mlr3 package and
-[ecosystem](https://github.com/mlr-org/mlr3/wiki/Extension-Packages)
+[ecosystem](https://mlr-org.com/ecosystem.html)
 provide a generic, object-oriented, and extensible framework for
 classification, regression, survival analysis, and other machine
-learning tasks for the R language. They do not implement any learners,
-but provide a unified interface to many existing learners in R.
+learning tasks for the R language.
+This includes extensive support for model evaluation, benchmarking,
+hyperparameter tuning, preprocessing, model selection, deep learning
+and more. The book is a comprehensive guide on how to use the mlr3
+framework to solve applied machine learning problems by going from
+simple examples to complex modeling problems.
 
 Link: [https://mlr3book.mlr-org.com/](https://mlr3book.mlr-org.com/)
 
@@ -195,8 +202,10 @@ Link: [https://www.statswithr.com/neural-networks-with-keras-in-r-a-quickstart-g
 - Lorena Santos
 - et al
 
-Using time series derived from big Earth Observation data sets is one of the leading research trends in Land Use Science and Remote Sensing. One of the more promising uses of satellite time series is its application to classify land use and land cover. Information on land is critical for sustainable development because our growing demand for natural resources is causing significant environmental impacts. The target audience for sits is the new generation of specialists who understand the principles of remote sensing and can write scripts in R. Ideally, users should have basic knowledge of data science methods using R.
-
+Using time series derived from big Earth Observation data sets is one of the leading research trends in Land Use Science and Remote Sensing. One of the more promising uses of satellite time series is its application to classify land use and land cover. Information on land is critical for sustainable development because our growing demand for natural resources is causing significant environmental impacts. The target audience for sits is the new generation of specialists who understand the principles of remote sensing and can write scripts in R. Ideally, users should have basic knowledge of data science methods using R.
+
+
+
 This book presents sits, an open-source R package for land use and land cover classification using big Earth observation data.
 
 Link: [https://e-sensing.github.io/sitsbook/](https://e-sensing.github.io/sitsbook/)

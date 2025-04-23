@@ -45,7 +45,7 @@ Link: [https://www.paulamoraga.com/book-spatial/index.html](https://www.paulamor
 This is the online home of Geocomputation with R, a book on geographic
 data analysis, visualization and modeling.
 
-Link: [https://geocompr.robinlovelace.net/](https://geocompr.robinlovelace.net/)
+Link: [https://r.geocompx.org/](https://r.geocompx.org/)
 
 ## Geospatial Health Data Modeling and Visualization with R-INLA and Shiny
 

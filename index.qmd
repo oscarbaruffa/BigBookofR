@@ -1,7 +1,7 @@
 ---
 title: "Welcome :)"
 author: "Oscar Baruffa"
-date: "2025-02-08"
+date: "2025-04-23"
 ---
 # Your last-ever bookmark
 Thanks for stopping by. If you're like me, you can't help but bookmark every R-related programming book you find in the hopes that one day you, or someone you know, might find it useful.
@@ -53,7 +53,7 @@ From now on, you can view the **[LIVE site stats right here](https://plausible.i
 
 ## About me
 
-I'm Oscar. If you like this book, feel free to say "Hi!" on [Mastodon](https://fosstodon.org/@OscarBaruffa) or [LinkedIn](https://www.linkedin.com/in/oscarbaruffa/).
+I'm Oscar. If you like this book, feel free to say "Hi!" on [Bluesky](https://bsky.app/profile/oscarbaruffa.com) 
 
 If you want to stay in the loop on other data-related products I create, or major updates to this book, sign up to my [newsletter](https://oscarbaruffa.com/newsletter?utm_source=BigBookofR_index&utm_content=Link).
 

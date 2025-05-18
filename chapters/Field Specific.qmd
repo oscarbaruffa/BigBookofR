@@ -75,7 +75,7 @@ Link: [https://crimebythenumbers.com/](https://crimebythenumbers.com/)
 
 Customer Intelligence with R’ (CI with R) is for learning the basic application of customer activation, development, retention, and segmentation (CADRS) with R. It is aimed to be educational outside of the academia.
 
-Link: [https://ciwr-businessintelligenceservices-7059ba5c59c64196a9a6337d14fc5.gitlab.io/](https://ciwr-businessintelligenceservices-7059ba5c59c64196a9a6337d14fc5.gitlab.io/)
+Link: [https://ciwr.pages.dev/](https://ciwr.pages.dev/)
 
 ## Data Science in Education Using R
 

@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.554">
+<meta name="generator" content="quarto-1.7.28">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Big Book of R - 22&nbsp; Machine Learning</title>
+<title>22&nbsp; Machine Learning – Big Book of R</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,17 +32,20 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="../">
 <link href="../chapters/Network Analysis.html" rel="next">
 <link href="../chapters/Life Sciences.html" rel="prev">
-<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-b719d3d4935f2b08311a76135e2bf442.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-c8b544e1eab81f7563542c0a8b71d1e9.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-b719d3d4935f2b08311a76135e2bf442.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-28eb11c37061e120cc4745177060b2cf.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-75047af1798fd8b51e91d6843dda3ba6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-28eb11c37061e120cc4745177060b2cf.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -72,13 +75,173 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <script async="" defer="" data-domain="bigbookofr.com" src="https://plausible.io/js/plausible.outbound-links.js"></script>
 
-</head><body class="nav-sidebar floating"><a rel="me" href="https://bsky.app/profile/oscarbaruffa.bsky.social"></a>
+</head><body class="nav-sidebar floating quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    window.setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      window.setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    window.hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(darkModeDefault) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const darkModeDefault = false;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !window.hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+    };
+    // Switch to dark mode if need be
+    if (window.hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script><a rel="me" href="https://bsky.app/profile/oscarbaruffa.bsky.social"></a>
 
 
 
 
 
-<meta property="og:title" content="Big Book of R - 22&nbsp; Machine Learning">
+<meta property="og:title" content="22&nbsp; Machine Learning – Big Book of R">
 
 <meta property="og:description" content="">
 
@@ -90,7 +253,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<meta name="twitter:title" content="Big Book of R - 22&nbsp; Machine Learning">
+<meta name="twitter:title" content="22&nbsp; Machine Learning – Big Book of R">
 
 <meta name="twitter:card" content="summary_large_image">
 
@@ -114,13 +277,13 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../chapters/Machine Learning.html"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Machine Learning</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -397,19 +560,19 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#a-minimal-rtorch-book" id="toc-a-minimal-rtorch-book" class="nav-link active" data-scroll-target="#a-minimal-rtorch-book"><span class="header-section-number">22.1</span> A Minimal rTorch Book</a></li>
   <li><a href="#applied-machine-learning-for-tabular-data" id="toc-applied-machine-learning-for-tabular-data" class="nav-link" data-scroll-target="#applied-machine-learning-for-tabular-data"><span class="header-section-number">22.2</span> Applied Machine Learning for Tabular Data</a></li>
-  <li><a href="#behavior-analysis-with-machine-learning-using-r" id="toc-behavior-analysis-with-machine-learning-using-r" class="nav-link" data-scroll-target="#behavior-analysis-with-machine-learning-using-r"><span class="header-section-number">22.3</span> Behavior Analysis with Machine Learning Using R</a></li>
-  <li><a href="#data-science-theories-models-algorithms-and-analytics" id="toc-data-science-theories-models-algorithms-and-analytics" class="nav-link" data-scroll-target="#data-science-theories-models-algorithms-and-analytics"><span class="header-section-number">22.4</span> Data Science: Theories, Models, Algorithms, and Analytics</a></li>
-  <li><a href="#deep-learning-and-scientific-computing-with-r-torch" id="toc-deep-learning-and-scientific-computing-with-r-torch" class="nav-link" data-scroll-target="#deep-learning-and-scientific-computing-with-r-torch"><span class="header-section-number">22.5</span> Deep Learning and Scientific Computing with R torch</a></li>
-  <li><a href="#explanatory-model-analysis" id="toc-explanatory-model-analysis" class="nav-link" data-scroll-target="#explanatory-model-analysis"><span class="header-section-number">22.6</span> Explanatory Model Analysis</a></li>
-  <li><a href="#feature-engineering-a-z" id="toc-feature-engineering-a-z" class="nav-link" data-scroll-target="#feature-engineering-a-z"><span class="header-section-number">22.7</span> Feature Engineering A-Z</a></li>
-  <li><a href="#feature-engineering-and-selection-a-practical-approach-for-predictive-models" id="toc-feature-engineering-and-selection-a-practical-approach-for-predictive-models" class="nav-link" data-scroll-target="#feature-engineering-and-selection-a-practical-approach-for-predictive-models"><span class="header-section-number">22.8</span> Feature Engineering and Selection A Practical Approach for Predictive Models</a></li>
-  <li><a href="#hands-on-machine-learning-with-r" id="toc-hands-on-machine-learning-with-r" class="nav-link" data-scroll-target="#hands-on-machine-learning-with-r"><span class="header-section-number">22.9</span> Hands-On Machine Learning with R</a></li>
-  <li><a href="#interpretable-machine-learning" id="toc-interpretable-machine-learning" class="nav-link" data-scroll-target="#interpretable-machine-learning"><span class="header-section-number">22.10</span> Interpretable Machine Learning</a></li>
-  <li><a href="#lightweight-machine-learning-classics-with-r-marek-gagolewski" id="toc-lightweight-machine-learning-classics-with-r-marek-gagolewski" class="nav-link" data-scroll-target="#lightweight-machine-learning-classics-with-r-marek-gagolewski"><span class="header-section-number">22.11</span> Lightweight Machine Learning Classics with R Marek Gagolewski</a></li>
-  <li><a href="#machine-learning-based-causal-inference-tutorial" id="toc-machine-learning-based-causal-inference-tutorial" class="nav-link" data-scroll-target="#machine-learning-based-causal-inference-tutorial"><span class="header-section-number">22.12</span> Machine Learning-based Causal Inference Tutorial</a></li>
-  <li><a href="#machine-learning-for-factor-investing" id="toc-machine-learning-for-factor-investing" class="nav-link" data-scroll-target="#machine-learning-for-factor-investing"><span class="header-section-number">22.13</span> Machine Learning for Factor Investing</a></li>
-  <li><a href="#mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle" id="toc-mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle" class="nav-link" data-scroll-target="#mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle"><span class="header-section-number">22.14</span> Mathematics and Programming for Machine Learning with R From the Ground Up 1st Edition, Kindle</a></li>
-  <li><a href="#mlr3-book" id="toc-mlr3-book" class="nav-link" data-scroll-target="#mlr3-book"><span class="header-section-number">22.15</span> mlr3 book</a></li>
+  <li><a href="#applied-machine-learning-using-mlr3-in-r" id="toc-applied-machine-learning-using-mlr3-in-r" class="nav-link" data-scroll-target="#applied-machine-learning-using-mlr3-in-r"><span class="header-section-number">22.3</span> Applied Machine Learning Using mlr3 in R</a></li>
+  <li><a href="#behavior-analysis-with-machine-learning-using-r" id="toc-behavior-analysis-with-machine-learning-using-r" class="nav-link" data-scroll-target="#behavior-analysis-with-machine-learning-using-r"><span class="header-section-number">22.4</span> Behavior Analysis with Machine Learning Using R</a></li>
+  <li><a href="#data-science-theories-models-algorithms-and-analytics" id="toc-data-science-theories-models-algorithms-and-analytics" class="nav-link" data-scroll-target="#data-science-theories-models-algorithms-and-analytics"><span class="header-section-number">22.5</span> Data Science: Theories, Models, Algorithms, and Analytics</a></li>
+  <li><a href="#deep-learning-and-scientific-computing-with-r-torch" id="toc-deep-learning-and-scientific-computing-with-r-torch" class="nav-link" data-scroll-target="#deep-learning-and-scientific-computing-with-r-torch"><span class="header-section-number">22.6</span> Deep Learning and Scientific Computing with R torch</a></li>
+  <li><a href="#explanatory-model-analysis" id="toc-explanatory-model-analysis" class="nav-link" data-scroll-target="#explanatory-model-analysis"><span class="header-section-number">22.7</span> Explanatory Model Analysis</a></li>
+  <li><a href="#feature-engineering-a-z" id="toc-feature-engineering-a-z" class="nav-link" data-scroll-target="#feature-engineering-a-z"><span class="header-section-number">22.8</span> Feature Engineering A-Z</a></li>
+  <li><a href="#feature-engineering-and-selection-a-practical-approach-for-predictive-models" id="toc-feature-engineering-and-selection-a-practical-approach-for-predictive-models" class="nav-link" data-scroll-target="#feature-engineering-and-selection-a-practical-approach-for-predictive-models"><span class="header-section-number">22.9</span> Feature Engineering and Selection A Practical Approach for Predictive Models</a></li>
+  <li><a href="#hands-on-machine-learning-with-r" id="toc-hands-on-machine-learning-with-r" class="nav-link" data-scroll-target="#hands-on-machine-learning-with-r"><span class="header-section-number">22.10</span> Hands-On Machine Learning with R</a></li>
+  <li><a href="#interpretable-machine-learning" id="toc-interpretable-machine-learning" class="nav-link" data-scroll-target="#interpretable-machine-learning"><span class="header-section-number">22.11</span> Interpretable Machine Learning</a></li>
+  <li><a href="#lightweight-machine-learning-classics-with-r-marek-gagolewski" id="toc-lightweight-machine-learning-classics-with-r-marek-gagolewski" class="nav-link" data-scroll-target="#lightweight-machine-learning-classics-with-r-marek-gagolewski"><span class="header-section-number">22.12</span> Lightweight Machine Learning Classics with R Marek Gagolewski</a></li>
+  <li><a href="#machine-learning-based-causal-inference-tutorial" id="toc-machine-learning-based-causal-inference-tutorial" class="nav-link" data-scroll-target="#machine-learning-based-causal-inference-tutorial"><span class="header-section-number">22.13</span> Machine Learning-based Causal Inference Tutorial</a></li>
+  <li><a href="#machine-learning-for-factor-investing" id="toc-machine-learning-for-factor-investing" class="nav-link" data-scroll-target="#machine-learning-for-factor-investing"><span class="header-section-number">22.14</span> Machine Learning for Factor Investing</a></li>
+  <li><a href="#mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle" id="toc-mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle" class="nav-link" data-scroll-target="#mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle"><span class="header-section-number">22.15</span> Mathematics and Programming for Machine Learning with R From the Ground Up 1st Edition, Kindle</a></li>
   <li><a href="#model-based-clustering-classification-and-density-estimation-using-mclust-in-r" id="toc-model-based-clustering-classification-and-density-estimation-using-mclust-in-r" class="nav-link" data-scroll-target="#model-based-clustering-classification-and-density-estimation-using-mclust-in-r"><span class="header-section-number">22.16</span> Model-Based Clustering, Classification, and Density Estimation Using mclust in R</a></li>
   <li><a href="#neural-cryptography-using-keras-in-r" id="toc-neural-cryptography-using-keras-in-r" class="nav-link" data-scroll-target="#neural-cryptography-using-keras-in-r"><span class="header-section-number">22.17</span> Neural Cryptography Using Keras in R</a></li>
   <li><a href="#neural-networks-with-keras-in-r-a-quickstart-guide" id="toc-neural-networks-with-keras-in-r-a-quickstart-guide" class="nav-link" data-scroll-target="#neural-networks-with-keras-in-r-a-quickstart-guide"><span class="header-section-number">22.18</span> Neural Networks with Keras in R: A QuickStart Guide</a></li>
@@ -424,6 +587,7 @@ ul.task-list li input[type="checkbox"] {
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
+
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -461,32 +625,43 @@ ul.task-list li input[type="checkbox"] {
 <p>We want to create a practical guide to developing quality predictive models from tabular data. We’ll publish materials here as we create them and welcome community contributions in the form of discussions, suggestions, and edits. The book takes a holistic view of the predictive modeling process and focuses on a few areas that are usually left out of similar works. For example, the effectiveness of the model can be driven by how the predictors are represented. Because of this, we tightly couple feature engineering methods with machine learning models. Also, quite a lot of work happens after we have determined our best model and created the final fit. These post-modeling activities are an important part of the model development process and will be described in detail.</p>
 <p>Link: <a href="https://aml4td.org/">https://aml4td.org/</a></p>
 </section>
-<section id="behavior-analysis-with-machine-learning-using-r" class="level2" data-number="22.3">
-<h2 data-number="22.3" class="anchored" data-anchor-id="behavior-analysis-with-machine-learning-using-r"><span class="header-section-number">22.3</span> Behavior Analysis with Machine Learning Using R</h2>
+<section id="applied-machine-learning-using-mlr3-in-r" class="level2" data-number="22.3">
+<h2 data-number="22.3" class="anchored" data-anchor-id="applied-machine-learning-using-mlr3-in-r"><span class="header-section-number">22.3</span> Applied Machine Learning Using mlr3 in R</h2>
+<ul>
+<li><a href="https://www.slds.stat.uni-muenchen.de/people/bischl/">Bernd Bischl</a></li>
+<li><a href="https://github.com/RaphaelS1">Raphael Sonabend</a></li>
+<li><a href="https://www.cs.uwyo.edu/~larsko/">Lars Kotthoff</a></li>
+<li>Michel Lang</li>
+</ul>
+<p>The mlr3 package and <a href="https://mlr-org.com/ecosystem.html">ecosystem</a> provide a generic, object-oriented, and extensible framework for classification, regression, survival analysis, and other machine learning tasks for the R language. This includes extensive support for model evaluation, benchmarking, hyperparameter tuning, preprocessing, model selection, deep learning and more. The book is a comprehensive guide on how to use the mlr3 framework to solve applied machine learning problems by going from simple examples to complex modeling problems.</p>
+<p>Link: <a href="https://mlr3book.mlr-org.com/">https://mlr3book.mlr-org.com/</a></p>
+</section>
+<section id="behavior-analysis-with-machine-learning-using-r" class="level2" data-number="22.4">
+<h2 data-number="22.4" class="anchored" data-anchor-id="behavior-analysis-with-machine-learning-using-r"><span class="header-section-number">22.4</span> Behavior Analysis with Machine Learning Using R</h2>
 <ul>
 <li>Enrique Garcia Ceja</li>
 </ul>
 <p>This book aims to provide an introduction to machine learning concepts and algorithms applied to a diverse set of behavior analysis problems. It focuses on the practical aspects of solving such problems based on data collected from sensors or stored in electronic records. The included examples demonstrate how to perform several of the tasks involved during a data analysis pipeline such as: data exploration, visualization, preprocessing, representation, model training/validation, and so on. All of this, using the R programming language and real-life datasets.</p>
 <p>Link: <a href="https://enriquegit.github.io/behavior-free/index.html#">https://enriquegit.github.io/behavior-free/index.html#</a></p>
 </section>
-<section id="data-science-theories-models-algorithms-and-analytics" class="level2" data-number="22.4">
-<h2 data-number="22.4" class="anchored" data-anchor-id="data-science-theories-models-algorithms-and-analytics"><span class="header-section-number">22.4</span> Data Science: Theories, Models, Algorithms, and Analytics</h2>
+<section id="data-science-theories-models-algorithms-and-analytics" class="level2" data-number="22.5">
+<h2 data-number="22.5" class="anchored" data-anchor-id="data-science-theories-models-algorithms-and-analytics"><span class="header-section-number">22.5</span> Data Science: Theories, Models, Algorithms, and Analytics</h2>
 <ul>
 <li>Sanjiv Ranjan Das</li>
 </ul>
 <p>I developed these class notes for my Machine Learning with R course. It traces my evolution as a data scientist into redundancy, I expect I will be replaced by a machine soon!</p>
 <p>Link: <a href="https://srdas.github.io/MLBook/">https://srdas.github.io/MLBook/</a></p>
 </section>
-<section id="deep-learning-and-scientific-computing-with-r-torch" class="level2" data-number="22.5">
-<h2 data-number="22.5" class="anchored" data-anchor-id="deep-learning-and-scientific-computing-with-r-torch"><span class="header-section-number">22.5</span> Deep Learning and Scientific Computing with R torch</h2>
+<section id="deep-learning-and-scientific-computing-with-r-torch" class="level2" data-number="22.6">
+<h2 data-number="22.6" class="anchored" data-anchor-id="deep-learning-and-scientific-computing-with-r-torch"><span class="header-section-number">22.6</span> Deep Learning and Scientific Computing with R torch</h2>
 <ul>
 <li><a href="https://divergences.xyz/">Sigrid Keydana</a></li>
 </ul>
 <p>This is a book about torch, the R interface to PyTorch. PyTorch, as of this writing, is one of the major deep-learning and scientific-computing frameworks, widely used across industries and areas of research. With torch, you get to access its rich functionality directly from R, with no need to install, let alone learn, Python.</p>
 <p>Link: <a href="https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/">https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/</a></p>
 </section>
-<section id="explanatory-model-analysis" class="level2" data-number="22.6">
-<h2 data-number="22.6" class="anchored" data-anchor-id="explanatory-model-analysis"><span class="header-section-number">22.6</span> Explanatory Model Analysis</h2>
+<section id="explanatory-model-analysis" class="level2" data-number="22.7">
+<h2 data-number="22.7" class="anchored" data-anchor-id="explanatory-model-analysis"><span class="header-section-number">22.7</span> Explanatory Model Analysis</h2>
 <ul>
 <li><a href="https://github.com/pbiecek">Przemyslaw Biecek</a></li>
 <li>Tomasz Burzykowski</li>
@@ -494,8 +669,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Responsible, Fair and Explainable Predictive Modeling with examples in R and Python</p>
 <p>Link: <a href="https://pbiecek.github.io/ema/">https://pbiecek.github.io/ema/</a></p>
 </section>
-<section id="feature-engineering-a-z" class="level2" data-number="22.7">
-<h2 data-number="22.7" class="anchored" data-anchor-id="feature-engineering-a-z"><span class="header-section-number">22.7</span> Feature Engineering A-Z</h2>
+<section id="feature-engineering-a-z" class="level2" data-number="22.8">
+<h2 data-number="22.8" class="anchored" data-anchor-id="feature-engineering-a-z"><span class="header-section-number">22.8</span> Feature Engineering A-Z</h2>
 <ul>
 <li>Emil Hvitfeldt</li>
 </ul>
@@ -503,8 +678,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Many educational resources skip over the finer details of feature engineering methods, which is where this book tries to fill the gap.</p>
 <p>Link: <a href="https://feaz-book.com/">https://feaz-book.com/</a></p>
 </section>
-<section id="feature-engineering-and-selection-a-practical-approach-for-predictive-models" class="level2" data-number="22.8">
-<h2 data-number="22.8" class="anchored" data-anchor-id="feature-engineering-and-selection-a-practical-approach-for-predictive-models"><span class="header-section-number">22.8</span> Feature Engineering and Selection A Practical Approach for Predictive Models</h2>
+<section id="feature-engineering-and-selection-a-practical-approach-for-predictive-models" class="level2" data-number="22.9">
+<h2 data-number="22.9" class="anchored" data-anchor-id="feature-engineering-and-selection-a-practical-approach-for-predictive-models"><span class="header-section-number">22.9</span> Feature Engineering and Selection A Practical Approach for Predictive Models</h2>
 <ul>
 <li>Max Kuhn</li>
 <li>Kjell Johnson</li>
@@ -512,8 +687,8 @@ ul.task-list li input[type="checkbox"] {
 <p>The goals of Feature Engineering and Selection are to provide tools for re-representing predictors, to place these tools in the context of a good predictive modeling framework, and to convey our experience of utilizing these tools in practice.</p>
 <p>Link: <a href="http://www.feat.engineering/index.html">http://www.feat.engineering/index.html</a></p>
 </section>
-<section id="hands-on-machine-learning-with-r" class="level2" data-number="22.9">
-<h2 data-number="22.9" class="anchored" data-anchor-id="hands-on-machine-learning-with-r"><span class="header-section-number">22.9</span> Hands-On Machine Learning with R</h2>
+<section id="hands-on-machine-learning-with-r" class="level2" data-number="22.10">
+<h2 data-number="22.10" class="anchored" data-anchor-id="hands-on-machine-learning-with-r"><span class="header-section-number">22.10</span> Hands-On Machine Learning with R</h2>
 <ul>
 <li>Bradley Boehmke</li>
 <li>Brandon Greenwell</li>
@@ -522,8 +697,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Generalized low rank models, Clustering algorithms, Autoencoders, Regularized models, Random forests, Gradient boosting machines, Deep neural networks, Stacking / super learners and more!</p>
 <p>Link: <a href="https://bradleyboehmke.github.io/HOML/">https://bradleyboehmke.github.io/HOML/</a></p>
 </section>
-<section id="interpretable-machine-learning" class="level2" data-number="22.10">
-<h2 data-number="22.10" class="anchored" data-anchor-id="interpretable-machine-learning"><span class="header-section-number">22.10</span> Interpretable Machine Learning</h2>
+<section id="interpretable-machine-learning" class="level2" data-number="22.11">
+<h2 data-number="22.11" class="anchored" data-anchor-id="interpretable-machine-learning"><span class="header-section-number">22.11</span> Interpretable Machine Learning</h2>
 <ul>
 <li><a href="https://twitter.com/ChristophMolnar">Christoph Molnar</a></li>
 </ul>
@@ -532,21 +707,21 @@ ul.task-list li input[type="checkbox"] {
 <p>Paid: Free or pay what you want $42</p>
 <p>Link: <a href="https://leanpub.com/interpretable-machine-learning">https://leanpub.com/interpretable-machine-learning</a></p>
 </section>
-<section id="lightweight-machine-learning-classics-with-r-marek-gagolewski" class="level2" data-number="22.11">
-<h2 data-number="22.11" class="anchored" data-anchor-id="lightweight-machine-learning-classics-with-r-marek-gagolewski"><span class="header-section-number">22.11</span> Lightweight Machine Learning Classics with R Marek Gagolewski</h2>
+<section id="lightweight-machine-learning-classics-with-r-marek-gagolewski" class="level2" data-number="22.12">
+<h2 data-number="22.12" class="anchored" data-anchor-id="lightweight-machine-learning-classics-with-r-marek-gagolewski"><span class="header-section-number">22.12</span> Lightweight Machine Learning Classics with R Marek Gagolewski</h2>
 <p>In this book we will take an unpretentious glance at the most fundamental algorithms that have stood the test of time and which form the basis for state-of-the-art solutions of modern AI, which is principally (big) data-driven.</p>
 <p>Link: <a href="https://lmlcr.gagolewski.com/">https://lmlcr.gagolewski.com/</a></p>
 </section>
-<section id="machine-learning-based-causal-inference-tutorial" class="level2" data-number="22.12">
-<h2 data-number="22.12" class="anchored" data-anchor-id="machine-learning-based-causal-inference-tutorial"><span class="header-section-number">22.12</span> Machine Learning-based Causal Inference Tutorial</h2>
+<section id="machine-learning-based-causal-inference-tutorial" class="level2" data-number="22.13">
+<h2 data-number="22.13" class="anchored" data-anchor-id="machine-learning-based-causal-inference-tutorial"><span class="header-section-number">22.13</span> Machine Learning-based Causal Inference Tutorial</h2>
 <ul>
 <li><a href="https://www.gsb.stanford.edu/faculty-research/labs-initiatives/sil">Golub Capital Social Impact Lab</a></li>
 </ul>
 <p>This book/tutorial will introduce key concepts in machine learning-based causal inference.</p>
 <p>Link: <a href="https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/">https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/</a></p>
 </section>
-<section id="machine-learning-for-factor-investing" class="level2" data-number="22.13">
-<h2 data-number="22.13" class="anchored" data-anchor-id="machine-learning-for-factor-investing"><span class="header-section-number">22.13</span> Machine Learning for Factor Investing</h2>
+<section id="machine-learning-for-factor-investing" class="level2" data-number="22.14">
+<h2 data-number="22.14" class="anchored" data-anchor-id="machine-learning-for-factor-investing"><span class="header-section-number">22.14</span> Machine Learning for Factor Investing</h2>
 <ul>
 <li><a href="https://twitter.com/g_coqueret">Guillaume Coqueret</a></li>
 <li><a href="https://twitter.com/TonyGUIDA_Quant">Tony Guida</a></li>
@@ -554,21 +729,13 @@ ul.task-list li input[type="checkbox"] {
 <p>This book is intended to cover some advanced modelling techniques applied to equity investment strategies that are built on firm characteristics.</p>
 <p>Link: <a href="http://www.mlfactor.com/">http://www.mlfactor.com/</a></p>
 </section>
-<section id="mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle" class="level2" data-number="22.14">
-<h2 data-number="22.14" class="anchored" data-anchor-id="mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle"><span class="header-section-number">22.14</span> Mathematics and Programming for Machine Learning with R From the Ground Up 1st Edition, Kindle</h2>
+<section id="mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle" class="level2" data-number="22.15">
+<h2 data-number="22.15" class="anchored" data-anchor-id="mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle"><span class="header-section-number">22.15</span> Mathematics and Programming for Machine Learning with R From the Ground Up 1st Edition, Kindle</h2>
 <ul>
 <li><a href="https://twitter.com/BillOita?s=09">William B. Claster</a></li>
 </ul>
 <p>Based on the author’s experience in teaching data science for more than 10 years, Mathematics and Programming for Machine Learning with R: From the Ground Up reveals how machine learning algorithms do their magic and explains how these algorithms can be implemented in code. It is designed to provide readers with an understanding of the reasoning behind machine learning algorithms as well as how to program them. Written for novice programmers, the book progresses step-by-step, providing the coding skills needed to implement machine learning algorithms in R.</p>
 <p>Link: <a href="https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y">https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y</a></p>
-</section>
-<section id="mlr3-book" class="level2" data-number="22.15">
-<h2 data-number="22.15" class="anchored" data-anchor-id="mlr3-book"><span class="header-section-number">22.15</span> mlr3 book</h2>
-<ul>
-<li><a href="https://twitter.com/michellangts">Michel Lang</a></li>
-</ul>
-<p>The mlr3 package and <a href="https://github.com/mlr-org/mlr3/wiki/Extension-Packages">ecosystem</a> provide a generic, object-oriented, and extensible framework for classification, regression, survival analysis, and other machine learning tasks for the R language. They do not implement any learners, but provide a unified interface to many existing learners in R.</p>
-<p>Link: <a href="https://mlr3book.mlr-org.com/">https://mlr3book.mlr-org.com/</a></p>
 </section>
 <section id="model-based-clustering-classification-and-density-estimation-using-mclust-in-r" class="level2" data-number="22.16">
 <h2 data-number="22.16" class="anchored" data-anchor-id="model-based-clustering-classification-and-density-estimation-using-mclust-in-r"><span class="header-section-number">22.16</span> Model-Based Clustering, Classification, and Density Estimation Using mclust in R</h2>
@@ -702,372 +869,255 @@ Keen to support the site? You're most welcome to <a href="https://ko-fi.com/I2I1
 
 &nbsp;
 <script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
     }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const disableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'prefetch';
-    }
-  }
-  const enableStylesheet = (stylesheets) => {
-    for (let i=0; i < stylesheets.length; i++) {
-      const stylesheet = stylesheets[i];
-      stylesheet.rel = 'stylesheet';
-    }
-  }
-  const manageTransitions = (selector, allowTransitions) => {
-    const els = window.document.querySelectorAll(selector);
-    for (let i=0; i < els.length; i++) {
-      const el = els[i];
-      if (allowTransitions) {
-        el.classList.remove('notransition');
-      } else {
-        el.classList.add('notransition');
+    window.setColorSchemeToggle(window.hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
       }
+      return false;
     }
-  }
-  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
-    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
-    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
-    let newTheme = '';
-    if(darkModeDefault) {
-      newTheme = isAlternate ? baseTheme : alternateTheme;
-    } else {
-      newTheme = isAlternate ? alternateTheme : baseTheme;
-    }
-    const changeGiscusTheme = () => {
-      // From: https://github.com/giscus/giscus/issues/336
-      const sendMessage = (message) => {
-        const iframe = document.querySelector('iframe.giscus-frame');
-        if (!iframe) return;
-        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
       }
-      sendMessage({
-        setConfig: {
-          theme: newTheme
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+        const codeEl = trigger.previousElementSibling.cloneNode(true);
+        for (const childEl of codeEl.children) {
+          if (isCodeAnnotation(childEl)) {
+            childEl.remove();
+          }
+        }
+        return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
         }
       });
     }
-    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
-    if (isGiscussLoaded) {
-      changeGiscusTheme();
-    }
-  }
-  const toggleColorMode = (alternate) => {
-    // Switch the stylesheets
-    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
-    manageTransitions('#quarto-margin-sidebar .nav-link', false);
-    if (alternate) {
-      enableStylesheet(alternateStylesheets);
-      for (const sheetNode of alternateStylesheets) {
-        if (sheetNode.id === "quarto-bootstrap") {
-          toggleBodyColorMode(sheetNode);
-        }
-      }
-    } else {
-      disableStylesheet(alternateStylesheets);
-      toggleBodyColorPrimary();
-    }
-    manageTransitions('#quarto-margin-sidebar .nav-link', true);
-    // Switch the toggles
-    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
-    for (let i=0; i < toggles.length; i++) {
-      const toggle = toggles[i];
-      if (toggle) {
-        if (alternate) {
-          toggle.classList.add("alternate");     
-        } else {
-          toggle.classList.remove("alternate");
-        }
-      }
-    }
-    // Hack to workaround the fact that safari doesn't
-    // properly recolor the scrollbar when toggling (#1455)
-    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
-      manageTransitions("body", false);
-      window.scrollTo(0, 1);
-      setTimeout(() => {
-        window.scrollTo(0, 0);
-        manageTransitions("body", true);
-      }, 40);  
-    }
-  }
-  const isFileUrl = () => { 
-    return window.location.protocol === 'file:';
-  }
-  const hasAlternateSentinel = () => {  
-    let styleSentinel = getColorSchemeSentinel();
-    if (styleSentinel !== null) {
-      return styleSentinel === "alternate";
-    } else {
-      return false;
-    }
-  }
-  const setStyleSentinel = (alternate) => {
-    const value = alternate ? "alternate" : "default";
-    if (!isFileUrl()) {
-      window.localStorage.setItem("quarto-color-scheme", value);
-    } else {
-      localAlternateSentinel = value;
-    }
-  }
-  const getColorSchemeSentinel = () => {
-    if (!isFileUrl()) {
-      const storageValue = window.localStorage.getItem("quarto-color-scheme");
-      return storageValue != null ? storageValue : localAlternateSentinel;
-    } else {
-      return localAlternateSentinel;
-    }
-  }
-  const darkModeDefault = false;
-  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
-  // Dark / light mode switch
-  window.quartoToggleColorScheme = () => {
-    // Read the current dark / light value 
-    let toAlternate = !hasAlternateSentinel();
-    toggleColorMode(toAlternate);
-    setStyleSentinel(toAlternate);
-    toggleGiscusIfUsed(toAlternate, darkModeDefault);
-  };
-  // Ensure there is a toggle, if there isn't float one in the top right
-  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
-    const a = window.document.createElement('a');
-    a.classList.add('top-right');
-    a.classList.add('quarto-color-scheme-toggle');
-    a.href = "";
-    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
-    const i = window.document.createElement("i");
-    i.classList.add('bi');
-    a.appendChild(i);
-    window.document.body.appendChild(a);
-  }
-  // Switch to dark mode if need be
-  if (hasAlternateSentinel()) {
-    toggleColorMode(true);
-  } else {
-    toggleColorMode(false);
-  }
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
-      }
-    }
-    return false;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
-      }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  });
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-      }
-    }
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-    const config = {
-      allowHTML: true,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start',
-    };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
-    }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
           }
         }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
         }
-        return container.innerHTML
       } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
         if (window.Quarto?.typesetMath) {
           window.Quarto.typesetMath(note);
         }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      // TODO in 1.5, we should make sure this works without a callout special case
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
       }
     }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
           }
         } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
           .then(res => res.text())
           .then(html => {
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
+            const note = htmlDoc.querySelector('main.content');
             if (note !== null) {
-              const html = processXRef(id, note);
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
               instance.setContent(html);
             } 
           }).finally(() => {
@@ -1075,185 +1125,161 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            div.style.left = 0;
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+      }, function(instance) {
       });
     }
-  }
-});
-</script>
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="../chapters/Life Sciences.html" class="pagination-link" aria-label="Life Sciences">

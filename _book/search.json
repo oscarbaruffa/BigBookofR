@@ -164,7 +164,7 @@
     "href": "chapters/Career and Community.html",
     "title": "4  Career and Community",
     "section": "",
-    "text": "4.1 Ace The Data Science Interview\nAuthored by two Ex-Facebook employees, Ace the Data Science Interview is the best way to prepare for Data Science, Data Analyst, and Machine Learning interviews, so that you can land your dream job at FAANG, tech startups, or Wall Street.\nLink: https://www.acethedatascienceinterview.com/",
+    "text": "4.1 Ace The Data Science Interview\nThese books aren’t all strictly R focussed, but they do have a lot of relevance for many R programmers.\nAuthored by two Ex-Facebook employees, Ace the Data Science Interview is the best way to prepare for Data Science, Data Analyst, and Machine Learning interviews, so that you can land your dream job at FAANG, tech startups, or Wall Street.\nLink: https://www.acethedatascienceinterview.com/",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Career and Community</span>"
     ]
@@ -354,7 +354,7 @@
     "href": "chapters/Art.html",
     "title": "7  Art",
     "section": "",
-    "text": "7.1 Art from Code\nThis workshop provides a hands-on introduction to generative art in R. You’ll learn artistic techniques that generative artists use regularly in their work including flow fields, iterative function systems, and more. You’ll also learn about R packages specialised for generative art.\nLink: https://art-from-code.netlify.app/",
+    "text": "7.1 Art from Code\nThere are no books available covering art, but there are some blog posts available. This first one is is a good intro.\nThis workshop provides a hands-on introduction to generative art in R. You’ll learn artistic techniques that generative artists use regularly in their work including flow fields, iterative function systems, and more. You’ll also learn about R packages specialised for generative art.\nLink: https://art-from-code.netlify.app/",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Art</span>"
     ]
@@ -2323,8 +2323,8 @@
     "objectID": "chapters/Machine Learning.html#behavior-analysis-with-machine-learning-using-r",
     "href": "chapters/Machine Learning.html#behavior-analysis-with-machine-learning-using-r",
     "title": "22  Machine Learning",
-    "section": "22.3 Behavior Analysis with Machine Learning Using R",
-    "text": "22.3 Behavior Analysis with Machine Learning Using R\n\nEnrique Garcia Ceja\n\nThis book aims to provide an introduction to machine learning concepts and algorithms applied to a diverse set of behavior analysis problems. It focuses on the practical aspects of solving such problems based on data collected from sensors or stored in electronic records. The included examples demonstrate how to perform several of the tasks involved during a data analysis pipeline such as: data exploration, visualization, preprocessing, representation, model training/validation, and so on. All of this, using the R programming language and real-life datasets.\nLink: https://enriquegit.github.io/behavior-free/index.html#",
+    "section": "22.4 Behavior Analysis with Machine Learning Using R",
+    "text": "22.4 Behavior Analysis with Machine Learning Using R\n\nEnrique Garcia Ceja\n\nThis book aims to provide an introduction to machine learning concepts and algorithms applied to a diverse set of behavior analysis problems. It focuses on the practical aspects of solving such problems based on data collected from sensors or stored in electronic records. The included examples demonstrate how to perform several of the tasks involved during a data analysis pipeline such as: data exploration, visualization, preprocessing, representation, model training/validation, and so on. All of this, using the R programming language and real-life datasets.\nLink: https://enriquegit.github.io/behavior-free/index.html#",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2333,8 +2333,8 @@
     "objectID": "chapters/Machine Learning.html#data-science-theories-models-algorithms-and-analytics",
     "href": "chapters/Machine Learning.html#data-science-theories-models-algorithms-and-analytics",
     "title": "22  Machine Learning",
-    "section": "22.4 Data Science: Theories, Models, Algorithms, and Analytics",
-    "text": "22.4 Data Science: Theories, Models, Algorithms, and Analytics\n\nSanjiv Ranjan Das\n\nI developed these class notes for my Machine Learning with R course. It traces my evolution as a data scientist into redundancy, I expect I will be replaced by a machine soon!\nLink: https://srdas.github.io/MLBook/",
+    "section": "22.5 Data Science: Theories, Models, Algorithms, and Analytics",
+    "text": "22.5 Data Science: Theories, Models, Algorithms, and Analytics\n\nSanjiv Ranjan Das\n\nI developed these class notes for my Machine Learning with R course. It traces my evolution as a data scientist into redundancy, I expect I will be replaced by a machine soon!\nLink: https://srdas.github.io/MLBook/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2343,8 +2343,8 @@
     "objectID": "chapters/Machine Learning.html#deep-learning-and-scientific-computing-with-r-torch",
     "href": "chapters/Machine Learning.html#deep-learning-and-scientific-computing-with-r-torch",
     "title": "22  Machine Learning",
-    "section": "22.5 Deep Learning and Scientific Computing with R torch",
-    "text": "22.5 Deep Learning and Scientific Computing with R torch\n\nSigrid Keydana\n\nThis is a book about torch, the R interface to PyTorch. PyTorch, as of this writing, is one of the major deep-learning and scientific-computing frameworks, widely used across industries and areas of research. With torch, you get to access its rich functionality directly from R, with no need to install, let alone learn, Python.\nLink: https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/",
+    "section": "22.6 Deep Learning and Scientific Computing with R torch",
+    "text": "22.6 Deep Learning and Scientific Computing with R torch\n\nSigrid Keydana\n\nThis is a book about torch, the R interface to PyTorch. PyTorch, as of this writing, is one of the major deep-learning and scientific-computing frameworks, widely used across industries and areas of research. With torch, you get to access its rich functionality directly from R, with no need to install, let alone learn, Python.\nLink: https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2353,8 +2353,8 @@
     "objectID": "chapters/Machine Learning.html#explanatory-model-analysis",
     "href": "chapters/Machine Learning.html#explanatory-model-analysis",
     "title": "22  Machine Learning",
-    "section": "22.6 Explanatory Model Analysis",
-    "text": "22.6 Explanatory Model Analysis\n\nPrzemyslaw Biecek\nTomasz Burzykowski\n\nResponsible, Fair and Explainable Predictive Modeling with examples in R and Python\nLink: https://pbiecek.github.io/ema/",
+    "section": "22.7 Explanatory Model Analysis",
+    "text": "22.7 Explanatory Model Analysis\n\nPrzemyslaw Biecek\nTomasz Burzykowski\n\nResponsible, Fair and Explainable Predictive Modeling with examples in R and Python\nLink: https://pbiecek.github.io/ema/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2363,8 +2363,8 @@
     "objectID": "chapters/Machine Learning.html#feature-engineering-a-z",
     "href": "chapters/Machine Learning.html#feature-engineering-a-z",
     "title": "22  Machine Learning",
-    "section": "22.7 Feature Engineering A-Z",
-    "text": "22.7 Feature Engineering A-Z\n\nEmil Hvitfeldt\n\nThis book is written to be used as a reference guide to nearly all feature engineering methods you will encounter. This book is designed to be used by people involved in the modeling of data. These can include but are not limited to data scientists, students, professors, data analysts and machine learning engineers. The reference style nature of the book makes it useful for beginners and seasoned professionals. A background in the basics of modeling, statistics and machine learning would be helpful. Feature engineering as a practice is tightly connected to the rest of the machine learning pipeline so knowledge of the other components is key.\nMany educational resources skip over the finer details of feature engineering methods, which is where this book tries to fill the gap.\nLink: https://feaz-book.com/",
+    "section": "22.8 Feature Engineering A-Z",
+    "text": "22.8 Feature Engineering A-Z\n\nEmil Hvitfeldt\n\nThis book is written to be used as a reference guide to nearly all feature engineering methods you will encounter. This book is designed to be used by people involved in the modeling of data. These can include but are not limited to data scientists, students, professors, data analysts and machine learning engineers. The reference style nature of the book makes it useful for beginners and seasoned professionals. A background in the basics of modeling, statistics and machine learning would be helpful. Feature engineering as a practice is tightly connected to the rest of the machine learning pipeline so knowledge of the other components is key.\nMany educational resources skip over the finer details of feature engineering methods, which is where this book tries to fill the gap.\nLink: https://feaz-book.com/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2373,8 +2373,8 @@
     "objectID": "chapters/Machine Learning.html#feature-engineering-and-selection-a-practical-approach-for-predictive-models",
     "href": "chapters/Machine Learning.html#feature-engineering-and-selection-a-practical-approach-for-predictive-models",
     "title": "22  Machine Learning",
-    "section": "22.8 Feature Engineering and Selection A Practical Approach for Predictive Models",
-    "text": "22.8 Feature Engineering and Selection A Practical Approach for Predictive Models\n\nMax Kuhn\nKjell Johnson\n\nThe goals of Feature Engineering and Selection are to provide tools for re-representing predictors, to place these tools in the context of a good predictive modeling framework, and to convey our experience of utilizing these tools in practice.\nLink: http://www.feat.engineering/index.html",
+    "section": "22.9 Feature Engineering and Selection A Practical Approach for Predictive Models",
+    "text": "22.9 Feature Engineering and Selection A Practical Approach for Predictive Models\n\nMax Kuhn\nKjell Johnson\n\nThe goals of Feature Engineering and Selection are to provide tools for re-representing predictors, to place these tools in the context of a good predictive modeling framework, and to convey our experience of utilizing these tools in practice.\nLink: http://www.feat.engineering/index.html",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2383,8 +2383,8 @@
     "objectID": "chapters/Machine Learning.html#hands-on-machine-learning-with-r",
     "href": "chapters/Machine Learning.html#hands-on-machine-learning-with-r",
     "title": "22  Machine Learning",
-    "section": "22.9 Hands-On Machine Learning with R",
-    "text": "22.9 Hands-On Machine Learning with R\n\nBradley Boehmke\nBrandon Greenwell\n\nThis book provides hands-on modules for many of the most common machine learning methods to include:\nGeneralized low rank models, Clustering algorithms, Autoencoders, Regularized models, Random forests, Gradient boosting machines, Deep neural networks, Stacking / super learners and more!\nLink: https://bradleyboehmke.github.io/HOML/",
+    "section": "22.10 Hands-On Machine Learning with R",
+    "text": "22.10 Hands-On Machine Learning with R\n\nBradley Boehmke\nBrandon Greenwell\n\nThis book provides hands-on modules for many of the most common machine learning methods to include:\nGeneralized low rank models, Clustering algorithms, Autoencoders, Regularized models, Random forests, Gradient boosting machines, Deep neural networks, Stacking / super learners and more!\nLink: https://bradleyboehmke.github.io/HOML/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2393,8 +2393,8 @@
     "objectID": "chapters/Machine Learning.html#interpretable-machine-learning",
     "href": "chapters/Machine Learning.html#interpretable-machine-learning",
     "title": "22  Machine Learning",
-    "section": "22.10 Interpretable Machine Learning",
-    "text": "22.10 Interpretable Machine Learning\n\nChristoph Molnar\n\nA Guide for Making Black Box Models Explainable\nOnline book\nPaid: Free or pay what you want $42\nLink: https://leanpub.com/interpretable-machine-learning",
+    "section": "22.11 Interpretable Machine Learning",
+    "text": "22.11 Interpretable Machine Learning\n\nChristoph Molnar\n\nA Guide for Making Black Box Models Explainable\nOnline book\nPaid: Free or pay what you want $42\nLink: https://leanpub.com/interpretable-machine-learning",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2403,8 +2403,8 @@
     "objectID": "chapters/Machine Learning.html#lightweight-machine-learning-classics-with-r-marek-gagolewski",
     "href": "chapters/Machine Learning.html#lightweight-machine-learning-classics-with-r-marek-gagolewski",
     "title": "22  Machine Learning",
-    "section": "22.11 Lightweight Machine Learning Classics with R Marek Gagolewski",
-    "text": "22.11 Lightweight Machine Learning Classics with R Marek Gagolewski\nIn this book we will take an unpretentious glance at the most fundamental algorithms that have stood the test of time and which form the basis for state-of-the-art solutions of modern AI, which is principally (big) data-driven.\nLink: https://lmlcr.gagolewski.com/",
+    "section": "22.12 Lightweight Machine Learning Classics with R Marek Gagolewski",
+    "text": "22.12 Lightweight Machine Learning Classics with R Marek Gagolewski\nIn this book we will take an unpretentious glance at the most fundamental algorithms that have stood the test of time and which form the basis for state-of-the-art solutions of modern AI, which is principally (big) data-driven.\nLink: https://lmlcr.gagolewski.com/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2413,8 +2413,8 @@
     "objectID": "chapters/Machine Learning.html#machine-learning-for-factor-investing",
     "href": "chapters/Machine Learning.html#machine-learning-for-factor-investing",
     "title": "22  Machine Learning",
-    "section": "22.13 Machine Learning for Factor Investing",
-    "text": "22.13 Machine Learning for Factor Investing\n\nGuillaume Coqueret\nTony Guida\n\nThis book is intended to cover some advanced modelling techniques applied to equity investment strategies that are built on firm characteristics.\nLink: http://www.mlfactor.com/",
+    "section": "22.14 Machine Learning for Factor Investing",
+    "text": "22.14 Machine Learning for Factor Investing\n\nGuillaume Coqueret\nTony Guida\n\nThis book is intended to cover some advanced modelling techniques applied to equity investment strategies that are built on firm characteristics.\nLink: http://www.mlfactor.com/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2423,8 +2423,8 @@
     "objectID": "chapters/Machine Learning.html#mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle",
     "href": "chapters/Machine Learning.html#mathematics-and-programming-for-machine-learning-with-r-from-the-ground-up-1st-edition-kindle",
     "title": "22  Machine Learning",
-    "section": "22.14 Mathematics and Programming for Machine Learning with R From the Ground Up 1st Edition, Kindle",
-    "text": "22.14 Mathematics and Programming for Machine Learning with R From the Ground Up 1st Edition, Kindle\n\nWilliam B. Claster\n\nBased on the author’s experience in teaching data science for more than 10 years, Mathematics and Programming for Machine Learning with R: From the Ground Up reveals how machine learning algorithms do their magic and explains how these algorithms can be implemented in code. It is designed to provide readers with an understanding of the reasoning behind machine learning algorithms as well as how to program them. Written for novice programmers, the book progresses step-by-step, providing the coding skills needed to implement machine learning algorithms in R.\nLink: https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y",
+    "section": "22.15 Mathematics and Programming for Machine Learning with R From the Ground Up 1st Edition, Kindle",
+    "text": "22.15 Mathematics and Programming for Machine Learning with R From the Ground Up 1st Edition, Kindle\n\nWilliam B. Claster\n\nBased on the author’s experience in teaching data science for more than 10 years, Mathematics and Programming for Machine Learning with R: From the Ground Up reveals how machine learning algorithms do their magic and explains how these algorithms can be implemented in code. It is designed to provide readers with an understanding of the reasoning behind machine learning algorithms as well as how to program them. Written for novice programmers, the book progresses step-by-step, providing the coding skills needed to implement machine learning algorithms in R.\nLink: https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -2613,8 +2613,8 @@
     "objectID": "chapters/Packages.html#brailler-in-action",
     "href": "chapters/Packages.html#brailler-in-action",
     "title": "25  Packages",
-    "section": "25.5 BrailleR in Action",
-    "text": "25.5 BrailleR in Action\n\nA. Jonathan R. Godfrey\n\nShowing how tools that support blind R users were developed with examples. Suggestions of how blind R users should work are provided.\nLink: https://R-Resources.massey.ac.nz/BrailleRInAction/",
+    "section": "25.6 BrailleR in Action",
+    "text": "25.6 BrailleR in Action\n\nA. Jonathan R. Godfrey\n\nShowing how tools that support blind R users were developed with examples. Suggestions of how blind R users should work are provided.\nLink: https://R-Resources.massey.ac.nz/BrailleRInAction/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2623,8 +2623,8 @@
     "objectID": "chapters/Packages.html#circular-visualization-in-r",
     "href": "chapters/Packages.html#circular-visualization-in-r",
     "title": "25  Packages",
-    "section": "25.6 Circular Visualization in R",
-    "text": "25.6 Circular Visualization in R\n\nZuguang GU\nJournal Article\n\nThis is the documentation of the circlize R package.\nLink: https://jokergoo.github.io/circlize_book/book/",
+    "section": "25.7 Circular Visualization in R",
+    "text": "25.7 Circular Visualization in R\n\nZuguang GU\nJournal Article\n\nThis is the documentation of the circlize R package.\nLink: https://jokergoo.github.io/circlize_book/book/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2633,8 +2633,8 @@
     "objectID": "chapters/Packages.html#complexheatmap-complete-reference",
     "href": "chapters/Packages.html#complexheatmap-complete-reference",
     "title": "25  Packages",
-    "section": "25.7 ComplexHeatmap Complete Reference",
-    "text": "25.7 ComplexHeatmap Complete Reference\n\nZuguang Gu\n\nThe ComplexHeatmap package is used to generate heatmap visualizations. It is a highly flexible tool to arrange multiple heatmaps and supports various annotation graphics for high-dimensional data. These visualizations are efficient to visualize visualizations between different sources of data sets and reveal potential patterns.\nThis book here contains the full documentation to using the ComplexHeatmap package effectively with plenty of small and complex examples to help you create your own complex heatmap data vizualization.\nLink: https://jokergoo.github.io/ComplexHeatmap-reference/book/",
+    "section": "25.8 ComplexHeatmap Complete Reference",
+    "text": "25.8 ComplexHeatmap Complete Reference\n\nZuguang Gu\n\nThe ComplexHeatmap package is used to generate heatmap visualizations. It is a highly flexible tool to arrange multiple heatmaps and supports various annotation graphics for high-dimensional data. These visualizations are efficient to visualize visualizations between different sources of data sets and reveal potential patterns.\nThis book here contains the full documentation to using the ComplexHeatmap package effectively with plenty of small and complex examples to help you create your own complex heatmap data vizualization.\nLink: https://jokergoo.github.io/ComplexHeatmap-reference/book/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2643,8 +2643,8 @@
     "objectID": "chapters/Packages.html#create-publish-and-analyze-personal-websites-using-r-and-rstudio",
     "href": "chapters/Packages.html#create-publish-and-analyze-personal-websites-using-r-and-rstudio",
     "title": "25  Packages",
-    "section": "25.10 Create, Publish, and Analyze Personal Websites Using R and RStudio",
-    "text": "25.10 Create, Publish, and Analyze Personal Websites Using R and RStudio\n\nDanny Morris\n\nA free, digital handbook with step-by-step instructions for launching your own personal website using R, RStudio, and other freely available technologies including GitHub, Hugo, Netlify, and Google Analytics.\nLink: https://r4sites-book.netlify.app/",
+    "section": "25.11 Create, Publish, and Analyze Personal Websites Using R and RStudio",
+    "text": "25.11 Create, Publish, and Analyze Personal Websites Using R and RStudio\n\nDanny Morris\n\nA free, digital handbook with step-by-step instructions for launching your own personal website using R, RStudio, and other freely available technologies including GitHub, Hugo, Netlify, and Google Analytics.\nLink: https://r4sites-book.netlify.app/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2653,8 +2653,8 @@
     "objectID": "chapters/Packages.html#data-integration-manipulation-and-visualization-of-phylogenetic-trees",
     "href": "chapters/Packages.html#data-integration-manipulation-and-visualization-of-phylogenetic-trees",
     "title": "25  Packages",
-    "section": "25.11 Data Integration, Manipulation and Visualization of Phylogenetic Trees",
-    "text": "25.11 Data Integration, Manipulation and Visualization of Phylogenetic Trees\n\nGuangchuang Yu\n\nA guide for data integration, manipulation and visualization of phylogenetic trees using a suite of R packages, tidytree, treeio, ggtree and ggtreeExtra.\nLink: https://yulab-smu.top/treedata-book/",
+    "section": "25.12 Data Integration, Manipulation and Visualization of Phylogenetic Trees",
+    "text": "25.12 Data Integration, Manipulation and Visualization of Phylogenetic Trees\n\nGuangchuang Yu\n\nA guide for data integration, manipulation and visualization of phylogenetic trees using a suite of R packages, tidytree, treeio, ggtree and ggtreeExtra.\nLink: https://yulab-smu.top/treedata-book/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2663,8 +2663,8 @@
     "objectID": "chapters/Packages.html#deep-learning-and-scientific-computing-with-r-torch",
     "href": "chapters/Packages.html#deep-learning-and-scientific-computing-with-r-torch",
     "title": "25  Packages",
-    "section": "25.13 Deep Learning and Scientific Computing with R torch",
-    "text": "25.13 Deep Learning and Scientific Computing with R torch\n\nSigrid Keydana\n\nThis is a book about torch, the R interface to PyTorch. PyTorch, as of this writing, is one of the major deep-learning and scientific-computing frameworks, widely used across industries and areas of research. With torch, you get to access its rich functionality directly from R, with no need to install, let alone learn, Python.\nLink: https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/",
+    "section": "25.14 Deep Learning and Scientific Computing with R torch",
+    "text": "25.14 Deep Learning and Scientific Computing with R torch\n\nSigrid Keydana\n\nThis is a book about torch, the R interface to PyTorch. PyTorch, as of this writing, is one of the major deep-learning and scientific-computing frameworks, widely used across industries and areas of research. With torch, you get to access its rich functionality directly from R, with no need to install, let alone learn, Python.\nLink: https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2673,8 +2673,8 @@
     "objectID": "chapters/Packages.html#flexible-imputation-of-missing-data",
     "href": "chapters/Packages.html#flexible-imputation-of-missing-data",
     "title": "25  Packages",
-    "section": "25.14 Flexible Imputation of Missing Data",
-    "text": "25.14 Flexible Imputation of Missing Data\n\nStef van Buuren\n\nMultiple imputation of missing data has become one of the great academic industries. Many analysts now employ multiple imputation on a regular basis as a generic solution to the omnipresent missing-data problem, and a substantial group of practitioners are doing the calculations in mice. This book aspires to combine a state-of-the-art overview of the field with a set of how-to instructions for practical data analysis.\nLink: https://stefvanbuuren.name/fimd/",
+    "section": "25.15 Flexible Imputation of Missing Data",
+    "text": "25.15 Flexible Imputation of Missing Data\n\nStef van Buuren\n\nMultiple imputation of missing data has become one of the great academic industries. Many analysts now employ multiple imputation on a regular basis as a generic solution to the omnipresent missing-data problem, and a substantial group of practitioners are doing the calculations in mice. This book aspires to combine a state-of-the-art overview of the field with a set of how-to instructions for practical data analysis.\nLink: https://stefvanbuuren.name/fimd/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2683,8 +2683,8 @@
     "objectID": "chapters/Packages.html#gt-cookbook",
     "href": "chapters/Packages.html#gt-cookbook",
     "title": "25  Packages",
-    "section": "25.16 GT Cookbook",
-    "text": "25.16 GT Cookbook\n\nThomas Mock\n\nThis cookbook attempts to walk through many of the example usecases for gt, and provide useful commentary around the use of the various gt functions. The full gt documentation has other more succinct examples and full function arguments.\nFor advanced use cases, make sure to check out the Advanced Cookbook\nLink: https://themockup.blog/static/resources/gt-cookbook.html",
+    "section": "25.17 GT Cookbook",
+    "text": "25.17 GT Cookbook\n\nThomas Mock\n\nThis cookbook attempts to walk through many of the example usecases for gt, and provide useful commentary around the use of the various gt functions. The full gt documentation has other more succinct examples and full function arguments.\nFor advanced use cases, make sure to check out the Advanced Cookbook\nLink: https://themockup.blog/static/resources/gt-cookbook.html",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2693,8 +2693,8 @@
     "objectID": "chapters/Packages.html#gt-cookbook-advanced",
     "href": "chapters/Packages.html#gt-cookbook-advanced",
     "title": "25  Packages",
-    "section": "25.17 GT Cookbook Advanced",
-    "text": "25.17 GT Cookbook Advanced\n\nThomas Mock\n\nThis cookbook attempts to walk through many of the advanced applications for gt, and provide useful commentary around the use of the various gt functions. The full gt documentation has other more succinct examples and full function arguments.\nLink: https://themockup.blog/static/resources/gt-cookbook-advanced.html",
+    "section": "25.18 GT Cookbook Advanced",
+    "text": "25.18 GT Cookbook Advanced\n\nThomas Mock\n\nThis cookbook attempts to walk through many of the advanced applications for gt, and provide useful commentary around the use of the various gt functions. The full gt documentation has other more succinct examples and full function arguments.\nLink: https://themockup.blog/static/resources/gt-cookbook-advanced.html",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2703,8 +2703,8 @@
     "objectID": "chapters/Packages.html#highcharter-cookbook",
     "href": "chapters/Packages.html#highcharter-cookbook",
     "title": "25  Packages",
-    "section": "25.18 Highcharter Cookbook",
-    "text": "25.18 Highcharter Cookbook\n\nTom Bishop\n\nHighcharter is an R implementation of the highcharts javascript library, enabled by R’s htmlwidgets package. Most of the highcharts functionality is implemented through highcharter however the documentation is a little light. This guide will provide examples on how to create and customise various graphs whilst providing some tips on how to think about the package that will help you build and debug your more ambitious charts.\nLink: https://www.tmbish.me/lab/highcharter-cookbook/",
+    "section": "25.19 Highcharter Cookbook",
+    "text": "25.19 Highcharter Cookbook\n\nTom Bishop\n\nHighcharter is an R implementation of the highcharts javascript library, enabled by R’s htmlwidgets package. Most of the highcharts functionality is implemented through highcharter however the documentation is a little light. This guide will provide examples on how to create and customise various graphs whilst providing some tips on how to think about the package that will help you build and debug your more ambitious charts.\nLink: https://www.tmbish.me/lab/highcharter-cookbook/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2833,8 +2833,8 @@
     "objectID": "chapters/Packages.html#data.table-in-r-the-complete-beginners-guide",
     "href": "chapters/Packages.html#data.table-in-r-the-complete-beginners-guide",
     "title": "25  Packages",
-    "section": "25.12 data.table in R The Complete Beginners Guide",
-    "text": "25.12 data.table in R The Complete Beginners Guide\n\nSelva Prabhakaran\n\ndata.table is a package is used for working with tabular data in R. It provides the efficient data.table object which is a much improved version of the default data.frame. It is super fast and has intuitive and terse syntax. If you know R language and haven’t picked up the data.table package yet, then this tutorial guide is a great place to start.\nLink: https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/",
+    "section": "25.13 data.table in R The Complete Beginners Guide",
+    "text": "25.13 data.table in R The Complete Beginners Guide\n\nSelva Prabhakaran\n\ndata.table is a package is used for working with tabular data in R. It provides the efficient data.table object which is a much improved version of the default data.frame. It is super fast and has intuitive and terse syntax. If you know R language and haven’t picked up the data.table package yet, then this tutorial guide is a great place to start.\nLink: https://www.machinelearningplus.com/data-manipulation/datatable-in-r-complete-guide/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2843,8 +2843,8 @@
     "objectID": "chapters/Packages.html#ggplot2-elegant-graphics-for-data-analysis",
     "href": "chapters/Packages.html#ggplot2-elegant-graphics-for-data-analysis",
     "title": "25  Packages",
-    "section": "25.15 ggplot2 Elegant Graphics for Data Analysis",
-    "text": "25.15 ggplot2 Elegant Graphics for Data Analysis\n\nHadley Wickham\n\nggplot2 is an R package for producing statistical, or data, graphics. Unlike most other graphics packages, ggplot2 has an underlying grammar, based on the Grammar of Graphics (Wilkinson 2005), that allows you to compose graphs by combining independent components. This makes ggplot2 powerful. Rather than being limited to sets of pre-defined graphics, you can create novel graphics that are tailored to your specific problem.\nLink: https://ggplot2-book.org/",
+    "section": "25.16 ggplot2 Elegant Graphics for Data Analysis",
+    "text": "25.16 ggplot2 Elegant Graphics for Data Analysis\n\nHadley Wickham\n\nggplot2 is an R package for producing statistical, or data, graphics. Unlike most other graphics packages, ggplot2 has an underlying grammar, based on the Grammar of Graphics (Wilkinson 2005), that allows you to compose graphs by combining independent components. This makes ggplot2 powerful. Rather than being limited to sets of pre-defined graphics, you can create novel graphics that are tailored to your specific problem.\nLink: https://ggplot2-book.org/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2853,8 +2853,8 @@
     "objectID": "chapters/Packages.html#knitr",
     "href": "chapters/Packages.html#knitr",
     "title": "25  Packages",
-    "section": "25.19 knitr",
-    "text": "25.19 knitr\n\nYihui Xie\n\nDynamic documents with R and knitr!\nThe knitr package was designed to be a transparent engine for dynamic report generation with R, solve some long-standing problems in Sweave, and combine features in other add-on packages into one package.\nLink: https://yihui.org/knitr/",
+    "section": "25.20 knitr",
+    "text": "25.20 knitr\n\nYihui Xie\n\nDynamic documents with R and knitr!\nThe knitr package was designed to be a transparent engine for dynamic report generation with R, solve some long-standing problems in Sweave, and combine features in other add-on packages into one package.\nLink: https://yihui.org/knitr/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -5353,8 +5353,8 @@
     "objectID": "chapters/Machine Learning.html#machine-learning-based-causal-inference-tutorial",
     "href": "chapters/Machine Learning.html#machine-learning-based-causal-inference-tutorial",
     "title": "22  Machine Learning",
-    "section": "22.12 Machine Learning-based Causal Inference Tutorial",
-    "text": "22.12 Machine Learning-based Causal Inference Tutorial\n\nGolub Capital Social Impact Lab\n\nThis book/tutorial will introduce key concepts in machine learning-based causal inference.\nLink: https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/",
+    "section": "22.13 Machine Learning-based Causal Inference Tutorial",
+    "text": "22.13 Machine Learning-based Causal Inference Tutorial\n\nGolub Capital Social Impact Lab\n\nThis book/tutorial will introduce key concepts in machine learning-based causal inference.\nLink: https://bookdown.org/stanfordgsbsilab/ml-ci-tutorial/",
     "crumbs": [
       "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
     ]
@@ -5373,8 +5373,8 @@
     "objectID": "chapters/Packages.html#cookbook-polars-for-r",
     "href": "chapters/Packages.html#cookbook-polars-for-r",
     "title": "25  Packages",
-    "section": "25.8 Cookbook Polars for R",
-    "text": "25.8 Cookbook Polars for R\n\nDamien Dotta\n\nThe goal of the cookbook is to provide solutions to common tasks and problems in using Polars with R. It allows R users using their usual packages to quickly get the syntax required to use Polars with R.\nIt is structured around side-by-side comparisons between polars, R base, dplyr, tidyr and data.table.\nLink: https://ddotta.github.io/cookbook-rpolars/",
+    "section": "25.9 Cookbook Polars for R",
+    "text": "25.9 Cookbook Polars for R\n\nDamien Dotta\n\nThe goal of the cookbook is to provide solutions to common tasks and problems in using Polars with R. It allows R users using their usual packages to quickly get the syntax required to use Polars with R.\nIt is structured around side-by-side comparisons between polars, R base, dplyr, tidyr and data.table.\nLink: https://ddotta.github.io/cookbook-rpolars/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -5383,8 +5383,8 @@
     "objectID": "chapters/Packages.html#cran-cookbook",
     "href": "chapters/Packages.html#cran-cookbook",
     "title": "25  Packages",
-    "section": "25.9 CRAN Cookbook",
-    "text": "25.9 CRAN Cookbook\n\nJasmine Daly\nBeni Altmann\n\nYour go-to guide for solving common (and often recurring) issues spotted by CRAN volunteers during package submissions and re-submissions. Here, you’ll find practical “recipes” organized by different parts of the package structure.\nLink: https://contributor.r-project.org/cran-cookbook/",
+    "section": "25.10 CRAN Cookbook",
+    "text": "25.10 CRAN Cookbook\n\nJasmine Daly\nBeni Altmann\n\nYour go-to guide for solving common (and often recurring) issues spotted by CRAN volunteers during package submissions and re-submissions. Here, you’ll find practical “recipes” organized by different parts of the package structure.\nLink: https://contributor.r-project.org/cran-cookbook/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -5503,8 +5503,8 @@
     "objectID": "chapters/Packages.html#marginal-effects-zoo",
     "href": "chapters/Packages.html#marginal-effects-zoo",
     "title": "25  Packages",
-    "section": "25.20 Marginal Effects Zoo",
-    "text": "25.20 Marginal Effects Zoo\n\nVincent Arel-Bundock\n\nIt includes over 30 chapters overs a wide range of topics, including how the marginaleffects package can facilitate the analysis of: Experiments, Observational data, Causal inference with G-Computation, Machine learning models, Bayesian modeling, Multilevel regression with post-stratification (MRP), Missing data, Matching, Inverse probability weighting, and Conformal prediction.\nLink: https://marginaleffects.com",
+    "section": "25.21 Marginal Effects Zoo",
+    "text": "25.21 Marginal Effects Zoo\n\nVincent Arel-Bundock\n\nIt includes over 30 chapters overs a wide range of topics, including how the marginaleffects package can facilitate the analysis of: Experiments, Observational data, Causal inference with G-Computation, Machine learning models, Bayesian modeling, Multilevel regression with post-stratification (MRP), Missing data, Matching, Inverse probability weighting, and Conformal prediction.\nLink: https://marginaleffects.com",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -5707,6 +5707,26 @@
     "text": "27.9 R para Ciência de Dados (2ª edição)\nA tradução para o português da 2ª edição do R for Data Science é um projeto colaborativo da comunidade de R no Brasil, tornando o livro mais acessível. Coordenado por Beatriz Milz, contou com a participação de diversos voluntários, incluindo a adaptação dos conjuntos de dados no pacote {dados}. O livro cobre desde importação e transformação até visualização e comunicação de dados.\nLink: https://pt.r4ds.hadley.nz/",
     "crumbs": [
       "<span class='chapter-number'>27</span>  <span class='chapter-title'>Português</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Machine Learning.html#applied-machine-learning-using-mlr3-in-r",
+    "href": "chapters/Machine Learning.html#applied-machine-learning-using-mlr3-in-r",
+    "title": "22  Machine Learning",
+    "section": "22.3 Applied Machine Learning Using mlr3 in R",
+    "text": "22.3 Applied Machine Learning Using mlr3 in R\n\nBernd Bischl\nRaphael Sonabend\nLars Kotthoff\nMichel Lang\n\nThe mlr3 package and ecosystem provide a generic, object-oriented, and extensible framework for classification, regression, survival analysis, and other machine learning tasks for the R language. This includes extensive support for model evaluation, benchmarking, hyperparameter tuning, preprocessing, model selection, deep learning and more. The book is a comprehensive guide on how to use the mlr3 framework to solve applied machine learning problems by going from simple examples to complex modeling problems.\nLink: https://mlr3book.mlr-org.com/",
+    "crumbs": [
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>Machine Learning</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Packages.html#applied-machine-learning-using-mlr3-in-r",
+    "href": "chapters/Packages.html#applied-machine-learning-using-mlr3-in-r",
+    "title": "25  Packages",
+    "section": "25.5 Applied Machine Learning Using mlr3 in R",
+    "text": "25.5 Applied Machine Learning Using mlr3 in R\n\nBernd Bischl\nRaphael Sonabend\nLars Kotthoff\nMichel Lang\n\nThe mlr3 package and ecosystem provide a generic, object-oriented, and extensible framework for classification, regression, survival analysis, and other machine learning tasks for the R language. This includes extensive support for model evaluation, benchmarking, hyperparameter tuning, preprocessing, model selection, deep learning and more. The book is a comprehensive guide on how to use the mlr3 framework to solve applied machine learning problems by going from simple examples to complex modeling problems.\nLink: https://mlr3book.mlr-org.com/",
+    "crumbs": [
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
   }
 ]

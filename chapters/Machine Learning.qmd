@@ -18,6 +18,24 @@ We want to create a practical guide to developing quality predictive models from
 
 Link: [https://aml4td.org/](https://aml4td.org/)
 
+## Applied Machine Learning Using mlr3 in R
+
+- [Bernd Bischl](https://www.slds.stat.uni-muenchen.de/people/bischl/)
+- [Raphael Sonabend](https://github.com/RaphaelS1)
+- [Lars Kotthoff](https://www.cs.uwyo.edu/~larsko/)
+- Michel Lang
+
+The mlr3 package and [ecosystem](https://mlr-org.com/ecosystem.html) provide a generic, object-oriented, and extensible framework for
+classification, regression, survival analysis, and other machine
+learning tasks for the R language.
+This includes extensive support for model evaluation, benchmarking,
+hyperparameter tuning, preprocessing, model selection, deep learning
+and more. The book is a comprehensive guide on how to use the mlr3
+framework to solve applied machine learning problems by going from
+simple examples to complex modeling problems.
+
+Link: [https://mlr3book.mlr-org.com/](https://mlr3book.mlr-org.com/)
+
 ## Behavior Analysis with Machine Learning Using R
 
 - Enrique Garcia Ceja
@@ -141,19 +159,6 @@ programmers, the book progresses step-by-step, providing the coding
 skills needed to implement machine learning algorithms in R.
 
 Link: [https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y](https://www.amazon.com/Mathematics-Programming-Machine-Learning-Ground-ebook-dp-B08JHDCX9Y/dp/B08JHDCX9Y)
-
-## mlr3 book
-
-- [Michel Lang](https://twitter.com/michellangts)
-
-The mlr3 package and
-[ecosystem](https://github.com/mlr-org/mlr3/wiki/Extension-Packages)
-provide a generic, object-oriented, and extensible framework for
-classification, regression, survival analysis, and other machine
-learning tasks for the R language. They do not implement any learners,
-but provide a unified interface to many existing learners in R.
-
-Link: [https://mlr3book.mlr-org.com/](https://mlr3book.mlr-org.com/)
 
 ## Model-Based Clustering, Classification, and Density Estimation Using mclust in R
 

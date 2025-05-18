@@ -33,6 +33,24 @@ This cookbook aims to provide a number of recipes showing how to perform common 
 
 Link: [https://arrow.apache.org/cookbook/r/index.html](https://arrow.apache.org/cookbook/r/index.html)
 
+## Applied Machine Learning Using mlr3 in R
+
+- [Bernd Bischl](https://www.slds.stat.uni-muenchen.de/people/bischl/)
+- [Raphael Sonabend](https://github.com/RaphaelS1)
+- [Lars Kotthoff](https://www.cs.uwyo.edu/~larsko/)
+- Michel Lang
+
+The mlr3 package and [ecosystem](https://mlr-org.com/ecosystem.html) provide a generic, object-oriented, and extensible framework for
+classification, regression, survival analysis, and other machine
+learning tasks for the R language.
+This includes extensive support for model evaluation, benchmarking,
+hyperparameter tuning, preprocessing, model selection, deep learning
+and more. The book is a comprehensive guide on how to use the mlr3
+framework to solve applied machine learning problems by going from
+simple examples to complex modeling problems.
+
+Link: [https://mlr3book.mlr-org.com/](https://mlr3book.mlr-org.com/)
+
 ## BrailleR in Action
 
 - A. Jonathan R. Godfrey
@@ -179,19 +197,6 @@ Link: [https://yihui.org/knitr/](https://yihui.org/knitr/)
 It includes over 30 chapters overs a wide range of topics, including how the marginaleffects package can facilitate the analysis of: Experiments, Observational data, Causal inference with G-Computation, Machine learning models, Bayesian modeling, Multilevel regression with post-stratification (MRP), Missing data, Matching, Inverse probability weighting, and Conformal prediction.
 
 Link: [https://marginaleffects.com](https://marginaleffects.com)
-
-## mlr3 book
-
-- [Michel Lang](https://twitter.com/michellangts)
-
-The mlr3 package and
-[ecosystem](https://github.com/mlr-org/mlr3/wiki/Extension-Packages)
-provide a generic, object-oriented, and extensible framework for
-classification, regression, survival analysis, and other machine
-learning tasks for the R language. They do not implement any learners,
-but provide a unified interface to many existing learners in R.
-
-Link: [https://mlr3book.mlr-org.com/](https://mlr3book.mlr-org.com/)
 
 ## Multi-state modelling with msm: a practical course
 

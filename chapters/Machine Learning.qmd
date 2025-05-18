@@ -60,6 +60,14 @@ This is a book about torch, the R interface to PyTorch. PyTorch, as of this writ
 
 Link: [https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/](https://skeydan.github.io/Deep-Learning-and-Scientific-Computing-with-R-torch/)
 
+## Efficient Machine Learning with R: Low-Compute Predictive Modeling with tidymodels
+
+- Simon Couch
+
+This is a book about predictive modeling with tidymodels, focused on reducing the time and memory required to train machine learning models without sacrificing predictive performance.
+
+Link: [https://emlwr.org/](https://emlwr.org/)
+
 ## Explanatory Model Analysis
 
 - [Przemyslaw Biecek](https://github.com/pbiecek)

@@ -51,6 +51,14 @@ simple examples to complex modeling problems.
 
 Link: [https://mlr3book.mlr-org.com/](https://mlr3book.mlr-org.com/)
 
+## Bayesian analysis of capture-recapture data with hidden Markov models: Theory and case studies in R and NIMBLE
+
+- Olivier Gimenez
+
+Covers the auhors three favorite research topics – capture-recapture, hidden Markov models and Bayesian statistics – let’s enjoy this great cocktail together
+
+Link: [https://oliviergimenez.github.io/banana-book/index.html](https://oliviergimenez.github.io/banana-book/index.html)
+
 ## BrailleR in Action
 
 - A. Jonathan R. Godfrey
@@ -151,6 +159,14 @@ powerful. Rather than being limited to sets of pre-defined graphics, you
 can create novel graphics that are tailored to your specific problem.
 
 Link: [https://ggplot2-book.org/](https://ggplot2-book.org/)
+
+## ggplot2 extended
+
+- [Antti Rask](https://www.linkedin.com/in/anttirask/)
+
+This book is about how to use them to make the most out of the whole ggplot2 ecosystem. And which of the many extensions to use in the first place.
+
+Link: [https://ggplot2-extended-book.com/](https://ggplot2-extended-book.com/)
 
 ## GT Cookbook
 

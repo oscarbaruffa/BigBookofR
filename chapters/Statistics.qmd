@@ -128,6 +128,14 @@ inquiry; and the delivery blends traditional "content" with "activity".
 
 Link: [https://www.bayesrulesbook.com/](https://www.bayesrulesbook.com/)
 
+## Bayesian analysis of capture-recapture data with hidden Markov models: Theory and case studies in R and NIMBLE
+
+- Olivier Gimenez
+
+Covers the auhors three favorite research topics – capture-recapture, hidden Markov models and Bayesian statistics – let’s enjoy this great cocktail together
+
+Link: [https://oliviergimenez.github.io/banana-book/index.html](https://oliviergimenez.github.io/banana-book/index.html)
+
 ## Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R
 
 - Paul Roback
@@ -279,6 +287,14 @@ forming a foundation of statistical thinking and methods.
     use them to learn interesting things about the\~world.
 
 Link: [https://openintro-ims.netlify.app/](https://openintro-ims.netlify.app/)
+
+## Introduction to Regression Analysis in R
+
+- Kayleigh Keller
+
+This book emerged from the course notes I developed as instructor for a course (STAT 341) at Colorado State University. My intent is for this to serve as a resource for an introductory-level undergraduate course on regression methods. Emphasis is on the application of methods, and so mathematical concepts are intertwined with examples using the R computing language.
+
+Link: [https://www.kellerbiostat.com/introregression/](https://www.kellerbiostat.com/introregression/)
 
 ## ISLR tidymodels Labs
 

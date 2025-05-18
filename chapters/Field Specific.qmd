@@ -1,5 +1,13 @@
 # Field Specific
 
+## An Introduction To Forensic Metascience
+
+- James Heathers
+
+Forensic metascientific analysis is designed to modify trust by evaluating research consistency. It is not designed to ‘find fraud’. While this may happen, it is not the sole focus of forensic metascience as a research area and practice, it is simply the loudest consequence. The following is a guide to learning many of the available techniques in forensic metascience that have a stated quantitative approach in the tradition of Knuth’s literate programming. All code is given in R.
+
+Link: [https://jamesheathers.curve.space/](https://jamesheathers.curve.space/)
+
 ## An Open-Source Active Learning Curriculum for Data Science in Engineering
 
 - [Zachary del Rosario](www.zdelrosario.com)

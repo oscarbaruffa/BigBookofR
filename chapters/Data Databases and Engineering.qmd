@@ -1,5 +1,13 @@
 # Data, Databases and Engineering
 
+## Cooking with DuckDB
+
+- Bob Rudis
+
+Delicious recipes for getting the most out of DuckDB. This will be a continuously updated collection of recipes for DuckDB. Each chapter will focus on accomplishing a single task, with varying levels of exposition (some solutions will be obvious; others, less-so).
+
+Link: [https://duckdb.hrbrmstr.app/](https://duckdb.hrbrmstr.app/)
+
 ## Data Management in Large-Scale Education Research
 
 - Crystal Lewis

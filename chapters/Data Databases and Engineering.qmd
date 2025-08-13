@@ -47,7 +47,7 @@ I have since realized that R does too, and that they are no more confusing or co
 
 Welcome, then, to a universe where the strange will become familiar, and everything familiar, strange. Welcome, thrice welcome, to R.
 
-Link: [https://tidynomicon.github.io/tidynomicon/](https://tidynomicon.github.io/tidynomicon/)
+Link: [https://third-bit.com/tidynomicon/](https://third-bit.com/tidynomicon/)
 
 ## Reproducible Analytical Pipelines (RAP) Companion
 

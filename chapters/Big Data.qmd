@@ -41,17 +41,17 @@ Link: [https://arrow-user2022.netlify.app](https://arrow-user2022.netlify.app)
 - Kevin Kuo
 - Edgar Ruiz
 
-In this book you will learn how to use Apache Spark with R. The book intends to take someone unfamiliar with Spark or R and help you become proficient by teaching you a set of tools, skills and practices applicable to large-scale data science.
-
+In this book you will learn how to use Apache Spark with R. The book intends to take someone unfamiliar with Spark or R and help you become proficient by teaching you a set of tools, skills and practices applicable to large-scale data science.
+
 PS the first chapter has a Jon Snow quote ;)
 
 Link: [https://therinspark.com/](https://therinspark.com/)
 
 ## Scaling Up With R and Arrow
 
-- [Nic Crane](https://thisisnic.github.io/about/)
-- [Jonathan Keane](https://twitter.com/jonkeane?lang=en)
-- [Neal Richardson](https://github.com/nealrichardson)
+- [Nic Crane](https://niccrane.com)
+- [Jonathan Keane](https://jonkeane.com/)
+- [Neal Richardson](https://enpiar.com/)
 
 Arrow allows you to work with larger-than-memory data directly from R without needing to set up additional infrastructure. It implements the dplyr API, which means that if you are familiar with dplyr functions, you can use those same functions with arrow and don’t have to learn a whole new framework.
 
@@ -64,5 +64,6 @@ Link: [https://arrowrbook.com/](https://arrowrbook.com/)
 This book provides practical insights into using the sparklyr interface to gain the benefits of Apache Spark while still retaining the ability to use R code organized in custom-built functions and packages.
 
 Link: [https://sparkfromr.com](https://sparkfromr.com)
+
 
 

@@ -500,6 +500,18 @@ This is a restyled version of the R manuals, originally provided by the R Develo
 
 Link: [https://rstudio.github.io/r-manuals/](https://rstudio.github.io/r-manuals/)
 
+## The Tidynomicon
+
+- Greg Wilson
+
+Years ago, Patrick Burns wrote The R Inferno, a guide to R for those who think they are in hell. Upon first encountering the language after two decades of using Python, I thought Burns was an optimist—after all, hell has rules.
+
+I have since realized that R does too, and that they are no more confusing or contradictory than those of other programming languages. They only appear so because R draws on a tradition unfamiliar to those of us raised with derivatives of C. Counting from one, copying data rather than modifying it, lazy evaluation: to quote the other bard, these are not mad, just differently sane.
+
+Welcome, then, to a universe where the strange will become familiar, and everything familiar, strange. Welcome, thrice welcome, to R.
+
+Link: [https://third-bit.com/tidynomicon/](https://third-bit.com/tidynomicon/)
+
 ## The Tidyverse Cookbook
 
 - Edited by Garrett Grolemund

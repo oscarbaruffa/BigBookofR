@@ -62,7 +62,7 @@ Link: [https://www.r-project.org/doc/bib/R-jabref.html](https://www.r-project.or
 
 This book series reflects the recent rapid growth in the development and application of R, the programming language and software environment for statistical computing and graphics.
 
-Link: [https://www.routledge.com/go/the-r-series](https://www.routledge.com/go/the-r-series)
+Link: [https://www.routledge.com/Chapman--HallCRC-The-R-Series/book-series/CRCTHERSER](https://www.routledge.com/Chapman--HallCRC-The-R-Series/book-series/CRCTHERSER)
 
 ## Use R! Springer series
 

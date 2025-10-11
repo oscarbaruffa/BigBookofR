@@ -37,18 +37,6 @@ Great resource for moving from a standard R developer to incorporating R workflo
 
 Link: [https://smithjd.github.io/sql-pet/](https://smithjd.github.io/sql-pet/)
 
-## R for Data Engineers
-
-- Greg Wilson
-
-Years ago, Patrick Burns wrote The R Inferno, a guide to R for those who think they are in hell. Upon first encountering the language after two decades of using Python, I thought Burns was an optimist—after all, hell has rules.
-
-I have since realized that R does too, and that they are no more confusing or contradictory than those of other programming languages. They only appear so because R draws on a tradition unfamiliar to those of us raised with derivatives of C. Counting from one, copying data rather than modifying it, lazy evaluation: to quote the other bard, these are not mad, just differently sane.
-
-Welcome, then, to a universe where the strange will become familiar, and everything familiar, strange. Welcome, thrice welcome, to R.
-
-Link: [https://tidynomicon.github.io/tidynomicon/](https://tidynomicon.github.io/tidynomicon/)
-
 ## Reproducible Analytical Pipelines (RAP) Companion
 
 - [Matthew Gregory](https://twitter.com/mammykins_)

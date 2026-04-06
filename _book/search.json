@@ -73,8 +73,8 @@
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Welcome :)",
-    "section": "1.7 About me",
-    "text": "1.7 About me\nI’m Oscar. If you like this book, feel free to say “Hi!” on Bluesky\nIf you want to stay in the loop on other data-related products I create, or major updates to this book, sign up to my newsletter.",
+    "section": "1.6 About me",
+    "text": "1.6 About me\nI’m Oscar. If you like this book, feel free to say “Hi!” on Bluesky\nIf you want to stay in the loop on other data-related products I create, or major updates to this book, sign up to my newsletter.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome :)</span>"
     ]
@@ -4234,7 +4234,7 @@
     "href": "chapters/Statistics.html#applied-longitudinal-data-analysis-in-brms-and-the-tidyverse",
     "title": "34  Statistics",
     "section": "34.11 Applied longitudinal data analysis in brms and the tidyverse",
-    "text": "34.11 Applied longitudinal data analysis in brms and the tidyverse\n\nA Solomon Kurz\n\nA translation of the examples and figures from Singer and Willett’s classic Applied longitudinal data analysis: Modeling change and event occurrence.\nLink: https://bookdown.org/content/4253/",
+    "text": "34.11 Applied longitudinal data analysis in brms and the tidyverse\n\nA Solomon Kurz\n\nA translation of the examples and figures from Singer and Willett’s classic Applied longitudinal data analysis: Modeling change and event occurrence.\nLink: https://solomon.quarto.pub/alda/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4304,7 +4304,7 @@
     "href": "chapters/Statistics.html#doing-bayesian-data-analysis-in-brms-and-the-tidyverse",
     "title": "34  Statistics",
     "section": "34.21 Doing Bayesian Data Analysis in brms and the tidyverse",
-    "text": "34.21 Doing Bayesian Data Analysis in brms and the tidyverse\n\nA Solomon Kurz\n\nKruschke began his text with “This book explains how to actually do Bayesian data analysis, by real people (like you), for realistic data (like yours).” In the same way, this project is designed to help those real people do Bayesian data analysis.\nLink: https://bookdown.org/content/3686/",
+    "text": "34.21 Doing Bayesian Data Analysis in brms and the tidyverse\n\nA Solomon Kurz\n\nKruschke began his text with “This book explains how to actually do Bayesian data analysis, by real people (like you), for realistic data (like yours).” In the same way, this project is designed to help those real people do Bayesian data analysis.\nLink: https://solomon.quarto.pub/dbda2/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4504,7 +4504,7 @@
     "href": "chapters/Statistics.html#recoding-introduction-to-mediation-moderation-and-conditional-process-analysis",
     "title": "34  Statistics",
     "section": "34.43 Recoding Introduction to Mediation, Moderation, and Conditional Process Analysis",
-    "text": "34.43 Recoding Introduction to Mediation, Moderation, and Conditional Process Analysis\n\nA Solomon Kurz\n\nA translation of the code from the second edition of Andrew F. Hayes’s Introduction to Mediation, Moderation, and Conditional Process Analysis.\nLink: https://bookdown.org/content/b472c7b3-ede5-40f0-9677-75c3704c7e5c/",
+    "text": "34.43 Recoding Introduction to Mediation, Moderation, and Conditional Process Analysis\n\nA Solomon Kurz\n\nA translation of the code from the second edition of Andrew F. Hayes’s Introduction to Mediation, Moderation, and Conditional Process Analysis.\nLink: https://solomon.quarto.pub/immcpa2/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4543,8 +4543,8 @@
     "objectID": "chapters/Statistics.html#statistical-rethinking-with-brms-ggplot2-and-the-tidyverse-second-edition",
     "href": "chapters/Statistics.html#statistical-rethinking-with-brms-ggplot2-and-the-tidyverse-second-edition",
     "title": "34  Statistics",
-    "section": "34.48 Statistical Rethinking with brms, ggplot2, and the tidyverse Second edition",
-    "text": "34.48 Statistical Rethinking with brms, ggplot2, and the tidyverse Second edition\n\nA Solomon Kurz\n\nThis ebook is based on the second edition of Richard McElreath’s (2020) text, Statistical rethinking: A Bayesian course with examples in R and Stan. My contributions show how to fit the models he covered with Paul Bürkner’s brms package, which makes it easy to fit Bayesian regression models in R using Hamiltonian Monte Carlo. I also prefer plotting and data wrangling with the packages from the tidyverse. So we’ll be using those methods, too.\nLink: https://bookdown.org/content/4857/",
+    "section": "34.49 Statistical Rethinking with brms, ggplot2, and the tidyverse Second edition",
+    "text": "34.49 Statistical Rethinking with brms, ggplot2, and the tidyverse Second edition\n\nA Solomon Kurz\n\nThis ebook is based on the second edition of Richard McElreath’s (2020) text, Statistical rethinking: A Bayesian course with examples in R and Stan. My contributions show how to fit the models he covered with Paul Bürkner’s brms package, which makes it easy to fit Bayesian regression models in R using Hamiltonian Monte Carlo. I also prefer plotting and data wrangling with the packages from the tidyverse. So we’ll be using those methods, too.\nLink: https://solomon.quarto.pub/sr/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4553,8 +4553,8 @@
     "objectID": "chapters/Statistics.html#statistical-thinking-in-the-21st-century",
     "href": "chapters/Statistics.html#statistical-thinking-in-the-21st-century",
     "title": "34  Statistics",
-    "section": "34.49 Statistical Thinking in the 21st Century",
-    "text": "34.49 Statistical Thinking in the 21st Century\n\nRussell Poldrack\n\nThis textbook aims to cover modern methods that take advantage of today’s increased computing power, while also balancing the accessibility of the material for students not wanting to wade through a lot of story to get to the statistical knowledge while reading Andy Field’s graphic novel statistics books, “An Adventure in Statistics”.\nThe main site below has companion sites in R and Python:\n\nR companion https://statsthinking21.github.io/statsthinking21-R-site/\nPython companion https://statsthinking21.github.io/statsthinking21-python/\n\nLink: https://statsthinking21.github.io/statsthinking21-core-site/",
+    "section": "34.51 Statistical Thinking in the 21st Century",
+    "text": "34.51 Statistical Thinking in the 21st Century\n\nRussell Poldrack\n\nThis textbook aims to cover modern methods that take advantage of today’s increased computing power, while also balancing the accessibility of the material for students not wanting to wade through a lot of story to get to the statistical knowledge while reading Andy Field’s graphic novel statistics books, “An Adventure in Statistics”.\nThe main site below has companion sites in R and Python:\n\nR companion https://statsthinking21.github.io/statsthinking21-R-site/\nPython companion https://statsthinking21.github.io/statsthinking21-python/\n\nLink: https://statsthinking21.github.io/statsthinking21-core-site/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4573,8 +4573,8 @@
     "objectID": "chapters/Statistics.html#statistics-the-easier-way-with-r-3rd.-ed.-tidyversion",
     "href": "chapters/Statistics.html#statistics-the-easier-way-with-r-3rd.-ed.-tidyversion",
     "title": "34  Statistics",
-    "section": "34.50 Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)",
-    "text": "34.50 Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)\n\nNicole Radziwill\n\nThis introductory applied statistics handbook shows you how to run tests analytically, and then how to run exactly the same steps using R. No steps are skipped, making this particularly well suited for beginners or people who need a quick lookup. Used at 30+ universities around the globe.\nhttps://amzn.to/3b9ha8s - varies between $37-43 https://www.e-junkie.com/ecom/gb.php?&c=single&cl=147256&i=1614407 - $25 for PDF only\nLink: https://amzn.to/3b9ha8s",
+    "section": "34.52 Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)",
+    "text": "34.52 Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)\n\nNicole Radziwill\n\nThis introductory applied statistics handbook shows you how to run tests analytically, and then how to run exactly the same steps using R. No steps are skipped, making this particularly well suited for beginners or people who need a quick lookup. Used at 30+ universities around the globe.\nhttps://amzn.to/3b9ha8s - varies between $37-43 https://www.e-junkie.com/ecom/gb.php?&c=single&cl=147256&i=1614407 - $25 for PDF only\nLink: https://amzn.to/3b9ha8s",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4583,8 +4583,8 @@
     "objectID": "chapters/Statistics.html#statistics-and-data-with-r-an-applied-approach-through-examples",
     "href": "chapters/Statistics.html#statistics-and-data-with-r-an-applied-approach-through-examples",
     "title": "34  Statistics",
-    "section": "34.51 Statistics and Data with R An Applied Approach Through Examples",
-    "text": "34.51 Statistics and Data with R An Applied Approach Through Examples\n\nYosef Cohen\nJeremiah Y. Cohen\n\nR, an Open Source software, has become the de facto statistical computing environment. It has an excellent collection of data manipulation and graphics capabilities. It is extensible and comes with a large number of packages that allow statistical analysis at all levels – from simple to advanced – and in numerous fields including Medicine, Genetics, Biology, Environmental Sciences, Geology, Social Sciences and much more. The software is maintained and developed by academicians and professionals and as such, is continuously evolving and up to date. Statistics and Data with R presents an accessible guide to data manipulations, statistical analysis and graphics using R.\nPaid: The E-Book costs $97.00 while the print version costs $121.75 $97\nLink: https://www.wiley.com/en-us/Statistics+and+Data+with+R%3A+An+Applied+Approach+Through+Examples-p-9780470758052",
+    "section": "34.53 Statistics and Data with R An Applied Approach Through Examples",
+    "text": "34.53 Statistics and Data with R An Applied Approach Through Examples\n\nYosef Cohen\nJeremiah Y. Cohen\n\nR, an Open Source software, has become the de facto statistical computing environment. It has an excellent collection of data manipulation and graphics capabilities. It is extensible and comes with a large number of packages that allow statistical analysis at all levels – from simple to advanced – and in numerous fields including Medicine, Genetics, Biology, Environmental Sciences, Geology, Social Sciences and much more. The software is maintained and developed by academicians and professionals and as such, is continuously evolving and up to date. Statistics and Data with R presents an accessible guide to data manipulations, statistical analysis and graphics using R.\nPaid: The E-Book costs $97.00 while the print version costs $121.75 $97\nLink: https://www.wiley.com/en-us/Statistics+and+Data+with+R%3A+An+Applied+Approach+Through+Examples-p-9780470758052",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4593,8 +4593,8 @@
     "objectID": "chapters/Statistics.html#surrogates---gaussian-process-modeling-design-and-optimization-for-the-applied-sciences",
     "href": "chapters/Statistics.html#surrogates---gaussian-process-modeling-design-and-optimization-for-the-applied-sciences",
     "title": "34  Statistics",
-    "section": "34.52 Surrogates - Gaussian process modeling, design and optimization for the applied sciences",
-    "text": "34.52 Surrogates - Gaussian process modeling, design and optimization for the applied sciences\n\nRobert B. Gramacy\n\nSurrogates is a graduate textbook, or professional handbook, on topics at the interface between machine learning, spatial statistics, computer simulation, meta-modeling (i.e., emulation), design of experiments, and optimization. Experimentation through simulation, “human out-of-the-loop” statistical support, management of dynamic processes, online and real-time analysis, automation, and practical application are at the forefront.\nLink: https://bookdown.org/rbg/surrogates/",
+    "section": "34.54 Surrogates - Gaussian process modeling, design and optimization for the applied sciences",
+    "text": "34.54 Surrogates - Gaussian process modeling, design and optimization for the applied sciences\n\nRobert B. Gramacy\n\nSurrogates is a graduate textbook, or professional handbook, on topics at the interface between machine learning, spatial statistics, computer simulation, meta-modeling (i.e., emulation), design of experiments, and optimization. Experimentation through simulation, “human out-of-the-loop” statistical support, management of dynamic processes, online and real-time analysis, automation, and practical application are at the forefront.\nLink: https://bookdown.org/rbg/surrogates/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4603,8 +4603,8 @@
     "objectID": "chapters/Statistics.html#teacups-giraffes-and-statistics",
     "href": "chapters/Statistics.html#teacups-giraffes-and-statistics",
     "title": "34  Statistics",
-    "section": "34.53 Teacups, Giraffes and Statistics",
-    "text": "34.53 Teacups, Giraffes and Statistics\n\nHasse Walum\nDesirée De Leon\n\nA delightful series of beautifully illustrated modules to learn statistics and R coding for students, scientists, and stats-enthusiasts.\nLink: https://tinystats.github.io/teacups-giraffes-and-statistics/index.html",
+    "section": "34.55 Teacups, Giraffes and Statistics",
+    "text": "34.55 Teacups, Giraffes and Statistics\n\nHasse Walum\nDesirée De Leon\n\nA delightful series of beautifully illustrated modules to learn statistics and R coding for students, scientists, and stats-enthusiasts.\nLink: https://tinystats.github.io/teacups-giraffes-and-statistics/index.html",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4613,8 +4613,8 @@
     "objectID": "chapters/Statistics.html#the-effect-an-introduction-to-research-design-and-causality",
     "href": "chapters/Statistics.html#the-effect-an-introduction-to-research-design-and-causality",
     "title": "34  Statistics",
-    "section": "34.54 The Effect An Introduction to Research Design and Causality",
-    "text": "34.54 The Effect An Introduction to Research Design and Causality\n\nNick Huntington-Klein\n\nThe Effect is a book intended to introduce students (and non-students) to the concepts of research design and causality in the context of observational data. The book is written in an intuitive and approachable way and doesn’t overload on technical detail. Why teach regression and research design at the same time when they are fundamentally different things? First learn why you want to structure a design in a certain way, and what it is you want to do to the data, and then afterwards learn the technical details of how to run the appropriate model.\nLink: https://theeffectbook.net/",
+    "section": "34.56 The Effect An Introduction to Research Design and Causality",
+    "text": "34.56 The Effect An Introduction to Research Design and Causality\n\nNick Huntington-Klein\n\nThe Effect is a book intended to introduce students (and non-students) to the concepts of research design and causality in the context of observational data. The book is written in an intuitive and approachable way and doesn’t overload on technical detail. Why teach regression and research design at the same time when they are fundamentally different things? First learn why you want to structure a design in a certain way, and what it is you want to do to the data, and then afterwards learn the technical details of how to run the appropriate model.\nLink: https://theeffectbook.net/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4623,8 +4623,8 @@
     "objectID": "chapters/Statistics.html#the-grammar-of-experimental-designs",
     "href": "chapters/Statistics.html#the-grammar-of-experimental-designs",
     "title": "34  Statistics",
-    "section": "34.55 The Grammar of Experimental Designs",
-    "text": "34.55 The Grammar of Experimental Designs\n\nEmi Tanaka\n\nAn book about designing experiments using the eddible package.\nLink: https://emitanaka.org/edibble-book/index.html",
+    "section": "34.57 The Grammar of Experimental Designs",
+    "text": "34.57 The Grammar of Experimental Designs\n\nEmi Tanaka\n\nAn book about designing experiments using the eddible package.\nLink: https://emitanaka.org/edibble-book/index.html",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4633,8 +4633,8 @@
     "objectID": "chapters/Statistics.html#the-hitchhikers-guide-to-linear-models",
     "href": "chapters/Statistics.html#the-hitchhikers-guide-to-linear-models",
     "title": "34  Statistics",
-    "section": "34.56 The Hitchhiker’s Guide to Linear Models",
-    "text": "34.56 The Hitchhiker’s Guide to Linear Models\n\nMauricio ‘Pacha’ Vargas Sepúlveda\n\nThis book aims to get straight to the point, and the only thing I assume here is that you have used spreadsheets at some point and that you are motivated to estimate linear models in R. Here I do not assume that you know how to install R or the basics of the R programming language.\nPaid: Free or paid $10\nLink: https://leanpub.com/linear-models-guide",
+    "section": "34.58 The Hitchhiker’s Guide to Linear Models",
+    "text": "34.58 The Hitchhiker’s Guide to Linear Models\n\nMauricio ‘Pacha’ Vargas Sepúlveda\n\nThis book aims to get straight to the point, and the only thing I assume here is that you have used spreadsheets at some point and that you are motivated to estimate linear models in R. Here I do not assume that you know how to install R or the basics of the R programming language.\nPaid: Free or paid $10\nLink: https://leanpub.com/linear-models-guide",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4643,8 +4643,8 @@
     "objectID": "chapters/Statistics.html#the-saga-of-pls",
     "href": "chapters/Statistics.html#the-saga-of-pls",
     "title": "34  Statistics",
-    "section": "34.57 The Saga of PLS",
-    "text": "34.57 The Saga of PLS\n\nGaston Sanchez\n\nThe main motivating trigger behind this book has been my long standing obsession to understand the historical development of Partial Least Squares methods in order to find the who’s, why’s, what’s, when’s, and how’s. It is the result of an intermittent 10 year quest, tracking bits and pieces of information in order to assemble the story of such methods. Moreover, this text is my third iteration on the subject, following two of my previous works.\nPaid: Free preview of first 4 chapters $13\nLink: https://sagaofpls.github.io",
+    "section": "34.59 The Saga of PLS",
+    "text": "34.59 The Saga of PLS\n\nGaston Sanchez\n\nThe main motivating trigger behind this book has been my long standing obsession to understand the historical development of Partial Least Squares methods in order to find the who’s, why’s, what’s, when’s, and how’s. It is the result of an intermittent 10 year quest, tracking bits and pieces of information in order to assemble the story of such methods. Moreover, this text is my third iteration on the subject, following two of my previous works.\nPaid: Free preview of first 4 chapters $13\nLink: https://sagaofpls.github.io",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4653,8 +4653,8 @@
     "objectID": "chapters/Statistics.html#translating-stata-to-r",
     "href": "chapters/Statistics.html#translating-stata-to-r",
     "title": "34  Statistics",
-    "section": "34.58 Translating Stata to R",
-    "text": "34.58 Translating Stata to R\nThis website is for Stata users who are interested in learning R. But it could also be useful for those going the other way around. We provide side-by-side code snippets for common tasks in both Stata and R, so that users have a dictionary for navigating across the two languages.\nLink: https://stata2r.github.io/",
+    "section": "34.60 Translating Stata to R",
+    "text": "34.60 Translating Stata to R\nThis website is for Stata users who are interested in learning R. But it could also be useful for those going the other way around. We provide side-by-side code snippets for common tasks in both Stata and R, so that users have a dictionary for navigating across the two languages.\nLink: https://stata2r.github.io/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4663,8 +4663,8 @@
     "objectID": "chapters/Statistics.html#using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling",
     "href": "chapters/Statistics.html#using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling",
     "title": "34  Statistics",
-    "section": "34.59 Using R for Bayesian Spatial and Spatio-Temporal Health Modeling",
-    "text": "34.59 Using R for Bayesian Spatial and Spatio-Temporal Health Modeling\n\nAndrew B. Lawson\n\nProgressively more and more attention has been paid to how location affects health outcomes. The area of disease mapping focusses on these problems, and the Bayesian paradigm has a major role to play in the understanding of the complex interplay of context and individual predisposition in such studies of disease. Using R for Bayesian Spatial and Spatio-Temporal Health Modeling provides a major resource for those interested in applying Bayesian methodology in small area health data studies.\nLink: https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126",
+    "section": "34.61 Using R for Bayesian Spatial and Spatio-Temporal Health Modeling",
+    "text": "34.61 Using R for Bayesian Spatial and Spatio-Temporal Health Modeling\n\nAndrew B. Lawson\n\nProgressively more and more attention has been paid to how location affects health outcomes. The area of disease mapping focusses on these problems, and the Bayesian paradigm has a major role to play in the understanding of the complex interplay of context and individual predisposition in such studies of disease. Using R for Bayesian Spatial and Spatio-Temporal Health Modeling provides a major resource for those interested in applying Bayesian methodology in small area health data studies.\nLink: https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -5835,6 +5835,26 @@
     "title": "34  Statistics",
     "section": "34.41 Probability, Statistics, and Data: A Fresh Approach Using R",
     "text": "34.41 Probability, Statistics, and Data: A Fresh Approach Using R\n\nDarrin Speegle\nBryan Clair\n\nThis book represents a fundamental rethinking of a calculus based first course in probability and statistics. We offer a breadth first approach, where the fundamentals of probability and statistics can be taught in one semester. The statistical programming language R plays an essential role throughout the text through simulations, data wrangling, visualizations and statistical procedures. Data sets from a variety of sources, including many from recent, open source scientific articles, are used in examples and exercises. Demonstrations of important facts are given through simulations, with some formal mathematical proofs as well.\nThis book is an excellent choice for students studying data science, statistics, engineering, computer science, mathematics, science, business, or any field which requires the two semesters of calculus needed to read this book.\nLink: https://probstatsdata.com/",
+    "crumbs": [
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Statistics.html#statistical-rethinking-2-with-brms-and-the-tidyverse",
+    "href": "chapters/Statistics.html#statistical-rethinking-2-with-brms-and-the-tidyverse",
+    "title": "34  Statistics",
+    "section": "34.48 Statistical Rethinking 2 with brms and the tidyverse",
+    "text": "34.48 Statistical Rethinking 2 with brms and the tidyverse\n\nA Solomon Kurz\n\nThis ebook is based on the second edition of Richard McElreath’s (2020) text, Statistical rethinking: A Bayesian course with examples in R and Stan\nLink: https://solomon.quarto.pub/sr2/",
+    "crumbs": [
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Statistics.html#statistical-rethinking-with-rstan-and-the-tidyverse",
+    "href": "chapters/Statistics.html#statistical-rethinking-with-rstan-and-the-tidyverse",
+    "title": "34  Statistics",
+    "section": "34.50 Statistical Rethinking with rstan and the tidyverse",
+    "text": "34.50 Statistical Rethinking with rstan and the tidyverse\n\nA Solomon Kurz\n\nThis book is based on the second edition of Richard McElreath’s (2020) text, Statistical rethinking: A Bayesian course with examples in R and Stan. My contributions show how to fit the models he covered with rstan.\nLink: https://solomon.quarto.pub/sr2rstan/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]

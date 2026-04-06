@@ -1,7 +1,7 @@
 ---
 title: "Welcome :)"
 author: "Oscar Baruffa"
-date: "2025-10-11"
+date: "2026-04-11"
 ---
 # Your last-ever bookmark
 Thanks for stopping by. If you're like me, you can't help but bookmark every R-related programming book you find in the hopes that one day you, or someone you know, might find it useful.
@@ -38,17 +38,6 @@ I want to give a special thanks to the folks at [Fathom Data](https://www.fathom
 ## License
 
 This website/book is free to use, and is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License](https://creativecommons.org/licenses/by-nc-nd/3.0/us/){target="blank}.
-
-
-## Live stats
-
-Who says you can't have privacy AND transparency??
-
-I'm guessing that if you're interested in R then you also like data ;).
-
-Note that "unique" visits will be higher in Plausible than you'd find with Google Analytics. Because Plausible is GDPR compliant and privacy focused, each user is identified for only 1 day. If someone visits the site 2 days in a row, that's counted as 2 "uniques" whereas in Google Analytics it would only be counted as 1 unique visitor because of the presence of persistent cookies and such that allows for tracking of users. 
-
-From now on, you can view the **[LIVE site stats right here](https://plausible.io/bigbookofr.com?ref=BigBoofofR)**.
 
 
 ## About me

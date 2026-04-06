@@ -101,7 +101,7 @@ Link: [https://crumplab.github.io/statistics/](https://crumplab.github.io/statis
 
 A translation of the examples and figures from Singer and Willett’s classic Applied longitudinal data analysis: Modeling change and event occurrence.
 
-Link: [https://bookdown.org/content/4253/](https://bookdown.org/content/4253/)
+Link: [https://solomon.quarto.pub/alda/](https://solomon.quarto.pub/alda/)
 
 ## Applied Statistics with R
 
@@ -203,7 +203,7 @@ Link: [https://discdown.org/dataanalytics/](https://discdown.org/dataanalytics/)
 
 Kruschke began his text with “This book explains how to actually do Bayesian data analysis, by real people (like you), for realistic data (like yours).” In the same way, this project is designed to help those real people do Bayesian data analysis.
 
-Link: [https://bookdown.org/content/3686/](https://bookdown.org/content/3686/)
+Link: [https://solomon.quarto.pub/dbda2/](https://solomon.quarto.pub/dbda2/)
 
 ## Doing meta-analysis with R A hands-on guide
 
@@ -451,7 +451,7 @@ Link: [https://rforanalytics.com/](https://rforanalytics.com/)
 
 A translation of the code from the second edition of Andrew F. Hayes’s Introduction to Mediation, Moderation, and Conditional Process Analysis.
 
-Link: [https://bookdown.org/content/b472c7b3-ede5-40f0-9677-75c3704c7e5c/](https://bookdown.org/content/b472c7b3-ede5-40f0-9677-75c3704c7e5c/)
+Link: [https://solomon.quarto.pub/immcpa2/](https://solomon.quarto.pub/immcpa2/)
 
 ## Regression and Other Stories
 
@@ -501,6 +501,14 @@ interpretations in your own modeling work.
 
 Link: [https://xcelab.net/rm/statistical-rethinking/](https://xcelab.net/rm/statistical-rethinking/)
 
+## Statistical Rethinking 2 with brms and the tidyverse
+
+- A Solomon Kurz
+
+This ebook is based on the second edition of Richard McElreath’s (2020) text, Statistical rethinking: A Bayesian course with examples in R and Stan
+
+Link: [https://solomon.quarto.pub/sr2/](https://solomon.quarto.pub/sr2/)
+
 ## Statistical Rethinking with brms, ggplot2, and the tidyverse Second edition
 
 - A Solomon Kurz
@@ -509,7 +517,15 @@ This ebook is based on the second edition of Richard McElreath’s (2020)
 text, Statistical rethinking: A Bayesian course with examples in R and Stan. My contributions show how to fit the models he covered with Paul Bürkner’s brms 
 package, which makes it easy to fit Bayesian regression models in R using Hamiltonian Monte Carlo. I also prefer plotting and data wrangling with the packages from the tidyverse. So we’ll be using those methods, too.
 
-Link: [https://bookdown.org/content/4857/](https://bookdown.org/content/4857/)
+Link: [https://solomon.quarto.pub/sr/](https://solomon.quarto.pub/sr/)
+
+## Statistical Rethinking with rstan and the tidyverse
+
+- A Solomon Kurz
+
+This book is based on the second edition of Richard McElreath’s (2020) text, Statistical rethinking: A Bayesian course with examples in R and Stan. My contributions show how to fit the models he covered with rstan.
+
+Link: [https://solomon.quarto.pub/sr2rstan/](https://solomon.quarto.pub/sr2rstan/)
 
 ## Statistical Thinking in the 21st Century
 

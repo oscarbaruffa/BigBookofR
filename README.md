@@ -1,6 +1,6 @@
 # Big Book of R
 
-Welcome to the Big Book of R repository! This repository hosts a collection of nearly 400 R programming books, most of which are freely available. The project is open to contributions of both free and paid books.
+Welcome to the Big Book of R repository! This repository hosts a collection of over 400 R programming books, most of which are freely available. The project is open to contributions of both free and paid books.
 
 ## Getting Started
 

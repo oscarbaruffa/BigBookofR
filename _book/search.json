@@ -953,8 +953,8 @@
     "objectID": "chapters/Data Visualization.html#the-hitchhikers-guide-to-ggplot2",
     "href": "chapters/Data Visualization.html#the-hitchhikers-guide-to-ggplot2",
     "title": "12  Data Visualization",
-    "section": "12.21 The Hitchhiker’s Guide to Ggplot2",
-    "text": "12.21 The Hitchhiker’s Guide to Ggplot2\n\nMauricio Vargas Sepúlveda\nJodie Burchell\n\nThis book will help you master R plots the easy way. We have spent a long time creating R plots with different tools (base, lattice and ggplot2) during different academic and working positions. If you want to create highly customised plots in R, including replicating the styles of XKCD, The Economist or FiveThirtyEight, this is your book.\nPaid: Pay what you want, minimum $5 $10\nLink: https://leanpub.com/ggplot-guide",
+    "section": "12.22 The Hitchhiker’s Guide to Ggplot2",
+    "text": "12.22 The Hitchhiker’s Guide to Ggplot2\n\nMauricio Vargas Sepúlveda\nJodie Burchell\n\nThis book will help you master R plots the easy way. We have spent a long time creating R plots with different tools (base, lattice and ggplot2) during different academic and working positions. If you want to create highly customised plots in R, including replicating the styles of XKCD, The Economist or FiveThirtyEight, this is your book.\nPaid: Pay what you want, minimum $5 $10\nLink: https://leanpub.com/ggplot-guide",
     "crumbs": [
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Visualization</span>"
     ]
@@ -1733,8 +1733,8 @@
     "objectID": "chapters/Geospatial.html#predictive-soil-mapping-with-r",
     "href": "chapters/Geospatial.html#predictive-soil-mapping-with-r",
     "title": "18  Geospatial",
-    "section": "18.10 Predictive Soil Mapping with R",
-    "text": "18.10 Predictive Soil Mapping with R\n\nTom Heng\nRobert A. MacMillan\n\nPredictive Soil Mapping (PSM) with R explains how to import, process and analyze soil data in R using the state-of-the-art soil and Machine Learning packages with ultimate objective to produce most objective spatial predictions of soil numeric and factor-type variables. Especial focus has been put on using R in combination with the Open Source GIS such as GDAL, SAGA GIS and similar, and on using Machine Learning packages ranger, xgboost, SuperLearner and similar. This book is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Contributions of new chapters are welcome.\nLink: https://soilmapper.org",
+    "section": "18.11 Predictive Soil Mapping with R",
+    "text": "18.11 Predictive Soil Mapping with R\n\nTom Heng\nRobert A. MacMillan\n\nPredictive Soil Mapping (PSM) with R explains how to import, process and analyze soil data in R using the state-of-the-art soil and Machine Learning packages with ultimate objective to produce most objective spatial predictions of soil numeric and factor-type variables. Especial focus has been put on using R in combination with the Open Source GIS such as GDAL, SAGA GIS and similar, and on using Machine Learning packages ranger, xgboost, SuperLearner and similar. This book is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Contributions of new chapters are welcome.\nLink: https://soilmapper.org",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Geospatial</span>"
     ]
@@ -1743,8 +1743,8 @@
     "objectID": "chapters/Geospatial.html#r-for-geographic-data-science",
     "href": "chapters/Geospatial.html#r-for-geographic-data-science",
     "title": "18  Geospatial",
-    "section": "18.11 R for Geographic Data Science",
-    "text": "18.11 R for Geographic Data Science\n\nStefano De Sabbata\n\nThe materials aim to cover the necessary skills in basic programming, data wrangling and reproducible research to tackle sophisticated but non-spatial data analyses. The first part of the module will focus on core programming techniques, data wrangling and practices for reproducible research. The second part of the module will focus on non-spatial data analysis approaches, including statistical analysis and machine learning.\nLink: https://sdesabbata.github.io/r-for-geographic-data-science/index.html",
+    "section": "18.12 R for Geographic Data Science",
+    "text": "18.12 R for Geographic Data Science\n\nStefano De Sabbata\n\nThe materials aim to cover the necessary skills in basic programming, data wrangling and reproducible research to tackle sophisticated but non-spatial data analyses. The first part of the module will focus on core programming techniques, data wrangling and practices for reproducible research. The second part of the module will focus on non-spatial data analysis approaches, including statistical analysis and machine learning.\nLink: https://sdesabbata.github.io/r-for-geographic-data-science/index.html",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Geospatial</span>"
     ]
@@ -1753,8 +1753,8 @@
     "objectID": "chapters/Geospatial.html#spatial-data-science-with-applications-in-r",
     "href": "chapters/Geospatial.html#spatial-data-science-with-applications-in-r",
     "title": "18  Geospatial",
-    "section": "18.13 Spatial Data Science With applications in R",
-    "text": "18.13 Spatial Data Science With applications in R\n\nEdzer Pebesma\nRoger Bivand\n\nThis book introduces and explains the concepts underlying spatial data: points, lines, polygons, rasters, coverages, geometry attributes, data cubes, reference systems, as well as higher-level concepts including how attributes relate to geometries and how this affects analysis.\nLink: https://r-spatial.org/book/",
+    "section": "18.14 Spatial Data Science With applications in R",
+    "text": "18.14 Spatial Data Science With applications in R\n\nEdzer Pebesma\nRoger Bivand\n\nThis book introduces and explains the concepts underlying spatial data: points, lines, polygons, rasters, coverages, geometry attributes, data cubes, reference systems, as well as higher-level concepts including how attributes relate to geometries and how this affects analysis.\nLink: https://r-spatial.org/book/",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Geospatial</span>"
     ]
@@ -1763,8 +1763,8 @@
     "objectID": "chapters/Geospatial.html#spatial-data-science-with-r",
     "href": "chapters/Geospatial.html#spatial-data-science-with-r",
     "title": "18  Geospatial",
-    "section": "18.14 Spatial Data Science with R",
-    "text": "18.14 Spatial Data Science with R\n\nRSpatial\n\nThis website provides materials to learn about spatial data analysis and modeling with R. R is a widely used programming language and software environment for data science. R has advanced capabilities for managing spatial data; and it provides unparalleled opportunities for analyzing such data.\nLink: https://rspatial.org/raster/index.html#",
+    "section": "18.15 Spatial Data Science with R",
+    "text": "18.15 Spatial Data Science with R\n\nRSpatial\n\nThis website provides materials to learn about spatial data analysis and modeling with R. R is a widely used programming language and software environment for data science. R has advanced capabilities for managing spatial data; and it provides unparalleled opportunities for analyzing such data.\nLink: https://rspatial.org/raster/index.html#",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Geospatial</span>"
     ]
@@ -1773,8 +1773,8 @@
     "objectID": "chapters/Geospatial.html#spatial-microsimulation-with-r",
     "href": "chapters/Geospatial.html#spatial-microsimulation-with-r",
     "title": "18  Geospatial",
-    "section": "18.15 Spatial Microsimulation with R",
-    "text": "18.15 Spatial Microsimulation with R\n\nRobin Lovelace\nMorgane Dumont\n\nImagine a world in which data on companies, households and governments were widely available. Imagine, further, that researchers and decision-makers acting in the public interest had tools enabling them to test and model such data to explore different scenarios of the future. People would be able to make more informed decisions, based on the best available evidence. In this technocratic dreamland pressing problems such as climate change, inequality and poor human health could be solved.\nThese are the types of real-world issues that we hope the methods in this book will help to address. Spatial microsimulation can provide new insights into complex problems and, ultimately, lead to better decision-making. By shedding new light on existing information, the methods can help shift decision-making processes away from ideological bias and towards evidence-based policy.\nLink: https://spatial-microsim-book.robinlovelace.net/index.html",
+    "section": "18.16 Spatial Microsimulation with R",
+    "text": "18.16 Spatial Microsimulation with R\n\nRobin Lovelace\nMorgane Dumont\n\nImagine a world in which data on companies, households and governments were widely available. Imagine, further, that researchers and decision-makers acting in the public interest had tools enabling them to test and model such data to explore different scenarios of the future. People would be able to make more informed decisions, based on the best available evidence. In this technocratic dreamland pressing problems such as climate change, inequality and poor human health could be solved.\nThese are the types of real-world issues that we hope the methods in this book will help to address. Spatial microsimulation can provide new insights into complex problems and, ultimately, lead to better decision-making. By shedding new light on existing information, the methods can help shift decision-making processes away from ideological bias and towards evidence-based policy.\nLink: https://spatial-microsim-book.robinlovelace.net/index.html",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Geospatial</span>"
     ]
@@ -1783,8 +1783,8 @@
     "objectID": "chapters/Geospatial.html#spatial-modelling-for-data-scientists",
     "href": "chapters/Geospatial.html#spatial-modelling-for-data-scientists",
     "title": "18  Geospatial",
-    "section": "18.16 Spatial Modelling for Data Scientists",
-    "text": "18.16 Spatial Modelling for Data Scientists\n\nFrancisco Rowe\nDani Arribas-Bel\n\nThis is the website for “Spatial Modeling for Data Scientists”. This is a course taught by Dr. Francisco Rowe and Dr. Dani Arribas-Bel in the Second Semester of 2020/21 at the University of Liverpool, United Kingdom. You will learn how to analyse and model different types of spatial data as well as gaining an understanding of the various challenges arising from manipulating such data.\nLink: https://gdsl-ul.github.io/san/",
+    "section": "18.17 Spatial Modelling for Data Scientists",
+    "text": "18.17 Spatial Modelling for Data Scientists\n\nFrancisco Rowe\nDani Arribas-Bel\n\nThis is the website for “Spatial Modeling for Data Scientists”. This is a course taught by Dr. Francisco Rowe and Dr. Dani Arribas-Bel in the Second Semester of 2020/21 at the University of Liverpool, United Kingdom. You will learn how to analyse and model different types of spatial data as well as gaining an understanding of the various challenges arising from manipulating such data.\nLink: https://gdsl-ul.github.io/san/",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Geospatial</span>"
     ]
@@ -1793,8 +1793,8 @@
     "objectID": "chapters/Geospatial.html#spatial-statistics-for-data-science-theory-and-practice-with-r",
     "href": "chapters/Geospatial.html#spatial-statistics-for-data-science-theory-and-practice-with-r",
     "title": "18  Geospatial",
-    "section": "18.18 Spatial Statistics for Data Science: Theory and Practice with R",
-    "text": "18.18 Spatial Statistics for Data Science: Theory and Practice with R\n\nPaula Moraga\n\nThe book combines theory and practice using real-world data science examples such as disease risk mapping, air pollution prediction, species distribution modeling, crime mapping, and real state analyses.\nLink: https://www.paulamoraga.com/book-spatial/index.html",
+    "section": "18.19 Spatial Statistics for Data Science: Theory and Practice with R",
+    "text": "18.19 Spatial Statistics for Data Science: Theory and Practice with R\n\nPaula Moraga\n\nThe book combines theory and practice using real-world data science examples such as disease risk mapping, air pollution prediction, species distribution modeling, crime mapping, and real state analyses.\nLink: https://www.paulamoraga.com/book-spatial/index.html",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Geospatial</span>"
     ]
@@ -1803,8 +1803,8 @@
     "objectID": "chapters/Geospatial.html#spatial-sampling-with-r",
     "href": "chapters/Geospatial.html#spatial-sampling-with-r",
     "title": "18  Geospatial",
-    "section": "18.17 Spatial sampling with R",
-    "text": "18.17 Spatial sampling with R\n\nDick J. Brus\n\nThis book describes and illustrates classical, basic sampling designs for a spatial survey, as well as more recently developed, advanced sampling designs and estimators. Part I of the book is about random sampling designs for estimating a mean, total, or proportion of a population or of several subpopulations. Part II focuses on sampling designs for mapping.\nLink: https://dickbrus.github.io/SpatialSamplingwithR/",
+    "section": "18.18 Spatial sampling with R",
+    "text": "18.18 Spatial sampling with R\n\nDick J. Brus\n\nThis book describes and illustrates classical, basic sampling designs for a spatial survey, as well as more recently developed, advanced sampling designs and estimators. Part I of the book is about random sampling designs for estimating a mean, total, or proportion of a population or of several subpopulations. Part II focuses on sampling designs for mapping.\nLink: https://dickbrus.github.io/SpatialSamplingwithR/",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Geospatial</span>"
     ]
@@ -1813,8 +1813,8 @@
     "objectID": "chapters/Geospatial.html#using-r-for-digital-soil-mapping",
     "href": "chapters/Geospatial.html#using-r-for-digital-soil-mapping",
     "title": "18  Geospatial",
-    "section": "18.19 Using R for Digital Soil Mapping",
-    "text": "18.19 Using R for Digital Soil Mapping\n\nMalone, Brendan P.\nMinasny, Budiman\nMcBratney, Alex B\n\nDescribes in detail, with ample exercises, how digital soil mapping is done This work includes a number of work-flows that direct users how to create digital soil maps for their own projects This work includes tutorials for users to learn the fundamentals of R, but with a focus on how to use it for digital soil mapping\nLink: https://www.springer.com/gp/book/9783319443256",
+    "section": "18.20 Using R for Digital Soil Mapping",
+    "text": "18.20 Using R for Digital Soil Mapping\n\nMalone, Brendan P.\nMinasny, Budiman\nMcBratney, Alex B\n\nDescribes in detail, with ample exercises, how digital soil mapping is done This work includes a number of work-flows that direct users how to create digital soil maps for their own projects This work includes tutorials for users to learn the fundamentals of R, but with a focus on how to use it for digital soil mapping\nLink: https://www.springer.com/gp/book/9783319443256",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Geospatial</span>"
     ]
@@ -1823,8 +1823,8 @@
     "objectID": "chapters/Geospatial.html#sits-data-analysis-and-machine-learning-on-earth-observation-data-cubes-with-satellite-image-time-series",
     "href": "chapters/Geospatial.html#sits-data-analysis-and-machine-learning-on-earth-observation-data-cubes-with-satellite-image-time-series",
     "title": "18  Geospatial",
-    "section": "18.12 sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series",
-    "text": "18.12 sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series\n\nGilberto Camara\nRolf Simoes\nFelipe Souza\nAlber Sanchez\nLorena Santos\net al\n\nUsing time series derived from big Earth Observation data sets is one of the leading research trends in Land Use Science and Remote Sensing. One of the more promising uses of satellite time series is its application to classify land use and land cover. Information on land is critical for sustainable development because our growing demand for natural resources is causing significant environmental impacts. The target audience for sits is the new generation of specialists who understand the principles of remote sensing and can write scripts in R. Ideally, users should have basic knowledge of data science methods using R.\nThis book presents sits, an open-source R package for land use and land cover classification using big Earth observation data.\nLink: https://e-sensing.github.io/sitsbook/",
+    "section": "18.13 sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series",
+    "text": "18.13 sits: Data Analysis and Machine Learning on Earth Observation Data Cubes with Satellite Image Time Series\n\nGilberto Camara\nRolf Simoes\nFelipe Souza\nAlber Sanchez\nLorena Santos\net al\n\nUsing time series derived from big Earth Observation data sets is one of the leading research trends in Land Use Science and Remote Sensing. One of the more promising uses of satellite time series is its application to classify land use and land cover. Information on land is critical for sustainable development because our growing demand for natural resources is causing significant environmental impacts. The target audience for sits is the new generation of specialists who understand the principles of remote sensing and can write scripts in R. Ideally, users should have basic knowledge of data science methods using R.\nThis book presents sits, an open-source R package for land use and land cover classification using big Earth observation data.\nLink: https://e-sensing.github.io/sitsbook/",
     "crumbs": [
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Geospatial</span>"
     ]
@@ -2254,7 +2254,7 @@
     "href": "chapters/Life Sciences.html#reproducible-medical-research-with-r",
     "title": "21  Life Sciences",
     "section": "21.30 Reproducible Medical Research with R",
-    "text": "21.30 Reproducible Medical Research with R\n\nPeter D.R. Higgins, MD, PhD, MSc\n\nThis is a book for anyone in the medical field interested in analyzing the data available to them to better understand health, disease, or the delivery of care. This could include nurses, dieticians, psychologists, and PhDs in related fields, as well as medical students, residents, fellows, or doctors in practice. I expect that most learners will be using this book in their spare time at night and on weekends, as the health training curricula are already packed full of information, and there is no room to add skills in reproducible research to the standard curriculum. This book is designed for self-teaching, and many hints and solutions will be provided to avoid roadblocks and frustration. Many learners find themselves wanting to develop reproducible research skills after they have finished their training, and after they have become comfortable with their clinical role. This is the time when they identify and want to address problems faced by patients in their practice with the data they have before them. This book is for you.\nLink: https://bookdown.org/pdr_higgins/rmrwr/",
+    "text": "21.30 Reproducible Medical Research with R\n\nPeter D.R. Higgins, MD, PhD, MSc\n\nThis is a book for anyone in the medical field interested in analyzing the data available to them to better understand health, disease, or the delivery of care. This could include nurses, dieticians, psychologists, and PhDs in related fields, as well as medical students, residents, fellows, or doctors in practice. I expect that most learners will be using this book in their spare time at night and on weekends, as the health training curricula are already packed full of information, and there is no room to add skills in reproducible research to the standard curriculum. This book is designed for self-teaching, and many hints and solutions will be provided to avoid roadblocks and frustration. Many learners find themselves wanting to develop reproducible research skills after they have finished their training, and after they have become comfortable with their clinical role. This is the time when they identify and want to address problems faced by patients in their practice with the data they have before them. This book is for you.\nLink: https://peter-higgins-rmrwr.share.connect.posit.cloud/",
     "crumbs": [
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Life Sciences</span>"
     ]
@@ -2713,8 +2713,8 @@
     "objectID": "chapters/Packages.html#r-function-a-day",
     "href": "chapters/Packages.html#r-function-a-day",
     "title": "25  Packages",
-    "section": "25.28 R Function a Day",
-    "text": "25.28 R Function a Day\n\nIndrajeet Patil\n\nA book that collects (and provides an easy way to access and search) tweets from R Function A Day account that maintained for 1 year (from 24.01.2021 to 24.01.2022).\nLink: https://bookdown.org/IndrajeetPatil/R-Function-A-Day-book/",
+    "section": "25.29 R Function a Day",
+    "text": "25.29 R Function a Day\n\nIndrajeet Patil\n\nA book that collects (and provides an easy way to access and search) tweets from R Function A Day account that maintained for 1 year (from 24.01.2021 to 24.01.2022).\nLink: https://bookdown.org/IndrajeetPatil/R-Function-A-Day-book/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2723,8 +2723,8 @@
     "objectID": "chapters/Packages.html#r-bookdownplus-textbook",
     "href": "chapters/Packages.html#r-bookdownplus-textbook",
     "title": "25  Packages",
-    "section": "25.27 R bookdownplus Textbook",
-    "text": "25.27 R bookdownplus Textbook\n\nPeng Zhao\n\n‘bookdownplus’ is an extension of ‘bookdown’. It is a collection of multiple templates, which I have been collecting since years ago on the basis of LaTeX, and have been tailoring them so that I can work happily under the umbrella of ‘bookdown’. ‘bookdownplus’ helps you (and me) write varied types of books and documents. This book you are reading at the moment was exactly produced by ‘bookdownplus’.\nLink: https://bookdown.org/baydap/bookdownplus/",
+    "section": "25.28 R bookdownplus Textbook",
+    "text": "25.28 R bookdownplus Textbook\n\nPeng Zhao\n\n‘bookdownplus’ is an extension of ‘bookdown’. It is a collection of multiple templates, which I have been collecting since years ago on the basis of LaTeX, and have been tailoring them so that I can work happily under the umbrella of ‘bookdown’. ‘bookdownplus’ helps you (and me) write varied types of books and documents. This book you are reading at the moment was exactly produced by ‘bookdownplus’.\nLink: https://bookdown.org/baydap/bookdownplus/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2733,8 +2733,8 @@
     "objectID": "chapters/Packages.html#rcpp-for-everyone",
     "href": "chapters/Packages.html#rcpp-for-everyone",
     "title": "25  Packages",
-    "section": "25.29 Rcpp for everyone",
-    "text": "25.29 Rcpp for everyone\n\nMasaki E. Tsuda\n\nRcpp is a package that enables you to implement R functions in C++. It is easy to use even without deep knowledge of C++, because it is implemented so as to write your C++ code in a style similar to R. And Rcpp does not sacrifice execution speed for the ease of use, anyone can get high performance outcome.\nThis document focuses on providing necessary information to users who are not familiar with C++. Therefore, in some cases, I explain usage of Rcpp conceptually rather than describing accurately from the viewpoint of C++, so that I hope readers can easily understand it.\nLink: https://teuder.github.io/rcpp4everyone_en/",
+    "section": "25.30 Rcpp for everyone",
+    "text": "25.30 Rcpp for everyone\n\nMasaki E. Tsuda\n\nRcpp is a package that enables you to implement R functions in C++. It is easy to use even without deep knowledge of C++, because it is implemented so as to write your C++ code in a style similar to R. And Rcpp does not sacrifice execution speed for the ease of use, anyone can get high performance outcome.\nThis document focuses on providing necessary information to users who are not familiar with C++. Therefore, in some cases, I explain usage of Rcpp conceptually rather than describing accurately from the viewpoint of C++, so that I hope readers can easily understand it.\nLink: https://teuder.github.io/rcpp4everyone_en/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2743,8 +2743,8 @@
     "objectID": "chapters/Packages.html#shiny-app-packages",
     "href": "chapters/Packages.html#shiny-app-packages",
     "title": "25  Packages",
-    "section": "25.33 Shiny App-Packages",
-    "text": "25.33 Shiny App-Packages\n\nMartin Frigaard\n\nThis book is a resource to help ‘connect the dots’ between building scalable Shiny applications and writing R packages. Adopting R package development practices in the early stages of your Shiny app will improve the reusability, maintainability, and shareability of all your hard work.\nLink: https://mjfrigaard.github.io/shiny-app-pkgs/",
+    "section": "25.34 Shiny App-Packages",
+    "text": "25.34 Shiny App-Packages\n\nMartin Frigaard\n\nThis book is a resource to help ‘connect the dots’ between building scalable Shiny applications and writing R packages. Adopting R package development practices in the early stages of your Shiny app will improve the reusability, maintainability, and shareability of all your hard work.\nLink: https://mjfrigaard.github.io/shiny-app-pkgs/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2753,8 +2753,8 @@
     "objectID": "chapters/Packages.html#targeted-learning-in-r-causal-data-science-with-the-tlverse-software-ecosystem",
     "href": "chapters/Packages.html#targeted-learning-in-r-causal-data-science-with-the-tlverse-software-ecosystem",
     "title": "25  Packages",
-    "section": "25.34 Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem",
-    "text": "25.34 Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem\n\nMark van der Laan\nJeremy Coyle\nNima Hejazi\nIvana Malenica\nRachael Phillips\nAlan Hubbard\n\nIt is a fully reproducible, open-source, electronic handbook for applying Targeted Learning methodology in practice using the software stack provided by the tlverse ecosystem.\nLink: https://tlverse.org/tlverse-handbook/",
+    "section": "25.35 Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem",
+    "text": "25.35 Targeted Learning in R: Causal Data Science with the tlverse Software Ecosystem\n\nMark van der Laan\nJeremy Coyle\nNima Hejazi\nIvana Malenica\nRachael Phillips\nAlan Hubbard\n\nIt is a fully reproducible, open-source, electronic handbook for applying Targeted Learning methodology in practice using the software stack provided by the tlverse ecosystem.\nLink: https://tlverse.org/tlverse-handbook/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2763,8 +2763,8 @@
     "objectID": "chapters/Packages.html#the-data-validation-cookbook",
     "href": "chapters/Packages.html#the-data-validation-cookbook",
     "title": "25  Packages",
-    "section": "25.36 The Data Validation Cookbook",
-    "text": "25.36 The Data Validation Cookbook\n\nMark P.J. van der Loo\n\nThe purposes of this book include demonstrating the main tools and workflows of the validate package, giving examples of common data validation tasks, and showing how to analyze data validation results.\nLink: https://data-cleaning.github.io/validate/",
+    "section": "25.37 The Data Validation Cookbook",
+    "text": "25.37 The Data Validation Cookbook\n\nMark P.J. van der Loo\n\nThe purposes of this book include demonstrating the main tools and workflows of the validate package, giving examples of common data validation tasks, and showing how to analyze data validation results.\nLink: https://data-cleaning.github.io/validate/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2773,8 +2773,8 @@
     "objectID": "chapters/Packages.html#the-grammar-of-experimental-designs",
     "href": "chapters/Packages.html#the-grammar-of-experimental-designs",
     "title": "25  Packages",
-    "section": "25.37 The Grammar of Experimental Designs",
-    "text": "25.37 The Grammar of Experimental Designs\n\nEmi Tanaka\n\nAn book about designing experiments using the eddible package.\nLink: https://emitanaka.org/edibble-book/index.html",
+    "section": "25.38 The Grammar of Experimental Designs",
+    "text": "25.38 The Grammar of Experimental Designs\n\nEmi Tanaka\n\nAn book about designing experiments using the eddible package.\nLink: https://emitanaka.org/edibble-book/index.html",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2783,8 +2783,8 @@
     "objectID": "chapters/Packages.html#the-tidyverse-cookbook",
     "href": "chapters/Packages.html#the-tidyverse-cookbook",
     "title": "25  Packages",
-    "section": "25.41 The Tidyverse Cookbook",
-    "text": "25.41 The Tidyverse Cookbook\n\nEdited by Garrett Grolemund\n\nThis book collects code recipes for doing data science with R’s tidyverse. Each recipe solves a single common task, with a minimum of discussion.\nLink: https://rstudio-education.github.io/tidyverse-cookbook/",
+    "section": "25.42 The Tidyverse Cookbook",
+    "text": "25.42 The Tidyverse Cookbook\n\nEdited by Garrett Grolemund\n\nThis book collects code recipes for doing data science with R’s tidyverse. Each recipe solves a single common task, with a minimum of discussion.\nLink: https://rstudio-education.github.io/tidyverse-cookbook/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2793,8 +2793,8 @@
     "objectID": "chapters/Packages.html#the-caret-package",
     "href": "chapters/Packages.html#the-caret-package",
     "title": "25  Packages",
-    "section": "25.35 The caret Package",
-    "text": "25.35 The caret Package\n\nMax Kuhn\n\nThe caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models.\nLink: https://topepo.github.io/caret/index.html",
+    "section": "25.36 The caret Package",
+    "text": "25.36 The caret Package\n\nMax Kuhn\n\nThe caret package (short for Classification And REgression Training) is a set of functions that attempt to streamline the process for creating predictive models.\nLink: https://topepo.github.io/caret/index.html",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2803,8 +2803,8 @@
     "objectID": "chapters/Packages.html#the-lidr-package",
     "href": "chapters/Packages.html#the-lidr-package",
     "title": "25  Packages",
-    "section": "25.38 The lidR package",
-    "text": "25.38 The lidR package\n\nJean-Romain Roussel\nTristan R.H. Goodbody\nPiotr Tompalski\n\nlidR is an R package for manipulating and visualizating airborne laser scanning (ALS) data with an emphasis on forestry applications. The package is entirely open source and is integrated within the geospatial R ecosytem (i.e. raster, sp, sf, rgdal etc.). This guide has been written to help both the ALS novice, as well as seasoned point cloud processing veterans.\nLink: https://jean-romain.github.io/lidRbook/",
+    "section": "25.39 The lidR package",
+    "text": "25.39 The lidR package\n\nJean-Romain Roussel\nTristan R.H. Goodbody\nPiotr Tompalski\n\nlidR is an R package for manipulating and visualizating airborne laser scanning (ALS) data with an emphasis on forestry applications. The package is entirely open source and is integrated within the geospatial R ecosytem (i.e. raster, sp, sf, rgdal etc.). This guide has been written to help both the ALS novice, as well as seasoned point cloud processing veterans.\nLink: https://jean-romain.github.io/lidRbook/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2813,8 +2813,8 @@
     "objectID": "chapters/Packages.html#the-targets-r-package-design-specification",
     "href": "chapters/Packages.html#the-targets-r-package-design-specification",
     "title": "25  Packages",
-    "section": "25.39 The targets R Package Design Specification",
-    "text": "25.39 The targets R Package Design Specification\n\nWill Landau\n\ntargets has an elaborate structure to support its advanced features while ensuring decent performance. This bookdown site is a design specification to explain the major aspects of the internal architecture, including the data storage model, object oriented design, and orchestration and branching model\nLink: https://books.ropensci.org/targets-design/index.html",
+    "section": "25.40 The targets R Package Design Specification",
+    "text": "25.40 The targets R Package Design Specification\n\nWill Landau\n\ntargets has an elaborate structure to support its advanced features while ensuring decent performance. This bookdown site is a design specification to explain the major aspects of the internal architecture, including the data storage model, object oriented design, and orchestration and branching model\nLink: https://books.ropensci.org/targets-design/index.html",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2823,8 +2823,8 @@
     "objectID": "chapters/Packages.html#the-targets-r-package-user-manual",
     "href": "chapters/Packages.html#the-targets-r-package-user-manual",
     "title": "25  Packages",
-    "section": "25.40 The targets R Package User Manual",
-    "text": "25.40 The targets R Package User Manual\n\nWill Landau\n\nThe targets package is a Make-like pipeline toolkit for Statistics and data science in R. With targets, you can maintain a reproducible workflow without repeating yourself. targets learns how your pipeline fits together, skips costly runtime for tasks that are already up to date, runs only the necessary computation, supports implicit parallel computing, abstracts files as R objects, and shows tangible evidence that the results match the underlying code and data.\nLink: https://books.ropensci.org/targets/",
+    "section": "25.41 The targets R Package User Manual",
+    "text": "25.41 The targets R Package User Manual\n\nWill Landau\n\nThe targets package is a Make-like pipeline toolkit for Statistics and data science in R. With targets, you can maintain a reproducible workflow without repeating yourself. targets learns how your pipeline fits together, skips costly runtime for tasks that are already up to date, runs only the necessary computation, supports implicit parallel computing, abstracts files as R objects, and shows tangible evidence that the results match the underlying code and data.\nLink: https://books.ropensci.org/targets/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2873,8 +2873,8 @@
     "objectID": "chapters/Packages.html#officeverse",
     "href": "chapters/Packages.html#officeverse",
     "title": "25  Packages",
-    "section": "25.25 officeverse",
-    "text": "25.25 officeverse\n\nDavid Gohel\n\nThis book deals with reporting from R with the packages {officer}, {officedown}, {flextable}, {rvg} and {mschart}. These packages have been developed to facilitate the production of Word documents and PowerPoint presentations from and with R. It was written specifically to offer a competitive solution to SAS ODS for tabular and graphical reporting.\nLink: https://ardata-fr.github.io/officeverse/",
+    "section": "25.26 officeverse",
+    "text": "25.26 officeverse\n\nDavid Gohel\n\nThis book deals with reporting from R with the packages {officer}, {officedown}, {flextable}, {rvg} and {mschart}. These packages have been developed to facilitate the production of Word documents and PowerPoint presentations from and with R. It was written specifically to offer a competitive solution to SAS ODS for tabular and graphical reporting.\nLink: https://ardata-fr.github.io/officeverse/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2883,8 +2883,8 @@
     "objectID": "chapters/Packages.html#piper-tutorial",
     "href": "chapters/Packages.html#piper-tutorial",
     "title": "25  Packages",
-    "section": "25.26 pipeR Tutorial",
-    "text": "25.26 pipeR Tutorial\n\nKun Ren\n\npipeR is an R package that helps you better organize your code in pipeline built with %&gt;&gt;%, Pipe() or pipeline(), which is much easier to read, write, and maintain.\nLink: https://renkun-ken.github.io/pipeR-tutorial/",
+    "section": "25.27 pipeR Tutorial",
+    "text": "25.27 pipeR Tutorial\n\nKun Ren\n\npipeR is an R package that helps you better organize your code in pipeline built with %&gt;&gt;%, Pipe() or pipeline(), which is much easier to read, write, and maintain.\nLink: https://renkun-ken.github.io/pipeR-tutorial/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2893,8 +2893,8 @@
     "objectID": "chapters/Packages.html#reactablefmtr-cookbook",
     "href": "chapters/Packages.html#reactablefmtr-cookbook",
     "title": "25  Packages",
-    "section": "25.30 reactablefmtr Cookbook",
-    "text": "25.30 reactablefmtr Cookbook\n\nKyle Cuilla\n\nA high-level overview of the functions and styling customization options available in {reactablefmtr}.\nLink: https://kcuilla.github.io/reactablefmtr/articles/reactablefmtr_cookbook.html",
+    "section": "25.31 reactablefmtr Cookbook",
+    "text": "25.31 reactablefmtr Cookbook\n\nKyle Cuilla\n\nA high-level overview of the functions and styling customization options available in {reactablefmtr}.\nLink: https://kcuilla.github.io/reactablefmtr/articles/reactablefmtr_cookbook.html",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -2903,8 +2903,8 @@
     "objectID": "chapters/Packages.html#rlist-tutorial",
     "href": "chapters/Packages.html#rlist-tutorial",
     "title": "25  Packages",
-    "section": "25.31 rlist Tutorial",
-    "text": "25.31 rlist Tutorial\n\nKun Ren\n\nrlist is a set of tools for working with list objects. Its goal is to make it easier to work with lists by providing a wide range of functions on non-tabular data stored in them. This package supports filtering, mapping, grouping, sorting, updating, searching and many other functions. It is pipe-friendly and strongly recommends functional programming style in list operations. This tutorial serves as complete guide to using rlist functionality to work with non-tabular data.\nLink: https://renkun-ken.github.io/rlist-tutorial/",
+    "section": "25.32 rlist Tutorial",
+    "text": "25.32 rlist Tutorial\n\nKun Ren\n\nrlist is a set of tools for working with list objects. Its goal is to make it easier to work with lists by providing a wide range of functions on non-tabular data stored in them. This package supports filtering, mapping, grouping, sorting, updating, searching and many other functions. It is pipe-friendly and strongly recommends functional programming style in list operations. This tutorial serves as complete guide to using rlist functionality to work with non-tabular data.\nLink: https://renkun-ken.github.io/rlist-tutorial/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -3943,8 +3943,8 @@
     "objectID": "chapters/Social Science.html#introduction-to-r-for-social-scientistsa-tidy-programming-approach",
     "href": "chapters/Social Science.html#introduction-to-r-for-social-scientistsa-tidy-programming-approach",
     "title": "32  Social Science",
-    "section": "32.14 Introduction to R for Social ScientistsA Tidy Programming Approach",
-    "text": "32.14 Introduction to R for Social ScientistsA Tidy Programming Approach\n\nRyan Kennedy\nPhilip Waggoner\n\nIntroduction to R for Social Scientists: A Tidy Programming Approach introduces the Tidy approach to programming in R for social science research to help quantitative researchers develop a modern technical toolbox. The Tidy approach is built around consistent syntax, common grammar, and stacked code, which contribute to clear, efficient programming. The authors include hundreds of lines of code to demonstrate a suite of techniques for developing and debugging an efficient social science research workflow.\nLink: https://i2rss.weebly.com/#",
+    "section": "32.15 Introduction to R for Social ScientistsA Tidy Programming Approach",
+    "text": "32.15 Introduction to R for Social ScientistsA Tidy Programming Approach\n\nRyan Kennedy\nPhilip Waggoner\n\nIntroduction to R for Social Scientists: A Tidy Programming Approach introduces the Tidy approach to programming in R for social science research to help quantitative researchers develop a modern technical toolbox. The Tidy approach is built around consistent syntax, common grammar, and stacked code, which contribute to clear, efficient programming. The authors include hundreds of lines of code to demonstrate a suite of techniques for developing and debugging an efficient social science research workflow.\nLink: https://i2rss.weebly.com/#",
     "crumbs": [
       "<span class='chapter-number'>32</span>  <span class='chapter-title'>Social Science</span>"
     ]
@@ -3953,8 +3953,8 @@
     "objectID": "chapters/Social Science.html#public-policy-analytics-code-context-for-data-science-in-government",
     "href": "chapters/Social Science.html#public-policy-analytics-code-context-for-data-science-in-government",
     "title": "32  Social Science",
-    "section": "32.15 Public Policy Analytics Code & Context for Data Science in Government",
-    "text": "32.15 Public Policy Analytics Code & Context for Data Science in Government\n\nKen Steif, Ph.D\n\nThe goal of this book is to make data science accessible to social scientists and City Planners, in particular. I hope to convince readers that one with strong domain expertise plus intermediate data skills can have a greater impact in government than the sharpest computer scientist who has never studied economics, sociology, public health, political science, criminology etc.\nLink: https://urbanspatial.github.io/PublicPolicyAnalytics/",
+    "section": "32.16 Public Policy Analytics Code & Context for Data Science in Government",
+    "text": "32.16 Public Policy Analytics Code & Context for Data Science in Government\n\nKen Steif, Ph.D\n\nThe goal of this book is to make data science accessible to social scientists and City Planners, in particular. I hope to convince readers that one with strong domain expertise plus intermediate data skills can have a greater impact in government than the sharpest computer scientist who has never studied economics, sociology, public health, political science, criminology etc.\nLink: https://urbanspatial.github.io/PublicPolicyAnalytics/",
     "crumbs": [
       "<span class='chapter-number'>32</span>  <span class='chapter-title'>Social Science</span>"
     ]
@@ -3963,8 +3963,8 @@
     "objectID": "chapters/Social Science.html#r-for-social-network-analysis",
     "href": "chapters/Social Science.html#r-for-social-network-analysis",
     "title": "32  Social Science",
-    "section": "32.17 R for Social Network Analysis",
-    "text": "32.17 R for Social Network Analysis\n\nDavid Schoch\n\nThe goal of the book is to gather the most important topics in SNA in one place. “Important” is of course very subjective and it is not clear how to draw the line of what should be included and what not. We will start with the low hanging fruits, meaning repurposing our own material. That is, material from our workshops and courses (for instance what is already available here). This should cover the most generally relevant topics in SNA. Everything beyond that will be added over time as we (or the community!) deems necessary.\nLink: https://schochastics.github.io/R4SNA/",
+    "section": "32.18 R for Social Network Analysis",
+    "text": "32.18 R for Social Network Analysis\n\nDavid Schoch\n\nThe goal of the book is to gather the most important topics in SNA in one place. “Important” is of course very subjective and it is not clear how to draw the line of what should be included and what not. We will start with the low hanging fruits, meaning repurposing our own material. That is, material from our workshops and courses (for instance what is already available here). This should cover the most generally relevant topics in SNA. Everything beyond that will be added over time as we (or the community!) deems necessary.\nLink: https://schochastics.github.io/R4SNA/",
     "crumbs": [
       "<span class='chapter-number'>32</span>  <span class='chapter-title'>Social Science</span>"
     ]
@@ -3973,8 +3973,8 @@
     "objectID": "chapters/Social Science.html#simulation-models-of-cultural-evolution-in-r",
     "href": "chapters/Social Science.html#simulation-models-of-cultural-evolution-in-r",
     "title": "32  Social Science",
-    "section": "32.18 Simulation Models of Cultural Evolution in R",
-    "text": "32.18 Simulation Models of Cultural Evolution in R\n\nAlex Mesoudi\n\nThis book sets out a series of tutorials for modelling cultural evolution in R.\nLink: https://bookdown.org/amesoudi/ABMtutorial_bookdown/",
+    "section": "32.19 Simulation Models of Cultural Evolution in R",
+    "text": "32.19 Simulation Models of Cultural Evolution in R\n\nAlex Mesoudi\n\nThis book sets out a series of tutorials for modelling cultural evolution in R.\nLink: https://bookdown.org/amesoudi/ABMtutorial_bookdown/",
     "crumbs": [
       "<span class='chapter-number'>32</span>  <span class='chapter-title'>Social Science</span>"
     ]
@@ -3983,8 +3983,8 @@
     "objectID": "chapters/Social Science.html#text-mining-for-social-scientists",
     "href": "chapters/Social Science.html#text-mining-for-social-scientists",
     "title": "32  Social Science",
-    "section": "32.19 Text Mining for Social Scientists",
-    "text": "32.19 Text Mining for Social Scientists\n\nFelix Lennert\n\nThis script will cover the pre-processing of text, the implementation of supervised and unsupervised approaches to text, and in the end, I will briefly touch upon word embeddings and how social science can use them for inquiry.\nLink: https://bookdown.org/f_lennert/text-mining-book/",
+    "section": "32.20 Text Mining for Social Scientists",
+    "text": "32.20 Text Mining for Social Scientists\n\nFelix Lennert\n\nThis script will cover the pre-processing of text, the implementation of supervised and unsupervised approaches to text, and in the end, I will briefly touch upon word embeddings and how social science can use them for inquiry.\nLink: https://bookdown.org/f_lennert/text-mining-book/",
     "crumbs": [
       "<span class='chapter-number'>32</span>  <span class='chapter-title'>Social Science</span>"
     ]
@@ -3993,8 +3993,8 @@
     "objectID": "chapters/Social Science.html#the-plain-persons-guide-to-plain-text-social-science",
     "href": "chapters/Social Science.html#the-plain-persons-guide-to-plain-text-social-science",
     "title": "32  Social Science",
-    "section": "32.20 The Plain Person’s Guide to Plain Text Social Science",
-    "text": "32.20 The Plain Person’s Guide to Plain Text Social Science\n\nKieran Healy\n\nAs a beginning graduate student in the social sciences, what sort of software should you use to do your work?1 More importantly, what principles should guide your choices? I offer some general considerations and specific answers.\nLink: https://plain-text.co/index.html#introduction",
+    "section": "32.21 The Plain Person’s Guide to Plain Text Social Science",
+    "text": "32.21 The Plain Person’s Guide to Plain Text Social Science\n\nKieran Healy\n\nAs a beginning graduate student in the social sciences, what sort of software should you use to do your work?1 More importantly, what principles should guide your choices? I offer some general considerations and specific answers.\nLink: https://plain-text.co/index.html#introduction",
     "crumbs": [
       "<span class='chapter-number'>32</span>  <span class='chapter-title'>Social Science</span>"
     ]
@@ -4003,8 +4003,8 @@
     "objectID": "chapters/Social Science.html#using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach",
     "href": "chapters/Social Science.html#using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach",
     "title": "32  Social Science",
-    "section": "32.21 Using R for Data Analysis in Social Sciences A Research Project-Oriented Approach",
-    "text": "32.21 Using R for Data Analysis in Social Sciences A Research Project-Oriented Approach\n\nQuan Li\n\nThis book seeks to teach undergraduate and graduate students in social sciences how to use R to manage, visualize, and analyze data in order to answer substantive questions and replicate published findings. This book distinguishes itself from other introductory R or statistics books in three ways. First, targeting an audience rarely exposed to statistical programming, it adopts a minimalist approach and covers only the most important functions and skills in R that one will need for conducting reproducible research projects. Second, it emphasizes meeting the practical needs of students using R in research projects. Specifically, it teaches students how to import, inspect, and manage data; understand the logic of statistical inference; visualize data and findings via histograms, boxplots, scatterplots, and diagnostic plots; and analyze data using one-sample t-test, difference-of-means test, covariance, correlation, ordinary least squares (OLS) regression, and model assumption diagnostics. Third, it teaches students how to replicate the findings in published journal articles and diagnose model assumption violations.\nPaid: Incl listing of library availability $40\nLink: https://www.worldcat.org/title/using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach/oclc/1048009316",
+    "section": "32.22 Using R for Data Analysis in Social Sciences A Research Project-Oriented Approach",
+    "text": "32.22 Using R for Data Analysis in Social Sciences A Research Project-Oriented Approach\n\nQuan Li\n\nThis book seeks to teach undergraduate and graduate students in social sciences how to use R to manage, visualize, and analyze data in order to answer substantive questions and replicate published findings. This book distinguishes itself from other introductory R or statistics books in three ways. First, targeting an audience rarely exposed to statistical programming, it adopts a minimalist approach and covers only the most important functions and skills in R that one will need for conducting reproducible research projects. Second, it emphasizes meeting the practical needs of students using R in research projects. Specifically, it teaches students how to import, inspect, and manage data; understand the logic of statistical inference; visualize data and findings via histograms, boxplots, scatterplots, and diagnostic plots; and analyze data using one-sample t-test, difference-of-means test, covariance, correlation, ordinary least squares (OLS) regression, and model assumption diagnostics. Third, it teaches students how to replicate the findings in published journal articles and diagnose model assumption violations.\nPaid: Incl listing of library availability $40\nLink: https://www.worldcat.org/title/using-r-for-data-analysis-in-social-sciences-a-research-project-oriented-approach/oclc/1048009316",
     "crumbs": [
       "<span class='chapter-number'>32</span>  <span class='chapter-title'>Social Science</span>"
     ]
@@ -4013,8 +4013,8 @@
     "objectID": "chapters/Social Science.html#using-r-for-social-work-research",
     "href": "chapters/Social Science.html#using-r-for-social-work-research",
     "title": "32  Social Science",
-    "section": "32.22 Using R for Social Work Research",
-    "text": "32.22 Using R for Social Work Research\n\nJerry Bean\n\nOur goal for this document is to illustrate the importance of good data analysis practices and how R and companion packages support these practices. We think the R system has many benefits for social work research. R has become the flagship computing environment for many areas of science and has great appeal because it is free and open-access. In addition, free tools like RStudio and R Markdown promote a replication commitment and open science philosophy important to our work.\nLink: https://bookdown.org/bean_jerry/using_r_for_social_work_research/",
+    "section": "32.23 Using R for Social Work Research",
+    "text": "32.23 Using R for Social Work Research\n\nJerry Bean\n\nOur goal for this document is to illustrate the importance of good data analysis practices and how R and companion packages support these practices. We think the R system has many benefits for social work research. R has become the flagship computing environment for many areas of science and has great appeal because it is free and open-access. In addition, free tools like RStudio and R Markdown promote a replication commitment and open science philosophy important to our work.\nLink: https://bookdown.org/bean_jerry/using_r_for_social_work_research/",
     "crumbs": [
       "<span class='chapter-number'>32</span>  <span class='chapter-title'>Social Science</span>"
     ]
@@ -4423,8 +4423,8 @@
     "objectID": "chapters/Statistics.html#modern-statistical-methods-for-astronomy",
     "href": "chapters/Statistics.html#modern-statistical-methods-for-astronomy",
     "title": "34  Statistics",
-    "section": "34.34 Modern Statistical Methods for Astronomy",
-    "text": "34.34 Modern Statistical Methods for Astronomy\n\nEric D. Feigelson\nG. Jogesh Babu\n\nModern astronomical research is beset with a vast range of statistical challenges, ranging from reducing data from mega datasets to characterizing an amazing variety of variable celestial objects or testing astrophysical theory. Linking astronomy to the world of modern statistics, this volume is a unique resource, introducing astronomers to advanced statistics through ready-to-use code in the public-domain R statistical software environment. The book presents fundamental results of probability theory and statistical inference, before exploring several fields of applied statistics, such as data smoothing, regression, multivariate analysis and classification, treatment of non-detections, time series analysis, and spatial point processes. It applies the methods discussed to contemporary astronomical research datasets using the R statistical software, making it an invaluable resource for graduate students and researchers facing complex data analysis task.\nLink: https://www.cambridge.org/in/academic/subjects/physics/astronomy-general/modern-statistical-methods-astronomy-r-applications?format=AR",
+    "section": "34.35 Modern Statistical Methods for Astronomy",
+    "text": "34.35 Modern Statistical Methods for Astronomy\n\nEric D. Feigelson\nG. Jogesh Babu\n\nModern astronomical research is beset with a vast range of statistical challenges, ranging from reducing data from mega datasets to characterizing an amazing variety of variable celestial objects or testing astrophysical theory. Linking astronomy to the world of modern statistics, this volume is a unique resource, introducing astronomers to advanced statistics through ready-to-use code in the public-domain R statistical software environment. The book presents fundamental results of probability theory and statistical inference, before exploring several fields of applied statistics, such as data smoothing, regression, multivariate analysis and classification, treatment of non-detections, time series analysis, and spatial point processes. It applies the methods discussed to contemporary astronomical research datasets using the R statistical software, making it an invaluable resource for graduate students and researchers facing complex data analysis task.\nLink: https://www.cambridge.org/in/academic/subjects/physics/astronomy-general/modern-statistical-methods-astronomy-r-applications?format=AR",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4433,8 +4433,8 @@
     "objectID": "chapters/Statistics.html#modern-statistics-with-r",
     "href": "chapters/Statistics.html#modern-statistics-with-r",
     "title": "34  Statistics",
-    "section": "34.35 Modern Statistics with R",
-    "text": "34.35 Modern Statistics with R\n\nMåns Thulin\n\nThis book covers the fundamentals of data science and statistics. The first half deals with the basics of R and R coding, data wrangling, visualisation, exploratory data analysis and more advanced programming. The second half deals with modern statistics (favouring permutation tests, the bootstrap and Bayesian methods over traditional asymptotic methods), simulation, regression models, survival analysis and machine learning. It also contains information about debugging and explanations of 25 commonly encountered error messages in R. In addition, there more than 200 exercises with fully worked solutions.\nLink: http://www.modernstatisticswithr.com/\nPhysical copy available: https://amzn.to/42MbdeP",
+    "section": "34.36 Modern Statistics with R",
+    "text": "34.36 Modern Statistics with R\n\nMåns Thulin\n\nThis book covers the fundamentals of data science and statistics. The first half deals with the basics of R and R coding, data wrangling, visualisation, exploratory data analysis and more advanced programming. The second half deals with modern statistics (favouring permutation tests, the bootstrap and Bayesian methods over traditional asymptotic methods), simulation, regression models, survival analysis and machine learning. It also contains information about debugging and explanations of 25 commonly encountered error messages in R. In addition, there more than 200 exercises with fully worked solutions.\nLink: http://www.modernstatisticswithr.com/\nPhysical copy available: https://amzn.to/42MbdeP",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4443,8 +4443,8 @@
     "objectID": "chapters/Statistics.html#one-way-anova-with-r-completely-randomized-design---between-groups",
     "href": "chapters/Statistics.html#one-way-anova-with-r-completely-randomized-design---between-groups",
     "title": "34  Statistics",
-    "section": "34.36 One Way ANOVA with R Completely Randomized Design - Between Groups",
-    "text": "34.36 One Way ANOVA with R Completely Randomized Design - Between Groups\n\nBruce Dudek\n\nThis document can be a standalone “how-to” document for R users. However, it is primarily intended for students in the APSY510/511 statistics sequence at the University at Albany. It is a fairly thorough treatment of graphical and inferential evaluation of one-factor designs. It presumes prior background coverage of the ANOVA logic from standard textbooks such as Howell or Maxwell, Delaney and Kelley (2017). The analyses are intended to parallel and exhaust the methods already covered with SPSS, and to extend them to additional topics.\nLink: https://bcdudek.net/anova/oneway_anova_basics.pdf",
+    "section": "34.37 One Way ANOVA with R Completely Randomized Design - Between Groups",
+    "text": "34.37 One Way ANOVA with R Completely Randomized Design - Between Groups\n\nBruce Dudek\n\nThis document can be a standalone “how-to” document for R users. However, it is primarily intended for students in the APSY510/511 statistics sequence at the University at Albany. It is a fairly thorough treatment of graphical and inferential evaluation of one-factor designs. It presumes prior background coverage of the ANOVA logic from standard textbooks such as Howell or Maxwell, Delaney and Kelley (2017). The analyses are intended to parallel and exhaust the methods already covered with SPSS, and to extend them to additional topics.\nLink: https://bcdudek.net/anova/oneway_anova_basics.pdf",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4453,8 +4453,8 @@
     "objectID": "chapters/Statistics.html#openintro-statistics",
     "href": "chapters/Statistics.html#openintro-statistics",
     "title": "34  Statistics",
-    "section": "34.37 OpenIntro Statistics",
-    "text": "34.37 OpenIntro Statistics\n\nDavid Diez\nMine Cetinkaya-Rundel\nChristopher Barr\nOpenIntro\n\nA complete foundation for Statistics, also serving as a foundation for Data Science.\nLeanpub revenue supports OpenIntro (US-based nonprofit) so we can provide free desk copies to teachers interested in using OpenIntro Statistics in the classroom and expand the project to support free textbooks in other subjects.\nMore resources: openintro.org.\nPaid: Pay what you want for the ebook, minimum $0.00, however if you are able to, please consider the cause above. Thanks! $15\nLink: https://leanpub.com/openintro-statistics",
+    "section": "34.38 OpenIntro Statistics",
+    "text": "34.38 OpenIntro Statistics\n\nDavid Diez\nMine Cetinkaya-Rundel\nChristopher Barr\nOpenIntro\n\nA complete foundation for Statistics, also serving as a foundation for Data Science.\nLeanpub revenue supports OpenIntro (US-based nonprofit) so we can provide free desk copies to teachers interested in using OpenIntro Statistics in the classroom and expand the project to support free textbooks in other subjects.\nMore resources: openintro.org.\nPaid: Pay what you want for the ebook, minimum $0.00, however if you are able to, please consider the cause above. Thanks! $15\nLink: https://leanpub.com/openintro-statistics",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4463,8 +4463,8 @@
     "objectID": "chapters/Statistics.html#partial-least-squares-structural-equation-modeling-pls-sem-using-r",
     "href": "chapters/Statistics.html#partial-least-squares-structural-equation-modeling-pls-sem-using-r",
     "title": "34  Statistics",
-    "section": "34.38 Partial Least Squares Structural Equation Modeling (PLS-SEM) Using R",
-    "text": "34.38 Partial Least Squares Structural Equation Modeling (PLS-SEM) Using R\n\nJoseph F. Hair Jr.\nG. Tomas M. Hult\nChristian M. Ringle\nMarko Sarstedt\nNicholas P. Danks\nSoumya Ray\n\nAn open access (free and unlimited) book with concise guidelines on how to apply and interpret Partial Least Squares Structural Equation Modeling (PLS-SEM). It includes an illustrative, step-by-step application of PLS-SEM using the highly user-friendly SEMinR package. It adopts a case-study approach that focuses on the illustration of relevant analysis steps.\nLink: https://link.springer.com/book/10.1007/978-3-030-80519-7",
+    "section": "34.39 Partial Least Squares Structural Equation Modeling (PLS-SEM) Using R",
+    "text": "34.39 Partial Least Squares Structural Equation Modeling (PLS-SEM) Using R\n\nJoseph F. Hair Jr.\nG. Tomas M. Hult\nChristian M. Ringle\nMarko Sarstedt\nNicholas P. Danks\nSoumya Ray\n\nAn open access (free and unlimited) book with concise guidelines on how to apply and interpret Partial Least Squares Structural Equation Modeling (PLS-SEM). It includes an illustrative, step-by-step application of PLS-SEM using the highly user-friendly SEMinR package. It adopts a case-study approach that focuses on the illustration of relevant analysis steps.\nLink: https://link.springer.com/book/10.1007/978-3-030-80519-7",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4473,8 +4473,8 @@
     "objectID": "chapters/Statistics.html#power-analysis-with-superpower",
     "href": "chapters/Statistics.html#power-analysis-with-superpower",
     "title": "34  Statistics",
-    "section": "34.39 Power Analysis with Superpower",
-    "text": "34.39 Power Analysis with Superpower\n\nAaron R. Caldwell\nDaniël Lakens\nChelsea M. Parlett-Pelleriti\nGuy Prochilo\nFrederik Aust\n\nThe goal of Superpower is to easily simulate factorial designs and empirically calculate power using a simulation approach. The R package is intended to be utilized for prospective (a priori) power analysis. Calculating post hoc power is not a useful thing to do for single studies.\nThis package, and book, expect readers to have some familiarity with R (2020). However, we have created two Shiny apps (for the ANOVA_power & ANOVA_exact functions respectively) to help use Superpower if you are not familiar with R. Reading through the examples in this book, and reproducing them in the Shiny apps, is probably the easiest way to get started with power analyses in Superpower.\nLink: https://aaroncaldwell.us/SuperpowerBook/index.html",
+    "section": "34.40 Power Analysis with Superpower",
+    "text": "34.40 Power Analysis with Superpower\n\nAaron R. Caldwell\nDaniël Lakens\nChelsea M. Parlett-Pelleriti\nGuy Prochilo\nFrederik Aust\n\nThe goal of Superpower is to easily simulate factorial designs and empirically calculate power using a simulation approach. The R package is intended to be utilized for prospective (a priori) power analysis. Calculating post hoc power is not a useful thing to do for single studies.\nThis package, and book, expect readers to have some familiarity with R (2020). However, we have created two Shiny apps (for the ANOVA_power & ANOVA_exact functions respectively) to help use Superpower if you are not familiar with R. Reading through the examples in this book, and reproducing them in the Shiny apps, is probably the easiest way to get started with power analyses in Superpower.\nLink: https://aaroncaldwell.us/SuperpowerBook/index.html",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4483,8 +4483,8 @@
     "objectID": "chapters/Statistics.html#probability-and-bayesian-modeling",
     "href": "chapters/Statistics.html#probability-and-bayesian-modeling",
     "title": "34  Statistics",
-    "section": "34.40 Probability and Bayesian Modeling",
-    "text": "34.40 Probability and Bayesian Modeling\n\nJim Albert\nJingchen (Monika) HU\n\nThis book introduces Bayesian statistics in the undergraduate statistics curriculum. The book comes with a R Package “ProbBayes” and repos.\nLink: https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html",
+    "section": "34.41 Probability and Bayesian Modeling",
+    "text": "34.41 Probability and Bayesian Modeling\n\nJim Albert\nJingchen (Monika) HU\n\nThis book introduces Bayesian statistics in the undergraduate statistics curriculum. The book comes with a R Package “ProbBayes” and repos.\nLink: https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4493,8 +4493,8 @@
     "objectID": "chapters/Statistics.html#r-for-data-analytics",
     "href": "chapters/Statistics.html#r-for-data-analytics",
     "title": "34  Statistics",
-    "section": "34.42 R for Data Analytics",
-    "text": "34.42 R for Data Analytics\n\nAbhay Singh\n\nThis is compilation of notes for R for Data Analytics. These notes are used as learning material in R for Research, R for Financial Analytics and R for Data Analytics workshops.\nLink: https://rforanalytics.com/",
+    "section": "34.43 R for Data Analytics",
+    "text": "34.43 R for Data Analytics\n\nAbhay Singh\n\nThis is compilation of notes for R for Data Analytics. These notes are used as learning material in R for Research, R for Financial Analytics and R for Data Analytics workshops.\nLink: https://rforanalytics.com/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4503,8 +4503,8 @@
     "objectID": "chapters/Statistics.html#recoding-introduction-to-mediation-moderation-and-conditional-process-analysis",
     "href": "chapters/Statistics.html#recoding-introduction-to-mediation-moderation-and-conditional-process-analysis",
     "title": "34  Statistics",
-    "section": "34.43 Recoding Introduction to Mediation, Moderation, and Conditional Process Analysis",
-    "text": "34.43 Recoding Introduction to Mediation, Moderation, and Conditional Process Analysis\n\nA Solomon Kurz\n\nA translation of the code from the second edition of Andrew F. Hayes’s Introduction to Mediation, Moderation, and Conditional Process Analysis.\nLink: https://solomon.quarto.pub/immcpa2/",
+    "section": "34.44 Recoding Introduction to Mediation, Moderation, and Conditional Process Analysis",
+    "text": "34.44 Recoding Introduction to Mediation, Moderation, and Conditional Process Analysis\n\nA Solomon Kurz\n\nA translation of the code from the second edition of Andrew F. Hayes’s Introduction to Mediation, Moderation, and Conditional Process Analysis.\nLink: https://solomon.quarto.pub/immcpa2/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4513,8 +4513,8 @@
     "objectID": "chapters/Statistics.html#regression-and-other-stories",
     "href": "chapters/Statistics.html#regression-and-other-stories",
     "title": "34  Statistics",
-    "section": "34.44 Regression and Other Stories",
-    "text": "34.44 Regression and Other Stories\n\nAndrew Gelman\nJennifer Hill\nAki Vehtari\n\nMany textbooks on regression focus on theory and the simplest of examples. Real statistical problems, however, are complex and subtle. This is not a book about the theory of regression. It is a book about how to use regression to solve real problems of comparison, estimation, prediction, and causal inference. It focuses on practical issues such as sample size and missing data and a wide range of goals and techniques. It jumps right in to methods and computer code you can use fresh out of the box.\nPDF is free for personal use\nLink: https://avehtari.github.io/ROS-Examples/",
+    "section": "34.45 Regression and Other Stories",
+    "text": "34.45 Regression and Other Stories\n\nAndrew Gelman\nJennifer Hill\nAki Vehtari\n\nMany textbooks on regression focus on theory and the simplest of examples. Real statistical problems, however, are complex and subtle. This is not a book about the theory of regression. It is a book about how to use regression to solve real problems of comparison, estimation, prediction, and causal inference. It focuses on practical issues such as sample size and missing data and a wide range of goals and techniques. It jumps right in to methods and computer code you can use fresh out of the box.\nPDF is free for personal use\nLink: https://avehtari.github.io/ROS-Examples/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4523,8 +4523,8 @@
     "objectID": "chapters/Statistics.html#spatio-temporal-statistics-with-r",
     "href": "chapters/Statistics.html#spatio-temporal-statistics-with-r",
     "title": "34  Statistics",
-    "section": "34.45 Spatio-Temporal Statistics with R",
-    "text": "34.45 Spatio-Temporal Statistics with R\n\nChristopher K. Wikle\nAndrew Zammit-Mangion\nNoel Cressie\n\nWe live in a complex world, and clever people are continually coming up with new ways to observe and record increasingly large parts of it so we can comprehend it better (warts and all!). We are squarely in the midst of a “big data” era, and it seems that every day new methodologies and algorithms emerge that are designed to deal with the ever-increasing size of these data streams. It so happens that the “big data” available to us are often spatio-temporal data. That is, they can be indexed by spatial locations and time stamps. This book provides an accessible introduction, with hands-on applications of the methods through the use of R Labs at the end of each chapter.\nLink: https://spacetimewithr.org/",
+    "section": "34.46 Spatio-Temporal Statistics with R",
+    "text": "34.46 Spatio-Temporal Statistics with R\n\nChristopher K. Wikle\nAndrew Zammit-Mangion\nNoel Cressie\n\nWe live in a complex world, and clever people are continually coming up with new ways to observe and record increasingly large parts of it so we can comprehend it better (warts and all!). We are squarely in the midst of a “big data” era, and it seems that every day new methodologies and algorithms emerge that are designed to deal with the ever-increasing size of these data streams. It so happens that the “big data” available to us are often spatio-temporal data. That is, they can be indexed by spatial locations and time stamps. This book provides an accessible introduction, with hands-on applications of the methods through the use of R Labs at the end of each chapter.\nLink: https://spacetimewithr.org/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4533,8 +4533,8 @@
     "objectID": "chapters/Statistics.html#statistical-rethinking",
     "href": "chapters/Statistics.html#statistical-rethinking",
     "title": "34  Statistics",
-    "section": "34.47 Statistical Rethinking",
-    "text": "34.47 Statistical Rethinking\nA Bayesian Course with Examples in R and Stan\nStatistical Rethinking: A Bayesian Course with Examples in R and Stan builds your knowledge of and confidence in making inferences from data. Reflecting the need for scripting in today’s model-based statistics, the book pushes you to perform step-by-step calculations that are usually automated. This unique computational approach ensures that you understand enough of the details to make reasonable choices and interpretations in your own modeling work.\nLink: https://xcelab.net/rm/statistical-rethinking/",
+    "section": "34.48 Statistical Rethinking",
+    "text": "34.48 Statistical Rethinking\nA Bayesian Course with Examples in R and Stan\nStatistical Rethinking: A Bayesian Course with Examples in R and Stan builds your knowledge of and confidence in making inferences from data. Reflecting the need for scripting in today’s model-based statistics, the book pushes you to perform step-by-step calculations that are usually automated. This unique computational approach ensures that you understand enough of the details to make reasonable choices and interpretations in your own modeling work.\nLink: https://xcelab.net/rm/statistical-rethinking/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4543,8 +4543,8 @@
     "objectID": "chapters/Statistics.html#statistical-rethinking-with-brms-ggplot2-and-the-tidyverse-second-edition",
     "href": "chapters/Statistics.html#statistical-rethinking-with-brms-ggplot2-and-the-tidyverse-second-edition",
     "title": "34  Statistics",
-    "section": "34.49 Statistical Rethinking with brms, ggplot2, and the tidyverse Second edition",
-    "text": "34.49 Statistical Rethinking with brms, ggplot2, and the tidyverse Second edition\n\nA Solomon Kurz\n\nThis ebook is based on the second edition of Richard McElreath’s (2020) text, Statistical rethinking: A Bayesian course with examples in R and Stan. My contributions show how to fit the models he covered with Paul Bürkner’s brms package, which makes it easy to fit Bayesian regression models in R using Hamiltonian Monte Carlo. I also prefer plotting and data wrangling with the packages from the tidyverse. So we’ll be using those methods, too.\nLink: https://solomon.quarto.pub/sr/",
+    "section": "34.50 Statistical Rethinking with brms, ggplot2, and the tidyverse Second edition",
+    "text": "34.50 Statistical Rethinking with brms, ggplot2, and the tidyverse Second edition\n\nA Solomon Kurz\n\nThis ebook is based on the second edition of Richard McElreath’s (2020) text, Statistical rethinking: A Bayesian course with examples in R and Stan. My contributions show how to fit the models he covered with Paul Bürkner’s brms package, which makes it easy to fit Bayesian regression models in R using Hamiltonian Monte Carlo. I also prefer plotting and data wrangling with the packages from the tidyverse. So we’ll be using those methods, too.\nLink: https://solomon.quarto.pub/sr/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4553,8 +4553,8 @@
     "objectID": "chapters/Statistics.html#statistical-thinking-in-the-21st-century",
     "href": "chapters/Statistics.html#statistical-thinking-in-the-21st-century",
     "title": "34  Statistics",
-    "section": "34.51 Statistical Thinking in the 21st Century",
-    "text": "34.51 Statistical Thinking in the 21st Century\n\nRussell Poldrack\n\nThis textbook aims to cover modern methods that take advantage of today’s increased computing power, while also balancing the accessibility of the material for students not wanting to wade through a lot of story to get to the statistical knowledge while reading Andy Field’s graphic novel statistics books, “An Adventure in Statistics”.\nThe main site below has companion sites in R and Python:\n\nR companion https://statsthinking21.github.io/statsthinking21-R-site/\nPython companion https://statsthinking21.github.io/statsthinking21-python/\n\nLink: https://statsthinking21.github.io/statsthinking21-core-site/",
+    "section": "34.52 Statistical Thinking in the 21st Century",
+    "text": "34.52 Statistical Thinking in the 21st Century\n\nRussell Poldrack\n\nThis textbook aims to cover modern methods that take advantage of today’s increased computing power, while also balancing the accessibility of the material for students not wanting to wade through a lot of story to get to the statistical knowledge while reading Andy Field’s graphic novel statistics books, “An Adventure in Statistics”.\nThe main site below has companion sites in R and Python:\n\nR companion https://statsthinking21.github.io/statsthinking21-R-site/\nPython companion https://statsthinking21.github.io/statsthinking21-python/\n\nLink: https://statsthinking21.github.io/statsthinking21-core-site/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4563,8 +4563,8 @@
     "objectID": "chapters/Statistics.html#statistical-inference-for-data-science",
     "href": "chapters/Statistics.html#statistical-inference-for-data-science",
     "title": "34  Statistics",
-    "section": "34.46 Statistical inference for data science",
-    "text": "34.46 Statistical inference for data science\n\nBrian Caffo\n\nThis book gives a brief, but rigorous, treatment of statistical inference intended for practicing Data Scientists.\nPaid: Free or pay what you want $15\nLink: https://leanpub.com/LittleInferenceBook",
+    "section": "34.47 Statistical inference for data science",
+    "text": "34.47 Statistical inference for data science\n\nBrian Caffo\n\nThis book gives a brief, but rigorous, treatment of statistical inference intended for practicing Data Scientists.\nPaid: Free or pay what you want $15\nLink: https://leanpub.com/LittleInferenceBook",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4573,8 +4573,8 @@
     "objectID": "chapters/Statistics.html#statistics-the-easier-way-with-r-3rd.-ed.-tidyversion",
     "href": "chapters/Statistics.html#statistics-the-easier-way-with-r-3rd.-ed.-tidyversion",
     "title": "34  Statistics",
-    "section": "34.52 Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)",
-    "text": "34.52 Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)\n\nNicole Radziwill\n\nThis introductory applied statistics handbook shows you how to run tests analytically, and then how to run exactly the same steps using R. No steps are skipped, making this particularly well suited for beginners or people who need a quick lookup. Used at 30+ universities around the globe.\nhttps://amzn.to/3b9ha8s - varies between $37-43 https://www.e-junkie.com/ecom/gb.php?&c=single&cl=147256&i=1614407 - $25 for PDF only\nLink: https://amzn.to/3b9ha8s",
+    "section": "34.53 Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)",
+    "text": "34.53 Statistics (The Easier Way) With R, 3rd. Ed. (TIDYVERSION)\n\nNicole Radziwill\n\nThis introductory applied statistics handbook shows you how to run tests analytically, and then how to run exactly the same steps using R. No steps are skipped, making this particularly well suited for beginners or people who need a quick lookup. Used at 30+ universities around the globe.\nhttps://amzn.to/3b9ha8s - varies between $37-43 https://www.e-junkie.com/ecom/gb.php?&c=single&cl=147256&i=1614407 - $25 for PDF only\nLink: https://amzn.to/3b9ha8s",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4583,8 +4583,8 @@
     "objectID": "chapters/Statistics.html#statistics-and-data-with-r-an-applied-approach-through-examples",
     "href": "chapters/Statistics.html#statistics-and-data-with-r-an-applied-approach-through-examples",
     "title": "34  Statistics",
-    "section": "34.53 Statistics and Data with R An Applied Approach Through Examples",
-    "text": "34.53 Statistics and Data with R An Applied Approach Through Examples\n\nYosef Cohen\nJeremiah Y. Cohen\n\nR, an Open Source software, has become the de facto statistical computing environment. It has an excellent collection of data manipulation and graphics capabilities. It is extensible and comes with a large number of packages that allow statistical analysis at all levels – from simple to advanced – and in numerous fields including Medicine, Genetics, Biology, Environmental Sciences, Geology, Social Sciences and much more. The software is maintained and developed by academicians and professionals and as such, is continuously evolving and up to date. Statistics and Data with R presents an accessible guide to data manipulations, statistical analysis and graphics using R.\nPaid: The E-Book costs $97.00 while the print version costs $121.75 $97\nLink: https://www.wiley.com/en-us/Statistics+and+Data+with+R%3A+An+Applied+Approach+Through+Examples-p-9780470758052",
+    "section": "34.54 Statistics and Data with R An Applied Approach Through Examples",
+    "text": "34.54 Statistics and Data with R An Applied Approach Through Examples\n\nYosef Cohen\nJeremiah Y. Cohen\n\nR, an Open Source software, has become the de facto statistical computing environment. It has an excellent collection of data manipulation and graphics capabilities. It is extensible and comes with a large number of packages that allow statistical analysis at all levels – from simple to advanced – and in numerous fields including Medicine, Genetics, Biology, Environmental Sciences, Geology, Social Sciences and much more. The software is maintained and developed by academicians and professionals and as such, is continuously evolving and up to date. Statistics and Data with R presents an accessible guide to data manipulations, statistical analysis and graphics using R.\nPaid: The E-Book costs $97.00 while the print version costs $121.75 $97\nLink: https://www.wiley.com/en-us/Statistics+and+Data+with+R%3A+An+Applied+Approach+Through+Examples-p-9780470758052",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4593,8 +4593,8 @@
     "objectID": "chapters/Statistics.html#surrogates---gaussian-process-modeling-design-and-optimization-for-the-applied-sciences",
     "href": "chapters/Statistics.html#surrogates---gaussian-process-modeling-design-and-optimization-for-the-applied-sciences",
     "title": "34  Statistics",
-    "section": "34.54 Surrogates - Gaussian process modeling, design and optimization for the applied sciences",
-    "text": "34.54 Surrogates - Gaussian process modeling, design and optimization for the applied sciences\n\nRobert B. Gramacy\n\nSurrogates is a graduate textbook, or professional handbook, on topics at the interface between machine learning, spatial statistics, computer simulation, meta-modeling (i.e., emulation), design of experiments, and optimization. Experimentation through simulation, “human out-of-the-loop” statistical support, management of dynamic processes, online and real-time analysis, automation, and practical application are at the forefront.\nLink: https://bookdown.org/rbg/surrogates/",
+    "section": "34.55 Surrogates - Gaussian process modeling, design and optimization for the applied sciences",
+    "text": "34.55 Surrogates - Gaussian process modeling, design and optimization for the applied sciences\n\nRobert B. Gramacy\n\nSurrogates is a graduate textbook, or professional handbook, on topics at the interface between machine learning, spatial statistics, computer simulation, meta-modeling (i.e., emulation), design of experiments, and optimization. Experimentation through simulation, “human out-of-the-loop” statistical support, management of dynamic processes, online and real-time analysis, automation, and practical application are at the forefront.\nLink: https://bookdown.org/rbg/surrogates/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4603,8 +4603,8 @@
     "objectID": "chapters/Statistics.html#teacups-giraffes-and-statistics",
     "href": "chapters/Statistics.html#teacups-giraffes-and-statistics",
     "title": "34  Statistics",
-    "section": "34.55 Teacups, Giraffes and Statistics",
-    "text": "34.55 Teacups, Giraffes and Statistics\n\nHasse Walum\nDesirée De Leon\n\nA delightful series of beautifully illustrated modules to learn statistics and R coding for students, scientists, and stats-enthusiasts.\nLink: https://tinystats.github.io/teacups-giraffes-and-statistics/index.html",
+    "section": "34.56 Teacups, Giraffes and Statistics",
+    "text": "34.56 Teacups, Giraffes and Statistics\n\nHasse Walum\nDesirée De Leon\n\nA delightful series of beautifully illustrated modules to learn statistics and R coding for students, scientists, and stats-enthusiasts.\nLink: https://tinystats.github.io/teacups-giraffes-and-statistics/index.html",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4613,8 +4613,8 @@
     "objectID": "chapters/Statistics.html#the-effect-an-introduction-to-research-design-and-causality",
     "href": "chapters/Statistics.html#the-effect-an-introduction-to-research-design-and-causality",
     "title": "34  Statistics",
-    "section": "34.56 The Effect An Introduction to Research Design and Causality",
-    "text": "34.56 The Effect An Introduction to Research Design and Causality\n\nNick Huntington-Klein\n\nThe Effect is a book intended to introduce students (and non-students) to the concepts of research design and causality in the context of observational data. The book is written in an intuitive and approachable way and doesn’t overload on technical detail. Why teach regression and research design at the same time when they are fundamentally different things? First learn why you want to structure a design in a certain way, and what it is you want to do to the data, and then afterwards learn the technical details of how to run the appropriate model.\nLink: https://theeffectbook.net/",
+    "section": "34.57 The Effect An Introduction to Research Design and Causality",
+    "text": "34.57 The Effect An Introduction to Research Design and Causality\n\nNick Huntington-Klein\n\nThe Effect is a book intended to introduce students (and non-students) to the concepts of research design and causality in the context of observational data. The book is written in an intuitive and approachable way and doesn’t overload on technical detail. Why teach regression and research design at the same time when they are fundamentally different things? First learn why you want to structure a design in a certain way, and what it is you want to do to the data, and then afterwards learn the technical details of how to run the appropriate model.\nLink: https://theeffectbook.net/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4623,8 +4623,8 @@
     "objectID": "chapters/Statistics.html#the-grammar-of-experimental-designs",
     "href": "chapters/Statistics.html#the-grammar-of-experimental-designs",
     "title": "34  Statistics",
-    "section": "34.57 The Grammar of Experimental Designs",
-    "text": "34.57 The Grammar of Experimental Designs\n\nEmi Tanaka\n\nAn book about designing experiments using the eddible package.\nLink: https://emitanaka.org/edibble-book/index.html",
+    "section": "34.58 The Grammar of Experimental Designs",
+    "text": "34.58 The Grammar of Experimental Designs\n\nEmi Tanaka\n\nAn book about designing experiments using the eddible package.\nLink: https://emitanaka.org/edibble-book/index.html",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4633,8 +4633,8 @@
     "objectID": "chapters/Statistics.html#the-hitchhikers-guide-to-linear-models",
     "href": "chapters/Statistics.html#the-hitchhikers-guide-to-linear-models",
     "title": "34  Statistics",
-    "section": "34.58 The Hitchhiker’s Guide to Linear Models",
-    "text": "34.58 The Hitchhiker’s Guide to Linear Models\n\nMauricio ‘Pacha’ Vargas Sepúlveda\n\nThis book aims to get straight to the point, and the only thing I assume here is that you have used spreadsheets at some point and that you are motivated to estimate linear models in R. Here I do not assume that you know how to install R or the basics of the R programming language.\nPaid: Free or paid $10\nLink: https://leanpub.com/linear-models-guide",
+    "section": "34.59 The Hitchhiker’s Guide to Linear Models",
+    "text": "34.59 The Hitchhiker’s Guide to Linear Models\n\nMauricio ‘Pacha’ Vargas Sepúlveda\n\nThis book aims to get straight to the point, and the only thing I assume here is that you have used spreadsheets at some point and that you are motivated to estimate linear models in R. Here I do not assume that you know how to install R or the basics of the R programming language.\nPaid: Free or paid $10\nLink: https://leanpub.com/linear-models-guide",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4643,8 +4643,8 @@
     "objectID": "chapters/Statistics.html#the-saga-of-pls",
     "href": "chapters/Statistics.html#the-saga-of-pls",
     "title": "34  Statistics",
-    "section": "34.59 The Saga of PLS",
-    "text": "34.59 The Saga of PLS\n\nGaston Sanchez\n\nThe main motivating trigger behind this book has been my long standing obsession to understand the historical development of Partial Least Squares methods in order to find the who’s, why’s, what’s, when’s, and how’s. It is the result of an intermittent 10 year quest, tracking bits and pieces of information in order to assemble the story of such methods. Moreover, this text is my third iteration on the subject, following two of my previous works.\nPaid: Free preview of first 4 chapters $13\nLink: https://sagaofpls.github.io",
+    "section": "34.60 The Saga of PLS",
+    "text": "34.60 The Saga of PLS\n\nGaston Sanchez\n\nThe main motivating trigger behind this book has been my long standing obsession to understand the historical development of Partial Least Squares methods in order to find the who’s, why’s, what’s, when’s, and how’s. It is the result of an intermittent 10 year quest, tracking bits and pieces of information in order to assemble the story of such methods. Moreover, this text is my third iteration on the subject, following two of my previous works.\nPaid: Free preview of first 4 chapters $13\nLink: https://sagaofpls.github.io",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4653,8 +4653,8 @@
     "objectID": "chapters/Statistics.html#translating-stata-to-r",
     "href": "chapters/Statistics.html#translating-stata-to-r",
     "title": "34  Statistics",
-    "section": "34.60 Translating Stata to R",
-    "text": "34.60 Translating Stata to R\nThis website is for Stata users who are interested in learning R. But it could also be useful for those going the other way around. We provide side-by-side code snippets for common tasks in both Stata and R, so that users have a dictionary for navigating across the two languages.\nLink: https://stata2r.github.io/",
+    "section": "34.61 Translating Stata to R",
+    "text": "34.61 Translating Stata to R\nThis website is for Stata users who are interested in learning R. But it could also be useful for those going the other way around. We provide side-by-side code snippets for common tasks in both Stata and R, so that users have a dictionary for navigating across the two languages.\nLink: https://stata2r.github.io/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -4663,8 +4663,8 @@
     "objectID": "chapters/Statistics.html#using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling",
     "href": "chapters/Statistics.html#using-r-for-bayesian-spatial-and-spatio-temporal-health-modeling",
     "title": "34  Statistics",
-    "section": "34.61 Using R for Bayesian Spatial and Spatio-Temporal Health Modeling",
-    "text": "34.61 Using R for Bayesian Spatial and Spatio-Temporal Health Modeling\n\nAndrew B. Lawson\n\nProgressively more and more attention has been paid to how location affects health outcomes. The area of disease mapping focusses on these problems, and the Bayesian paradigm has a major role to play in the understanding of the complex interplay of context and individual predisposition in such studies of disease. Using R for Bayesian Spatial and Spatio-Temporal Health Modeling provides a major resource for those interested in applying Bayesian methodology in small area health data studies.\nLink: https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126",
+    "section": "34.62 Using R for Bayesian Spatial and Spatio-Temporal Health Modeling",
+    "text": "34.62 Using R for Bayesian Spatial and Spatio-Temporal Health Modeling\n\nAndrew B. Lawson\n\nProgressively more and more attention has been paid to how location affects health outcomes. The area of disease mapping focusses on these problems, and the Bayesian paradigm has a major role to play in the understanding of the complex interplay of context and individual predisposition in such studies of disease. Using R for Bayesian Spatial and Spatio-Temporal Health Modeling provides a major resource for those interested in applying Bayesian methodology in small area health data studies.\nLink: https://www.routledge.com/Using-R-for-Bayesian-Spatial-and-Spatio-Temporal-Health-Modeling/Lawson/p/book/9780367490126",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -5203,8 +5203,8 @@
     "objectID": "chapters/Social Science.html#exploring-complex-survey-data-analysis-using-r",
     "href": "chapters/Social Science.html#exploring-complex-survey-data-analysis-using-r",
     "title": "32  Social Science",
-    "section": "32.13 Exploring Complex Survey Data Analysis Using R",
-    "text": "32.13 Exploring Complex Survey Data Analysis Using R\n\nStephanie A. Zimmer\nRebecca J. Powell\nIsabella C. Velásquez\n\nWe focus on R to introduce survey analysis. Our goal is to provide a comprehensive guide for individuals new to survey analysis but with some familiarity with statistics and R programming. We use a combination of the {survey} and {srvyr} packages and present the code following best practices from the tidyverse\nLink: https://tidy-survey-r.github.io/tidy-survey-book/",
+    "section": "32.14 Exploring Complex Survey Data Analysis Using R",
+    "text": "32.14 Exploring Complex Survey Data Analysis Using R\n\nStephanie A. Zimmer\nRebecca J. Powell\nIsabella C. Velásquez\n\nWe focus on R to introduce survey analysis. Our goal is to provide a comprehensive guide for individuals new to survey analysis but with some familiarity with statistics and R programming. We use a combination of the {survey} and {srvyr} packages and present the code following best practices from the tidyverse\nLink: https://tidy-survey-r.github.io/tidy-survey-book/",
     "crumbs": [
       "<span class='chapter-number'>32</span>  <span class='chapter-title'>Social Science</span>"
     ]
@@ -5313,8 +5313,8 @@
     "objectID": "chapters/Social Science.html#quantitative-methods-in-the-context-of-education-research",
     "href": "chapters/Social Science.html#quantitative-methods-in-the-context-of-education-research",
     "title": "32  Social Science",
-    "section": "32.16 Quantitative methods in the context of education research",
-    "text": "32.16 Quantitative methods in the context of education research\n\nPeter EJ Kemp\nRichard Brock\nAmy O’Brien\nCarla Finesilver\nLulu Healy\nDavid Pepper\n\nThis book takes the reader through the process of learning the R statistical programming language through the analysis of the 2022 PISA survey data\nLink: https://peterejkemp.github.io/v3/",
+    "section": "32.17 Quantitative methods in the context of education research",
+    "text": "32.17 Quantitative methods in the context of education research\n\nPeter EJ Kemp\nRichard Brock\nAmy O’Brien\nCarla Finesilver\nLulu Healy\nDavid Pepper\n\nThis book takes the reader through the process of learning the R statistical programming language through the analysis of the 2022 PISA survey data\nLink: https://peterejkemp.github.io/v3/",
     "crumbs": [
       "<span class='chapter-number'>32</span>  <span class='chapter-title'>Social Science</span>"
     ]
@@ -5393,8 +5393,8 @@
     "objectID": "chapters/Packages.html#multi-state-modelling-with-msm-a-practical-course",
     "href": "chapters/Packages.html#multi-state-modelling-with-msm-a-practical-course",
     "title": "25  Packages",
-    "section": "25.24 Multi-state modelling with msm: a practical course",
-    "text": "25.24 Multi-state modelling with msm: a practical course\n\nChristopher Jackson\n\nAn introduction to the use of the msm R package for fitting and predicting from multi-state models for intermittently observed data, in typical medical applications.\nLink: https://chjackson.github.io/msm/msmcourse/",
+    "section": "25.25 Multi-state modelling with msm: a practical course",
+    "text": "25.25 Multi-state modelling with msm: a practical course\n\nChristopher Jackson\n\nAn introduction to the use of the msm R package for fitting and predicting from multi-state models for intermittently observed data, in typical medical applications.\nLink: https://chjackson.github.io/msm/msmcourse/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -5453,8 +5453,8 @@
     "objectID": "chapters/Data Visualization.html#visualization-for-social-data-science",
     "href": "chapters/Data Visualization.html#visualization-for-social-data-science",
     "title": "12  Data Visualization",
-    "section": "12.22 Visualization for Social Data Science",
-    "text": "12.22 Visualization for Social Data Science\n\nRoger Beecham\n\nvis4sds provides end-to-end skills in visual data analysis. The book demonstrates how data graphics and modern statistics can be used in tandem to process, explore, model and communicate data-driven social science. It is packed with detailed data analysis examples, pushing you to do visual data analysis. As well as introducing, and demonstrating with code, a wide range of data visualizations for exploring patterns in data, Visualization for Social Data Science shows how models can be integrated with graphics to emphasise important structure and de-emphasise spurious structure and the role of data graphics in scientific communication – in building trust and integrity. Many of the book’s influences are from data journalism, as well as information visualization and cartography.\nThe book is being published by Chapman Hall/CRC Press in 2025, but the online development version will remain and be maintained by the author.\nLink: https://vis4sds.github.io/vis4sds/",
+    "section": "12.23 Visualization for Social Data Science",
+    "text": "12.23 Visualization for Social Data Science\n\nRoger Beecham\n\nvis4sds provides end-to-end skills in visual data analysis. The book demonstrates how data graphics and modern statistics can be used in tandem to process, explore, model and communicate data-driven social science. It is packed with detailed data analysis examples, pushing you to do visual data analysis. As well as introducing, and demonstrating with code, a wide range of data visualizations for exploring patterns in data, Visualization for Social Data Science shows how models can be integrated with graphics to emphasise important structure and de-emphasise spurious structure and the role of data graphics in scientific communication – in building trust and integrity. Many of the book’s influences are from data journalism, as well as information visualization and cartography.\nThe book is being published by Chapman Hall/CRC Press in 2025, but the online development version will remain and be maintained by the author.\nLink: https://vis4sds.github.io/vis4sds/",
     "crumbs": [
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Visualization</span>"
     ]
@@ -5513,8 +5513,8 @@
     "objectID": "chapters/Packages.html#scaling-up-with-r-and-arrow",
     "href": "chapters/Packages.html#scaling-up-with-r-and-arrow",
     "title": "25  Packages",
-    "section": "25.32 Scaling Up With R and Arrow",
-    "text": "25.32 Scaling Up With R and Arrow\n\nNic Crane\nJonathan Keane\nNeal Richardson\n\nArrow allows you to work with larger-than-memory data directly from R without needing to set up additional infrastructure. It implements the dplyr API, which means that if you are familiar with dplyr functions, you can use those same functions with arrow and don’t have to learn a whole new framework.\nLink: https://arrowrbook.com/",
+    "section": "25.33 Scaling Up With R and Arrow",
+    "text": "25.33 Scaling Up With R and Arrow\n\nNic Crane\nJonathan Keane\nNeal Richardson\n\nArrow allows you to work with larger-than-memory data directly from R without needing to set up additional infrastructure. It implements the dplyr API, which means that if you are familiar with dplyr functions, you can use those same functions with arrow and don’t have to learn a whole new framework.\nLink: https://arrowrbook.com/",
     "crumbs": [
       "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
     ]
@@ -5523,8 +5523,8 @@
     "objectID": "chapters/Social Science.html#visualization-for-social-data-science",
     "href": "chapters/Social Science.html#visualization-for-social-data-science",
     "title": "32  Social Science",
-    "section": "32.23 Visualization for Social Data Science",
-    "text": "32.23 Visualization for Social Data Science\n\nRoger Beecham\n\nvis4sds provides end-to-end skills in visual data analysis. The book demonstrates how data graphics and modern statistics can be used in tandem to process, explore, model and communicate data-driven social science. It is packed with detailed data analysis examples, pushing you to do visual data analysis. As well as introducing, and demonstrating with code, a wide range of data visualizations for exploring patterns in data, Visualization for Social Data Science shows how models can be integrated with graphics to emphasise important structure and de-emphasise spurious structure and the role of data graphics in scientific communication – in building trust and integrity. Many of the book’s influences are from data journalism, as well as information visualization and cartography.\nThe book is being published by Chapman Hall/CRC Press in 2025, but the online development version will remain and be maintained by the author.\nLink: https://vis4sds.github.io/vis4sds/",
+    "section": "32.24 Visualization for Social Data Science",
+    "text": "32.24 Visualization for Social Data Science\n\nRoger Beecham\n\nvis4sds provides end-to-end skills in visual data analysis. The book demonstrates how data graphics and modern statistics can be used in tandem to process, explore, model and communicate data-driven social science. It is packed with detailed data analysis examples, pushing you to do visual data analysis. As well as introducing, and demonstrating with code, a wide range of data visualizations for exploring patterns in data, Visualization for Social Data Science shows how models can be integrated with graphics to emphasise important structure and de-emphasise spurious structure and the role of data graphics in scientific communication – in building trust and integrity. Many of the book’s influences are from data journalism, as well as information visualization and cartography.\nThe book is being published by Chapman Hall/CRC Press in 2025, but the online development version will remain and be maintained by the author.\nLink: https://vis4sds.github.io/vis4sds/",
     "crumbs": [
       "<span class='chapter-number'>32</span>  <span class='chapter-title'>Social Science</span>"
     ]
@@ -5833,8 +5833,8 @@
     "objectID": "chapters/Statistics.html#probability-statistics-and-data-a-fresh-approach-using-r",
     "href": "chapters/Statistics.html#probability-statistics-and-data-a-fresh-approach-using-r",
     "title": "34  Statistics",
-    "section": "34.41 Probability, Statistics, and Data: A Fresh Approach Using R",
-    "text": "34.41 Probability, Statistics, and Data: A Fresh Approach Using R\n\nDarrin Speegle\nBryan Clair\n\nThis book represents a fundamental rethinking of a calculus based first course in probability and statistics. We offer a breadth first approach, where the fundamentals of probability and statistics can be taught in one semester. The statistical programming language R plays an essential role throughout the text through simulations, data wrangling, visualizations and statistical procedures. Data sets from a variety of sources, including many from recent, open source scientific articles, are used in examples and exercises. Demonstrations of important facts are given through simulations, with some formal mathematical proofs as well.\nThis book is an excellent choice for students studying data science, statistics, engineering, computer science, mathematics, science, business, or any field which requires the two semesters of calculus needed to read this book.\nLink: https://probstatsdata.com/",
+    "section": "34.42 Probability, Statistics, and Data: A Fresh Approach Using R",
+    "text": "34.42 Probability, Statistics, and Data: A Fresh Approach Using R\n\nDarrin Speegle\nBryan Clair\n\nThis book represents a fundamental rethinking of a calculus based first course in probability and statistics. We offer a breadth first approach, where the fundamentals of probability and statistics can be taught in one semester. The statistical programming language R plays an essential role throughout the text through simulations, data wrangling, visualizations and statistical procedures. Data sets from a variety of sources, including many from recent, open source scientific articles, are used in examples and exercises. Demonstrations of important facts are given through simulations, with some formal mathematical proofs as well.\nThis book is an excellent choice for students studying data science, statistics, engineering, computer science, mathematics, science, business, or any field which requires the two semesters of calculus needed to read this book.\nLink: https://probstatsdata.com/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -5843,8 +5843,8 @@
     "objectID": "chapters/Statistics.html#statistical-rethinking-2-with-brms-and-the-tidyverse",
     "href": "chapters/Statistics.html#statistical-rethinking-2-with-brms-and-the-tidyverse",
     "title": "34  Statistics",
-    "section": "34.48 Statistical Rethinking 2 with brms and the tidyverse",
-    "text": "34.48 Statistical Rethinking 2 with brms and the tidyverse\n\nA Solomon Kurz\n\nThis ebook is based on the second edition of Richard McElreath’s (2020) text, Statistical rethinking: A Bayesian course with examples in R and Stan\nLink: https://solomon.quarto.pub/sr2/",
+    "section": "34.49 Statistical Rethinking 2 with brms and the tidyverse",
+    "text": "34.49 Statistical Rethinking 2 with brms and the tidyverse\n\nA Solomon Kurz\n\nThis ebook is based on the second edition of Richard McElreath’s (2020) text, Statistical rethinking: A Bayesian course with examples in R and Stan\nLink: https://solomon.quarto.pub/sr2/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]
@@ -5853,8 +5853,58 @@
     "objectID": "chapters/Statistics.html#statistical-rethinking-with-rstan-and-the-tidyverse",
     "href": "chapters/Statistics.html#statistical-rethinking-with-rstan-and-the-tidyverse",
     "title": "34  Statistics",
-    "section": "34.50 Statistical Rethinking with rstan and the tidyverse",
-    "text": "34.50 Statistical Rethinking with rstan and the tidyverse\n\nA Solomon Kurz\n\nThis book is based on the second edition of Richard McElreath’s (2020) text, Statistical rethinking: A Bayesian course with examples in R and Stan. My contributions show how to fit the models he covered with rstan.\nLink: https://solomon.quarto.pub/sr2rstan/",
+    "section": "34.51 Statistical Rethinking with rstan and the tidyverse",
+    "text": "34.51 Statistical Rethinking with rstan and the tidyverse\n\nA Solomon Kurz\n\nThis book is based on the second edition of Richard McElreath’s (2020) text, Statistical rethinking: A Bayesian course with examples in R and Stan. My contributions show how to fit the models he covered with rstan.\nLink: https://solomon.quarto.pub/sr2rstan/",
+    "crumbs": [
+      "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Data Visualization.html#the-art-of-data-visualization-with-ggplot2",
+    "href": "chapters/Data Visualization.html#the-art-of-data-visualization-with-ggplot2",
+    "title": "12  Data Visualization",
+    "section": "12.21 The Art of Data Visualization with ggplot2",
+    "text": "12.21 The Art of Data Visualization with ggplot2\n\nNicola Rennie\n\nEach chapter of this book will cover a different Tidy Tuesday data visualization, showing the data exploration process, the choice of data visualization type, the initial design ideas with hand-drawn sketches, the first build of a plot, and the iterative process of styling plots. For each plot, full R code is provided and explained for each step of the creative process.\nLink: https://nrennie.rbind.io/art-of-viz/",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Visualization</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Geospatial.html#model-based-geostatistics",
+    "href": "chapters/Geospatial.html#model-based-geostatistics",
+    "title": "18  Geospatial",
+    "section": "18.10 Model-based geostatistics",
+    "text": "18.10 Model-based geostatistics\n\nEmanuele Giorgi\nClaudio Fronterre\n\nThe material presented is a synthesis of our cumulative experience of geostatistical modelling through collaborations with epidemiologists and public health scientists, mainly in low- and middle-income countries.\nThis book is part of the R Series, and our emphasis is on the “how to do it” rather than the theoretical underpinnings.\nLink: https://mbgr.quarto.pub/book/",
+    "crumbs": [
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>Geospatial</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Packages.html#model-to-meaning-how-to-interpret-statistical-models",
+    "href": "chapters/Packages.html#model-to-meaning-how-to-interpret-statistical-models",
+    "title": "25  Packages",
+    "section": "25.24 Model to Meaning: How to Interpret Statistical Models",
+    "text": "25.24 Model to Meaning: How to Interpret Statistical Models\nWith marginaleffects for R and Python\n\nVincent Arel-Bundock\n\nCode and documentation for the open source marginaleffects package.\nLink: https://marginaleffects.com/",
+    "crumbs": [
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Packages</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Social Science.html#data-analysis-for-the-language-sciences",
+    "href": "chapters/Social Science.html#data-analysis-for-the-language-sciences",
+    "title": "32  Social Science",
+    "section": "32.13 Data Analysis for the Language Sciences",
+    "text": "32.13 Data Analysis for the Language Sciences\n\nElen Le Foll\n\nA hands-on introduction to data management, statistics, and data visualisation for students and researchers in the language sciences.\nLink: https://elenlefoll.github.io/RstatsTextbook/",
+    "crumbs": [
+      "<span class='chapter-number'>32</span>  <span class='chapter-title'>Social Science</span>"
+    ]
+  },
+  {
+    "objectID": "chapters/Statistics.html#model-to-meaning-how-to-interpret-statistical-models",
+    "href": "chapters/Statistics.html#model-to-meaning-how-to-interpret-statistical-models",
+    "title": "34  Statistics",
+    "section": "34.34 Model to Meaning: How to Interpret Statistical Models",
+    "text": "34.34 Model to Meaning: How to Interpret Statistical Models\nWith marginaleffects for R and Python\n\nVincent Arel-Bundock\n\nCode and documentation for the open source marginaleffects package.\nLink: https://marginaleffects.com/",
     "crumbs": [
       "<span class='chapter-number'>34</span>  <span class='chapter-title'>Statistics</span>"
     ]

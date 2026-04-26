@@ -302,7 +302,7 @@ Link: [https://argoshare.is.ed.ac.uk/healthyr_book/](https://argoshare.is.ed.ac.
 This is a book for anyone in the medical field interested in analyzing the data available to them to better understand health, disease, or the delivery of care. This could include nurses, dieticians, psychologists, and PhDs in related fields, as well as medical students, residents, fellows, or doctors in practice.
 I expect that most learners will be using this book in their spare time at night and on weekends, as the health training curricula are already packed full of information, and there is no room to add skills in reproducible research to the standard curriculum. This book is designed for self-teaching, and many hints and solutions will be provided to avoid roadblocks and frustration. Many learners find themselves wanting to develop reproducible research skills after they have finished their training, and after they have become comfortable with their clinical role. This is the time when they identify and want to address problems faced by patients in their practice with the data they have before them. This book is for you.
 
-Link: [https://bookdown.org/pdr_higgins/rmrwr/](https://bookdown.org/pdr_higgins/rmrwr/)
+Link: [https://peter-higgins-rmrwr.share.connect.posit.cloud/](https://peter-higgins-rmrwr.share.connect.posit.cloud/)
 
 ## Statistics in Natural Resources: Applications with R
 

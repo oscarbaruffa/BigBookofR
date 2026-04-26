@@ -214,6 +214,15 @@ It includes over 30 chapters overs a wide range of topics, including how the mar
 
 Link: [https://marginaleffects.com](https://marginaleffects.com)
 
+## Model to Meaning: How to Interpret Statistical Models
+With marginaleffects for R and Python
+
+- Vincent Arel-Bundock
+
+Code and documentation for the open source marginaleffects package.
+
+Link: [https://marginaleffects.com/](https://marginaleffects.com/)
+
 ## Multi-state modelling with msm: a practical course
 
 - [Christopher Jackson](https://chjackson.github.io)

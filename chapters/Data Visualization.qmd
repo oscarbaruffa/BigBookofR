@@ -220,6 +220,14 @@ This is the website for “Solutions to ggplot2: Elegant Graphics for Data Analy
 
 Link: [https://ggplot2-book-solutions-3ed.netlify.app/index.html](https://ggplot2-book-solutions-3ed.netlify.app/index.html)
 
+## The Art of Data Visualization with ggplot2
+
+- Nicola Rennie
+
+Each chapter of this book will cover a different Tidy Tuesday data visualization, showing the data exploration process, the choice of data visualization type, the initial design ideas with hand-drawn sketches, the first build of a plot, and the iterative process of styling plots. For each plot, full R code is provided and explained for each step of the creative process.
+
+Link: [https://nrennie.rbind.io/art-of-viz/](https://nrennie.rbind.io/art-of-viz/)
+
 ## The Hitchhiker's Guide to Ggplot2
 
 - [Mauricio Vargas Sepúlveda](https://twitter.com/pachadotdev)

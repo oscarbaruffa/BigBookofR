@@ -118,6 +118,14 @@ Course material with Youtube Video
 
 Link: [https://clanfear.github.io/CSSS508/](https://clanfear.github.io/CSSS508/)
 
+## Data Analysis for the Language Sciences
+
+- [Elen Le Foll](https://orcid.org/0000-0002-5839-8010)
+
+A hands-on introduction to data management, statistics, and data visualisation for students and researchers in the language sciences.
+
+Link: [https://elenlefoll.github.io/RstatsTextbook/](https://elenlefoll.github.io/RstatsTextbook/)
+
 ## Exploring Complex Survey Data Analysis Using R
 
 - Stephanie A. Zimmer

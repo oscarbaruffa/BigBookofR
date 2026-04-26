@@ -93,6 +93,17 @@ The aim of this book is to equip its readers with the fundamental concepts, the 
 
 Link: [https://ipeagit.github.io/intro_access_book/](https://ipeagit.github.io/intro_access_book/)
 
+## Model-based geostatistics
+
+- Emanuele Giorgi
+- Claudio Fronterre
+
+The material presented is a synthesis of our cumulative experience of geostatistical modelling through collaborations with epidemiologists and public health scientists, mainly in low- and middle-income countries.
+
+This book is part of the R Series, and our emphasis is on the “how to do it” rather than the theoretical underpinnings.
+
+Link: [https://mbgr.quarto.pub/book/](https://mbgr.quarto.pub/book/)
+
 ## Predictive Soil Mapping with R
 
 - [Tom Heng](https://opengeohub.org/people/tom-hengl)

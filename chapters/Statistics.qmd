@@ -337,6 +337,15 @@ The code was collected over several years, so is not exactly consistent in style
 
 Link: [https://m-clark.github.io/models-by-example/](https://m-clark.github.io/models-by-example/)
 
+## Model to Meaning: How to Interpret Statistical Models
+With marginaleffects for R and Python
+
+- Vincent Arel-Bundock
+
+Code and documentation for the open source marginaleffects package.
+
+Link: [https://marginaleffects.com/](https://marginaleffects.com/)
+
 ## Modern Statistical Methods for Astronomy
 
 - [Eric D. Feigelson](https://science.psu.edu/astro/people/e5f)
